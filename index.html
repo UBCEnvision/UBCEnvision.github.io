@@ -1,12 +1,599 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
-	<title> Hello World UBC Envision </title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Hubert Prime</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/full-slider.css" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/styles/tomorrow-night-bright.min.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
 </head>
 
 <body>
-	<h1> UBC Envision </h1>
-	<p> Hello Jamie </p>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="http://www.ubcchemecar.com"><b>UBC Chem-E-Car</b></a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a data-scroll href="#myCarousel"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>
+                        Introduction</a>
+                    </li>                       
+                    <li>
+                        <a data-scroll href="#mechanical"><span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
+                        Mechanical Design</a>
+                    </li>                
+                    <li>
+                        <a data-scroll href="#power_source"><span class="glyphicon glyphicon-flash" aria-hidden="true"></span>
+                        Power Source</a>
+                    </li>
+                    <li>
+                        <a data-scroll href="#electrical"><span class="glyphicon glyphicon-console" aria-hidden="true"></span>
+                        Electrical Components</a>
+                    </li>
+                    <li>
+                        <a data-scroll href="#stopping"><span class="glyphicon glyphicon-tint" aria-hidden="true"></span>
+                        Stopping Mechanism</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Full Page Image Background Carousel Header -->
+    <header id="myCarousel" class="carousel slide">
+        <!-- Wrapper for Slides -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <!-- Set the first background image using inline CSS below. -->
+                <div class="fill" style="background-image:url('./images/car.png');"></div>
+            </div>
+        </div>
+
+        <div id="header-text">
+            <h1><b><strong>Hubert Prime</strong><b></h1>
+            <h2>Designed in Vancouver, BC</h2>
+            <hr>
+            <!-- <h3>AIChE Pacific Northwest</h3> -->
+            <h4>AIChE Pacific Northwest Regionals 2017</h4>
+        </div>
+
+    </header>
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+            <div class="col-lg-6">
+                <h1><b>Hubert Prime</b></h1>
+                <h3>Hubert Prime is a zinc-air powered vehicle that uses an iodine clock timing reaction. The vehicle is actuated with an Arduino controller that has custom electronics and an algorithm designed to reduce operational errors. <b>Safe operation</b> is emphasized in the design features.</h3>
+
+                <a class="btn btn-lg btn-primary" target="_blank" href="./images/poster.pdf">
+                <span class="glyphicon glyphicon-paperclip" aria-hidden="true"></span> View Poster
+                </a>
+
+                <a class="btn btn-lg btn-default" target="_blank" href="./images/editable.pdf">
+                <span class="glyphicon glyphicon-paperclip" aria-hidden="true"></span> Poster Template (Editable)
+                </a>
+
+                <h4><small> Required fonts for template: <a href="http://www.fontfabric.com/hero-free-font/">Hero</a>, <a href="http://www.dafont.com/lane.font">Lane Narrow</a></small></h4>
+
+            </div>
+            <div class="col-lg-6">
+                <center><img src="./images/car_full.png"></center>
+            </div>
+            
+        </div>
+
+        <div class="row" id="mechanical">
+            <div class="col-lg-6">
+                <center><img src="./images/mech.png" width="100%"></center>
+            </div>            
+            <div class="col-lg-6">
+                <h1><b>Mechanical Design</b></h1>
+                <h3>Integrated water tank for even weight distribution. Secure suspension ensure consistent steering. High-traction wheels prevent slipping.</h3>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-6">
+                <h2><b>Frame</b></h2>
+                <h3>The frame anchors are glued into the top frame section so that we do not have holes pertruding into the water tank. We drill holes and use epoxy glue to secure them. The nut is secured inside the anchor by pausing the 3D print mid print and inserting the nut.</h3>
+            </div>       
+            <div class="col-lg-6">
+                <center><img src="./images/frame.png" width="100%"></center>
+            </div>                            
+        </div>
+
+        <div class="row" id="power_source">
+            <div class="col-lg-6">
+                <center><img src="./images/battery_model.png" height="450px"></center>
+            </div>
+            <div class="col-lg-6">
+                <h1><b>Power Source</b></h1>
+                <h3>The motor runs on six zinc-air batteries in series. Oxidation of zinc on the anode releases electrons which pass through an external circuit and travel to the cathode where oxygen is reduced to hydroxide ions. </h3>
+            </div>            
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <h2>Electrochemistry</h2>
+                <hr>
+                <h4> Cathode (Reduction of Oxygen):
+                    $$ O_2 + 2H_2O + 4e^- \rightarrow 4OH^-; \quad E^0 = 0.40 V $$
+                </h4>
+                <h4> Anode (Oxidation of Zinc):
+                    $$ 2Zn \rightarrow 2Zn^{2+} + 4e^- $$
+                    $$ 2Zn^{2+} + 4OH^{-} \rightarrow 2Zn(OH)_2; \quad E^0 = 1.25 V $$
+                    $$ 2Zn(OH)_2 \rightarrow 2ZnO + 2H_2O $$
+                </h4>                
+                <h4> Overall Reaction:
+                    $$ 2Zn + O_2 \rightarrow 2ZnO; \quad E^0 = 1.65 V $$
+                </h4>
+            </div>
+            <div class="col-lg-6">
+            <center>
+            <iframe src="https://giphy.com/embed/qoTv0ypuGYTok" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/air-qoTv0ypuGYTok">via GIPHY</a></p>
+            </center>
+            <h4><small>Wang, Xianyou, et al. "<a href="http://www.sciencedirect.com/science/article/pii/S0378775303007377" target="_blank">Studies on the oxygen reduction catalyst for zinc–air battery electrode.</a>" <i>Journal of power sources</i> 124.1 (2003): 278-284.</small></h4>
+
+            <h4><small>The oxygen reduction reaction (ORR) can proceed through a 2-electron pathway or a more efficient 4-electron pathway depending on the cathode used. Further reading: Nørskov, Jens Kehlet, et al. "<a href="http://pubs.acs.org/doi/abs/10.1021/jp047349j">Origin of the overpotential for oxygen reduction at a fuel-cell cathode.</a>"
+            <i>The Journal of Physical Chemistry B 108.46 (2004): 17886-17892.</i></small></h4>
+            </div>  
+        </div>
+        <div class="row">
+                      
+            <div class="col-lg-12">
+                <h2>Recipe</h2>
+                <h3>Zinc powder, 6M potassium hydroxide solution, separator (or membrane, we use Viledon filter paper), <a href="http://www.gaskatel.de/eng/produkte/biplex/eng_biplex_index.html" target="_blank">Gaskatel MnO2</a> gas diffusion electrodes (GDE) (alternative: any ORR air cathodes).</h3>
+                <div class="panel-group">
+                  <div class="panel panel-primary">
+                    <div class="panel-heading">
+                      <h4 class="panel-title">
+                        <a data-toggle="collapse" href="#procedures">
+                        <span class="glyphicon glyphicon-cutlery" aria-hidden="true"></span>
+
+                        See Procedures
+                        </a>
+                      </h4>
+                    </div>
+                    <div id="procedures" class="panel-collapse collapse">
+                      <div class="panel-body">
+                      <h4> 
+                        <ol>
+                        <li>Mix KOH solution with zinc powder to form a slurry.</li>
+                        <li>Immerse filter paper in KOH solution for ~5 minutes.</li>
+                        <li>Spread the zinc-KOH slurry onto the current collector (we use a nickel plate, alternative: stainless steel).</li>
+                        <li>Place the separator on top of the slurry.</li>
+                        <li>Place the Gaskatel GDE on top of the separator.</li>
+                        <li>Seal the cell and measure the open circuit potential.</li>
+                        </ol>
+                        <hr>
+                        <small>Further Reading (we simplified our procedures by not doing gelling): <br> Mohamad, A. A. "<a href="http://www.sciencedirect.com/science/article/pii/S0378775305016691">Zn/gelled 6M KOH/O 2 zinc–air battery.</a>" <i>Journal of power sources</i> 159.1 (2006): 752-757. .</small> 
+                      </h4>
+                      </div>
+                    </div>
+                  </div>              
+                </div>    
+            </div>
+
+            
+            <!-- <div class="col-lg-6">
+                <h2>Test Procedures</h2>
+                <h4><b>Useful Hardware:</b> Multimeter, <a href="http://www.gearbest.com/testers-detectors/pp_276276.html" target="_blank">Battery Capacity Tester</a></h4>
+                <p>
+                <ol>
+                    <li>Test the open circuit potential of a single cell with a multimeter, should be around ~1.59V.</li>
+                    <li>Use the ZKE EBC-A10 Battery Tester to draw a constant current of 100mA and record the drop in voltage. If the voltage rapidly drops to 0V something is wrong (loose connections, incorrect recipe etc.)</li>
+                    <li>Once cells have been tested, connect all cells in series by drawing 100mA using the battery tester</li> 
+                </ol>
+                </p>
+            </div> -->
+        </div>
+
+        <div class="row" id="electrical">
+            <div class="col-lg-12">
+                <h1><b>Electrical</b></h1>
+                <h3>An Arduino microcontroller is the brain of the car. The Arduino collects sensor readings, performs calculations, drives the motor and transmits test data via Bluetooth.</h3>
+            </div>
+            <div class="col-lg-6">
+                <h2>Arduino Code</h2>
+                <pre>
+                <code class="cpp">
+// Ngai To Lo, Thanos Kritharis
+// Build 1.5 Refactor: Siang Lim
+
+/* Regionals 2017 Build 1.5
+/* sensor design is LDR */
+/* valve control is solenoid valve*/
+
+//initiating digital pins
+#define WHEELDIAMETER 15.18             // Actual wheel (not encoder wheel) diameter in cm
+#define ENCODERRESOLUTION 60.0      // Number of teeth on the encoder wheel
+#define DARKPOINTSTHRESHOLD 20  // Threshold for number of dark points for triggering the clock
+#define REPORTTIME 5000             // Interval to print values to mobile app
+#define MIXERSPEED 28               // Equation is V=(X/256)*5, where X is a value between 1-256 (How fast the mixer spins)
+#define DLDR 60                     // Clock sensitivity: Change in reference value required to trigger clock
+#define BUTTONPRESSED 1 //Value to indicate that button is pressed
+
+int ldrRef = 995;       //Reference value average
+int ldrRefl = 1000;     //Reference value for sensor lower
+int ldrRefu = 1005;     //Reference vallue for sensor upper
+int encoderSensor = 2;  //Pin used to measure optosensor input 
+int startButton = 7;    //Pin used to control startup (Input)
+int onLight = 8;        //Pin used to turn on button led
+int motor = 10;         //Pin used to control motor
+int laser = 6;          //Pin used to control laser
+int mixer = 11;         //Pin used to control mixer motor
+int valve = 12;         //Pin used to control valve
+
+// New function to count the number of outliers
+int darkPointsCounter = 0; 
+bool clockFlag = true; // Flag for turning the clock on/off
+
+//Initiating analog pins
+int LDR = A0; //Pin used to measure light dependant resistor (Analog)
+
+//Variables for when the car is running
+bool switchOn = false; //Create boolean to check if circuit is switched on or not
+bool shutDown = false;//bool for status to shut down system
+int optoVal ; //Create optoVal
+int switchVal = 0;//Create default value for switch pin (input)
+int count;
+int countFIVE;
+double distance;
+int encoderRef;
+double carSpeed;
+
+//functions
+void checkOnSwitch();
+void startClock(double ldrVal);
+bool clockAboveThreshold(int ldrRef);
+
+//Assigning pins inputs/outputs
+void setup(){   
+    pinMode(encoderSensor,INPUT);
+    pinMode(startButton,INPUT); //set start in pin to input
+    pinMode(onLight,OUTPUT);
+    pinMode(motor,OUTPUT); //set motor pin to output
+    digitalWrite(motor,LOW); //set motor
+    pinMode(laser,OUTPUT); //set start out pin to output
+    digitalWrite(laser,HIGH);//keep laser on
+    pinMode(mixer,OUTPUT); //set mixer pin to output
+    digitalWrite(mixer,LOW); //set mixer pin to off
+    pinMode(valve, OUTPUT);      
+    Serial.begin(9600);//begin communication with serial monitor
+}
+
+// Void loop
+void loop (){
+    int ldrVal = analogRead(LDR);//Prevent car from starting until ref value is read
+
+    ///////////////////////////////////////////////
+    // This block is for flashing LEDs
+    ///////////////////////////////////////////////
+    while(ldrVal < ldrRefl || ldrVal > ldrRefu){ //Blink light every 100 ms to indicate to user that value is not at reference
+        digitalWrite(onLight,HIGH);
+        delay(100);
+        digitalWrite(onLight,LOW);
+        delay(100);
+        ldrVal = analogRead(LDR); //read ldr value
+    //Serial.println(ldrVal);
+        if (digitalRead(startButton) != 0){//hold button for 10 seconds to reset LED REF value
+          digitalWrite(onLight,HIGH);
+          long resetTimeRef = millis(); //begin countdown to reset
+          while(startButton != 0){
+            long timeElapsed = millis() - resetTimeRef;
+            if (timeElapsed > 10000){
+              ldrRef = analogRead(LDR); //reset ref value
+              digitalWrite(onLight,LOW);
+            }
+          }
+        }
+    }
+
+    delay(300);
+    Serial.println("LDR at reference. \n");
+
+    ///////////////////////////////////////////////
+    // Car check on/off switch here
+    ///////////////////////////////////////////////
+    // This function keeps looping until we turn the switch on.
+    checkOnSwitch(); 
+
+    // Initialize encoder and time counter variables
+    shutDown = false;
+    count = 0;
+  countFIVE = 0;
+    distance = 0;
+    darkPointsCounter = 0;
+    // Check initial encoder wheel position
+    int encoderRef = digitalRead(encoderSensor);
+    delay(50);
+
+    // Start the total time timer before the 5 second delay
+    long totalTimeInit = millis();
+    long totalTime;
+
+    // Start checking clock
+    // open valve, and mixer; wait 5 seconds for fluid to pass into reactor, 
+    // then begin the motor.
+    digitalWrite(valve, HIGH);
+    analogWrite(mixer, MIXERSPEED);
+    //delay(5000);
+    //digitalWrite(valve,LOW);
+    digitalWrite(motor,HIGH);
+
+    ///////////////////////////////////////////////
+    // INITIALIZE APP TIMER VARIABLES
+    ///////////////////////////////////////////////
+
+    // Start the car runtime timer after the 5 second delay
+    long carTimeInit = millis();
+    long carTime;
+    bool encoderFlag;
+
+    // While LDR value is above threshold
+    while (clockAboveThreshold(ldrRef) && digitalRead(startButton) == 0){
+        carTime = millis() - carTimeInit; // Count car time elapsed in millisecs
+
+        // Report values every 5 seconds
+        if (carTime % REPORTTIME == 0){
+      distance = (double) countFIVE*1.0/(double)ENCODERRESOLUTION*(double)(WHEELDIAMETER)*3.14;
+      carSpeed = (double) distance*1.0/5.0;
+      Serial.print("five count: ");
+      Serial.print(countFIVE);
+            Serial.print("LDR:");
+      Serial.println(analogRead(LDR));
+            Serial.print("Time (s): ");
+      Serial.println(carTime);
+      Serial.print("Distance (cm): ");
+      Serial.println(distance);      
+      Serial.print("Velocity (cm/s): ");
+      Serial.println(carSpeed);
+      countFIVE = 0;
+        }
+    
+        // Check if encoder position has changed
+        // Reference is the initial encoder value (either dark or light, or 1 or 0)
+        if(digitalRead(encoderSensor) != encoderRef){
+            count++;
+      countFIVE++;
+            encoderRef = digitalRead(encoderSensor);
+        }
+    //Serial.println(count);
+    //Serial.println(digitalRead(encoderSensor));
+    }
+
+    ///////////////////////////////////////////////////////
+    // Once the clock is triggered, or button pressed
+    // Report final values and turn of motor and mixer
+    ///////////////////////////////////////////////////////
+
+    // Calculate total time (which is before the 5 second delay for the motor)
+    totalTime = millis() - totalTimeInit;
+
+    // Turn off the motor and valve
+    digitalWrite(motor, LOW);
+    analogWrite(mixer, 0);
+    digitalWrite(onLight,LOW);
+  digitalWrite(valve,LOW);
+
+    // Calculate the distance
+    distance = (double) count*1.0/(double)(ENCODERRESOLUTION)*WHEELDIAMETER*3.14;
+
+    // Print out 2 timers, before and after delay
+    Serial.println("LDR Value: ");
+  Serial.println(analogRead(LDR));
+    Serial.println("Distance: ");
+  Serial.println(distance);
+    Serial.println("Car time: ");
+  Serial.println(carTime);
+    Serial.println("Total time: ");
+  Serial.println(totalTime);
+    switchOn = false;
+    delay(2000);
+}
+
+// This function checks the start button.
+// It stays in loop while the user holds down the 
+// button and only progresses once the user lets go of the button
+void checkOnSwitch(){ 
+  while(!switchOn){ // While switch is off (false)
+    delay(100);//wait 100 ms
+      if (digitalRead(startButton)==BUTTONPRESSED){//if button is pressed activate switch
+          switchOn=true;
+          digitalWrite(onLight, HIGH);
+      while(digitalRead(startButton)==BUTTONPRESSED){}//keep car from running until pin reads 0 again
+      }
+  }
+
+  Serial.println("The car is on. \n");
+}
+// Check clock if below ref value shut off car
+bool clockAboveThreshold(int ldrRef){
+    // This function would return true by default if the clock is not triggered
+    clockFlag = true;
+
+    // If the LDR value is below the threshold
+    // Increment a counter, counting the amount of points below the threshold
+    if (analogRead (LDR) < (ldrRef-DLDR)){
+        darkPointsCounter = darkPointsCounter + 1;
+    }
+
+    // If the number of points below the threshold is above 100 (for example)
+    // Set clock to triggered and return this value
+    if(darkPointsCounter > DARKPOINTSTHRESHOLD){
+        clockFlag = false;
+    }
+
+    return clockFlag;
+}
+                </code>
+                </pre>
+            </div>        
+            <div class="col-lg-6">
+                <h2>Circuit Diagram</h2>
+                <center><img src="./images/electrical.png"></center>
+            </div>
+        </div>
+
+        <div class="row" id="stopping">
+            <div class="col-lg-12">
+                <div class="col-lg-6">
+                <h1><b>Stopping Mechanism</b></h1>
+                <h3>We use an iodine clock (the peroxide version) as our stopping mechanism. </h3>
+                <h4>Two colorless solutions (we call them Solution $A$ and Solution $B$) are mixed and a dark blue color appears after a certain $\Delta T$. In our Iodine Clock Tower, a laser shines through the solution, hitting a light-sensitive sensor on the other side. The formation of a dark blue color lowers the light intensity of the laser. The LDR sensors detect this change and the Arduino then cuts off the motor.
+                </h4>
+
+                <h4><small>Read our blog article for more information: </small>
+                <a class="btn btn-default" target="_blank" href="http://www.ubcchemecar.com/blog/2017/01/27/iodine-clock/">
+                <span class="glyphicon glyphicon-share" aria-hidden="true"></span> Link
+                </a>
+                </h4>
+                <hr>
+                </div>
+                <div class="col-lg-6">
+                    <center>
+                        <img src="./images/stopping.png">
+                    </center>
+                </div>
+                <div class="col-lg-12">
+                    <center>
+                    <img src="./images/algorithm.png" width=80%>
+                    </center>
+
+                    <h4><small>A finite state machine (FSM) representation of our algorithm. We first check if the LDR reading is at a pre-defined 'normal' range, i.e. the background value when the solution is colorless, if the value is incorrect the algorithm flashes an LED to notify the car operator. Once the start button is pressed, we release a valve to allow solution $A$ and $B$ to mix and activate the motor. We continuously check the LDR reading, if it passes a pre-defined threshold 10 times that means a color change has occured, which triggers the motor to deactivate. We use 10x as a safeguard to prevent accidental triggers by for example, sensor errors or impurities in the solution. </small></h4>
+
+                    <h4><small>Learn More: </small> 
+                    <a class="btn btn-primary" target="_blank" href="http://vaidehijoshi.github.io/blog/2015/03/17/a-machine-state-of-mind-part-1-understanding-state-machines/">
+                    <span class="glyphicon glyphicon-share" aria-hidden="true"></span> Finite State Machines
+                    </a>
+                    </h4>
+                    <hr>
+                    
+                </div>
+            </div>
+
+            <div class="col-lg-12">
+                <div class="col-lg-6">
+                <h2>Reaction Details</h2>
+                <h4>This reaction starts from Solution $A$, a mixture of hydrogen peroxide with sulfuric acid. A separate solution, Solution $B$ containing potassium iodide, sodium thiosulfate, and starch is then added to solution $A$.</h4>
+                <div class="panel-group">
+                  <div class="panel panel-primary">
+                    <div class="panel-heading">
+                      <h4 class="panel-title">
+                        <a data-toggle="collapse" href="#collapse1">Slow Reaction</a>
+                      </h4>
+                    </div>
+                    <div id="collapse1" class="panel-collapse collapse">
+                      <div class="panel-body">
+                      <h4> In the slow reaction, iodine is produced from sulfuric acid and hydrogen peroxide.</h4>
+                      <p> $$H_2O_2 + 2I^- + 2H^+ \rightarrow I_2 + 2H_2O$$ </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panel panel-success">
+                    <div class="panel-heading">
+                      <h4 class="panel-title">
+                        <a data-toggle="collapse" href="#collapse2">Fast Reaction</a>
+                      </h4>
+                    </div>
+                    <div id="collapse2" class="panel-collapse collapse">
+                      <div class="panel-body">
+                      <br>
+                      <h4>In the second, fast reaction, iodine is reconverted to 2 iodide ions by the thiosulfate. Once the thiosulfate ion has been exhausted, this reaction stops and the blue colour caused by the triiodide – starch complex appears.</h4>
+                      <p> $$2S_2O_3^{2-} + I_2 + 2H^+ \rightarrow S_4O_6^{2-} + 2I^-$$ </p>
+                      </div>
+                    </div>
+                  </div>                 
+                </div>  
+                <h4><small>Ref: <a href="https://en.wikipedia.org/wiki/Iodine_clock_reaction">https://en.wikipedia.org/wiki/Iodine_clock_reaction</a></small></h4>                    
+                </div>  
+                <div class="col-lg-6">
+                    <center><iframe src="https://giphy.com/embed/h5rQZ5wjmKWJy" width="480" height="269.76" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chemistry-h5rQZ5wjmKWJy">via GIPHY</a></p></center>
+                </div>                      
+            </div>
+        </div>        
+
+        <hr>
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <h4>Copyright &copy; <a target="_blank" href="http://www.ubcchemecar.com">UBC Chem-E-Car 2017</a> $\cdot$ Contact: <a href="mailto:captain@ubcchemecar.com">captain@ubcchemecar.com</a></h4>
+                </div>
+            </div>
+            <!-- /.row -->
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <script src="js/smooth-scroll.min.js"></script>
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+    </script>
+    <script>
+        smoothScroll.init();
+    </script>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-63367875-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
 </body>
 
 </html>
