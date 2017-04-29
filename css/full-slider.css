@@ -63,6 +63,10 @@ header{
     left: 10%;
 }
 
+#mechanical{
+    color: magenta;
+}
+
 #header-text h1{
     font-size: 60px;
 }
