@@ -47,6 +47,8 @@ footer {
 }
 
 header{
+    color: #ff0000;
+    font-weight: bold;
     position: fixed;
     left: 230px;
     top: -70px;
