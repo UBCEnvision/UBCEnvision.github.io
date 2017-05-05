@@ -42,18 +42,18 @@ h1{
     -o-background-size: cover;
 }
 
-footer {
-    margin: 50px 0;
-}
+/*footer {
+    margin: 50px;
+}*/
 
-header{
-    color: #ff0000;
+#header-text{
+    color: black;
     font-weight: bold;
-    position: fixed;
-    left: 230px;
-    top: -70px;
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 360px;
     text-align: center;
-    margin-bottom: 80px;
+    /*margin-bottom: 80px;*/
 
     -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 2s; /* Firefox < 16 */
@@ -61,6 +61,7 @@ header{
          -o-animation: fadein 2s; /* Opera < 12.1 */
             animation: fadein 2s;
 }
+
 
 @keyframes fadein {
     from { opacity: 0; }
@@ -100,18 +101,26 @@ header{
     margin-bottom: 50px;
 }
 
-#header-text{
+/*#header-text{
     position: absolute;
+    font-weight: bold;
     bottom: 30%;
     left: 10%;
+}*/
+
+/*#aboutus h1{} - Format to target the header "About Us"*/
+
+#aboutus{
+    margin-bottom: 80px;
 }
 
 #mechanical{
-    color: magenta;
+    color: black;
 }
 
 #header-text h1{
-    font-size: 60px;
+    text-align: center;
+    font-size: 50px;
 }
 
 h3, h4 {
