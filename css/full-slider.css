@@ -14,7 +14,7 @@ h1{
     color: #002b50;
 }
 
-.navbar{
+.navbar-container{
     text-align: right;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -42,34 +42,55 @@ h1{
     -o-background-size: cover;
 }
 
+#mainscreen-background img{
+     background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 #header-text{
     color: black;
     font-weight: bold;
     position: absolute;
-    margin-top: 270px;
-    margin-left: 360px;
+    margin-top: 230px;
+    margin-left: 120px;
     text-align: center;
     /*margin-bottom: 80px;*/
 
-    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
-       -moz-animation: fadein 2s; /* Firefox < 16 */
-        -ms-animation: fadein 2s; /* Internet Explorer */
-         -o-animation: fadein 2s; /* Opera < 12.1 */
-            animation: fadein 2s;
+    -webkit-animation: fadein 3s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 3s; /* Firefox < 16 */
+        -ms-animation: fadein 3s; /* Internet Explorer */
+         -o-animation: fadein 3s; /* Opera < 12.1 */
+            animation: fadein 3s;
+}
+
+#header-text h1{
+    text-align: center;
+    font-size: 60px;
 }
 
 #navbar{
-    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
-       -moz-animation: fadein 2s; /* Firefox < 16 */
-        -ms-animation: fadein 2s; /* Internet Explorer */
-         -o-animation: fadein 2s; /* Opera < 12.1 */
-            animation: fadein 2s;
+    -webkit-animation: fadein 1s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 1s; /* Firefox < 16 */
+        -ms-animation: fadein 1s; /* Internet Explorer */
+         -o-animation: fadein 1s; /* Opera < 12.1 */
+            animation: fadein 1s;
         }
 
+/*.contactusback{
+background-color: blue;
+}*/
 @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
 }
+
+/*@keyframes fadeout{
+    from { opacity: 1; }
+    to   { opacity: 0; }
+}*/
 
 /* Firefox < 16 */
 @-moz-keyframes fadein {
@@ -95,6 +116,37 @@ h1{
     to   { opacity: 1; }
 }
 
+img {
+    position: relative;
+    z-index: -1;
+}
+
+/*Animates the navbar to move fade from the bottom of the description to the top*/
+
+/*ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}*/
 
 .row{
     margin-bottom: 80px;
@@ -104,26 +156,26 @@ h1{
     margin-bottom: 50px;
 }
 
-/*#header-text{
-    position: absolute;
-    font-weight: bold;
-    bottom: 30%;
-    left: 10%;
-}*/
-
 /*#aboutus h1{} - Format to target the header "About Us"*/
 
-#aboutus{
-    margin-bottom: 80px;
+.container{
+    margin-bottom: 200px;
 }
 
-#mechanical{
+#aboutus{
+    margin-bottom: 200px;
+}
+
+#aboutus h3{
+    margin-left: 50px;
+}
+
+#chemecar{
     color: black;
 }
 
-#header-text h1{
-    text-align: center;
-    font-size: 50px;
+#chemecar img{
+    margin-top: 200px;
 }
 
 h3, h4 {

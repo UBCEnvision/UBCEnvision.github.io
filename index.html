@@ -37,7 +37,7 @@
 <body>
     <!-- Navigation -->
     <nav class = "navbar navbar-default navbar-fixed-top" role="navigation" id ="navbar">
-        <div class = "container">
+        <div class = "container-navbar">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class = "navbar-header">
                 <button type = "button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -57,22 +57,22 @@
                     </li>
 
                     <li>
-                        <a data-scroll href="#mechanical"><i class="fa fa-car" aria-hidden="true"></i></span>
+                        <a data-scroll href="#chemecar"><i class="fa fa-car" aria-hidden="true"></i></span>
                         Chem-E car</a>
                     </li>  
 
                     <li>
-                        <a data-scroll href="#power_source"><i class="fa fa-pagelines" aria-hidden="true"></i></span>
+                        <a data-scroll href="#algaeproject"><i class="fa fa-pagelines" aria-hidden="true"></i></span>
                         Algae project</a>
                     </li>
 
                     <li>
-                        <a data-scroll href="#electrical"><i class="fa fa-beer" aria-hidden="true"></i></span>
+                        <a data-scroll href="#beerproject"><i class="fa fa-beer" aria-hidden="true"></i></span>
                         Beer Project</a>
                     </li>
 
                     <li>
-                        <a data-scroll href="#electrical"><i class="fa fa-battery" aria-hidden="true"></i></span>
+                        <a data-scroll href="#flowcell"><i class="fa fa-battery" aria-hidden="true"></i></span>
                         Flow Cell</a>
                     </li>
 
@@ -81,8 +81,8 @@
                         Entrepreneurship</a>
                     </li>
 
-                    <li>
-                        <a data-scroll href="#stopping"><i class="fa fa-phone" aria-hidden="true"></i></span>
+                    <li style ="float:right";>
+                        <a data-scroll href="#stopping" class="contactusback"><i class="fa fa-phone" aria-hidden="true"></i></span>
                         Contact Us</a>
                     </li>
                 </ul>
@@ -93,21 +93,27 @@
     </nav>
 
     <!-- Full Page Image Background Carousel Header-->
-    <header id="myCarousel" class="carousel slide">
-        <!-- Wrapper for Slides -->
-        <!--<div class="carousel-inner">
-            <div class="item active">
-                Set the first background image using inline CSS below.
-                <div class="fill" style="background-image:url('./images/car.png');"></div>
-            </div>
-        </div>-->
-
+    <header>
         <div id="header-text">
             <h1><strong>UBC Envision</strong></h1>
-            <h2>Solving the problems of tomorrow. Today.</h2>
+            <h2>Solving the problems of tomorrow. Today.</h2>      
+                <nav><h3>
+                    <a href="#aboutus">About Us</a> |
+                    <a href="#chemecar">Chem-E Car</a> |
+                    <a href="#algaeproject">Algae Project</a> |
+                    <a href="#beerproject">Beer Project</a> |
+                    <a href="#flowcell">Flow Cell</a> |
+                    <a href="#entrepreneurship">Entrepreneuship</a> |
+                    <a href="#contact">Contact Us</a>
+                </h3></nav>
+            </nav>
         </div>
 
+        <div id="mainscreen-background">
+                <img src="./images/car.png" style="position: relative; z-index: -1;">
+            </div>
     </header>
+            
 
     <!-- Page Content -->
         <div class="container" id="aboutus">
@@ -119,17 +125,17 @@
             
         </div>
 
-        <div class="row" id= "mechanical">
+        <div class="row" id= "chemecar">
             <div class="col-lg-6">
-                <center><img src="./images/mech.png" width="100%"></center>
+                <center><img src="./images/chemecar-logo.png"></center>
             </div>            
             <div class="col-lg-6">
-                <h1><b>Mechanical Design</b></h1>
-                <h3>Integrated water tank for even weight distribution. Secure suspension ensure consistent steering. High-traction wheels prevent slipping.</h3>
+                <h1><b>Chem-E Car</b></h1>
+                <h3>Envision's flagship project, Chem-E car is an international competition hosted by the American Institute of Chemical Engineers (<a href = "https://www.aiche.org/community/students/chem-e-car">AIChE</a>) and bands together engineers from multiple disciplines to solve a simple but difficult engineering problem: Can a shoebox-sized car, only powered and stopped by chemical reactions, be designed to transport any weight over any distance?</h3>
             </div>
         </div>
 
-        <div class="row">
+        <!--<div class="row">
             <div class="col-lg-6">
                 <h2><b>Frame</b></h2>
                 <h3>The frame anchors are glued into the top frame section so that we do not have holes pertruding into the water tank. We drill holes and use epoxy glue to secure them. The nut is secured inside the anchor by pausing the 3D print mid print and inserting the nut.</h3>
@@ -137,49 +143,49 @@
             <div class="col-lg-6">
                 <center><img src="./images/frame.png" width="100%"></center>
             </div>                            
+        </div>-->
+
+        <div class="container" id="algaeproject">
+            <div class="col-lg-6">
+                <h1><b>Algae Project</b></h1>
+                <h3>The algae project is a foray into understanding the world's energy needs and the requirements needed to sustain it. This has led to an initiative to learn about microalgae biochemicals and biofuels, focusing on rethinking photobioreactor design to optimize cell growth and fuel yield.  </h3>
+            </div>  
+
+            <div class="col-lg-6">
+                <center><img src="./images/bioreactor.jpg"></center>
+            </div>          
+        </div>
+            
+
+        <div class="container" id="beerproject">
+        <div class ="col-lg-6">
+            <center><img src="./images/beer-growler.jpg""><center>
         </div>
 
-        <div class="row" id="power_source">
             <div class="col-lg-6">
-                <center><img src="./images/battery_model.png" height="450px"></center>
+                <h1><b>Beer brewing project</b></h2>
+                <h3> Wouldn't you like to tailor an IPA to the hopiness to your choosing, affordably and consistently? And wouldn't you want to do it in the comfort of your own home? The beer brewing project combines process control and the Internet-Of-Things (IOT) in a user-friendly package, potentially allowing any user to be brewmasters. 
+                </h3>
             </div>
-            <div class="col-lg-6">
-                <h1><b>Power Source</b></h1>
-                <h3>The motor runs on six zinc-air batteries in series. Oxidation of zinc on the anode releases electrons which pass through an external circuit and travel to the cathode where oxygen is reduced to hydroxide ions. </h3>
-            </div>            
-        </div>
-        <div class="row">
-            <div class="col-lg-6">
-                <h2>Electrochemistry</h2>
-                <hr>
-                <h4> Cathode (Reduction of Oxygen):
-                    $$ O_2 + 2H_2O + 4e^- \rightarrow 4OH^-; \quad E^0 = 0.40 V $$
-                </h4>
-                <h4> Anode (Oxidation of Zinc):
-                    $$ 2Zn \rightarrow 2Zn^{2+} + 4e^- $$
-                    $$ 2Zn^{2+} + 4OH^{-} \rightarrow 2Zn(OH)_2; \quad E^0 = 1.25 V $$
-                    $$ 2Zn(OH)_2 \rightarrow 2ZnO + 2H_2O $$
-                </h4>                
-                <h4> Overall Reaction:
-                    $$ 2Zn + O_2 \rightarrow 2ZnO; \quad E^0 = 1.65 V $$
-                </h4>
-            </div>
-            <div class="col-lg-6">
+            
+            <!--<div class="col-lg-6">
             <center>
+            
             <iframe src="https://giphy.com/embed/qoTv0ypuGYTok" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/air-qoTv0ypuGYTok">via GIPHY</a></p>
             </center>
             <h4><small>Wang, Xianyou, et al. "<a href="http://www.sciencedirect.com/science/article/pii/S0378775303007377" target="_blank">Studies on the oxygen reduction catalyst for zinc–air battery electrode.</a>" <i>Journal of power sources</i> 124.1 (2003): 278-284.</small></h4>
 
             <h4><small>The oxygen reduction reaction (ORR) can proceed through a 2-electron pathway or a more efficient 4-electron pathway depending on the cathode used. Further reading: Nørskov, Jens Kehlet, et al. "<a href="http://pubs.acs.org/doi/abs/10.1021/jp047349j">Origin of the overpotential for oxygen reduction at a fuel-cell cathode.</a>"
             <i>The Journal of Physical Chemistry B 108.46 (2004): 17886-17892.</i></small></h4>
-            </div>  
+            </div>-->  
         </div>
-        <div class="row">
-                      
+
+        <div class="container" id="flowcell">           
             <div class="col-lg-12">
-                <h2>Recipe</h2>
-                <h3>Zinc powder, 6M potassium hydroxide solution, separator (or membrane, we use Viledon filter paper), <a href="http://www.gaskatel.de/eng/produkte/biplex/eng_biplex_index.html" target="_blank">Gaskatel MnO2</a> gas diffusion electrodes (GDE) (alternative: any ORR air cathodes).</h3>
-                <div class="panel-group">
+                <h2>Flow Cell</h2>
+                <h3>The flow cell is the inspiration behind the initiation of the algae project. A flow battery is a type of rechargeable battery where rechargeability is provided by two chemical components contained within the system and separated by a membrane. Ion exchange occurs through the membrane while both liquids circulate in their own respective space. Interest has been expressed in deploying a microgrid on-campus as a pilot project, with potential scale-up being managed by UBC Envision.</h3>
+
+                <!--<div class="panel-group">
                   <div class="panel panel-primary">
                     <div class="panel-heading">
                       <h4 class="panel-title">
@@ -207,7 +213,7 @@
                       </div>
                     </div>
                   </div>              
-                </div>    
+                </div>-->   
             </div>
 
             
