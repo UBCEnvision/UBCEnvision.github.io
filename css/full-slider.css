@@ -42,14 +42,6 @@ h1{
     -o-background-size: cover;
 }
 
-#mainscreen-background img{
-     background-position: center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
-
 #header-text{
     color: black;
     font-weight: bold;
@@ -159,12 +151,12 @@ li a:hover:not(.active) {
 /*#aboutus h1{} - Format to target the header "About Us"*/
 
 .container{
-    margin-bottom: 200px;
+    margin-bottom: 150px;
 }
 
-#aboutus{
+/*#aboutus{
     margin-bottom: 200px;
-}
+}*/
 
 #aboutus h3{
     margin-left: 50px;
