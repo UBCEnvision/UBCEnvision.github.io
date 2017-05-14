@@ -47,7 +47,7 @@ h1{
     font-weight: bold;
     position: absolute;
     margin-top: 230px;
-    margin-left: 120px;
+    margin-left: 360px;
     text-align: center;
     /*margin-bottom: 80px;*/
 
@@ -63,6 +63,9 @@ h1{
     font-size: 60px;
 }
 
+#scroll-button{
+    margin-bottom: 100px;
+}
 /*.contactusback{
 background-color: blue;
 }*/
@@ -156,6 +159,17 @@ li a:hover:not(.active) {
 
 #chemecar{
     color: black;
+}
+
+#button-chemecar {
+    background-color: green;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
 
 #chemecar img{
