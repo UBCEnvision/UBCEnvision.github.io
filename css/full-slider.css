@@ -46,6 +46,7 @@ h1{
     color: black;
     font-weight: bold;
     position: absolute;
+    left:50%;
     margin-top: 230px;
     margin-left: 360px;
     text-align: center;
