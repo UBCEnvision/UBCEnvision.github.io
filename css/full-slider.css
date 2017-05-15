@@ -63,8 +63,12 @@ h1{
     font-size: 60px;
 }
 
-#scroll-button{
-    margin-bottom: 100px;
+#button-scroll{
+    position:relative;
+    background: transparent;
+    border:transparent;
+    font: bold;
+    top: 250px;
 }
 /*.contactusback{
 background-color: blue;
@@ -109,31 +113,6 @@ img {
 }
 
 /*Animates the navbar to move fade from the bottom of the description to the top*/
-
-/*ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 200px;
-    background-color: #f1f1f1;
-}
-
-li a {
-    display: block;
-    color: #000;
-    padding: 8px 16px;
-    text-decoration: none;
-}
-
-li a.active {
-    background-color: #4CAF50;
-    color: white;
-}
-
-li a:hover:not(.active) {
-    background-color: #555;
-    color: white;
-}*/
 
 .row{
     margin-bottom: 80px;
