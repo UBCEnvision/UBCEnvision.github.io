@@ -119,6 +119,10 @@ img {
 
 /*Animates the navbar to move fade from the bottom of the description to the top*/
 
+#aboutus h1{
+    text-align:center;
+}
+
 .row{
     margin-bottom: 80px;
 }
@@ -175,4 +179,9 @@ img {
 
 pre code{
     height: 20em;
+}
+
+#footer h4{
+    text-align: center;
+
 }
