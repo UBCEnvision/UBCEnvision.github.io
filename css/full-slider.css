@@ -46,9 +46,14 @@ h1{
     color: black;
     font-weight: bold;
     position: absolute;
-    margin-top: 230px;
-    margin-left: 360px;
     text-align: center;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    -ms-transform: translate(-50%, -50%); /* IE 9 */
+    -webkit-transform: translate(-50%, -50%); /* Chrome, Safari, Opera */
+    transform: translate(-50%, -50%);
+    
     /*margin-bottom: 80px;*/
 
     -webkit-animation: fadein 3s; /* Safari, Chrome and Opera > 12.1 */
