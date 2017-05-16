@@ -23,5 +23,5 @@ $(document).idle({
   onIdle: function(){
     $("#navbar").fadeOut();
   },
-  idle: 2000
+  idle: 1000
 });
