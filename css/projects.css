@@ -47,12 +47,12 @@ h1{
     font-weight: bold;
     position: absolute;
     text-align: center;
-    top: 50%;
+    top: 55%;
     left: 50%;
     margin-right: -50%;
-    -ms-transform: translate(-50%, -50%); /* IE 9 */
-    -webkit-transform: translate(-50%, -50%); /* Chrome, Safari, Opera */
-    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -55%); /* IE 9 */
+    -webkit-transform: translate(-50%, -55%); /* Chrome, Safari, Opera */
+    transform: translate(-50%, -55%);
     
     /*margin-bottom: 80px;*/
 
@@ -69,11 +69,12 @@ h1{
 }
 
 #button-scroll{
-    position:relative;
+    position: absolute;
     background: transparent;
     border:transparent;
     font: bold;
-    top: 250px;
+    color: black;
+    top: 99%;
 }
 /*.contactusback{
 background-color: blue;
