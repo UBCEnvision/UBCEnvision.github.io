@@ -25,3 +25,9 @@ $(document).idle({
   },
   idle: 1000
 });
+
+$(document).ready(function(){
+	$("#sequel").click(function(){
+		alert("no we will never be there");
+	});
+});
