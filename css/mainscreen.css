@@ -130,6 +130,11 @@ img {
 .container{
     margin-bottom: 150px;
 }
+
+#contactus{
+    align-content: right;
+}
+
 #aboutus h1{
     text-align: center;
 }
