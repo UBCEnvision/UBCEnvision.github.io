@@ -1,0 +1,19 @@
+/*#ourprojects{
+max-height: 388px;
+}*/
+
+
+.project-button{
+    background-color: #e7e7e7; /* Green */
+    border: none;
+    color: rgb(0, 43, 80);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 8px;
+    font-family: "Rubik",sans-serif;
+    font-weight: 700;
+}
