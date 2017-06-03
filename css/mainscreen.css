@@ -131,6 +131,10 @@ img {
     margin-bottom: 150px;
 }
 
+#contactus{
+    align-content: right;
+}
+
 #aboutus h1{
     text-align: center;
 }
@@ -184,4 +188,5 @@ pre code{
 
 #footer h4{
     text-align: center;
+
 }
