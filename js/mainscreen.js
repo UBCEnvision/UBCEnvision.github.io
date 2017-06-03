@@ -1,4 +1,4 @@
-/*$(document).ready(function () {  
+$(document).ready(function () {  
 	// hide .navbar first
 		$("#navbar").hide();
 
@@ -11,67 +11,47 @@
 					$("#navbar").fadeIn();
 				} 
 
-				else 
-				{
-					$("#navbar").fadeOut();
-				}
+				// else 
+				// {
+				// 	$("#navbar").fadeOut();
+				// }
 			});
 	});
-});*/
-
-$(".navbar-fixed-top").autoHidingNavbar()
-$(".navbar-fixed-top").autoHidingNavbar("setShowOnBottom()", false)
-
-//Doc idle test
-
-
-/*$(".navbar-fixed-top").autoHidingNavbar();
-$(".navbar-fixed-top").autoHidingNavbar('setShowOnBottom', false);*/
-
-// Hide Header on on scroll down
-/*var didScroll;
-var lastScrollTop = 0;
-var delta = 5;
-var navbarHeight = $('nav').outerHeight();
-
-$(window).scroll(function(event){
-    didScroll = true;
 });
+//this function tracks the direction of the scroll wheel. thus determining scoll direction
+//the else statement is null rightnow because it conflicts with the mousemove event handler below
+// due to this conflict the need to track mousewheel is near useless.
+$(function() {
 
-setInterval(function() {
-    if (didScroll) {
-        hasScrolled();
-        didScroll = false;
-    }
-}, 250);
+$(window).on('wheel', function(e) {
+	var delta = e.originalEvent.deltaY;
+		if (delta < 0) {//$('body').text('up');
+			$("#navbar").fadeIn();
+		}
+		// else {//$('body').text('down');
+		// 	$("#navbar").fadeOut();
+		// }
 
-function hasScrolled() {
-    var st = $(this).scrollTop();
-    
-    // Make sure they scroll more than delta
-    if(Math.abs(lastScrollTop - st) <= delta)
-        return;
-    
-    // If they scrolled down and are past the navbar, add class .nav-up.
-    // This is necessary so you never see what is "behind" the navbar.
-    if (st > lastScrollTop && st > navbarHeight){
-        // Scroll Down
-        $('nav').removeClass('nav-down').addClass('nav-up');
-    } else {
-        // Scroll Up
-        if(st + $(window).height() < $(document).height()) {
-            $('nav').removeClass('nav-up').addClass('nav-down');
-        }
-    }
-    
-    lastScrollTop = st;
-}*/
-
-/*$(document).idle({
-
+		//return false; // this line is only added so the whole page won't scroll in the demo
+	});
+});
+//the idle function enables the navbr to fadeout allowing the user to read from a larger screen
+//on Active works as well as the function below
+$(document).idle({
   onIdle: function(){
     $("#navbar").fadeOut();
   },
+  //  onActive: function(){
+  //   $("#navbar").fadeIn();
+  // },
+  events: 'mouseover mouseout',
   idle: 1000
+});
 
-});*/
+//this tracks when the mouse has moved and fades in the navbar. 
+// there is a conflict because whenthe page is scrolled, the mouse has "moved" preventing the fadeout in the else statement
+$(document).ready(function(){
+	$(document).mousemove(function(){
+		$("#navbar").fadeIn();
+		});
+});
