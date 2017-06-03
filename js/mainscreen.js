@@ -31,3 +31,8 @@ $(document).ready(function(){
 		alert("no we will never be there");
 	});
 });
+$(document).ready(function(){
+	$(document).mousemove(function(){
+		$("#navbar").fadeIn();
+		});
+});
