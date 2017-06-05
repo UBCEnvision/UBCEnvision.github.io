@@ -8,8 +8,11 @@ html,
 body {
     height: 100%;
     font-family: 'Rubik', sans-serif;
-}
 
+}
+header{
+    margin-bottom:0px;
+}
 h1{
     color: #002b50;
 }
@@ -49,11 +52,11 @@ h1{
     text-align: center;
     top: 55%;
     left: 50%;
-    margin-right: -50%;
+    margin-right: -50%; 
     -ms-transform: translate(-50%, -55%); /* IE 9 */
     -webkit-transform: translate(-50%, -55%); /* Chrome, Safari, Opera */
     transform: translate(-50%, -55%);
-    
+
     /*margin-bottom: 80px;*/
 
     -webkit-animation: fadein 3s; /* Safari, Chrome and Opera > 12.1 */
@@ -130,6 +133,11 @@ img {
 
 .container{
     /*margin-bottom: 150px;*/
+    min-height: 550px;
+    padding-top: 20px;
+}
+.container.area{
+    padding-top: 4.5em;
 }
 #aboutus h1{
     text-align: center;
@@ -185,4 +193,16 @@ pre code{
 #footer h4{
     text-align: center;
 
+}
+#bioreactor{
+    vertical-align:middle;
+}
+#beerprojectimg{
+    padding-top: 2em;
+}
+#mainscreen-background#area{
+    margin-bottom: 0px;
+}
+.col-lg-6.money{
+    color: #fffefd;
 }
