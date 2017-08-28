@@ -1,4 +1,4 @@
-$(document).ready(function () {  
+/*$(document).ready(function () {  
 	// hide .navbar first
 		$("#navbar").hide();
 
@@ -24,4 +24,7 @@ $(document).idle({
     $("#navbar").fadeOut();
   },
   idle: 1000
-});
+});*/
+
+$(".navbar-fixed-top").autoHidingNavbar()
+$(".navbar-fixed-top").autoHidingNavbar("setShowOnBottom()", false)

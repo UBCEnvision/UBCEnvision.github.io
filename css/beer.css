@@ -1,0 +1,19 @@
+html,
+body {
+    height: 100%;
+    font-family: 'Rubik', sans-serif;
+
+}
+header{
+    margin-bottom:0px;
+}
+header h1{
+    text-align: center;
+}
+}
+footer{
+    background-color: #efefef; 
+}
+h1{
+    color: #002b50;
+}
