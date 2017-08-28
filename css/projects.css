@@ -13,6 +13,9 @@ body {
 header{
     margin-bottom:0px;
 }
+footer{
+    background-color: #efefef; 
+}
 h1{
     color: #002b50;
 }
@@ -76,8 +79,7 @@ h1{
     background: transparent;
     border:transparent;
     font: bold;
-    color: black;
-    top: 99%;
+    top: 250px;
 }
 /*.contactusback{
 background-color: blue;
@@ -139,6 +141,7 @@ img {
 .container.area{
     padding-top: 4.5em;
 }
+
 #aboutus h1{
     text-align: center;
 }
@@ -203,6 +206,16 @@ pre code{
 #mainscreen-background#area{
     margin-bottom: 0px;
 }
-.col-lg-6.money{
+.col-lg-6.darkblue{
+    color: #F1F1F1;
+}
+.col-lg-6.greyfont{
     color: #fffefd;
+}
+.col-lg-12.darkblue{
+    color: #F1F1F1;
+}
+.margin1{
+    margin-right: 3%;
+    margin-left:  3%;
 }
