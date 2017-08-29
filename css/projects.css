@@ -26,6 +26,10 @@ h1{
     padding-bottom: 5px;
 }
 
+.parallax-window{
+    margin-bottom: 50px
+}
+
 .carousel,
 .item,
 .active {
