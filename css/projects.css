@@ -12,12 +12,14 @@ body {
 }
 
 header{
-    margin-bottom: 0px;
+    margin-bottom: 0;
 }
 
 footer{
-    background-color: #efefef; 
+    background-color: #efefef;
+    color: black; 
 }
+
 h1{
     color: #002b50;
 }
@@ -26,11 +28,6 @@ h1{
     text-align: right;
     padding-top: 5px;
     padding-bottom: 5px;
-}
-
-.parallax-window{
-    min-height: 100%;
-    margin-bottom: 0;
 }
 
 .carousel,
@@ -78,6 +75,7 @@ h1{
     font: bold;
     top: 250px;
 }
+
 /*.contactusback{
 background-color: blue;
 }*/
@@ -130,44 +128,27 @@ img {
     margin-bottom: 50px;
 }
 
+/*************** The main design aspects for parallax containeers ****************/
 .container{
     /*margin-bottom: 150px;*/
-    min-height: 550px;
-    padding-top: 20px;
-}
-.container.area{
-    padding-top: 4.5em;
-    padding-bottom: 4.5em;
+    height: 100%;
+    padding-top: 100px;
+    padding-bottom: 20px;
 }
 
-#aboutus h1{
-    text-align: center;
+.parallax-window{
+    height: 100%;
 }
 
-#aboutus h3{
-    margin-left: 50px;
-}
+/**************** The main design aspects for parallax containeers ****************/
 
 #project-title{
     text-align: center;
 }
 
-/*#aboutus h1{} - Format to target the header "About Us"*/
-
 #chemecar{
-    margin-top: 100px;
+    margin-top: 0;
     color: black;
-}
-
-#button-chemecar {
-    background-color: green;
-    border: none;
-    color: black;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
 }
 
 #chemecar img{
@@ -195,9 +176,6 @@ pre code{
     text-align: center;
 }
 
-#mainscreen-background#area{
-    margin-bottom: 0px;
-}
 .col-lg-6.darkblue{
     color: #F1F1F1;
 }
@@ -206,8 +184,4 @@ pre code{
 }
 .col-lg-12.darkblue{
     color: #F1F1F1;
-}
-.margin1{
-    margin-right: 3%;
-    margin-left:  3%;
 }
