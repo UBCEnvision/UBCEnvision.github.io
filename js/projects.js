@@ -1,30 +1,27 @@
-/*$(document).ready(function () {  
-	// hide .navbar first
-		$("#navbar").hide();
+$(document).ready(function () {  
 
-		// fade in .navbar
-		$(function () {
-			$(window).scroll(function () {
-	            // set distance user needs to scroll before we fadeIn navbar
-				if ($(this).scrollTop() > 100) 
-				{
-					$("#navbar").fadeIn();
-				} 
+$("nav.navbar").autoHidingNavbar()
+$("nav.navbar").autoHidingNavbar("setShowOnBottom()", false)
 
-				else 
-				{
-					$("#navbar").fadeOut();
-				}
-			});
+/*	$("nav.navbar").hide();
+
+	$("html").mousemove(function( event ) {
+	    $("nav.navbar").fadeIn();
+	    
+	    myStopFunction();
+	    myFunction();
 	});
 });
-//Doc idle test
-$(document).idle({
-  onIdle: function(){
-    $("#navbar").fadeOut();
-  },
-  idle: 1000
-});*/
 
-$(".navbar-fixed-top").autoHidingNavbar()
-$(".navbar-fixed-top").autoHidingNavbar("setShowOnBottom()", false)
+function myFunction() {
+    myVar = setTimeout(function(){
+        $("nav.navbar").fadeOut();
+    }, 1000);
+}
+function myStopFunction() {
+    if(typeof myVar != 'undefined'){
+        clearTimeout(myVar);
+    }
+}*/
+
+});
