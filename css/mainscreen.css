@@ -30,6 +30,9 @@ h1{
     height: 100%;
 }
 
+.navbar-right{
+    margin-right: 5px;
+}
 /* Background images are set within the HTML using inline CSS, not here */
 
 .fill {
