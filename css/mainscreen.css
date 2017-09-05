@@ -63,6 +63,23 @@ h1{
             animation: fadein 3s;
 }
 
+@media only screen and (max-width: 900px) { /* Screen which has a maximum width of 900px */
+
+  #header-text {
+    color: black;
+    font-weight: bold;
+    position: absolute;
+    text-align: center;
+    top: 35%;
+    left: 50%;
+    margin-right: -50%;
+    -ms-transform: translate(-50%, -50%); /* IE 9 */
+    -webkit-transform: translate(-50%, -50%); /* Chrome, Safari, Opera */
+    transform: translate(-50%, -50%);
+  } 
+
+}
+
 #header-text h1{
     text-align: center;
     font-size: 60px;
