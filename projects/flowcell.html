@@ -3,11 +3,11 @@
 <title>UBC Envision: Flow cell</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="../css/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="../css/flowcell.css" >
-<!--<style>
+<!-- <style>
 body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
 body, html {
     height: 100%;
@@ -50,7 +50,7 @@ body, html {
         background-attachment: scroll;
     }
 }
-</style>-->
+</style> -->
 <body>
 
 <!-- Navbar (sit on top) -->
@@ -60,10 +60,10 @@ body, html {
       <i class="fa fa-bars"></i>
     </a>
     <a href="http://www.ubcenvision.com" class="w3-bar-item w3-button"><b><font size = "5">Flow Cell @ UBC Envision</font></b></a>
-    <a href="#home" class="w3-bar-item w3-button">HOME</a>
-    <a href="#about" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-user"></i> ABOUT</a>
-    <a href="#portfolio" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-th"></i> TECHNOLOGY</a>
-    <a href="#contact" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-envelope"></i> CONTACT</a>
+    <a href="#home" class="w3-bar-item w3-navbutton">HOME</a>
+    <a href="#about" class="w3-bar-item w3-navbutton w3-hide-small"><i class="fa fa-user"></i> ABOUT</a>
+    <a href="#portfolio" class="w3-bar-item w3-navbutton w3-hide-small"><i class="fa fa-th"></i> TECHNOLOGY</a>
+    <a href="#contact" class="w3-bar-item w3-navbutton w3-hide-small"><i class="fa fa-envelope"></i> CONTACT</a>
   </div>
 
   <!-- Navbar on small screens -->
@@ -84,7 +84,9 @@ body, html {
 <!-- Container (About Section) -->
 <div class="w3-content w3-container w3-padding-64" id="about">
   <h3 class="w3-center">ABOUT THE FLOW CELL</h3>
-  <p>The flow cell project began at UBC in *insert year* as a research project, intended to research the viability of using a flow-assisted Zinc - Nickel oxide battery as a means of energy storage. Essentially, the flow cell is a rechargeable battery, with some different properties that make it an interesting research topic.<br><br>Conventional rechargeable batteries use stationary (i.e. non-flowing) solutions, with environmentally harmful materials, such as those in lead-acid or lithium-ion batteries. These batteries are used for a certain number of charge-discharge cycles with a certain efficiency. When applying a flowing electrolytic solution to a normal battery, the energy efficiency of it is greatly increased, due to the electrodes' increased exposure to the ions in solution. This is the main benefit of using flow cells instead of conventional rechargeable batteries.<br><br>In addition, the materials used in making conventional batteries are normally quite toxic or environmentally harmful. Our flow cell uses Zinc and Nickel oxide with KOH and ZnO solutions, which are all non-toxic, giving us another reason to look into the viability of these cells.<br><br>
+  <p>The flow cell project began at UBC in 2016 (?) as a research project, intended to research the viability of using a flow-assisted Zinc - Nickel oxide battery as a means of energy storage. Essentially, the flow cell is a rechargeable battery, with some different properties that make it an interesting research topic.<br><br>
+  Conventional rechargeable batteries use stationary (i.e. non-flowing) solutions, with environmentally harmful materials, such as those in lead-acid or lithium-ion batteries. These batteries are used for a certain number of charge-discharge cycles with a certain efficiency. When applying a flowing electrolytic solution to a normal battery, the energy efficiency of it is greatly increased, due to the electrodes' increased exposure to the ions in solution. This is the main benefit of using flow cells instead of conventional rechargeable batteries.<br><br>
+  In addition, the materials used in making conventional batteries are normally quite toxic or environmentally harmful. Our flow cell uses Zinc and Nickel oxide with KOH and ZnO solutions, which are all non-toxic, giving us another reason to look into the viability of these cells.<br><br>
   <p class="emphasis"><b>Our goal in this project is to vary the parameters of the cell, such as cell geometry and electrolyte flow, so that we can optimize the cell and use our prototypes to build a microgrid on the UBC campus.</b></p>
   </p>
   <br>
@@ -104,7 +106,8 @@ body, html {
 </div>
 
 <!-- Don't know if we need this section 
-<div class="w3-row w3-center w3-dark-grey w3-padding-16">
+ -->
+ <!-- <div class="w3-row w3-center w3-dark-grey w3-padding-16">
   <div class="w3-quarter w3-section">
     <span class="w3-xlarge">14+</span><br>
     Partners
@@ -121,79 +124,63 @@ body, html {
     <span class="w3-xlarge">150+</span><br>
     Meetings
   </div>
-</div>-->
+</div>  -->
 
-<!-- Second Parallax Image with Portfolio Text -->
-<div class="bgimg-2 w3-display-container w3-opacity-min">
+<!-- Second Parallax Image with Portfolio Text --> 
+<!-- <div class="bgimg-2 w3-display-container w3-opacity-min">
   <div class="w3-display-middle">
     <span class="w3-xxlarge w3-text-white w3-wide">PORTFOLIO</span>
   </div>
-</div>
+</div> -->
 
-<!-- Container (Portfolio Section) -->
-<div class="w3-content w3-container w3-padding-64" id="portfolio">
-  <h3 class="w3-center">MY WORK</h3>
-  <p class="w3-center"><em>Here are some of my latest lorem work ipsum tipsum.<br> Click on the images to make them bigger</em></p><br>
-
+<!-- Container (Technology Section) -->
+<!-- <div class="w3-content w3-container w3-padding-64" id="portfolio">
+  <h3 class="w3-center">TECHNOLOGY</h3>
+  <p class="w3-center"><em>This section gives some more information about the technicalities of the flow cell.<br></em></p><br>
+ -->
   <!-- Responsive Grid. Four columns on tablets, laptops and desktops. Will stack on mobile devices/small screens (100% width) -->
-  <div class="w3-row-padding w3-center">
-    <div class="w3-col m3">
-      <img src="/w3images/p1.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="The mist over the mountains">
+  <!-- <div class="w3-row-padding w3-center">
+    <div class="w3-col m6">
+      <img src="" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="The mist over the mountains">
     </div>
 
-    <div class="w3-col m3">
+    <div class="w3-col m6">
       <img src="/w3images/p2.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Coffee beans">
-    </div>
-
-    <div class="w3-col m3">
-      <img src="/w3images/p3.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Bear closeup">
-    </div>
-
-    <div class="w3-col m3">
-      <img src="/w3images/p4.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Quiet ocean">
     </div>
   </div>
 
   <div class="w3-row-padding w3-center w3-section">
-    <div class="w3-col m3">
-      <img src="/w3images/p5.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="The mist">
+    <div class="w3-col m6">
+      <img src="/w3images/p3.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Bear closeup">
     </div>
 
-    <div class="w3-col m3">
-      <img src="/w3images/p6.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="My beloved typewriter">
+    <div class="w3-col m6">
+      <img src="/w3images/p4.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Quiet ocean">
     </div>
+  </div>  
 
-    <div class="w3-col m3">
-      <img src="/w3images/p7.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Empty ghost train">
-    </div>
+</div> -->
 
-    <div class="w3-col m3">
-      <img src="/w3images/p8.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Sailing">
-    </div>
-    <button class="w3-button w3-padding-large w3-light-grey" style="margin-top:64px">LOAD MORE</button>
-  </div>
-</div>
-
-<!-- Modal for full size images on click-->
-<div id="modal01" class="w3-modal w3-black" onclick="this.style.display='none'">
+<!-- Modal for full size images on click -->
+<!-- <div id="modal01" class="w3-modal w3-black" onclick="this.style.display='none'">
   <span class="w3-button w3-large w3-black w3-display-topright" title="Close Modal Image"><i class="fa fa-remove"></i></span>
   <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
     <img id="img01" class="w3-image">
     <p id="caption" class="w3-opacity w3-large"></p>
   </div>
-</div>
+</div> -->
 
-<!-- Third Parallax Image with Portfolio Text -->
-<div class="bgimg-3 w3-display-container w3-opacity-min">
+<!-- Third Parallax Image with Portfolio Text  -->
+<!-- <div class="bgimg-3 w3-display-container w3-opacity-min">
   <div class="w3-display-middle">
      <span class="w3-xxlarge w3-text-white w3-wide">CONTACT</span>
   </div>
-</div>
+</div> -->
 
 <!-- Container (Contact Section) -->
 <div class="w3-content w3-container w3-padding-64" id="contact">
-  <h3 class="w3-center">WHERE I WORK</h3>
-  <p class="w3-center"><em>I'd love your feedback!</em></p>
+  <h3 class="w3-center">WHERE WE ARE</h3>
+  <p class="w3-center"><em>We'd love your feedback!</em></p>
 
   <div class="w3-row w3-padding-32 w3-section">
     <div class="w3-col m4 w3-container">
@@ -202,11 +189,11 @@ body, html {
     </div>
     <div class="w3-col m8 w3-panel">
       <div class="w3-large w3-margin-bottom">
-        <i class="fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Chicago, US<br>
-        <i class="fa fa-phone fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Phone: +00 151515<br>
-        <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email: mail@mail.com<br>
+        <i class="fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i>Vancouver, BC<br>
+        <i class="fa fa-phone fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Phone: +1-(604)-612-9123<br>
+        <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email: flowcell@ubcenvision.com<br>
       </div>
-      <p>Swing by for a cup of <i class="fa fa-coffee"></i>, or leave me a note:</p>
+      <p>Envision has meetings every Saturday at noon. Swing by for a cup of <i class="fa fa-coffee"></i>, or leave me a note:</p>
       <form action="/action_page.php" target="_blank">
         <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
           <div class="w3-half">
@@ -243,16 +230,17 @@ body, html {
 <script>
 function myMap()
 {
-  myCenter=new google.maps.LatLng(41.878114, -87.629798);
+  myCenter=new google.maps.LatLng(49.262407,-123.246563);
   var mapOptions= {
     center:myCenter,
-    zoom:12, scrollwheel: false, draggable: false,
+    zoom:16, scrollwheel: true, draggable: true,
     mapTypeId:google.maps.MapTypeId.ROADMAP
   };
   var map=new google.maps.Map(document.getElementById("googleMap"),mapOptions);
 
   var marker = new google.maps.Marker({
     position: myCenter,
+    icon: '../images/abhi_face_2_edited.png'
   });
   marker.setMap(map);
 }
@@ -265,16 +253,11 @@ function onClick(element) {
   captionText.innerHTML = element.alt;
 }
 
-// Change style of navbar on scroll
-window.onscroll = function() {myFunction()};
-function myFunction() {
-    var navbar = document.getElementById("myNavbar");
-    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
-        navbar.className = "w3-bar" + " w3-card-2" + " w3-animate-top" + " w3-white";
-    } else {
-        navbar.className = navbar.className.replace(" w3-card-2 w3-animate-top w3-white", "");
-    }
-}
+// Navbar style
+
+var navbar = document.getElementById("myNavbar");
+navbar.className = "w3-bar" + " w3-card-2" + " w3-animate-top" + " w3-white";
+
 
 // Used to toggle the menu on small screens when clicking on the menu button
 function toggleFunction() {
@@ -286,7 +269,7 @@ function toggleFunction() {
     }
 }
 </script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
+<script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
 <!--
 To use this code on your website, get a free API key from Google.
 Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
