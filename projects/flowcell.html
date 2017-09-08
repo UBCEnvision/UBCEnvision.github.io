@@ -87,7 +87,7 @@ body, html {
   <p>The flow cell project began at UBC in 2016 (?) as a research project, intended to research the viability of using a flow-assisted Zinc - Nickel oxide battery as a means of energy storage. Essentially, the flow cell is a rechargeable battery, with some different properties that make it an interesting research topic.<br><br>
   Conventional rechargeable batteries use stationary (i.e. non-flowing) solutions, with environmentally harmful materials, such as those in lead-acid or lithium-ion batteries. These batteries are used for a certain number of charge-discharge cycles with a certain efficiency. When applying a flowing electrolytic solution to a normal battery, the energy efficiency of it is greatly increased, due to the electrodes' increased exposure to the ions in solution. This is the main benefit of using flow cells instead of conventional rechargeable batteries.<br><br>
   In addition, the materials used in making conventional batteries are normally quite toxic or environmentally harmful. Our flow cell uses Zinc and Nickel oxide with KOH and ZnO solutions, which are all non-toxic, giving us another reason to look into the viability of these cells.<br><br>
-  <p class="emphasis"><b>Our goal in this project is to vary the parameters of the cell, such as cell geometry and electrolyte flow, so that we can optimize the cell and use our prototypes to build a microgrid on the UBC campus.</b></p>
+  <p class="emphasis"><b>Our goal in this project is to vary the parameters of the cell, such as cell geometry and electrolyte flow, in order to optimize cell performance. We will also be researching how to tackle the issue of dendritic growth (see "Technology" section below for details). Eventually, we would like to build a microgrid of flow batteries on campus.</b></p>
   </p>
   <br>
   <h3 class="w3-center">TEAM MEMBERS</h3>
@@ -134,10 +134,40 @@ body, html {
 </div> -->
 
 <!-- Container (Technology Section) -->
-<!-- <div class="w3-content w3-container w3-padding-64" id="portfolio">
+<div class="w3-content w3-container w3-padding-64" id="portfolio">
   <h3 class="w3-center">TECHNOLOGY</h3>
   <p class="w3-center"><em>This section gives some more information about the technicalities of the flow cell.<br></em></p><br>
- -->
+
+  <div class="w3-row-padding w3-center">
+    <div class="w3-col m3 dropdown" id="myDropdown">
+      <h3 onclick="dropFunc()" class="dropbtn">Chemistry</h3>
+      <div class="dropdownmenu dropdown-content">
+        <p>As mentioned before, our flow cell uses Zinc and Nickel oxide, with a flowing solution of ZnO in aqueous KOH. This operates as a normal electrochemical cell, with the zinc dissolving and depositing onto a copper substrate. (Note: the reactions are summarized below) When charging, the electron surplus at the copper anode will cause the Zn(OH)<sub>4</sub><sup>2-</sup> ions to form solid Zn and 4 OH<sup>-</sup> groups. The Zn deposits are said to be <u>dendritic</u>, due to their growth pattern. Dendritic growth is random and very difficult to control, meaning that any unusual growth can touch something else in the cell and cause an internal short, which is a large obstacle for advancements in flow cell technology.<br> While discharging, the Zn deposits dissolve and combine with OH<sup>-</sup> ions to form Zn(OH)<sub>4</sub><sup>2-</sup>, causing electrons to be released through the substrate and therefore creating current. </p>
+      </div>
+    </div>
+
+    <div class="w3-col m3 dropdown" id="myDropdown">
+      <h3 onclick="dropFunc()" class="dropbtn">Mechanics (Flow)</h3>
+      <div class="dropdownmenu dropdown-content">
+        <p></p>
+      </div>
+    </div>
+
+    <div class="w3-col m3 dropdown" id="myDropdown">
+      <h3 onclick="dropFunc()" class="dropbtn">Electronic Applications</h3>
+      <div class="dropdownmenu dropdown-content">
+        <p>Since this project is focused on energy storage, there is huge potential to include microelectronic technology, such as Arduino boards and printed circuit boards. We haven't integrated this technology into the project just yet, but we will! Some examples of what we can do include using an Arduino to control the pump's flow direction, using circuits to display the voltage available in the battery in real-time, or even automating the flow cell's charge-discharge cycles.</p>
+      </div>
+    </div>
+
+    <div class="w3-col m3 dropdown" id="myDropdown">
+      <h3 onclick="dropFunc()" class="dropbtn">Design</h3>
+      <div class="dropdownmenu dropdown-content">
+        <p>Since we're trying to optimize the cell's performance, the shape of the cell itself will have an impact on the cell's electrochemistry. At the moment, our cell is box-shaped, with an inlet and outlet on opposite sides of the cell. Design is one of the most important aspects of engineering, and so we will be incorporating design processes and prototyping technology into the project, to give team members a valuable experience.</p>
+      </div>
+    </div>
+  </div>
+
   <!-- Responsive Grid. Four columns on tablets, laptops and desktops. Will stack on mobile devices/small screens (100% width) -->
   <!-- <div class="w3-row-padding w3-center">
     <div class="w3-col m6">
@@ -179,7 +209,7 @@ body, html {
 
 <!-- Container (Contact Section) -->
 <div class="w3-content w3-container w3-padding-64" id="contact">
-  <h3 class="w3-center">WHERE WE ARE</h3>
+  <h3 class="w3-center">CONTACT US</h3>
   <p class="w3-center"><em>We'd love your feedback!</em></p>
 
   <div class="w3-row w3-padding-32 w3-section">
@@ -191,10 +221,10 @@ body, html {
       <div class="w3-large w3-margin-bottom">
         <i class="fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i>Vancouver, BC<br>
         <i class="fa fa-phone fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Phone: +1-(604)-612-9123<br>
-        <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email: flowcell@ubcenvision.com<br>
+        <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email: <a href="mailto:flowcell@ubcenvision.com">flowcell@ubcenvision.com</a><br>
       </div>
       <p>Envision has meetings every Saturday at noon. Swing by for a cup of <i class="fa fa-coffee"></i>, or leave me a note:</p>
-      <form action="/action_page.php" target="_blank">
+      <!-- <form action="/action_page.php" target="_blank">
         <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
           <div class="w3-half">
             <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
@@ -207,7 +237,7 @@ body, html {
         <button class="w3-button w3-black w3-right w3-section" type="submit">
           <i class="fa fa-paper-plane"></i> SEND MESSAGE
         </button>
-      </form>
+      </form> -->
     </div>
   </div>
 </div>
@@ -239,8 +269,7 @@ function myMap()
   var map=new google.maps.Map(document.getElementById("googleMap"),mapOptions);
 
   var marker = new google.maps.Marker({
-    position: myCenter,
-    icon: '../images/abhi_face_2_edited.png'
+    position: myCenter
   });
   marker.setMap(map);
 }
@@ -268,6 +297,24 @@ function toggleFunction() {
         x.className = x.className.replace(" w3-show", "");
     }
 }
+
+function dropFunc() {
+  document.getElementById("myDropdown").classList.toggle("w3-show");
+
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn'))
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('w3-show')) {
+        openDropdown.classList.remove('w3-show');
+      }
+    }
+  }
+}
+
 </script>
 <script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
 <!--

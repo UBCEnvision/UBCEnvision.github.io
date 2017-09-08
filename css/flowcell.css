@@ -45,3 +45,24 @@ body, html {
 .emphasis {
     text-align: center;
 }
+
+.dropbtn {
+    padding:10px;
+    font-size: 14pt;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+}
+
+
