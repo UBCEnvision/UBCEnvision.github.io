@@ -138,34 +138,29 @@ body, html {
   <h3 class="w3-center">TECHNOLOGY</h3>
   <p class="w3-center"><em>This section gives some more information about the technicalities of the flow cell.<br></em></p><br>
 
-  <div class="w3-row-padding w3-center">
-    <div class="w3-col m3 dropdown" id="myDropdown">
-      <h3 onclick="dropFunc()" class="dropbtn">Chemistry</h3>
-      <div class="dropdownmenu dropdown-content">
-        <p>As mentioned before, our flow cell uses Zinc and Nickel oxide, with a flowing solution of ZnO in aqueous KOH. This operates as a normal electrochemical cell, with the zinc dissolving and depositing onto a copper substrate. (Note: the reactions are summarized below) When charging, the electron surplus at the copper anode will cause the Zn(OH)<sub>4</sub><sup>2-</sup> ions to form solid Zn and 4 OH<sup>-</sup> groups. The Zn deposits are said to be <u>dendritic</u>, due to their growth pattern. Dendritic growth is random and very difficult to control, meaning that any unusual growth can touch something else in the cell and cause an internal short, which is a large obstacle for advancements in flow cell technology.<br> While discharging, the Zn deposits dissolve and combine with OH<sup>-</sup> ions to form Zn(OH)<sub>4</sub><sup>2-</sup>, causing electrons to be released through the substrate and therefore creating current. </p>
-      </div>
+  <div class="w3-row-padding w3-center" id="techrows">
+
+    <button class="accordion w3-button w3-block">Chemistry</button>
+    <div class="w3-container" id="chem">
+      <p>As mentioned before, our flow cell uses Zinc and Nickel oxide, with a flowing solution of ZnO in aqueous KOH. This operates as a normal electrochemical cell, with the zinc dissolving and depositing onto a copper substrate. (Note: the reactions are summarized below) When charging, the electron surplus at the copper anode will cause the Zn(OH)<sub>4</sub><sup>2-</sup> ions to form solid Zn and 4 OH<sup>-</sup> groups. The Zn deposits are said to be <u>dendritic</u>, due to their growth pattern. Dendritic growth is random and very difficult to control, meaning that any unusual growth can touch something else in the cell and cause an internal short, which is a large obstacle for advancements in flow cell technology.<br> While discharging, the Zn deposits dissolve and combine with OH<sup>-</sup> ions to form Zn(OH)<sub>4</sub><sup>2-</sup>, causing electrons to be released through the substrate and therefore creating current. </p>
     </div>
 
-    <div class="w3-col m3 dropdown" id="myDropdown">
-      <h3 onclick="dropFunc()" class="dropbtn">Mechanics (Flow)</h3>
-      <div class="dropdownmenu dropdown-content">
-        <p></p>
-      </div>
+    <button class="accordion w3-button w3-block">Mechanics</button>
+    <div class="w3-container" id="mech">
+      <p></p>
     </div>
 
-    <div class="w3-col m3 dropdown" id="myDropdown">
-      <h3 onclick="dropFunc()" class="dropbtn">Electronic Applications</h3>
-      <div class="dropdownmenu dropdown-content">
-        <p>Since this project is focused on energy storage, there is huge potential to include microelectronic technology, such as Arduino boards and printed circuit boards. We haven't integrated this technology into the project just yet, but we will! Some examples of what we can do include using an Arduino to control the pump's flow direction, using circuits to display the voltage available in the battery in real-time, or even automating the flow cell's charge-discharge cycles.</p>
-      </div>
+
+    <button class="accordion w3-button w3-block">Electronics</button>
+    <div class="w3-container" id="elec">
+      <p>Since this project is focused on energy storage, there is huge potential to include microelectronic technology, such as Arduino boards and printed circuit boards. We haven't integrated this technology into the project just yet, but we will! Some examples of what we can do include using an Arduino to control the pump's flow direction, using circuits to display the voltage available in the battery in real-time, or even automating the flow cell's charge-discharge cycles.</p>
     </div>
 
-    <div class="w3-col m3 dropdown" id="myDropdown">
-      <h3 onclick="dropFunc()" class="dropbtn">Design</h3>
-      <div class="dropdownmenu dropdown-content">
-        <p>Since we're trying to optimize the cell's performance, the shape of the cell itself will have an impact on the cell's electrochemistry. At the moment, our cell is box-shaped, with an inlet and outlet on opposite sides of the cell. Design is one of the most important aspects of engineering, and so we will be incorporating design processes and prototyping technology into the project, to give team members a valuable experience.</p>
-      </div>
+    <button class="accordion w3-button w3-block">Design</button>
+    <div class="w3-container" id="des">
+      <p>Since we're trying to optimize the cell's performance, the shape of the cell itself will have an impact on the cell's electrochemistry. At the moment, our cell is box-shaped, with an inlet and outlet on opposite sides of the cell. Design is one of the most important aspects of engineering, and so we will be incorporating design processes and prototyping technology into the project, to give team members a valuable experience.</p>
     </div>
+
   </div>
 
   <!-- Responsive Grid. Four columns on tablets, laptops and desktops. Will stack on mobile devices/small screens (100% width) -->
@@ -223,7 +218,7 @@ body, html {
         <i class="fa fa-phone fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Phone: +1-(604)-612-9123<br>
         <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email: <a href="mailto:flowcell@ubcenvision.com">flowcell@ubcenvision.com</a><br>
       </div>
-      <p>Envision has meetings every Saturday at noon. Swing by for a cup of <i class="fa fa-coffee"></i>, or leave me a note:</p>
+      <p>Envision has meetings every Saturday at noon. Swing by for a cup of <i class="fa fa-coffee"></i>, or send me an email!</p>
       <!-- <form action="/action_page.php" target="_blank">
         <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
           <div class="w3-half">
@@ -255,7 +250,7 @@ body, html {
   </div>
   <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
 </footer>
- 
+
 <!-- Add Google Maps -->
 <script>
 function myMap()
@@ -298,19 +293,18 @@ function toggleFunction() {
     }
 }
 
-function dropFunc() {
-  document.getElementById("myDropdown").classList.toggle("w3-show");
+// ACCORDION FUNCTION
+var acc = document.getElementsByClassName("accordion");
+var i;
 
-window.onclick = function(event) {
-  if (!event.target.matches('.dropbtn'))
-    var dropdowns = document.getElementsByClassName("dropdown-content");
-    var i;
-
-    for (i = 0; i < dropdowns.length; i++) {
-      var openDropdown = dropdowns[i];
-      if (openDropdown.classList.contains('w3-show')) {
-        openDropdown.classList.remove('w3-show');
-      }
+for (i = 0; i < acc.length; i++) {
+  acc[i].onclick = function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
     }
   }
 }
