@@ -82,6 +82,7 @@ button.accordion {
 .description {
     text-align: left;
     text-indent: 40px;
+    color: #595959;
 }
 
 button.accordion.active, button.accordion:hover {
