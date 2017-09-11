@@ -41,3 +41,63 @@ body, html {
         background-attachment: scroll;
     }
 }
+
+.emphasis {
+    text-align: center;
+}
+
+/*.dropbtn {
+    padding:10px;
+    font-size: 14pt;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+}*/
+
+button.accordion {
+    background-color: #e5e5e5;
+    cursor: pointer;
+    color: #4c4c4c;
+    padding: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.3s;
+    margin-bottom: 5px;
+}
+
+button.accordion.active, button.accordion:hover {
+    background-color: #ddd;
+}
+
+div.panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+}
+
+button.accordion:after {
+    content: '+';
+    font-size: 20px;
+    color: #777;
+    float: right;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+button.accordion.active:after {
+    content: "-";
+}
