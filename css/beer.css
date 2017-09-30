@@ -21,6 +21,11 @@ h1{
     color: #002b50;
 }
 
+.sub {
+    font-size: 20pt;
+}
+
+
 .bgimg {
 	    background-image: url('../images/beer-brewing-projects.jpg');
 	    min-height: 100%;
