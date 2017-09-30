@@ -25,6 +25,9 @@ h1{
     font-size: 20pt;
 }
 
+.heading {
+    font-size: 20pt;
+}
 
 .bgimg {
 	    background-image: url('../images/beer-brewing-projects.jpg');
