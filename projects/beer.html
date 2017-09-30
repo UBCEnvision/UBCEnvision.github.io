@@ -29,15 +29,47 @@
 	    <p class="w3-center w3-jumbo">CHBeer</p>
 	    <p class="w3-center w3-xlarge">UBC Envision Brewing Project</p>
 	  </div>
+	  <div class="bgimg w3-display-container w3-text-white">
 	  <div class="w3-display-topleft w3-container w3-xlarge">
-	    <p><a href="#beer_about"><button class="w3-button w3-black">about</button></a></p>
-	    <p><a href="#beer_team"><button class="w3-button w3-black">team</button></a></p>
-	    <p><a href="#beer_brew"><button class="w3-button w3-black">brew</button></a></p>
-	    <p><a href="#beer_sponsorship"><button class="w3-button w3-black">sponsorship</button></a></p>
+	    <p><button onclick="document.getElementById('about').style.display='block'" class="w3-button w3-black">about</button></p>
+	   	<p><button onclick="document.getElementById('team').style.display='block'" class="w3-button w3-black">team</button></p>
+	   	<p><a href="beer_brew.html"><button class="w3-button w3-black">brew</button></a></p>
+	   	<p><button onclick="document.getElementById('sponsorship').style.display='block'" class="w3-button w3-black">sponsorship</button></p>
 	  </div>
+	</div>
+
+	<!-- about popup -->
+	<div id="about" class="w3-modal">
+	  	<div class="w3-modal-content w3-animate-zoom">
+	    	<div class="w3-container w3-black w3-display-container aboutpopup">
+	      		<span onclick="document.getElementById('about').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
+	      		<h1 class="w3-text-white">About us</h1><br>
+	      		<p class="w3-text-white popuptext">What if great tasting beer came from your home?<br><br>CHBeer monitors temperature, acidity and the alcohol content in real time. Furthermore, a cooling system eliminates the need to move the beer to a cool environment for the secondary fermentation. Because fermentation is a living ecosystem there are many unpredictable factors. By creating an automated brewing system, we eliminate variables in the fermentation process allowing us to reproduce great beer! The best part? Everything is controlled by your phone! Well, that and cheap beer! <br><br>An app created by our team allows you to remotely view temperature, acidity and alcohol content as well as change the temperature of the fermenter as long as the fermenter is connected to Wifi! CHBEer has brought students who are passionate about science and beer together to refine the brewing process.</p>
+	    	</div>
+	  	</div>
+	</div>
+
+	<div id="team" class="w3-modal">
+		<div class="w3-modal-content w3-animate-zoom">
+			<div class="w3-container w3-black w3-display-container">
+				<span onclick="document.getElementById('team').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
+				<h1 class="w3-text-white">The Team</h1>
+			</div>
+		</div>
+	</div>
+
+	<div id="sponsorship" class="w3-modal">
+		<div class="w3-modal-content w3-animate-zoom">
+			<div class="w3-container w3-black w3-display-container">
+				<span onclick="document.getElementById('sponsorship').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
+				<h1 class="w3-text-white">Sponsorship</h1>
+			</div>
+		</div>
+	</div>
+
 	  <div class="w3-display-bottomleft w3-container">
 	  	<p class="w3-xxlarge">Contact</p>
-	    <p class="w3-xlarge">brewing@ubcenvision.com | (Phone)</p>
+	    <p class="w3-xlarge">brewing@ubcenvision.com</p>
 	    <p>powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
 	  </div>
 	</div>

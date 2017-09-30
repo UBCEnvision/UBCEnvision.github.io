@@ -21,6 +21,10 @@ h1{
     color: #002b50;
 }
 
+.popuptext {
+    font-size: 16pt;
+}
+
 .heading {
     font-size: 20pt;
 }
