@@ -54,14 +54,15 @@ layout: default
 	</div>
 </section>
 
-<section class="wrapper style1" id="news">
-	<div class="inner">
+<section class="wrapper style1 color5 invert" id="news">
+	<div class="inner align-center">
 		<header>
 			<!-- <h1>Latest Updates</h1> -->
 			<h2><a href="/news.html"><span class="fa fa-newspaper-o"></span> News Center</a></h2>
 		</header>
 		<p class="major">We send our best members to many different competitions, conferences and on-campus events every year to learn, compete and network, bringing valuable experience and ideas back to the team.</p>
-		<p>Find out more about our projects and achievements:</p>
+		<hr>
+		<p class="align-left">Find out more about our projects and achievements:</p>
 		<div class="index align-left onload-content-fade-right">
 		{% for post in site.posts limit:3 %}
 		<section>
