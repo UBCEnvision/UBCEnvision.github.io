@@ -355,3 +355,27 @@
 	});
 
 })(jQuery);
+
+(function ($) {
+$(function () { 
+  i = new Instafeed({
+    get: 'user',
+    userId: 1916181001,
+    clientId: '533bedde9cc84450bae1dbf7360541b1',
+    accessToken: '1916181001.1677ed0.79680d83083742229d9fa598db5f5424',
+    target: "instafeed",
+    resolution: 'standard_resolution',
+    limit: 10,
+    after: function() {
+      $("#instafeed").simplyScroll({
+        speed: 1,
+        frameRate: 20,
+        orientation: "horizontal",
+        direction: "forwards",
+        customClass: "instagram_scroller"
+      });
+    }
+  });
+  i.run()
+});
+})(jQuery);
