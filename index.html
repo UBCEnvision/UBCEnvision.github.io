@@ -1,0 +1,149 @@
+---
+layout: default
+---
+
+<section class="banner style1 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-right">
+	<div class="content">
+		<header>
+			<h1><strong>UBC</strong> Envision</h1>
+			<p>The UBC <strong>AIChE</strong> Student Chapter</p>
+		</header>
+		<img class="header-logo" src="/images/envision.png">
+		<p class="major">We put <strong>novel science and technology development</strong> into practice and take on moonshot challenges.</p>
+		<p>Our student-led team fosters a <strong>fearless, no-holds-barred</strong> approach when coming up with innovative solutions to engineering problems.</p>
+		<ul class="actions vertical">
+			<li><a href="#second" class="button big wide smooth-scroll-middle">Get Involved</a></li>
+		</ul>
+	</div>
+	<div class="image">
+		<img src="images/banner.jpg" alt="" />
+	</div>
+</section>
+
+<section class="banner style2 content-align-center" id="second">
+	<div class="inner">
+		<h2>The Envision Advantage</h2>
+		<p class="major">Take charge of your engineering education and influence others. <strong>Make an impact.</strong></p>
+		<div class="items style1 medium onscroll-fade-in">
+			<section>
+				<span class="icon style2 major fa-money"></span>
+				<h3>Funding</h3>
+				<p>Our student-led team is generously funded by UBC, corporate sponsors and private donors. We are constantly seeking new partnerships, business opportunities and collaborations to diversify and strengthen our funding sources.</p>
+			</section>
+			<section>
+				<span class="icon style2 major fa-users"></span>
+				<h3>Student Development</h3>
+				<p>Our team has some of the most talented, dedicated and self-motivated engineering students on campus. The opportunities for learning and professional growth are endless through our projects. <i>Tuum Est</i>, it really is yours.</p>
+			</section>
+			<section>
+				<span class="icon style2 major fa-globe"></span>
+				<h3>Networking</h3>
+				<p>We are actively engaging with students, faculty and staff across campus, throughout North America and internationally in our projects. Our professional and alumni connections span from Vancouver to New York and Europe.</p>
+			</section>
+		</div>
+		<p class="major">As the <strong>official UBC AIChE Student Chapter</strong>, UBC Envision maintains strong ties to the American Institute of Chemical Engineers (AIChE) and actively participates in all AIChE events. We have the full support of the Department of Chemical & Biological Engineering and many CHBE faculty members in all our projects.</p>
+	</div>
+</section>
+
+<section class="wrapper style1 color5 invert fullscreen" id="news">
+	<div class="inner">
+		<header>
+			<!-- <h1>Latest Updates</h1> -->
+			<h2><a href="/news.html"><u>Envision News Center</u></a></h2>
+		</header>
+		<p>We send our best members to many different competitions, conferences and on-campus events every year to learn, compete and network, bringing valuable experience and ideas back to the team. Find out more about our projects and achievements:</p>
+		<div class="index align-left">
+		{% for post in site.posts limit:3 %}
+		<section>
+			<header>
+				<h3>{{ post.date | date_to_long_string }}</h3>
+			</header>
+			<div class="content">
+				<p class="major"><a href="{{ post.url }}">{{ post.title }}</a></p>
+				<!-- <p>{{ post.excerpt }}</p> -->
+			</div>
+		</section>
+		{% endfor %}
+		</div>
+		<div class="content-align-right">
+			<p><a href="/news.html" class="button">See All Articles</a></p>
+		</div>
+	</div>
+</section>
+
+
+<section class="spotlight style1 orient-left content-align-left image-position-right onscroll-image-fade-in">
+	<div class="content">
+		<h2>UBC Chem-E-Car</h2>
+		<p class="major">Our <b>flagship project</b>, where it all started.</p>
+		<p>We represent UBC in the annual American Institute of Chemical Engineers (AIChE) Chem-E-Car competition where we compete with other North American and international teams.</p>
+		<p>We design, build and test a shoe-box sized car from scratch every year. The process involves building a power system (batteries, fuel cells, supercapacitors etc), selecting a stopping mechanism reaction, designing the circuitry, coding microcontrollers and assembling the mechanical components and car body.</p>
+		<ul class="actions vertical">
+			<li><a href="http://www.ubcchemecar.com" class="button">Learn More</a></li>
+		</ul>
+	</div>
+	<div class="image">
+		<img src="images/car.png" alt="" />
+	</div>
+</section>
+
+<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+	<div class="content">
+		<h2>CHBeer Brewing Automation</h2>
+		<p class="major">An engineering approach to good beer.</p>
+		<p>Do you enjoy beer? (<u>Of course you do.</u>) Fermentation started in the Bronze Age and is theorized to be the main driver behind the origin of civilization!</p>
+		<p>Brewing is often treated as an art rather than a science, even though this biological process is quintessentially chemical engineering. Can you help us change that? One of our goals is to build an automated brewing system on campus that can be accurately controlled to produce a desired beer style!</p>
+		<ul class="actions vertical">
+			<li><a href="http://beer.ubcchemecar.com" class="button">Learn More</a></li>
+		</ul>
+	</div>
+	<div class="image">
+		<img src="images/beer.jpg" alt="" />
+	</div>
+</section>
+
+<section class="spotlight style1 orient-left content-align-left image-position-right onscroll-image-fade-in">
+	<div class="content">
+		<h2>Flow-Assisted Batteries</h2>
+		<p class="major">Energy storage for the future.</p>
+		<p>Renewable energy sources like wind and solar provide power output that depends largely on environmental conditions. Efficient, affordable energy storage systems are essential for the viability of renewable energy. Join us as we work on an ambitious, multi-disciplinary project in the design and construction of a sustainable microgrid system on campus using rechargeable redox flow batteries.</p>
+		<ul class="actions vertical">
+			<li><a href="http://www.ubcenvision.com/flow" class="button">Learn More</a></li>
+		</ul>
+	</div>
+	<div class="image">
+		<img src="images/wind.jpg" alt="" />
+	</div>
+</section>
+
+<section class="spotlight style1 orient-right content-align-left image-position-left onscroll-image-fade-in">
+	<div class="content">
+		<h2>Education Initiatives</h2>
+		<p class="major">Transforming engineering education.</p>
+		<p>We are extremely passionate about <b>technology, innovation and engineering education</b>. UBC Envision members have been actively consulting with CHBE faculty members to design and implement projects that will improve the education and learning experience of UBC engineering students. These projects include: </p>
+		<ul class="actions horizontal">
+			<li><a href="https://apsc.ubc.ca/news/2017/11/open-education-stories-creating-and-reusing-problems-using-oer" target="_blank" class="button">Open Chem-E</a></li>
+			<li><a href="http://www.innovationonboard.ca" target="_blank" class="button">Innovation OnBoard</a></li>
+		</ul>
+<!-- 		<dl>
+			<dt>Innovation OnBoard</dt>
+			<dd>
+				<p>Innovation OnBoard, an entrepreneurship competition to foster innovation in engineering, was started by a group of BC Envision executives.</p>
+			<ul class="actions vertical">
+			<li><a href="http://www.innovationonboard.ca" target="_blank" class="button">Innovation OnBoard</a></li>
+			</ul>
+			</dd>
+			<dt>Open Chem-E</dt>
+			<dd>
+				<p>UBC Envision members have worked on the Open Chem-E initiative and pitched new ideas to incorporate coding literacy through Python and Jupyter notebooks into the project.</p>
+			<ul class="actions horizontal">
+				<li><a href="https://apsc.ubc.ca/news/2017/11/open-education-stories-creating-and-reusing-problems-using-oer" target="_blank" class="button">Open Chem-E</a></li>
+				<li><a href="https://chbe241.github.io" target="_blank" class="button">CHBE 241 Open Textbook</a></li>
+			</ul>
+			</dd>
+		</dl> -->
+	</div>
+	<div class="image">
+		<img src="images/coding.png" alt="" />
+	</div>
+</section>

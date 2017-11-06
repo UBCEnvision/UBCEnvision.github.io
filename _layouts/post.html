@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<section class="wrapper style1 content-align-left" id="second">
+  <div class="inner">
+    <header>
+      <h2 class="post-title">{{ page.title }}</h2>
+      <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    </header>
+
+    <section class="style1 wrapper container">
+      {{ content }}
+    </section>
+      
+      <footer>
+          {% if page.previous %}
+          <a href="{{ page.previous.url }}" class="post-prev">&larr; Previous post</a> {% endif %}
+          {% if page.next %}
+          <a href="{{ page.next.url }}" class="post-next">Next post &rarr;</a> {% endif %}
+      </footer>
+  </div>
+</section>

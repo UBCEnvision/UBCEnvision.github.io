@@ -1,0 +1,60 @@
+---
+layout: default
+title: Team
+description: Envision Team Members
+---
+{% assign members = site.members | sort: 'weight' %}
+<section class="banner style2 align-center">
+	<div class="inner">
+		<header>
+          <h1>Envision <strong>Team</strong></h1>
+      	</header>
+		<div class="items style1 small onload-fade-in">
+			{% for member in members %}
+			<section>
+				<a href="#{{member.name}}"><img src="{{ member.img | prepend: site.baseurl | prepend: site.url }}" class="img-team"></a>
+				<h4><b>{{ member.name }}</b> 
+					{% if member.linkedin %}
+					| <a href="{{ member.linkedin }}" class="fa fa-linkedin" target="_blank"></a>
+					{% endif %}
+					<br>
+					<i>{{ member.title }}</i>
+				{% if member.email %}
+				<br>
+				<h5>
+					<i class="fa fa-envelope"></i> 
+					<a href="mailto:{{member.email}}">{{member.email}}</a>
+				{% endif %}		
+				</h5>	
+			</section>	
+
+			<div class="remodal" data-remodal-id="{{member.name}}">
+			  <button data-remodal-action="close" class="icons remodal-close"></button>
+			  <div class="index align-left">
+			  	<section>
+				<header class="align-center">
+					<a href="#{{member.name}}"><img src="{{ member.img | prepend: site.baseurl | prepend: site.url }}" class="img-team"></a>
+					<h4><b>{{ member.name }}</b> 
+						{% if member.linkedin %}
+						| <a href="{{ member.linkedin }}" class="fa fa-linkedin" target="_blank"></a>
+						{% endif %}
+						<br>
+						<i>{{ member.title }}</i>
+					{% if member.email %}
+					<br>
+					<h5>
+						<i class="fa fa-envelope"></i> 
+						<a href="mailto:{{member.email}}">{{member.email}}</a>
+					{% endif %}		
+					</h5>	
+				</header>
+				<div class="content">
+					{{ member.biography }}
+				</div>
+				</section>
+			  </div>
+			</div>			
+			{% endfor %}	
+		</div>
+	</div>
+</section>

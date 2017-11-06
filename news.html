@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<section class="wrapper style1 content-align-left">
+  <div class="inner">
+      <header>
+          <h1>Envision <strong>News</strong></h1>
+      </header>
+
+      <div class="index align-left">
+      {% for post in site.posts limit:3 %}
+      <section>
+        <header>
+          <h3>{{ post.date | date_to_long_string }}</h3>
+        </header>
+        <div class="content">
+          <p class="major"><a href="{{ post.url }}">{{ post.title }}</a></p>
+          <p>{{ post.excerpt }}</p>
+        </div>
+      </section>
+      {% endfor %}
+      </div>
+<!--       <section class="style1 wrapper container">
+          <ul class="posts">
+            {% for post in site.posts %}
+              <li class="wrapper style1">
+                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                <h5> {{ post.date | date_to_long_string }} </h5>
+                  {{ post.excerpt }}
+                  <section class="special">
+                      <ul class="buttons">
+                          <li><a href="{{ post.url }}" class="button">Read more</a></li>
+                      </ul></section>
+              </li>
+            {% endfor %}
+          </ul>
+      </section> -->
+  </div>
+</section>
