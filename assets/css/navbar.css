@@ -5,7 +5,7 @@
 	cursor: default;
 	font-size: 0.8em;
 	left: 0;
-	padding: 0.7em 1.5em;
+	padding: 1.0em 1.5em;
 	position: relative;
 	top: 0;
 	width: 100%;
@@ -17,6 +17,30 @@
 	height: 110px;
 	border-radius: 50%;
 }
+
+.img-team-inner {
+	width: 180px !important; 
+	height: 180px !important;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1); 
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1); 
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);		
+}
+
+.img-team-inner:hover {
+	transition: all .9s ease;
+    transform:scale(1.7);
+    -ms-transform:scale(1.7); /* IE 9 */
+    -moz-transform:scale(1.7); /* Firefox */
+    -webkit-transform:scale(1.7); /* Safari and Chrome */
+    -o-transform:scale(1.7); /* Opera */
+    vertical-align: middle;
+}
+
 .header-logo {
 	-webkit-filter: brightness(0.0);
 	filter: brightness(0.0);

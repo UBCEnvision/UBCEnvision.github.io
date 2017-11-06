@@ -9,6 +9,7 @@ description: Envision Team Members
 		<header>
           <h1>Envision <strong>Team</strong></h1>
       	</header>
+      	<p>Please feel free to contact our team members by email or add them on LinkedIn if you have any questions.</p>
 		<div class="items style1 small onload-fade-in">
 			{% for member in members %}
 			<section>
@@ -33,7 +34,7 @@ description: Envision Team Members
 			  <div class="index align-left">
 			  	<section>
 				<header class="align-center">
-					<a href="#{{member.name}}"><img src="{{ member.img | prepend: site.baseurl | prepend: site.url }}" class="img-team"></a>
+					<a href="#{{member.name}}"><img src="{{ member.img | prepend: site.baseurl | prepend: site.url }}" class="img-team img-team-inner"></a>
 					<h4><b>{{ member.name }}</b> 
 						{% if member.linkedin %}
 						| <a href="{{ member.linkedin }}" class="fa fa-linkedin" target="_blank"></a>
