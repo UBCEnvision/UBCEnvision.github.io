@@ -48,19 +48,21 @@ layout: default
 <section class="wrapper style1">
 	<div class="inner">
 		<h3><span class="fa fa-instagram"></span> <a href="https://www.instagram.com/ubcenvision/" target="_blank">@ubcenvision</a></h3>
+		<p>Check out all the cool stuff we've been working on:</p>
 		<div id="instafeed"></div>
-		<p class="major align-center">Meet the UBC Envision <a href="/team.html">team</a>.</p>
+		<h2 class="major align-center"><a class="button special big" href="/team.html">Meet the Team</a></h2>
 	</div>
 </section>
 
-<section class="wrapper style1 color5 invert fullscreen" id="news">
+<section class="wrapper style1" id="news">
 	<div class="inner">
 		<header>
 			<!-- <h1>Latest Updates</h1> -->
-			<h2><a href="/news.html"><u>Envision News Center</u></a></h2>
+			<h2><a href="/news.html"><span class="fa fa-newspaper-o"></span> News Center</a></h2>
 		</header>
-		<p>We send our best members to many different competitions, conferences and on-campus events every year to learn, compete and network, bringing valuable experience and ideas back to the team. Find out more about our projects and achievements:</p>
-		<div class="index align-left">
+		<p class="major">We send our best members to many different competitions, conferences and on-campus events every year to learn, compete and network, bringing valuable experience and ideas back to the team.</p>
+		<p>Find out more about our projects and achievements:</p>
+		<div class="index align-left onload-content-fade-right">
 		{% for post in site.posts limit:3 %}
 		<section>
 			<header>
