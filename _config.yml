@@ -33,6 +33,8 @@ collections:
     output: true
     permalink: /members/:path/
 
+exclude: [vendor]
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
