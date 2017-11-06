@@ -2,7 +2,6 @@
 layout: post
 weight: 100
 name: Athanasios Kritharis
-status: founder
 title: Director
 img: /assets/images/members/thanos.jpg
 email: director@ubcenvision.com

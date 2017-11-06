@@ -1,0 +1,11 @@
+---
+layout: post
+weight: 800
+name: Abhishek Lekhi
+title: Adviser
+img: /assets/images/members/abhi.jpg
+email: a.lekhi@alumni.ubc.ca
+biography: >
+  Abhishek Lekhi is currently a third year chemical engineering student who is away for a co-op work term. Abhishek has been involved in the early stages of creating Envision and continues to help out the admin team when possible. Abhishek was previously the co-captain for the Junior Chem E Car and competed at Oregon State University with the team in 2017. Along with the Chem E Car team, Abhishek was one of the first members of the Algae team and presented a research poster at Clean Engergy BC's Generate Conference. Abhishek looks forward to returning to UBC in September 2018 to once again be apart of the hands on design of the Chem-E-Car.
+linkedin: https://www.linkedin.com/in/abhishek-lekhi/
+---
