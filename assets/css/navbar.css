@@ -23,7 +23,26 @@
 	max-width: 100%;
 	width: 150px;
 	margin-top: 20px;
-	margin-bottom: 5px;
+	margin-bottom: 5px;	
+	vertical-align: middle;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1); 
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1); 
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);	
+}
+
+
+.header-logo:hover {
+	transition: all .4s ease;
+    transform:scale(1.5);
+    -ms-transform:scale(1.5); /* IE 9 */
+    -moz-transform:scale(1.5); /* Firefox */
+    -webkit-transform:scale(1.5); /* Safari and Chrome */
+    -o-transform:scale(1.5); /* Opera */
 }
 
 .header-logo-footer {
