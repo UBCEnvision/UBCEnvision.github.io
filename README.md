@@ -7,5 +7,4 @@ The University of British Columbia AIChE Student Chapter
 [http://www.ubcenvision.com](http://www.ubcenvision.com)
 
 ### Theme
-Based on Story by HTML5 UP
-html5up.net | @ajlkn
+Based on Story by HTML5 UP - html5up.net | @ajlkn
