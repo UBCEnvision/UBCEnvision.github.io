@@ -5,6 +5,7 @@ layout: default
 <section class="wrapper style1 content-align-left">
   <div class="inner">
     <header>
+      <a href="/news.html"><h4>Envision <strong>News</strong></h4></a>
       <h2 class="post-title">{{ page.title }}</h2>
       <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
     </header>
@@ -14,10 +15,14 @@ layout: default
     </section>
       
       <footer>
+        <ul class="actions small">
           {% if page.previous %}
-          <a href="{{ page.previous.url }}" class="post-prev">&larr; Previous post</a> {% endif %}
+          <li><a href="{{ page.previous.url }}" class="button small">&larr; Previous post</a></li>
+          {% endif %}
           {% if page.next %}
-          <a href="{{ page.next.url }}" class="post-next">Next post &rarr;</a> {% endif %}
+          <li> <a href="{{ page.next.url }}" class="button small">Next post &rarr;</a></li>
+          {% endif %}
+        </ul>
       </footer>
   </div>
 </section>
