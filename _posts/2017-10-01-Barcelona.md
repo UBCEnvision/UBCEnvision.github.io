@@ -10,4 +10,4 @@ Haider, Mani, Thanos, Siang and Ray received first place for the Chemical Engine
 
 In addition, Thanos received first place for his poster presentation on Alzheimer's research with Dr. Vikram Yadav and a 500 Euro prize.
 
-<span class="image blog-featured"><img src="/images/news/barcelona.jpg" width="100%" alt=""></span>
+<span class="image blog-featured"><img alt="barcelona" src="/images/news/barcelona.jpg" width="100%"></span>

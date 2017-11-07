@@ -8,7 +8,7 @@ layout: default
 			<h1><strong>UBC</strong> Envision</h1>
 			<p>The UBC <strong>AIChE</strong> Student Chapter</p>
 		</header>
-		<img class="header-logo" src="/images/envision.png">
+		<img class="header-logo" alt="envision" src="/images/envision.png">
 		<p class="major">We put <strong>novel science and technology development</strong> into practice and take on moonshot challenges.</p>
 		<p>Our student-led team fosters a <strong>fearless, no-holds-barred</strong> approach when coming up with innovative solutions to engineering problems.</p>
 		<ul class="actions vertical">
@@ -16,7 +16,7 @@ layout: default
 		</ul>
 	</div>
 	<div class="image">
-		<img src="images/banner.jpg" alt="" />
+		<img alt="envision" src="images/banner.jpg" />
 	</div>
 </section>
 
@@ -93,7 +93,7 @@ layout: default
 		</ul>
 	</div>
 	<div class="image">
-		<img src="images/car.png" alt="" />
+		<img src="images/car.png" alt="image" />
 	</div>
 </section>
 
@@ -108,7 +108,7 @@ layout: default
 		</ul>
 	</div>
 	<div class="image">
-		<img src="images/beer.jpg" alt="" />
+		<img src="images/beer.jpg" alt="image" />
 	</div>
 </section>
 
@@ -118,11 +118,11 @@ layout: default
 		<p class="major">Energy storage for the future.</p>
 		<p>Renewable energy sources like wind and solar provide power output that depends largely on environmental conditions. Efficient, affordable energy storage systems are essential for the viability of renewable energy. Join us as we work on an ambitious, multi-disciplinary project in the design and construction of a sustainable microgrid system on campus using rechargeable redox flow batteries.</p>
 		<ul class="actions vertical">
-			<li><a href="/flow" class="button">Learn More</a></li>
+			<li><a href="http://www.ubcenvision.com/flow" class="button">Learn More</a></li>
 		</ul>
 	</div>
 	<div class="image">
-		<img src="images/wind.jpg" alt="" />
+		<img src="images/wind.jpg" alt="image" />
 	</div>
 </section>
 
@@ -154,6 +154,33 @@ layout: default
 		</dl> -->
 	</div>
 	<div class="image">
-		<img src="images/coding.png" alt="" />
+		<img src="images/coding.png" alt="image" />
 	</div>
 </section>
+
+
+    <script type="text/javascript">
+	(function ($) {
+		$(function () { 
+		  i = new Instafeed({
+		    get: 'user',
+		    userId: 1916181001,
+		    clientId: '533bedde9cc84450bae1dbf7360541b1',
+		    accessToken: '1916181001.1677ed0.79680d83083742229d9fa598db5f5424',
+		    target: "instafeed",
+		    resolution: 'standard_resolution',
+		    limit: 10,
+		    after: function() {
+		      $("#instafeed").simplyScroll({
+		        speed: 1,
+		        frameRate: 20,
+		        orientation: "horizontal",
+		        direction: "forwards",
+		        customClass: "instagram_scroller"
+		      });
+		    }
+		  });
+		  i.run()
+		});
+		})(jQuery);
+	</script>    	
