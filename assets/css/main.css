@@ -6170,7 +6170,7 @@
 		justify-content: center;
 		position: relative;
 		width: 100%;
-		background-color: transparent;
+		/*background-color: transparent;*/
 	}
 
 		.gallery.style1 input, .gallery.style1 select, .gallery.style1 textarea {
@@ -6284,7 +6284,7 @@
 		.gallery.style1 article {
 			overflow: hidden;
 			position: relative;
-			width: 25%;
+			width: 10%;
 		}
 
 			.gallery.style1 article .image {
@@ -6333,7 +6333,7 @@
 				left: 0;
 				width: 100%;
 				height: 100%;
-				background-color: rgba(0, 0, 0, 0.5);
+				/*background-color: rgba(0, 0, 0, 0.5);*/
 				opacity: 0;
 				padding: 2rem;
 				z-index: 1;
@@ -6368,7 +6368,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.gallery.style1 article {
-				width: 33.33333%;
+				width: 20%;
 			}
 
 				.gallery.style1 article .caption {
@@ -6380,7 +6380,7 @@
 		@media screen and (max-width: 980px) {
 
 			.gallery.style1 article {
-				width: 50%;
+				width: 10%;
 			}
 
 				.gallery.style1 article .caption {
@@ -6402,7 +6402,7 @@
 		}
 
 		.gallery.style1.small article {
-			width: 20%;
+			width: 5%;
 		}
 
 			.gallery.style1.small article .caption {
@@ -6412,7 +6412,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.gallery.style1.small article {
-				width: 25%;
+				width: 12.5%;
 			}
 
 				.gallery.style1.small article .caption {
@@ -6424,7 +6424,7 @@
 		@media screen and (max-width: 980px) {
 
 			.gallery.style1.small article {
-				width: 33.33333%;
+				width: 12.5%;
 			}
 
 				.gallery.style1.small article .caption {
@@ -6436,7 +6436,7 @@
 		@media screen and (max-width: 480px) {
 
 			.gallery.style1.small article {
-				width: 50%;
+				width: 12.5%;
 			}
 
 				.gallery.style1.small article .caption {

@@ -18,6 +18,30 @@
 	border-radius: 50%;
 }
 
+.main-gallery img{
+	-webkit-filter: brightness(0.2);
+	filter: brightness(0.2);
+	zoom: 2;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1); 
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1); 
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);	
+}
+
+.main-gallery img:hover{
+	-webkit-filter: brightness(1.0);
+	filter: brightness(1.0);
+    transform:scale(1.7);
+    -ms-transform:scale(1.7); /* IE 9 */
+    -moz-transform:scale(1.7); /* Firefox */
+    -webkit-transform:scale(1.7); /* Safari and Chrome */
+    -o-transform:scale(1.7); /* Opera */
+}
+
 .img-team-inner {
 	width: 180px !important; 
 	height: 180px !important;
