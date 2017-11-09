@@ -6402,7 +6402,7 @@
 		}
 
 		.gallery.style1.small article {
-			width: 5%;
+			width: 10%;
 		}
 
 			.gallery.style1.small article .caption {
@@ -6412,7 +6412,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.gallery.style1.small article {
-				width: 12.5%;
+				width: 10%;
 			}
 
 				.gallery.style1.small article .caption {
@@ -6424,7 +6424,7 @@
 		@media screen and (max-width: 980px) {
 
 			.gallery.style1.small article {
-				width: 12.5%;
+				width: 10%;
 			}
 
 				.gallery.style1.small article .caption {
@@ -6436,7 +6436,7 @@
 		@media screen and (max-width: 480px) {
 
 			.gallery.style1.small article {
-				width: 12.5%;
+				width: 10%;
 			}
 
 				.gallery.style1.small article .caption {

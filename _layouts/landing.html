@@ -44,6 +44,7 @@
 		    "id": {{forloop.index}},
 		    "name": "{{ member.name}}",
 		    "img": "{{ member.img | prepend: site.baseurl | prepend: site.url }}",
+		    "title": "{{member.title}}"
 		});
 	{% endfor %}
 
@@ -70,19 +71,35 @@
 
 	members = shuffle(members);
 
-	const markup = `
-	    ${members.map(member => 
-			`<article>
+	size_wall = 20;
+	max_len = members.length;
+
+	var makeARandomNumber = function(){
+	    return Math.round(Math.random() * (max_len-1));
+	}
+
+	var randoms = Array(size_wall).fill(0).map(makeARandomNumber);	
+	console.log(max_len);
+
+	for (i in randoms){	
+		console.log(randoms[i])
+		img = members[randoms[i]].img;
+		name = members[randoms[i]].name;
+		title = members[randoms[i]].title;
+
+		const markup = `
+			<article>
 			<a href="/team.html" class="image">
-			  <img src="${member.img}" alt="${member.name}" />
+			  <img src="${img}" alt="${name}" />
 			</a>
 			<div class="caption">
+				<p>${title}</p>
 			</div>
-			</article>`
-	     ).join('')}
-	`;
+			</article>
+		`;
 
-	document.getElementById("members-gallery").innerHTML = markup;
+		document.getElementById("members-gallery").innerHTML += markup;
+	}
 
 </script>
   </body>
