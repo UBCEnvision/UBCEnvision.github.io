@@ -8,6 +8,11 @@
 		<p>University of British Columbia, Vancouver</p>
 		<div class="items style3 medium onscroll-fade-in">
 			<section>
+				<p><b>Navigation</b></p>
+				<ul class="actions vertical small">
+					<li><a class="button small fit" href="/team.html">Team</a></li>
+					<li><a class="button small fit" href="/news.html">News</a></li>
+				</ul>				
 				<p><b>Projects</b></p>
 				<ul class="actions vertical small">
 					<li><a class="button small fit" href="http://www.ubcchemecar.com" target="_blank">Chem-E-Car</a></li>
@@ -16,21 +21,19 @@
 				</ul>
 			</section>
 			<section class="align-left">
-				<p><b>Navigation</b></p>
-				<ul class="actions vertical small">
-					<li><a class="button small fit" href="/team.html">Team</a></li>
-					<li><a class="button small fit" href="/news.html">News</a></li>
-				</ul>
-			</section>
-			<section class="align-left"> 
-				<p><b>Shipping Address</b></p>
 				<p>
 					<b>UBC Envision</b> <br>
 					Chemical and Biological Engineering Building <br>
 					2360 East Mall <br>
 					Vancouver V6T 1Z3 <br>
 					British Columbia, Canada
-				</p>
+				</p>				
+			</section>
+			<section class="align-left"> 
+				<p><b>News</b></p>
+			    {% for post in site.posts limit:3 %}
+			    <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+			    {% endfor %}				
 			</section>
 		</div>
 		<section class="align-right">
