@@ -9,7 +9,7 @@
 contact@ubcenvision.com
 
 ### :fire: Photos
-[www.instagram.com/ubcenvision](www.instagram.com/ubcenvision) :camera:
+[https://www.instagram.com/ubcenvision](https://www.instagram.com/ubcenvision) :camera:
 
 ### Theme
 Based on Story by HTML5 UP - html5up.net | @ajlkn
