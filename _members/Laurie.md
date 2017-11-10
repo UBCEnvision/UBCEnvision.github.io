@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 500
+weight: 300
 name: Laurie Jiang
 title: Battery Team Lead
 status: executive

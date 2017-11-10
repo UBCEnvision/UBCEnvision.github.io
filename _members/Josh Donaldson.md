@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 500
+weight: 100
 name: Josh Donaldson
 title: Beer Project Lead
 status: executive

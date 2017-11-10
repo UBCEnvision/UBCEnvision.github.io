@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 800
+weight: 100
 name: Shams Elnawawi
 title: Flow Cell Project Lead
 img: /assets/images/members/shams.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 800
+weight: 300
 name: Caitlin Lee
 title: Social Media Director
 img: /assets/images/members/caitlin.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 100
+weight: 200
 name: Athanasios Kritharis
 title: Director
 img: /assets/images/members/thanos.jpg

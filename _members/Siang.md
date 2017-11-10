@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 110
+weight: 200
 name: Siang Lim
 status: founder
 title: Director
