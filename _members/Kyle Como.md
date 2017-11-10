@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 150
+weight: 120
 name: Kyle Como
 title: Mech Team Mentor
 img: /assets/images/members/kyle.jpg
