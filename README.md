@@ -1,10 +1,15 @@
-[![Build Status](https://travis-ci.org/UBCEnvision/UBCEnvision.github.io.svg?branch=staging)](https://travis-ci.org/UBCEnvision/UBCEnvision.github.io)
+# UBC Envision [![Build Status](https://travis-ci.org/UBCEnvision/UBCEnvision.github.io.svg?branch=staging)](https://travis-ci.org/UBCEnvision/UBCEnvision.github.io)
 
-### UBC Envision
-The University of British Columbia AIChE Student Chapter
+## The University of British Columbia (UBC) AIChE Student Chapter
 
 ### Website
 [http://www.ubcenvision.com](http://www.ubcenvision.com)
+
+### Contact
+contact@ubcenvision.com
+
+### :fire: Photos
+[www.instagram.com/ubcenvision](www.instagram.com/ubcenvision) :camera:
 
 ### Theme
 Based on Story by HTML5 UP - html5up.net | @ajlkn
