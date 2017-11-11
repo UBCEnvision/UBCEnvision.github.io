@@ -4,7 +4,10 @@ layout: default
 
 <section class="wrapper style1 content-align-left">
   <div class="inner">
-    <a href="/team.html"><h2>Envision <strong>Profile</strong></h2></a>
+    <header>
+    <h2><b><a href="/team.html">{{ page.name }}</a></b></h2>
+    <p>Envision <b>Profile</b></p>
+    </header>
     <div class="index">
       <section>
         <header class="align-center">
@@ -20,7 +23,7 @@ layout: default
         <div class="content align-left">
           {{ page.biography }}
           <hr>
-          <p>Contact Information</p>
+          <h5><b>Contact Information</b></h5>
           {% if page.email %}
           <h4>
             <i class="fa fa-envelope"></i> 
