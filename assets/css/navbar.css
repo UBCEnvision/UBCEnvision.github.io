@@ -12,6 +12,7 @@
 	z-index: 10000;
 }
 
+
 .img-team {
 	width: 110px; 
 	height: 110px;
@@ -92,6 +93,9 @@
     transform: scale(1);	
 }
 
+.header-logo-info-page{
+	width: 250px;
+}
 
 .header-logo:hover {
 	transition: all .4s ease;
