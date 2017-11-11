@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: member
 weight: 500
 name: Mani Massah
 title: Battery Team Lead 2017

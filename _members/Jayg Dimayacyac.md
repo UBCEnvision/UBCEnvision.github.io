@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: member
 weight: 100
 name: Jayg Dimayacyac
 title: Chem-E-Car Captain

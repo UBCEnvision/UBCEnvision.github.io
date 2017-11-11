@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<section class="wrapper style1 content-align-left">
+  <div class="inner">
+    <a href="/team.html"><h2>Envision <strong>Profile</strong></h2></a>
+    <div class="index">
+      <section>
+        <header class="align-center">
+          <img alt="{{page.name}}" src="{{ page.img | prepend: site.baseurl | prepend: site.url }}" class="img-team img-profile-page">
+          <h4>
+            <b>
+              {{ page.name }}        
+            </b>
+            <br>
+            {{ page.title }}           
+          </h4>   
+        </header>     
+        <div class="content align-left">
+          {{ page.biography }}
+          <hr>
+          <p>Contact Information</p>
+          {% if page.email %}
+          <h4>
+            <i class="fa fa-envelope"></i> 
+            <a href="mailto:{{page.email}}">{{page.email}}</a>
+          </h4>
+          {% endif %}         
+          <ul class="icons">
+          {% if page.linkedin %}
+            <li><a href="{{ page.linkedin }}" class="icon style2 fa fa-linkedin" target="_blank"></a></li>
+          {% endif %}
+          {% if page.email %}
+            <li><a href="mailto:{{ page.email }}" class="icon style2 fa fa-envelope" target="_blank"></a></li>
+          {% endif %}            
+          {% if page.website %}
+            <li><a href="{{ page.website }}" class="icon style2 fa fa-home" target="_blank"></a></li>
+          {% endif %}
+          </ul> 
+        </div>                     
+      </section>
+    </div>
+</div>
+
+  <div class="inner">
+      <hr>
+      <footer>
+        <ul class="actions small">
+          {% if page.previous %}
+          <li><a href="{{ page.previous.url }}" class="button small">&larr; Previous Member</a></li>
+          {% endif %}
+          <li><a href="/team.html" class="button special small">Team Members</a></li>
+          {% if page.next %}
+          <li> <a href="{{ page.next.url }}" class="button small">Next Member &rarr;</a></li>
+          {% endif %}
+        </ul>
+      </footer>
+  </div>
+</section>

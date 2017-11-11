@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: member
 weight: 200
 name: Abhishek Lekhi
 title: Advisor

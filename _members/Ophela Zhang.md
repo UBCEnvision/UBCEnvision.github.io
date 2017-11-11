@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: member
 weight: 100
 name: Ophela Zhang
 title: Algae Project Lead

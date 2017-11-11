@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: member
 weight: 150
 name: Vasilii Triandafilidi
 status: founder

@@ -18,6 +18,15 @@
 	border-radius: 50%;
 }
 
+.img-profile-page{
+	width: 150px; 
+	height: auto;	
+	border-radius: 0%;
+	max-width: 100%;
+	/*margin-left: 5px;*/
+	/*margin-right: 5px;*/
+}
+
 .main-gallery img{
 	-webkit-filter: brightness(0.15);
 	filter: brightness(0.15);
@@ -56,12 +65,12 @@
 }
 
 .img-team-inner:hover {
-	transition: all .9s ease;
-    transform:scale(1.7);
-    -ms-transform:scale(1.7); /* IE 9 */
-    -moz-transform:scale(1.7); /* Firefox */
-    -webkit-transform:scale(1.7); /* Safari and Chrome */
-    -o-transform:scale(1.7); /* Opera */
+	transition: all .5s ease;
+    transform:scale(1.3);
+    -ms-transform:scale(1.3); /* IE 9 */
+    -moz-transform:scale(1.3); /* Firefox */
+    -webkit-transform:scale(1.3); /* Safari and Chrome */
+    -o-transform:scale(1.3); /* Opera */
     vertical-align: middle;
 }
 

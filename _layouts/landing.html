@@ -44,7 +44,8 @@
 		    "id": {{forloop.index}},
 		    "name": "{{ member.name}}",
 		    "img": "{{ member.img | prepend: site.baseurl | prepend: site.url }}",
-		    "title": "{{member.title}}"
+		    "title": "{{member.title}}",
+		    "url": "{{ member.url }}"
 		});
 	{% endfor %}
 
@@ -79,17 +80,18 @@
 	}
 
 	var randoms = Array(size_wall).fill(0).map(makeARandomNumber);	
-	console.log(max_len);
+	// console.log(max_len);
 
 	for (i in randoms){	
-		console.log(randoms[i])
+		// console.log(randoms[i])
 		img = members[randoms[i]].img;
 		name = members[randoms[i]].name;
 		title = members[randoms[i]].title;
+		member_url = members[randoms[i]].url;
 
 		const markup = `
 			<article>
-			<a href="/team.html" class="image">
+			<a href="${member_url}" class="image">
 			  <img src="${img}" alt="${name}" />
 			</a>
 			<div class="caption">

@@ -13,35 +13,37 @@ description: Envision Team Members
 		<div class="items style1 small onload-fade-in">
 			{% for member in members %}
 			<section>
-				<a data-remodal-target="{{member.name}}" href="#"><img alt="{{member.name}}" src="{{ member.img | prepend: site.baseurl | prepend: site.url }}" class="img-team"></a>
+				<a href="{{ member.url }}"><img alt="{{member.name}}" src="{{ member.img | prepend: site.baseurl | prepend: site.url }}" class="img-team"></a>
 				<h4><b>{{ member.name }}</b> 
 					{% if member.linkedin %}
 					| <a href="{{ member.linkedin }}" class="fa fa-linkedin" target="_blank"></a>
 					{% endif %}
+					{% if member.website %}
+					| <a href="{{ member.website }}" class="fa fa-home" target="_blank"></a>
+					{% endif %}
 					<br>
-					<i>{{ member.title }}</i>
+					<i>{{ member.title }}</i></h4>
 				{% if member.email %}
-				<br>
 				<h5>
 					<i class="fa fa-envelope"></i> 
 					<a href="mailto:{{member.email}}">{{member.email}}</a>
 				</h5>
-				{% endif %}	
+				{% endif %}
 			</section>	
 
-			<div class="remodal" data-remodal-id="{{member.name}}">
+			<!-- <div class="remodal" data-remodal-id="{{member.name}}">
 			  <button data-remodal-action="close" class="icons remodal-close"></button>
 			  <div class="index align-left">
 			  	<section>
 				<header class="align-center">
-					<a data-remodal-target="{{member.name}}" href="#"><img alt="{{member.name}}" src="{{ member.img | prepend: site.baseurl | prepend: site.url }}" class="img-team img-team-inner"></a>
+					<a href="{{ member.url }}"><img alt="{{member.name}}" src="{{ member.img | prepend: site.baseurl | prepend: site.url }}" class="img-team img-team-inner"></a>
 					<h4><b>{{ member.name }}</b> 
 						{% if member.linkedin %}
 						| <a href="{{ member.linkedin }}" class="fa fa-linkedin" target="_blank"></a>
 						{% endif %}
 						<br>
 						<i>{{ member.title }}</i>
-					{% if member.email %}
+					{% if member.email %}</h4>
 					<br>
 					<h5>
 						<i class="fa fa-envelope"></i> 
@@ -54,7 +56,7 @@ description: Envision Team Members
 				</div>
 				</section>
 			  </div>
-			</div>			
+			</div>			 -->
 			{% endfor %}	
 		</div>
 	</div>

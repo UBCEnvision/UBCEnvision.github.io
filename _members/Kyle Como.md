@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: member
 weight: 300
 name: Kyle Como
 title: Mech Team Mentor

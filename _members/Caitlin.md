@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: member
 weight: 300
 name: Caitlin Lee
 title: Social Media Director

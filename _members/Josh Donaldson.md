@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: member
 weight: 100
 name: Josh Donaldson
 title: Beer Project Lead
