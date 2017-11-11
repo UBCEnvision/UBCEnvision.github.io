@@ -2,4 +2,4 @@
 set -e # halt script on error
 
 bundle exec jekyll build
-bundle exec htmlproofer ./_site --check_html --check_external_hash --check_opengraph --check_favicon --disable-external --url-ignore "/#.*/"
+bundle exec htmlproofer ./_site --check-html --check-external-hash --check-opengraph --check-favicon --disable-external --url-ignore "/#.*/"
