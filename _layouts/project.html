@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include nav.html %}
+    <div id="wrapper" class="divided">
+        <section class="spotlight style1 orient-left content-align-left image-position-right onscroll-image-fade-in">
+          <div class="content">
+            <h2>{{ page.name }}</h2>
+            <p class="major">{{ page.headline }}</p>
+            <p>{{ page.description }}</p>
+          </div>
+          <div class="image">
+            <img src="{{ page.image }}" alt=" {{page.name}} " />
+          </div>
+       </section>
+       <section class="style1 wrapper container">
+         <div class="inner">
+           <h2>Project</h2>
+           <div class="box">
+           <p>{{ page.box }}</p>
+          </div>
+        </div>
+      </section>          
+          
+      <section class="style1 wrapper">
+      <div class="inner">
+        {{ content }}
+      </div>
+      </section>
+      {% include footer.html %}
+    </div>
+
+  </body>
+
+</html>
