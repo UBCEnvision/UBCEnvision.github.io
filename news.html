@@ -9,7 +9,7 @@ layout: default
       </header>
 
       <div class="index align-left">
-      {% for post in site.posts limit:3 %}
+      {% for post in site.posts %}
       <section>
         <header>
           <h3>{{ post.date | date_to_long_string }}</h3>
