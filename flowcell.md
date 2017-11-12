@@ -1,9 +1,9 @@
 ---
 layout: project
-project_name: Flow-Assisted Batteries
-project_headline: Energy storage for the future
-project_desc: Renewable energy sources like wind and solar provide power output that depends largely on environmental conditions. Efficient, affordable energy storage systems are essential for the viability of renewable energy. Join us as we work on an ambitious, multi-disciplinary project in the design and construction of a sustainable microgrid system on campus using rechargeable redox flow batteries.
-project_box: >
+name: Flow-Assisted Batteries
+headline: Energy storage for the future
+description: Renewable energy sources like wind and solar provide power output that depends largely on environmental conditions. Efficient, affordable energy storage systems are essential for the viability of renewable energy. Join us as we work on an ambitious, multi-disciplinary project in the design and construction of a sustainable microgrid system on campus using rechargeable redox flow batteries.
+box: >
   The flow cell project began at UBC in 2016 as a research project, intended to research the viability of using a flow-assisted Zinc - Nickel oxide battery as a means of energy storage. Essentially, the flow cell is a rechargeable battery, with some different properties that make it an interesting research topic.Conventional rechargeable batteries use stationary (i.e. non-flowing) solutions, with environmentally harmful materials, such as those in lead-acid or lithium-ion batteries. These batteries are used for a certain number of charge-discharge cycles with a certain efficiency. When applying a flowing electrolytic solution to a normal battery, the energy efficiency of it is greatly increased, due to the electrodes' increased exposure to the ions in solution. This is the main benefit of using flow cells instead of conventional rechargeable batteries. In addition, the materials used in making conventional batteries are normally quite toxic or environmentally harmful. Our flow cell uses Zinc and Nickel oxide with KOH and ZnO solutions, which are all non-toxic, giving us another reason to look into the viability of these cells. Our goal in this project is to vary the parameters of the cell, such as cell geometry and electrolyte flow, in order to optimize cell performance. We will also be researching how to tackle the issue of dendritic growth (see "Technology" section below for details). Eventually, we would like to build a microgrid of flow batteries on campus.
 ---
 
