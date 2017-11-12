@@ -1,6 +1,6 @@
 ---
 layout: project
-name: Flow-Assisted Batteries
+title: Flow-Assisted Batteries
 image: /assets/images/wind.jpg
 headline: Energy storage for the future
 description: Renewable energy sources like wind and solar provide power output that depends largely on environmental conditions. Efficient, affordable energy storage systems are essential for the viability of renewable energy. Join us as we work on an ambitious, multi-disciplinary project in the design and construction of a sustainable microgrid system on campus using rechargeable redox flow batteries.
