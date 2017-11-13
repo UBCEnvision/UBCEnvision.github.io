@@ -1,5 +1,6 @@
 ---
 layout: project
+project: flowcell
 title: Flow-Assisted Batteries
 image: /assets/images/wind.jpg
 headline: Energy storage for the future

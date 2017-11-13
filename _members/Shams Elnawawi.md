@@ -2,6 +2,8 @@
 layout: member
 weight: 100
 name: Shams Elnawawi
+project: flowcell
+subweight: 10
 title: Flow Cell Project Lead
 img: /assets/images/members/shams.jpg
 email: flowcell@ubcenvision.com

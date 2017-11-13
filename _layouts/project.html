@@ -27,10 +27,45 @@
       </section>          
           
       <section class="style1 wrapper">
-      <div class="inner">
-        {{ content }}
-      </div>
+        <div class="inner">
+          <div class="index">
+            <section>
+              <header>
+                <h3>Project Details</h3>
+              </header>     
+              <div class="content">
+                {{ content }}
+              </div>
+            </section>
+          </div>
+        </div>
       </section>
+      <section class="style1 wrapper">
+        <div class="inner">
+          <div class="index">
+            <section>
+              <header>
+                <h3>Team Members</h3>
+              </header>     
+              <div class="content align-center">
+                <div class="items style3 small onload-fade-in">
+                {% assign members = site.members | sort: 'subweight' %}
+                {% for member in members %}
+                {% if member.project == page.project %}
+                <section>
+                  <a href="{{ member.url }}"><img alt="{{member.name}}" src="{{ member.img | prepend: site.baseurl | prepend: site.url }}" class="img-team"></a>
+                  <h4><b>{{ member.name }}</b> 
+                  <br>
+                  <i>{{ member.title }}</i></h4>
+                </section>
+                {% endif %}
+                {% endfor %}
+                </div>
+              </div>
+            </section>
+          </div>
+        </div>
+      </section>      
       {% include footer.html %}
     </div>
 
