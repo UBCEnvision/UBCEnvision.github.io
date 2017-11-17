@@ -8,4 +8,3 @@ box: >
  The Automated Beer Brewing system is a project encompassed by the student organization UBC Envision. The project is based on the idea of ‘The Internet of Things’, and aims to develop craft brewing technologies and to create an automated brewing system with the ability to monitor and control process variables such as temperature and acidity in real-time. We are currently coupling sensors to web servers and developing a mobile app, which would allow operators to remotely view brewing conditions and key control variables. A large focus of our project is the concept that many home-breweries or smaller breweries lack the hundreds of thousands of dollars required for high-end equipment. Through our project, our long-goal is to optimize brewing processes for brewing technologies, to design and implement low-cost data monitoring, and in time, to have our machine learning algorithms be applied to actual breweries to brew the perfect beer.
 ---
 
-# Technology
