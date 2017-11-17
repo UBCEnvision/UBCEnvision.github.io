@@ -21,3 +21,5 @@ Custom instrumentation is built to read temperature and acidity. We are developi
 ## Machine Learning
 Process data is incredibly difficult to analyze and predict. There are many unpredictable variables that can only be analyzed in a computer. Running machine learning algorithms to predict output variables will allow us to predict and create beer tailored to whatever the brewer desires. We are currently partnering with a local brewery to analyze key process variables for our machine learning algorithms. 
 
+# Like brewing? 
+Check out beer.ubcchemecar.com[beer.ubcchemecar.com] for resources to start a project just like ours! If you have any questions or want to talk about beer feel free to contact Josh at brewing@ubcenvision.com
