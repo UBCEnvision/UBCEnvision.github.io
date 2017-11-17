@@ -1,7 +1,7 @@
 ---
 layout: project
 title: CHBeer
-image: /assets/images/beertable.jpg
+image: /assets/images/thebeer.jpg
 headline: Automated Brewing System
 description: Do you enjoy beer? What about process control, thermodynamics and kinetic modelling? Fermentation started in the Bronze Age and is theorized to be the main driver behind the origin of civilization! However, controlling this biological process to achieve the desired beer characteristics challenging to this day. Large breweries have access to sophisticated devices for process control, but what about homebrewers and craft breweries who can’t spend hundreds of thousands of dollars on high-end equipment? This workshop will demonstrate how to build a low-cost device that can monitor and control key process variables such as temperature and pH during the brewing process. Through the Internet of Things, it is possible to access and monitor process variables from anywhere! Come join us and learn how to make great beer from the comfort of your phone. 
 box: >
@@ -22,4 +22,4 @@ Custom instrumentation is built to read temperature and acidity. We are developi
 Process data is incredibly difficult to analyze and predict. There are many unpredictable variables that can only be analyzed in a computer. Running machine learning algorithms to predict output variables will allow us to predict and create beer tailored to whatever the brewer desires. We are currently partnering with a local brewery to analyze key process variables for our machine learning algorithms. 
 
 # Like brewing? 
-Check out beer.ubcchemecar.com[beer.ubcchemecar.com] for resources to start a project just like ours! If you have any questions or want to talk about beer feel free to contact Josh at brewing@ubcenvision.com
+Check out [beer.ubcchemecar.com](https://beer.ubcchemecar.com) for resources to start a project just like ours! If you have any questions or want to talk about beer feel free to contact Josh at brewing@ubcenvision.com
