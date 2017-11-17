@@ -1,5 +1,6 @@
 ---
 layout: project
+project: beer
 title: CHBeer
 image: /assets/images/BeerChemistry.jpg
 headline: Automated Brewing System
