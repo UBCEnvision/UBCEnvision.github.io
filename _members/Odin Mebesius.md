@@ -1,8 +1,9 @@
 ---
 layout: post
-weight: 100
+weight: 900
 name: Odin Mebesius
 project: chemecar
+subweight: 10
 title: Junior Chem-E-Car Lab Team 
 img: /assets/images/members/odin.jpg
 email: odin_mebesius@yahoo.ca
