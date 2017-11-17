@@ -2,6 +2,8 @@
 layout: member
 weight: 100
 name: Ophela Zhang
+project: algae
+subweight: 10
 title: Algae Project Lead
 img: /assets/images/members/ophela.jpg
 email: algae@ubcenvision.com

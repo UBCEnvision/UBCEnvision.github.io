@@ -2,6 +2,8 @@
 layout: member
 weight: 800
 name: Manisha Walia
+project: algae
+subweight: 10
 title: Algae Biofuel Team
 img: /assets/images/members/manisha.jpg
 email: wmanisha@alumni.ubc.ca
