@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: member
 weight: 400
 project: flowcell
 name: Shirley Zhang
