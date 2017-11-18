@@ -2,10 +2,10 @@ require 'yaml'
 
 describe "Members" do
   let(:member_keys) { ["layout", "name", "title", "img", "biography", "linkedin"] }
-  let(:member) {Dir["_members/*.md"]}
+  let(:members) {Dir["_members/*.md"]}
 
   it "should have the right layout" do
-    member.each do |member|
+    members.each do |member|
       array = front_matter(member)
       expect(array['layout']).to eq("member"),
         "The member #{member} layout should be 'member', but found #{array['layout']}"
@@ -13,7 +13,7 @@ describe "Members" do
   end
 
   it "should have the right variables" do
-    member.each do |member|
+    members.each do |member|
       array = front_matter(member)
       expect(array.keys).to include(*member_keys),
         "The member #{member} is missing one or more variables in #{member_keys}"
