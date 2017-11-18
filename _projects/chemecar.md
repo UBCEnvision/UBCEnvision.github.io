@@ -1,5 +1,6 @@
 ---
 layout: project
+project: chemecar
 title: Flow-Assisted Batteries
 image: /assets/images/wind.jpg
 permalink: /chemecar/
