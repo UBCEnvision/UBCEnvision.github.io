@@ -1,7 +1,10 @@
 ---
 layout: project
+project: algae
 title: Algal Wastewater Treatment and Biofuels
 image: /assets/images/algae.jpg
+permalink: /algae/
+
 headline: Maximizing Potential of Microalgae
 description: Biofuels are fuels derived from biological sources; their renewable nature makes them a promising alternative to fossil fuels. Since the 1950s, algae has been commercially cultivated (mainly for pharmaceutical products) and  recently gained attention as a potential biofuel source. However, due to the price of production, it creates a big limitation for the utilization of algae biofuels.  Join us as we work to offset the production cost of algae biofuels by combining algae growth with wastewater treatment and simultaneously extracting carbohydrates and lipids to produce two different types of biofuels.
 box: >

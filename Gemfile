@@ -32,4 +32,5 @@ group :development, :test do
 	gem 'capybara'
 	gem 'poltergeist'
 	gem "rack-jekyll"
+	gem 'mini_magick'
 end
