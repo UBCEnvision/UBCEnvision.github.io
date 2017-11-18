@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 title:  "1st Place Award for Chem-E-Quiz in Barcelona"
 date:   2017-10-01
 ---

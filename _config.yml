@@ -33,7 +33,7 @@ collections:
   members:
     output: true
     permalink: /members/:path/
-
+    
 exclude: [vendor]
 include: ["_pages", "_projects"]
 

@@ -1,23 +1,24 @@
 ---
 layout: default
-permalink: /news/
+permalink: /blog/
 ---
 
 <section class="wrapper style1 content-align-left">
   <div class="inner">
       <header>
-          <h1>Envision <strong>News</strong></h1>
+          <h1>Envision <strong>Blog</strong></h1>
       </header>
 
       <div class="index align-left">
-      {% for news in site.categories.news %}
+      {{ site.categories }}
+      {% for post in site.categories.posts %}
       <section>
         <header>
-          <h3>{{ news.date | date_to_long_string }}</h3>
+          <h3>{{ post.date | date_to_long_string }}</h3>
         </header>
         <div class="content">
-          <p class="major"><a href="{{ news.url }}">{{ news.title }}</a></p>
-          {{ news.excerpt }}
+          <p class="major"><a href="{{ post.url }}">{{ post.title }}</a></p>
+          {{ post.excerpt }}
         </div>
       </section>
       {% endfor %}

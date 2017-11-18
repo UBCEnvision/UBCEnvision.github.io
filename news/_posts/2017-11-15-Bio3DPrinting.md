@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 title:  "Printing the Future of Therapeutics in 3D, International Research Roundtable."
 date:   2017-05-03
 ---
