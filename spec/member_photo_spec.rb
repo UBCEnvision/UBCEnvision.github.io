@@ -1,7 +1,7 @@
 require "mini_magick"
 
 describe "Member Photos" do
-  let(:photos) {Dir["assets/images/members/*.jpg"]}
+  let(:photos) {Dir["assets/images/members/*"]}
 
   it "should be square" do
     photos.each do |photo|
