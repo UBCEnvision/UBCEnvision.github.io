@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: member
 weight: 900
 name: Odin Mebesius
 project: chemecar
