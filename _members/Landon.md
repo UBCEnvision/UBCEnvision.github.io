@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 100
+weight: 400
 project: beer
 subweight: 10
 name: Landon Jackson
