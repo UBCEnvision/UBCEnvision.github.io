@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: member
 weight: 100
+project: beer
 name: Alan Vilchis
 title: App Team Co-Lead
 img: /assets/images/members/alan.jpg
