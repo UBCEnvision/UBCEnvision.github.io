@@ -15,5 +15,5 @@ RSpec.configure do |config|
   # set up capybara and register the jekyll site via rack
   Capybara.current_driver = :poltergeist
   Capybara.javascript_driver = :poltergeist
-  Capybara.app = Rack::Jekyll.new(:force_build => false)
+  Capybara.app = Rack::Jekyll.new(:force_build => true)
 end
