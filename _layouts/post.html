@@ -1,26 +1,44 @@
 ---
 layout: default
 ---
+{% include mathjax.html %}
+
+{% assign author_array = "" | split: "," %}
+{% for name in page.author %}
+  {% assign author = site.members | where:"name", name | first %}
+  {% if author == null %}
+  {% assign author_array = author_array | push: name %}
+  {% else %}
+  {% capture link %}<a href="{{ author.url }}">{{ author.name }}</a>{% endcapture %}
+  {% assign author_array = author_array | push: link %}
+  {% endif %}
+{% endfor %}
 
 <section class="wrapper style1 content-align-left">
   <div class="inner">
-    <header>
-      <a href="/news/"><h4>Envision <strong>News</strong></h4></a>
-      <h2 class="post-title">{{ page.title }}</h2>
-      <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <header class="align-center box no-mathjax">
+      <p><a href="/blog/"><h3>Envision <strong>Blog</strong></h3></a></p>
+      <h1 id="post-title">{{ page.title }}</h1>
+      <p id="post-author">By 
+        {{ author_array | join: ', ' }}
+      </p>
+      <p><small>{{ page.date | date: "%b %-d, %Y" }}</small></p>
     </header>
 
-    <section class="style1 wrapper container">
+    <section class="style1 wrapper container blog-contents mathjax">
       {{ content }}
     </section>
       
       <footer>
+        <hr>
+        <p>Like this article? <b>Read More</b>:</p>
         <ul class="actions small">
           {% if page.previous %}
-          <li><a href="{{ page.previous.url }}" class="button small">&larr; Previous post</a></li>
+          <li><a href="{{ page.previous.url }}" class="button small">&larr; Previous Post</a></li>
           {% endif %}
+          <li><a href="/blog/" class="button special small">Back To Blog</a></li>
           {% if page.next %}
-          <li> <a href="{{ page.next.url }}" class="button small">Next post &rarr;</a></li>
+          <li> <a href="{{ page.next.url }}" class="button small">Next Post &rarr;</a></li>
           {% endif %}
         </ul>
       </footer>

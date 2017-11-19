@@ -21,6 +21,25 @@
           transform-origin: 100% 0;
 }
 
+.blog-contents h1, h2, h3, h4{
+	font-weight: 600;
+	line-height: 2em;
+}
+
+.blog-contents h1{
+	font-size: 45px;
+}
+
+.blog-contents p{
+	font-size: 21px;
+	line-height: 1.8em;
+}
+
+
+#post-title{
+	font-weight: 800;
+}
+
 
 #header {
 	background: white;

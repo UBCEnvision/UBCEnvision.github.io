@@ -10,14 +10,14 @@ permalink: /news/
       </header>
 
       <div class="index align-left">
-      {% for post in site.posts %}
+      {% for news in site.categories.news %}
       <section>
         <header>
-          <h3>{{ post.date | date_to_long_string }}</h3>
+          <h3>{{ news.date | date_to_long_string }}</h3>
         </header>
         <div class="content">
-          <p class="major"><a href="{{ post.url }}">{{ post.title }}</a></p>
-          {{ post.excerpt }}
+          <p class="major"><a href="{{ news.url }}">{{ news.title }}</a></p>
+          {{ news.excerpt | truncatewords: 70}}
         </div>
       </section>
       {% endfor %}

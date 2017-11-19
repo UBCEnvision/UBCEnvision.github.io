@@ -1,0 +1,38 @@
+---
+layout: default
+permalink: /blog/
+---
+
+<section class="wrapper style1 content-align-left">
+  <div class="inner">
+      <header>
+          <h1>Envision <strong>Blog</strong></h1>
+      </header>
+
+      <div class="index align-left">
+      {% for post in site.categories.blog %}
+      {% assign author_array = "" | split: "," %}
+      {% for name in post.author %}
+        {% assign author = site.members | where:"name", name | first %}
+        {% if author == null %}
+        {% assign author_array = author_array | push: name %}
+        {% else %}
+        {% capture link %}<a href="{{ author.url }}">{{ author.name }}</a>{% endcapture %}
+        {% assign author_array = author_array | push: link %}
+        {% endif %}
+      {% endfor %}
+      <section>
+        <header>
+          <h3>{{ post.date | date_to_long_string }}</h3>
+        </header>
+        <div class="content">
+          <h3><a href="{{ post.url }}"><b>{{ post.title }}</b></a></h3>
+          <p class="major">By <i>{{ author_array | join: ', ' }}</i></p>
+          {{ post.excerpt | strip_html | truncatewords: 70}}
+        </div>
+      </section>
+      {% endfor %}
+      </div>
+
+  </div>
+</section>
