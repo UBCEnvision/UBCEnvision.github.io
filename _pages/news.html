@@ -17,7 +17,7 @@ permalink: /news/
         </header>
         <div class="content">
           <p class="major"><a href="{{ news.url }}">{{ news.title }}</a></p>
-          {{ news.excerpt }}
+          {{ news.excerpt | truncatewords: 70}}
         </div>
       </section>
       {% endfor %}

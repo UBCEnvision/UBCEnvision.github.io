@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 title:  "First Junior Team Taking On AIChE Regionals!"
 date:   2017-04-24
 ---
