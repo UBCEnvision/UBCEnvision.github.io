@@ -21,16 +21,16 @@
           transform-origin: 100% 0;
 }
 
-.blog-contents h1, h2, h3, h4{
+#blog-content h1,#blog-content h2, #blog-content h3, #blog-content h4{
 	font-weight: 600;
 	line-height: 2em;
 }
 
-.blog-contents h1{
+#blog-content h1{
 	font-size: 45px;
 }
 
-.blog-contents p{
+#blog-content p{
 	font-size: 21px;
 	line-height: 1.8em;
 }
