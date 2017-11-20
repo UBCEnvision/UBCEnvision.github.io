@@ -2,7 +2,7 @@ require 'yaml'
 
 describe "Blog Articles" do
   let(:article_keys) { ["layout", "title", "date", "author"] }
-  let(:articles) {Dir["/blog/_posts/*.md"]}
+  let(:articles) {Dir["blog/_posts/*.md"]}
 
   it "should have the right layout" do
     articles.each do |article|
