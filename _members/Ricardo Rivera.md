@@ -1,4 +1,4 @@
-﻿---
+---
 layout: member
 weight: 100
 name: Ricardo Rivera
