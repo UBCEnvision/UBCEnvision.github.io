@@ -2,6 +2,7 @@
 layout: member
 weight: 400
 name: Ricardo Rivera
+project: beer
 title: App Team Co-Lead
 img: /assets/images/members/ricardo.jpg
 email: rrivera2497@gmail.com
