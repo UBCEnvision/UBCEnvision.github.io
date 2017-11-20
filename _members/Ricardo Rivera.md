@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 100
+weight: 400
 name: Ricardo Rivera
 title: App Team Co-Lead
 img: /assets/images/members/ricardo.jpg
