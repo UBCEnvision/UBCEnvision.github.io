@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 100
+weight: 800
 name: Sandhya Selvakumar
 project: algae
 subweight: 10
