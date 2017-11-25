@@ -1,4 +1,4 @@
-﻿---
+---
 layout: member
 weight: 800
 name: Alan Vilchis
