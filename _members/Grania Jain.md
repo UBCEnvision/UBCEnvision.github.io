@@ -4,7 +4,7 @@ weight: 800
 name: Grania Jain
 project: chemecar
 subweight: 10
-title: Junior Team Captain: Chem-E-Car
+title: Junior Team Captain
 img: /assets/images/members/grania.jpg
 email: graniajain@gmail.com
 biography: >
