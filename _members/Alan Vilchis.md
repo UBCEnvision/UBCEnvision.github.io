@@ -1,8 +1,9 @@
-﻿---
-
+---
 layout: post
-weight: 100
+weight: 800
 name: Alan Vilchis
+project: beer
+subweight: 10
 title: App Team Co-Lead
 img: /assets/images/members/alan.jpg
 email: alan.vilchis@hotmail.com
