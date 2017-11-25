@@ -1,6 +1,6 @@
 ---
-layout: post
-weight: 100
+layout: member
+weight: 800
 name: Pranav Misri
 project: chemecar
 subweight: 10
