@@ -1,8 +1,9 @@
-﻿---
-
-layout: post
-weight: 100
+---
+layout: member
+weight: 800
 name: Jordan Wright
+project: flowcell
+subweight: 10
 title: Flow Cell Chem Co-lead
 img: /assets/images/members/jordanw.jpg
 email: jordanwright@alumni.ubc.ca
