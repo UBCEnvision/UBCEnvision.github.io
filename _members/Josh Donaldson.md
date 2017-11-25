@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 500
+weight: 100
 project: beer
 subweight: 10
 name: Josh Donaldson
