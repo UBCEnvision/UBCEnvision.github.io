@@ -1,1 +1,0 @@
-Jacky Yu is a first-year engineering student who is part of the chemical team for the flow cell project. He is creative, ambitious and wants to help with the development of the sustainable energy sector. He believes that clean energy is required to sustain a modern society and to prevent further deterioration of our planet's natural beauty.
