@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 100
+weight: 800
 name: Ricardo Rivera
 project: beer
 subweight: 10
