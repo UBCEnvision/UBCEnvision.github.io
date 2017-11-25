@@ -68,7 +68,7 @@ permalink: /
 		<h4 class="major">We send our best members to many different competitions, conferences and on-campus events every year to learn, compete and network, bringing valuable experience and ideas back to the team.</h4>
 		<p class="align-left">Find out more about our projects and achievements:</p>
 		<div class="index align-left onload-content-fade-right">
-		{% for post in site.posts limit:3 %}
+		{% for post in site.categories.news limit:3 %}
 		<section>
 			<header>
 				<h3>{{ post.date | date_to_long_string }}</h3>
