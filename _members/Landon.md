@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: member
 weight: 800
 name: Landon Jackson
+project: beer
 title: Brewing Team Lead
 img: /assets/images/members/landon.jpg
 email: jacksonlandon117@gmail.combiography: >
