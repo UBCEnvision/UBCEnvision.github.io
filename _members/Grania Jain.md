@@ -1,5 +1,4 @@
-﻿---
-
+---
 layout: member
 weight: 100
 name: Grania Jain
