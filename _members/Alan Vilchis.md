@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: member
 weight: 800
 name: Alan Vilchis
 project: beer
