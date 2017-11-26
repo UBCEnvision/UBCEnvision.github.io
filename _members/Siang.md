@@ -1,8 +1,8 @@
 ---
 layout: member
 weight: 200
+status: alumni
 name: Siang Lim
-status: founder
 title: Director
 img: /assets/images/members/siang.png
 website: https://www.siang.ca
