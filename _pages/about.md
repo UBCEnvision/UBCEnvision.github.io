@@ -11,6 +11,13 @@ In 2015, we've received an explosion in interest and membership in our team due 
 
 Fast forward to 2017, the former UBC Chem-E-Car team is now part of UBC Envision, an umbrella organization for all our projects. We started the 2017-2018 academic year strong, with 50 new and returning members across 5 projects, increased faculty engagement and a new name that reflects the breadth and diversity of our team.
 
+Check out our blog and news page to see what we are working on:
+
+<ul class="actions">
+	<li><a href="/blog/" class="button medium wide">Blog</a></li>
+	<li><a href="/news/" class="button medium wide">News</a></li>
+</ul>
+
 ## Team
 We have over 50 enthusiastic students who are excited about technology, innovation and engineering. Meet our [team](/team/) members.
 
@@ -19,7 +26,11 @@ We have over 50 enthusiastic students who are excited about technology, innovati
 </ul>
 
 ## Recruitment
-Thank you for your interest in UBC Envision! We are currently do not have any openings, but please stay tuned for our 2017/2018 Term 2 recruitment information. Please feel free to reach out to us at <b>contact@ubcenvision.com</b> if you have any questions.
+Thank you for your interest in UBC Envision! Please see our recruitment page for the latest information:
+
+<ul class="actions">
+	<li><a href="/recruitment/" class="button medium wide">Recruitment</a></li>
+</ul>
 
 ## Contact Information
 Please email us at <b>contact@ubcenvision.com</b> for any general inquiries. If you are looking to contact a specific team or team member, please refer to the [team](/team/) page for their email addresses.
