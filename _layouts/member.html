@@ -22,26 +22,64 @@ layout: default
         </header>     
         <div class="content align-left">
           {{ page.biography }}
-          <hr>
-          <h5><b>Contact Information</b></h5>
-          {% if page.email %}
-          <h4>
-            <i class="fa fa-envelope"></i> 
-            <a href="mailto:{{page.email}}">{{page.email}}</a>
-          </h4>
-          {% endif %}         
-          <ul class="icons">
-          {% if page.linkedin %}
-            <li><a href="{{ page.linkedin }}" class="icon style2 fa fa-linkedin" target="_blank"></a></li>
-          {% endif %}
-          {% if page.email %}
-            <li><a href="mailto:{{ page.email }}" class="icon style2 fa fa-envelope" target="_blank"></a></li>
-          {% endif %}            
-          {% if page.website %}
-            <li><a href="{{ page.website }}" class="icon style2 fa fa-home" target="_blank"></a></li>
-          {% endif %}
-          </ul> 
-        </div>                     
+          <div class="index">
+            <section>
+              <header>
+                <h5><b>Contact Information</b></h5>
+              </header>
+              <div class="content">
+                {% if page.email %}
+                <h4>
+                  <i class="fa fa-envelope"></i> 
+                  <a href="mailto:{{page.email}}">{{page.email}}</a>
+                </h4>
+                {% endif %}         
+                <ul class="icons">
+                {% if page.linkedin %}
+                  <li><a href="{{ page.linkedin }}" class="icon style2 fa fa-linkedin" target="_blank"></a></li>
+                {% endif %}
+                {% if page.email %}
+                  <li><a href="mailto:{{ page.email }}" class="icon style2 fa fa-envelope" target="_blank"></a></li>
+                {% endif %}            
+                {% if page.website %}
+                  <li><a href="{{ page.website }}" class="icon style2 fa fa-home" target="_blank"></a></li>
+                {% endif %}
+                </ul> 
+              </div>
+            </section>
+          </div>
+
+          {% assign articles_with_author =  site.categories.blog | where_exp:"article", "article.author contains page.name" %}
+          {% unless articles_with_author.size == 0 %}
+            <div class="index">
+              <section>
+                <header>
+                  <h5><b>Contributed Articles</b></h5>
+                </header>
+                <div class="content">
+                <ol>
+                {% for post in articles_with_author %}
+                  {% assign author_array = "" | split: "," %}
+                  {% for name in post.author %}
+                    {% assign author = site.members | where:"name", name | first %}
+                    {% if author == null %}
+                    {% assign author_array = author_array | push: name %}
+                    {% else %}
+                    {% capture link %}<a href="{{ author.url }}">{{ author.name }}</a>{% endcapture %}
+                    {% assign author_array = author_array | push: link %}
+                    {% endif %}
+                  {% endfor %}                                   
+                  <li>
+                    <h4><b><a href="{{ post.url }}">{{ post.title }}</a></b></h4>
+                    <p>{{ post.date | date: "%b %-d, %Y"}} &middot; <i>{{ author_array | array_to_sentence_string }}</i></p>
+                  </li>
+                {% endfor %}
+                </ol>
+                </div>
+              </section>
+            </div>
+          {% endunless %}
+        </div>                    
       </section>
     </div>
 </div>
