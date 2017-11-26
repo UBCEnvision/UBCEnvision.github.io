@@ -2,8 +2,15 @@ require 'yaml'
 
 describe "Blog Articles" do
   let(:article_keys) { ["layout", "title", "date", "author"] }
-  let(:articles) {Dir["blog/_posts/*.md"]}
+  let(:articles) {Dir["blog/_posts/*"]}
 
+  it "should have the right extension" do
+    articles.each do |article|
+      expect(File.extname(article)).to eq(".md"),
+        "Wrong file extension for #{article}, should be .md, but found #{File.extname(article)}"
+    end
+  end
+  
   it "should have the right layout" do
     articles.each do |article|
       array = front_matter(article)
