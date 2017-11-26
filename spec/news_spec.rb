@@ -2,7 +2,14 @@ require 'yaml'
 
 describe "News Articles" do
   let(:article_keys) { ["layout", "title", "date"] }
-  let(:articles) {Dir["news/_posts/*.md"]}
+  let(:articles) {Dir["news/_posts/*"]}
+
+  it "should have the right extension" do
+    articles.each do |article|
+      expect(File.extname(article)).to eq(".md"),
+        "Wrong file extension for #{article}, should be .md, but found #{File.extname(article)}"
+    end
+  end
 
   it "should have the right layout" do
     articles.each do |article|
