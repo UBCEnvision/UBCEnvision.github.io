@@ -1,6 +1,6 @@
 ---
 layout: info
-title: UBC Envision Recruitment
+title: Recruitment
 permalink: /recruitment/
 ---
 
