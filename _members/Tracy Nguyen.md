@@ -2,7 +2,7 @@
 layout: member
 weight: 800
 name: Tracy Nguyen
-title: Algae Biofuels Team Member
+title: Algae Biofuel Team
 project: algae
 subweight: 10
 img: /assets/images/members/tracy.jpg
