@@ -16,31 +16,68 @@ layout: default
 
 <section class="wrapper style1 content-align-left">
   <div class="inner">
-    <header class="align-center box no-mathjax">
-      <p><a href="/blog/"><h3>Envision <strong>Blog</strong></h3></a></p>
+    <p><a href="/blog/"><h3>Envision <strong>Blog</strong></h3></a></p>
+    <header class="align-center box no-mathjax blog-header">
       <h1 id="post-title">{{ page.title }}</h1>
       <p id="post-author">By 
-        {{ author_array | join: ', ' }}
+        {{ author_array | array_to_sentence_string }}
       </p>
       <p><small>{{ page.date | date: "%b %-d, %Y" }}</small></p>
     </header>
 
-    <section id="blog-content" class="style1 wrapper container mathjax">
-      {{ content }}
+    <div class="index">
+    <section>
+      <div class="content blog-container">
+        <section id="blog-content" class="style1 wrapper container mathjax">
+          {{ content }}
+        </section>
+      </div>
+      <header>
+        {% assign author_box = "" | split: ":" %}
+        {% for name in page.author %}
+          {% assign author = site.members | where:"name", name | first %}
+          {% if author == null %}
+          {% capture div %}
+          <div class="box align-center">
+            <div class="blog-authors">
+            <img alt="{{name}}" src="{{ '/assets/images/members/default.png' | prepend: site.baseurl | prepend: site.url }}" class="img-team img-team-blog" style="vertical-align:middle;"></a>
+            <span class="blog-author-name">{{name}}</span>
+            </div>
+          </div>
+          {% endcapture %}   
+          {% assign author_box = author_box | push: div %}       
+          {% else %}
+          {% capture div %}
+          <div class="box align-center">
+            <div class="blog-authors">
+            <a href="{{ author.url }}"><img alt="{{author.name}}" src="{{ author.img | prepend: site.baseurl | prepend: site.url }}" class="img-team img-team-blog" style="vertical-align:middle;"></a>
+            <span class="blog-author-name"><a href="{{ author.url }}"><h5><b>{{ author.name }}</b></h5></a></span>
+            </div>
+            <p class="align-left blog-author-text">{{ author.biography | truncatewords: 20 }}</p>
+          </div>
+          {% endcapture %}
+          {% assign author_box = author_box | push: div %}
+          {% endif %}
+        {% endfor %}        
+        <h4>Written with :heart: by</h4>
+        {{ author_box }}
+      </header>      
     </section>
+    </div>
+
       
-      <footer>
-        <hr>
-        <p>Like this article? <b>Read More</b>:</p>
-        <ul class="actions small">
-          {% if page.previous %}
-          <li><a href="{{ page.previous.url }}" class="button small">&larr; Previous Post</a></li>
-          {% endif %}
-          <li><a href="/blog/" class="button special small">Back To Blog</a></li>
-          {% if page.next %}
-          <li> <a href="{{ page.next.url }}" class="button small">Next Post &rarr;</a></li>
-          {% endif %}
-        </ul>
-      </footer>
+    <footer>
+      <hr>
+      <p>Like this article? <b>Read More</b>:</p>
+      <ul class="actions small">
+        {% if page.previous %}
+        <li><a href="{{ page.previous.url }}" class="button small">&larr; Previous Post</a></li>
+        {% endif %}
+        <li><a href="/blog/" class="button special small">Back To Blog</a></li>
+        {% if page.next %}
+        <li> <a href="{{ page.next.url }}" class="button small">Next Post &rarr;</a></li>
+        {% endif %}
+      </ul>
+    </footer>
   </div>
 </section>

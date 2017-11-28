@@ -34,3 +34,11 @@ Thank you for your interest in UBC Envision! Please see our recruitment page for
 
 ## Contact Information
 Please email us at <b>contact@ubcenvision.com</b> for any general inquiries. If you are looking to contact a specific team or team member, please refer to the [team](/team/) page for their email addresses.
+
+<p>
+	<b>UBC Envision</b> <br>
+	Chemical and Biological Engineering Building <br>
+	2360 East Mall <br>
+	Vancouver V6T 1Z3 <br>
+	British Columbia, Canada
+</p>

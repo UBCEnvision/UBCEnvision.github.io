@@ -26,8 +26,19 @@
 	line-height: 2em;
 }
 
+.footer-li{
+	margin:0 0 10px 0;
+}
+.blog-container{
+	margin-right: 5%;
+}
+
 #blog-content h1{
-	font-size: 45px;
+	font-size: 2em;
+}
+
+#blog-content h2{
+	font-size: 1.8em;
 }
 
 #blog-content p{
@@ -35,9 +46,22 @@
 	line-height: 1.8em;
 }
 
+#blog-content img{
+	max-width: 80%;
+	display: block; 
+	margin: 0 auto;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
 
 #post-title{
 	font-weight: 800;
+	font-size: 2em;
+}
+
+#post-author{
+	font-weight: 300;
+	font-size: 1em;
 }
 
 
@@ -55,11 +79,27 @@
 	z-index: 10000;
 }
 
+.blog-authors{
+	display:flex;
+    align-items:center;
+    margin-bottom: 20px;
+}
+
+.blog-author-text{
+	font-size: 0.8em;
+}
 
 .img-team {
 	width: 110px; 
 	height: 110px;
 	border-radius: 50%;
+}
+
+.img-team-blog{
+	width: 80px;
+	height: 80px;
+	margin-right: 10px;
+	margin-bottom: 10px;
 }
 
 .img-profile-page{
