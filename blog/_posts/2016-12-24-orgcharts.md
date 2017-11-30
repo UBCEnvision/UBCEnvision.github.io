@@ -12,7 +12,7 @@ For our [team page](/team/), we wanted to embed a dynamic orgchart that would be
 
 If all goes well, you should get something like this, with the names, roles and relationships defined in a Google Sheet:
 
-<img src="/assets/images/blog/orgcharts/1.png" width="100%" alt="1">
+<img src="/assets/images/blog/orgcharts/1.png" alt="Orgchart">
 
 ## How it works
 We will be using the `orgchart` package in Google Charts. Our implementation will be somewhat similar to the [example](https://developers.google.com/chart/interactive/docs/gallery/orgchart) in the Google Charts documentation, but instead of hardcoding the values in JavaScript, we will grab them dynamically from a Google Sheet data source.
@@ -36,7 +36,7 @@ We will be using the `orgchart` package in Google Charts. Our implementation wil
 
 Once you're done, your Google Sheet should look something like this:
 
-<img src="/assets/images/blog/orgcharts/2.png" width="50%" alt="2">
+<img src="/assets/images/blog/orgcharts/2.png" alt="2">
 
 ### Grab your Google Sheet data in JSON format
 - Once that's done, click the big blue share button on the top right corner of the screen and change the sharing settings to 'Anyone with the link **Can View**'. Copy the URL for your Google Sheet from your browser, it should look something like this:
@@ -150,7 +150,7 @@ chart.draw(data, {allowHtml:true, 'size': 'large'});
 
 So far, we've managed to display our org chart, but we haven't added the formatting yet. 
 
-<img src="/assets/images/blog/orgcharts/3.png" width="100%" alt="3">
+<img src="/assets/images/blog/orgcharts/3.png" alt="3">
 
 To change the text color for the roles in the box, we need to add some CSS. Let's modify the head section in the code above:
 
@@ -167,7 +167,7 @@ To change the text color for the roles in the box, we need to add some CSS. Let'
 
 You should now see the font size and colors updated for the roles if you refresh your page:
 
-<img src="/assets/images/blog/orgcharts/4.png" width="100%" alt="4">
+<img src="/assets/images/blog/orgcharts/4.png" alt="4">
 
 That's it! Using CSS, you can also style the names by wrapping them with div tags. You can also play around with the box colors, font size and anything else in the org chart. Refer to the Google Charts [documentation](https://developers.google.com/chart/interactive/docs/gallery/orgchart) for further information.  
 
