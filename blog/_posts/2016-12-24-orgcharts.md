@@ -10,10 +10,6 @@ The [Google Chart](https://developers.google.com/chart/interactive/docs/) librar
 
 For our [team page](/team/), we wanted to embed a dynamic orgchart that would be updated automatically using values stored in a Google Docs 'database'. Finding online tutorials for this was a bit challenging, so here's our implementation.
 
-If all goes well, you should get something like this, with the names, roles and relationships defined in a Google Sheet:
-
-<img src="/assets/images/blog/orgcharts/1.png" alt="Orgchart">
-
 ## How it works
 We will be using the `orgchart` package in Google Charts. Our implementation will be somewhat similar to the [example](https://developers.google.com/chart/interactive/docs/gallery/orgchart) in the Google Charts documentation, but instead of hardcoding the values in JavaScript, we will grab them dynamically from a Google Sheet data source.
 
