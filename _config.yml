@@ -19,7 +19,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jemoji
-
+highlighter: rouge
 collections:
   members:
     output: true
