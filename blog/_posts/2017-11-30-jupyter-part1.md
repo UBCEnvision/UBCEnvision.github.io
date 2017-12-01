@@ -63,7 +63,7 @@ def getHourlyData(stationID, year, month):
 
 To get data for all 12 months, we just need to create a loop to grab the individual DataFrames and then use `pd.concat` to merge it all together.
 
-```
+```python
 stationID = 51442
 year = 2016
 
@@ -80,7 +80,7 @@ What if you wanted to collect weather data from June 2015 to June 2016? Instead 
 
 Using [rrule](http://dateutil.readthedocs.io/en/stable/rrule.html), which is part of `dateutil`, we can loop through the correct months easily just by defining a start date and and ending date and using the `rrule.MONTHLY` frequency.
 
-```
+```python
 from datetime import datetime
 from dateutil import rrule
 
@@ -104,7 +104,7 @@ A boolean index is an array of True and False values corresponding to each row. 
 
 Here's an example of a filter that will select data between a date range of September 2015 and November 2015.
 
-```
+```python
 start_date = datetime.strptime('Sep2015', '%b%Y')
 end_date = datetime.strptime('Nov2015', '%b%Y')
 
@@ -117,24 +117,25 @@ But if we try to run it, we will get an error:
 
 Python is complaining that we are comparing a string with a datetime object. To figure out why, let's check the column datatype using:
 
-```
+```python
 weather_data['Date/Time'].dtype
 ```
 
 The command returned `dtype('O')`, telling us that the column contains Python objects and not datetime objects. This is an easy fix, we just need pandas to convert the column to a datetime data type using `pd.to_datetime`:
 
-```
+```python
 weather_data['Date/Time'] = pd.to_datetime(weather_data['Date/Time'])
 ```
 We'll need to do convert the data type for the other columns too, for example, the temperature column contains numeric data, so we'll use `pd.numeric`:
 
-```
+```python
 weather_data['Temp (°C)'] = pd.to_numeric(weather_data['Temp (°C)'])
 ```
 
 I only need the temperatures but you need to do this for all the columns that you'll be using in your own analysis.
 
 Finally, if we apply the index on our weather data, we will get the filtered data that's between the date range we've previously specified.
-```
+
+```python
 filtered_weather = weather_data[data_filter]
 ```
