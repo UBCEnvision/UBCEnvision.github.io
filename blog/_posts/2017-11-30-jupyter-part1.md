@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exploring Environment Canada Weather Data with Jupyter Notebooks --- Part I: Data Extraction & Cleaning"
+title: "Exploring Environment Canada Weather Data with Jupyter Notebooks, Part I: Data Extraction & Cleaning"
 date: "2017-11-30"
 author: ["Siang Lim"]
 ---
