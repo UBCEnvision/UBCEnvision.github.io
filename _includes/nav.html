@@ -1,10 +1,27 @@
-<header id="header">
-	<a href="/"><img alt="envision" class="header-logo header-logo-nav" src="/assets/images/envision.png"></a>
-	<!-- <h1 id="logo"><a href="/">UBC <span>Envision</span></a></h1> -->
-	<nav id="nav">
-		<ul>
-			<li><a href="/about/">About Us</a></li>
-			<li><a href="/news/">News</a></li>
+<nav>
+<ul>
+	<li><a href="/"><img alt="envision" class="header-logo header-logo-nav" src="/assets/images/envision.png"></a></li>
+    {% for item in site.data.nav.pages %}
+      <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+    {% endfor %}
+</ul>
+<div class="button-nav">
+	<a class="btn-open" href="#"></a>
+</div>
+</nav>
+<div class="overlay">
+	<div class="wrap">
+		<ul class="wrap-nav">
+			<li>
+			<ul>
+			    {% for item in site.data.nav.pages %}
+			      <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+			    {% endfor %}
+			</ul>
+			</li>
 		</ul>
-	</nav>
-</header>
+		<div class="social">
+			<p>&copy; UBC Envision Engineering Design Team | <a target="_blank" href="https://html5up.net">Theme</a> | <a target="_blank" href="https://www.siang.ca/">Dev</a></p>
+		</div>
+	</div>
+</div>

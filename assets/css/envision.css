@@ -1,3 +1,6 @@
+/* Custom CSS modifying Story for the Envision site */
+
+/* Angled footer container */
 .edge--top {
   position: relative;
   z-index: 1;
@@ -21,14 +24,16 @@
           transform-origin: 100% 0;
 }
 
+.footer-li{
+	margin:0 0 10px 0;
+}
+
+/*Blog formatting*/
 #blog-content h1,#blog-content h2, #blog-content h3, #blog-content h4{
 	font-weight: 600;
 	line-height: 2em;
 }
 
-.footer-li{
-	margin:0 0 10px 0;
-}
 .blog-container{
 	margin-right: 5%;
 	overflow: hidden;
@@ -65,7 +70,6 @@
 	font-size: 1em;
 }
 
-
 #header {
 	background: white;
 	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.075);
@@ -90,6 +94,7 @@
 	font-size: 0.8em;
 }
 
+/*Image formatting for team photos*/
 .img-team {
 	width: 110px; 
 	height: 110px;
@@ -177,17 +182,18 @@
     transform: scale(1);	
 }
 
+/*Logo sizing*/
 .header-logo-info-page{
 	width: 250px;
 }
 
 .header-logo:hover {
 	transition: all .4s ease;
-    transform:scale(1.5);
-    -ms-transform:scale(1.5); /* IE 9 */
-    -moz-transform:scale(1.5); /* Firefox */
-    -webkit-transform:scale(1.5); /* Safari and Chrome */
-    -o-transform:scale(1.5); /* Opera */
+    transform:scale(1.2);
+    -ms-transform:scale(1.2); /* IE 9 */
+    -moz-transform:scale(1.2); /* Firefox */
+    -webkit-transform:scale(1.2); /* Safari and Chrome */
+    -o-transform:scale(1.2); /* Opera */
 }
 
 .header-logo-footer {
@@ -199,8 +205,8 @@
 }
 
 .header-logo-nav {
-	width: 105px !important; 
-	margin-top: 5px !important;
+	width: 100px !important; 
+	margin-top: 0px !important;
 	margin-bottom: 0px !important;
 }
 
@@ -208,105 +214,3 @@
 	-webkit-filter: brightness(1.0);
 	filter: brightness(1.0);
 }
-
-#header h1 {
-	font-size: 1.5em;
-	font-weight: 900;
-	margin: 0;
-}
-
-	#header h1 span {
-		font-weight: 300;
-	}
-
-	#header nav {
-		letter-spacing: 0.075em;
-		position: absolute;
-		right: 1.5em;
-		text-transform: uppercase;
-		top: 1.1em;
-	}
-
-		#header nav ul li {
-			display: inline-block;
-			margin-left: 1.5em;
-		}
-
-			#header nav ul li > ul {
-				display: none;
-			}
-
-			#header nav ul li a {
-				border: solid 1px transparent;
-				color: inherit;
-				display: inline-block;
-				line-height: 1em;
-				padding: 0.6em 0.75em;
-				text-decoration: none;
-			}
-
-			#header nav ul li input[type="button"],
-			#header nav ul li input[type="submit"],
-			#header nav ul li input[type="reset"],
-			#header nav ul li .button {
-				font-size: 1em;
-				min-width: 0;
-				width: auto;
-			}
-
-			#header nav ul li.submenu > a:before {
-				-moz-osx-font-smoothing: grayscale;
-				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
-				font-style: normal;
-				font-weight: normal;
-				text-transform: none !important;
-			}
-
-			#header nav ul li.submenu > a:before {
-				content: '\f107';
-				margin-right: 0.65em;
-			}
-
-			#header nav ul li.active > a, #header nav ul li:hover > a {
-				-moz-transition: all 0.2s ease-in-out;
-				-webkit-transition: all 0.2s ease-in-out;
-				-o-transition: all 0.2s ease-in-out;
-				-ms-transition: all 0.2s ease-in-out;
-				transition: all 0.2s ease-in-out;
-				background: rgba(188, 202, 206, 0.15);
-			}
-
-			#header nav .cc-active {
-				font-weight: 900;
-			}
-
-	#header.reveal {
-		-moz-animation: reveal-header 0.5s;
-		-webkit-animation: reveal-header 0.5s;
-		-o-animation: reveal-header 0.5s;
-		-ms-animation: reveal-header 0.5s;
-		animation: reveal-header 0.5s;
-	}
-
-	#header.alt {
-		-moz-animation: none;
-		-webkit-animation: none;
-		-o-animation: none;
-		-ms-animation: none;
-		animation: none;
-        background: transparent;
-        box-shadow: none;
-		color: white;
-		padding: 2em 2.5em;
-		position: absolute;
-	}
-
-		#header.alt nav {
-			right: 2.5em;
-			top: 1.75em;
-		}
-
-			#header.alt nav ul li.active > a, #header.alt nav ul li:hover > a {
-				border: solid 1px;
-			}

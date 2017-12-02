@@ -61,3 +61,18 @@
 <script src="/assets/js/util.js"></script>
 <script src="/assets/js/main.js"></script>
 <script src="/assets/js/remodal.min.js"></script>
+
+<!-- Navbar -->
+<script type="text/javascript">
+$(document).ready(function(){
+    $(".button-nav a").click(function(){
+        $(".overlay").fadeToggle(200);
+       $(this).toggleClass('btn-open').toggleClass('btn-close');
+    });
+});
+$('.overlay').on('click', function(){
+    $(".overlay").fadeToggle(200);   
+    $(".button-nav a").toggleClass('btn-open').toggleClass('btn-close');
+    open = false;
+});
+</script>

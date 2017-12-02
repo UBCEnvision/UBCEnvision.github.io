@@ -25,6 +25,13 @@ We have over 50 enthusiastic students who are excited about technology, innovati
 	<li><a href="/team/" class="button medium wide">Meet The Team</a></li>
 </ul>
 
+## Projects
+We have several active projects for 2017-2018: Chem-E-Car, Algae Biofuels, Flow Cell and CHBeer. Find out more about what we are working on:
+
+<ul class="actions">
+	<li><a href="/#projects" class="button medium wide">Projects</a></li>
+</ul>
+
 ## Recruitment
 Thank you for your interest in UBC Envision! Please see our recruitment page for the latest information:
 
