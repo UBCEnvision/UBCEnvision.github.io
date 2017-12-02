@@ -1,4 +1,4 @@
-﻿---
+---
 
 layout: post
 weight: 800
@@ -11,3 +11,5 @@ Matthew Schultz is a 3rd year student in Chemical Engineering.  He is currently 
   
 
 linkedin: https://www.linkedin.com/in/matthew-schultz-89794a151/
+
+---
