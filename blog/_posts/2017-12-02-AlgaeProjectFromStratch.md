@@ -21,7 +21,7 @@ Algal culture begins with a pure stock or starter culture of the algal species d
 
 | Components     | Stock Solution | Quantity     | Molar Concentration in Final Medium |
 |----------------|----------------|--------------|-------------------------------------|
-|    $NaNO_3$       |   75 g/l dH2O  |     1 mL     |             8.82 x 10-4 M           |
+|    NaNO<sub>3       |   75 g/l dH2O  |     1 mL     |             8.82 x 10-4 M           |
 |  $NaH_2PO_4 * H_20$ |    5 g/l dH2O  |     1 mL     |             3.62 x 10-5 M           |
 |    $Na_2CO_3$      |   30 g/l dH2O  |     1 mL     |             1.06 x 10-4 M           |  
 
