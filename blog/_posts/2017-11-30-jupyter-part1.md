@@ -8,7 +8,7 @@ author: ["Siang Lim"]
 ## Introduction
 [Environment Canada](http://climate.weather.gc.ca/) provides reliable weather data for many locations across the country. The data can be accessed as either .CSV or .XML files.
 
-Recently, I worked on a project that required analysis of hourly weather data for multiple years across different cities in British Columbia. The .CSV files provided on the Environment Canada site are aggregated by month, with weather data for January 2015 in one CSV file, February 2015 in another file and so on. For example, [here's the page](http://climate.weather.gc.ca/climate_data/hourly_data_e.html?hlyRange=2013-06-11%7C2017-11-29&dlyRange=2013-06-13%7C2017-11-29&mlyRange=%7C&StationID=51442&Prov=BC&urlExtension=_e.html&searchType=stnName&optLimit=yearRange&StartYear=1840&EndYear=2017&selRowPerPage=25&Line=39&searchMethod=contains&txtStationName=vancouver&timeframe=1&Year=2017&Month=11&Day=1#) to obtain November 2017 weather data for Vancouver, BC.
+Recently, I worked on a project that required analysis of hourly weather data for multiple years across different cities in British Columbia. The .CSV files provided on the Environment Canada site are aggregated by month. For example. weather data for January 2015 will be in one CSV file, data for February 2015 in another file and so on. [Here's the page](http://climate.weather.gc.ca/climate_data/hourly_data_e.html?hlyRange=2013-06-11%7C2017-11-29&dlyRange=2013-06-13%7C2017-11-29&mlyRange=%7C&StationID=51442&Prov=BC&urlExtension=_e.html&searchType=stnName&optLimit=yearRange&StartYear=1840&EndYear=2017&selRowPerPage=25&Line=39&searchMethod=contains&txtStationName=vancouver&timeframe=1&Year=2017&Month=11&Day=1#) to obtain November 2017 weather data for Vancouver, BC.
 
 If I were to download the data manually and use Excel for the job, to complete my analysis for one single year in one city, I'll have to download 12 separate .CSV files, open it up in Excel, copy and paste the relevant cells into a new workbook and clean up any formatting/missing data issues manually. Now imagine repeating that process for multiple years and different cities.
 
@@ -35,7 +35,7 @@ By playing with the parameters, I found that:
 
 - Deleting the `submit` field has no effect on the data retrieval process. 
 - The `timeframe` can accept four different values: `1` for hourly data, `2` for daily data, `3` for monthly data and `4` for almanac.
-- All weather stations are identified by a unique stationID. The easiest way to find the ID is to search for the location [here](http://climate.weather.gc.ca/historical_data/search_historic_data_e.html) and look at the `stationID` field in the data page.
+- All weather stations are identified by a unique stationID. The easiest way to find the ID is to search for the location [here](http://climate.weather.gc.ca/historical_data/search_historic_data_e.html) and look at the `stationID` field in the data page. Alternatively, we can scrape data from Environment Canada and match the station IDs with a name, [scroll down](#Scraping Data) for an example.
 - Deleting the `day` field has no effect since I'm interested in hourly data and setting `timeframe=1` provides me data for the entire month.
  
  This simplifies the data retrieval link to:
@@ -139,3 +139,15 @@ Finally, if we apply the index on our weather data, we will get the filtered dat
 ```python
 filtered_weather = weather_data[data_filter]
 ```
+
+### Scraping Data
+The stationIDs are provided by province in this Environment Canada [page](http://climate.weather.gc.ca/historical_data/search_historic_data_e.html). We can write a simple Python script that loops through all pages and grabs the StationID, Station Name, Intervals and Year Range.
+
+We will be using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) to parse HTML documents and [FuzzWuzzy](https://github.com/seatgeek/fuzzywuzzy) to perform string matching.
+
+Here's a GitHub gist showing how it's done.
+
+<script src="https://gist.github.com/csianglim/9b181977a948aa838a4228a72b7623f3.js"></script>
+
+### What's Next
+Check back soon for Part II on data manipulation and visualization.
