@@ -22,7 +22,7 @@ layout: default
       <p id="post-author">By 
         {{ author_array | array_to_sentence_string }}
       </p>
-      <p><small>{{ page.date | date: "%b %-d, %Y" }}</small></p>
+      <p><small>Published {{ page.date | date: "%b %-d, %Y" }}</small></p>
     </header>
 
     <div class="index">
@@ -30,7 +30,9 @@ layout: default
       <div class="content blog-container">
         <section id="blog-content" class="style1 wrapper container mathjax">
           {{ content }}
+          <hr>
         </section>
+        <div id="disqus_thread"></div>
       </div>
       <header>
         {% assign author_box = "" | split: ":" %}
@@ -59,13 +61,13 @@ layout: default
           {% assign author_box = author_box | push: div %}
           {% endif %}
         {% endfor %}        
-        <h4>Written with :heart: by</h4>
+        <h4 class="author-written">Written with :heart: by</h4>
         {{ author_box }}
-      </header>      
+      </header> 
     </section>
     </div>
 
-    <div id="disqus_thread"></div>
+    
     <script>
 
     var disqus_config = function () {
@@ -87,13 +89,7 @@ layout: default
       <hr>
       <p>Like this article? <b>Read More</b>:</p>
       <ul class="actions small">
-        {% if page.previous %}
-        <li><a href="{{ page.previous.url }}" class="button small">&larr; Previous Post</a></li>
-        {% endif %}
         <li><a href="/blog/" class="button special small">Back To Blog</a></li>
-        {% if page.next %}
-        <li> <a href="{{ page.next.url }}" class="button small">Next Post &rarr;</a></li>
-        {% endif %}
       </ul>
     </footer>
   </div>

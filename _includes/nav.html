@@ -1,24 +1,25 @@
+<!-- Credits: https://codepen.io/riogrande/pen/gbXxdx -->
 <nav>
 <ul>
 	<li><a href="/"><img alt="envision" class="header-logo header-logo-nav" src="/assets/images/envision.png"></a></li>
     {% for item in site.data.nav.pages %}
-      <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+      <li><a class="smooth-scroll-middle" href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
     {% endfor %}
 </ul>
 <div class="button-nav">
 	<a class="btn-open" href="#"></a>
 </div>
 </nav>
-<div class="overlay">
+<div class="overlay" id="navigation-overlay">
 	<div class="wrap">
 		<ul class="wrap-nav">
 			<li>
+			<a href="/"><img alt="envision" class="header-logo header-logo-nav header-logo-overlay" src="/assets/images/envision.png"></a></li>
 			<ul>
 			    {% for item in site.data.nav.pages %}
-			      <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+			      <li><a class="smooth-scroll-middle" href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
 			    {% endfor %}
 			</ul>
-			</li>
 		</ul>
 		<div class="social">
 			<p>&copy; UBC Envision Engineering Design Team | <a target="_blank" href="https://html5up.net">Theme</a> | <a target="_blank" href="https://www.siang.ca/">Dev</a></p>

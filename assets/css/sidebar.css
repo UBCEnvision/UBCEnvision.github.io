@@ -6,6 +6,7 @@ nav {
   overflow:hidden;
   background:none;
   border-bottom: 2px solid #7794ce;
+  text-transform: uppercase;
 }
 nav ul {
   text-align:left;
@@ -30,10 +31,11 @@ nav ul li a {
   -webkit-transition:all .2s linear 0s;
   -o-transition:all .2s linear 0s;
   font-size:16px;
-  font-weight: 400;
+  font-weight: 500;
+  letter-spacing: 2px;
 }
 nav ul li a:hover {
-  color: #34B484;
+  color: #7794ce;
 }
 /*styling open close button-nav*/
 .button-nav {
@@ -57,7 +59,7 @@ nav ul li a:hover {
   -o-transition:all .2s linear 0s;
 }
 .btn-open:hover:after {
-  color:#34B484;
+  color:#7794ce;
 }
 .btn-close:after {
   color:#fff;
@@ -69,7 +71,7 @@ nav ul li a:hover {
   -o-transition:all .2s linear 0s;
 }
 .btn-close:hover:after {
-  color: #34B484;
+  color: #7794ce;
 }
 /*overlay*/
 .overlay {
@@ -129,7 +131,7 @@ nav ul li a:hover {
   color:#f0f0f0;
 }
 .wrap ul.wrap-nav ul li a:hover {
-  color:#34B484;
+  color:#7794ce;
 }
 .social {
   font-size:30px;
@@ -142,7 +144,7 @@ nav ul li a:hover {
   font-size:20px;
 }
 .social p a {
-  color:#34B484;
+  color:#7794ce;
   text-decoration:none;
   margin:0;
   padding:0;
@@ -160,7 +162,7 @@ nav ul li a:hover {
   -o-transition:all .2s linear 0s;
 }
 .social-icon:hover {
-  background:#34B484;
+  background:#7794ce;
   color:#f0f0f0;
 }
 .social-icon i {

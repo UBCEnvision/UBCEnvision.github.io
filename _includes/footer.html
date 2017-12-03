@@ -10,11 +10,10 @@
 			<section>
 				<p><b>Navigation</b></p>
 				<ul class="actions vertical small">
-					<li><a class="button small fit" href="/about/">About Us</a></li>
-					<li><a class="button small fit" href="/recruitment/">Recruitment</a></li>
-					<li><a class="button small fit" href="/team/">Team</a></li>
-					<li><a class="button small fit" href="/news/">News</a></li>
-					<li><a class="button small fit" href="/blog/">Blog</a></li>
+					<li><a href="/" class="button medium fit"><img alt="envision" class="header-logo header-logo-nav header-logo-overlay" src="/assets/images/envision.png"></a></li>
+				    {% for item in site.data.nav.pages %}
+				     <li><a class="button small fit" href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+				    {% endfor %}					
 				</ul>				
 			</section>
 			<section class="align-left">
@@ -27,12 +26,18 @@
 				</ul>				
 			</section>
 			<section class="align-left"> 
-				<p><b>News</b></p>
-				<ol class="vertical small" style="list-style: none;">
+				<p><b>Latest News</b></p>
+				<ol class="vertical small footer-ol">
 					{% for post in site.categories.news limit:3 %}
 					<li class="footer-li"><a href="{{ post.url }}">{{ post.title }}</a></li>
 					{% endfor %}
-				</ol>			    				
+				</ol>	
+				<p><b>Blog Articles</b></p>
+				<ol class="vertical small footer-ol">
+					{% for post in site.categories.blog limit:3 %}
+					<li class="footer-li"><a href="{{ post.url }}">{{ post.title }}</a></li>
+					{% endfor %}
+				</ol>	
 			</section>			
 		</div>
 		<section class="align-right">
