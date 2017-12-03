@@ -2,6 +2,7 @@
 layout: news
 title:  "2017 UBC Engineering Open House"
 date:   2017-11-18
+featured: "/assets/images/news/Josh_Beer_Demo.jpg"
 ---
 ### Opening up to the next generation of engineers.
 On Saturday, Envision showcased our projects to prospective engineering students at the 2017 UBC Engineering APSC Open House. The Open House introduces high school students to the academic and career opportunities present in UBC, from the Co-op internship program to engineering design teams.
