@@ -4,7 +4,7 @@ title: AIChE Student Chapter, University of British Columbia
 permalink: /
 ---
 
-<section class="banner style1 orient-left content-align-left image-position-center fullscreen onload-image-fade-in">
+<section class="banner style1 orient-left content-align-left image-position-center fullscreen">
 	<div class="content">
 		<header>
 			<h1><strong>UBC</strong> Envision</h1>
@@ -16,11 +16,24 @@ permalink: /
 			<li><a href="/about/" class="button big wide smooth-scroll-middle">Find Out More</a></li>
 		</ul>
 	</div>
+	{% assign news = site.categories.news | first %}
 	<div class="image">
-		<div class="image-overlay">
-			<img class="header-logo header-logo-main" alt="envision" src="/assets/images/envision.png">
-		</div>
-		<img alt="envision" src="/assets/images/banner.jpg" class="envision-banner"/>
+		<a href="{{ news.url}}">
+			<div class="image-overlay">
+		      	<div class="news-header">
+		      		<img class="header-embed" alt="envision" src="/assets/images/envision.png">
+		      		<p>Latest News | {{ news.date | date_to_long_string}}</p>
+		     		<h1>{{ news.title }}</h1>
+		     		<span class="news-excerpt">{{ news.excerpt | truncatewords: 70}}</span>
+		     	</div>	
+			</div>
+		</a>
+		{% if news.featured %}
+			{% assign banner = news.featured %}
+		{% else %}
+			{% assign banner = "/assets/images/banner.jpg" %}
+		{% endif %}
+		<img alt="UBC Envision News" src="{{ banner }}" class="envision-banner"/>
 	</div>
 </section>
 
