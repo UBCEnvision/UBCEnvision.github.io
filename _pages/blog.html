@@ -27,9 +27,9 @@ permalink: /blog/
           <h3>{{ post.date | date_to_long_string }}</h3>
         </header>
         <div class="content">
-          <h3><a href="{{ post.url }}"><b>{{ post.title }}</b></a></h3>
-          <p class="major">By <i>{{ author_array | join: ', ' }}</i></p>
-          {{ post.excerpt | strip_html | truncatewords: 70}}
+          <p class="major"><a class="article-title" href="{{ post.url }}">{{ post.title }}</a><br>
+          <span class="article-author">By <i>{{ author_array | join: ', ' }}</i></span></p>
+          <p>{{ post.excerpt | strip_html | truncatewords: 70}}</p>
         </div>
       </section>
       {% endfor %}
