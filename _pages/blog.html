@@ -12,23 +12,23 @@ permalink: /blog/
 
       <div class="index align-left">
       {% for post in site.categories.blog %}
-      {% assign author_array = "" | split: "," %}
-      {% for name in post.author %}
-        {% assign author = site.members | where:"name", name | first %}
-        {% if author == null %}
-        {% assign author_array = author_array | push: name %}
-        {% else %}
-        {% capture link %}<a href="{{ author.url }}">{{ author.name }}</a>{% endcapture %}
-        {% assign author_array = author_array | push: link %}
-        {% endif %}
-      {% endfor %}
+        {% assign author_array = "" | split: "," %}
+        {% for name in post.author %}
+          {% assign author = site.members | where:"name", name | first %}
+          {% if author == null %}
+          {% assign author_array = author_array | push: name %}
+          {% else %}
+          {% capture link %}<a href="{{ author.url }}">{{ author.name }}</a>{% endcapture %}
+          {% assign author_array = author_array | push: link %}
+          {% endif %}
+        {% endfor %}
       <section>
         <header>
           <h3>{{ post.date | date_to_long_string }}</h3>
         </header>
         <div class="content">
           <p class="major"><a class="article-title" href="{{ post.url }}">{{ post.title }}</a><br>
-          <span class="article-author">By <i>{{ author_array | join: ', ' }}</i></span></p>
+          <span class="article-author">By <i>{{ author_array | array_to_sentence_string }}</i></span></p>
           <p>{{ post.excerpt | strip_html | truncatewords: 70}}</p>
         </div>
       </section>

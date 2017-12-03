@@ -23,7 +23,8 @@ permalink: /
 		      	<div class="news-header">
 		      		<img class="header-embed" alt="envision" src="/assets/images/envision.png">
 		      		<p>Latest News | {{ news.date | date_to_long_string}}</p>
-		     		<h1>{{ news.title }}</h1>
+		     		<h1><span class="icon fa-arrow-right"></span> {{ news.title }}</h1>
+		     		<hr>
 		     		<span class="news-excerpt">{{ news.excerpt | truncatewords: 70}}</span>
 		     	</div>	
 			</div>
