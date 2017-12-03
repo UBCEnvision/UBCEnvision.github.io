@@ -6,40 +6,42 @@
 			<p class="major">The UBC AIChE Student Chapter</p>
 		</header>
 		<p>University of British Columbia, Vancouver</p>
+		<hr>
 		<div class="items style3 medium">
 			<section>
-				<p><b>Navigation</b></p>
-				<ul class="actions vertical small">
-					<li><a href="/" class="button medium fit"><img alt="envision" class="header-logo header-logo-nav header-logo-overlay" src="/assets/images/envision.png"></a></li>
+				<p class="footer-head">Navigation</p>
+				<ul class="vertical footer-ol">
+					<li><a href="/" class="footer-li navigation-li"><img alt="envision" class="header-logo header-logo-nav header-logo-overlay" src="/assets/images/envision.png"></a></li>
 				    {% for item in site.data.nav.pages %}
-				     <li><a class="button small fit" href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+				     <li><a class="footer-li navigation-li" href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
 				    {% endfor %}					
 				</ul>				
 			</section>
 			<section class="align-left">
-				<p><b>Projects</b></p>
-				<ul class="actions vertical small">
-					<li><a class="button small fit" href="http://www.ubcchemecar.com" target="_blank">Chem-E-Car</a></li>
-					<li><a class="button small fit" href="/flowcell/">Flow Cell</a></li>
-					<li><a class="button small fit" href="/algae/">Algae</a></li>
-					<li><a class="button small fit" href="/beer/">CHBeer</a></li>
+				<p class="footer-head">Projects</p>
+				<ul class="vertical footer-ol">
+					<li><a class="footer-li navigation-li" href="http://www.ubcchemecar.com" target="_blank">Chem-E-Car</a></li>
+					<li><a class="footer-li navigation-li" href="/flowcell/">Flow Cell</a></li>
+					<li><a class="footer-li navigation-li" href="/algae/">Algae</a></li>
+					<li><a class="footer-li navigation-li" href="/beer/">CHBeer</a></li>
 				</ul>				
 			</section>
 			<section class="align-left"> 
-				<p><b>Latest News</b></p>
-				<ol class="vertical small footer-ol">
+				<p class="footer-head">Latest News</p>
+				<ol class="vertical footer-ol">
 					{% for post in site.categories.news limit:3 %}
-					<li class="footer-li"><a href="{{ post.url }}">{{ post.title }}</a></li>
+					<li class="footer-li"><span class="footer-date">{{ post.date | date: "%b %-d, %Y" }}</span><br><a href="{{ post.url }}">{{ post.title }}</a></li>
 					{% endfor %}
 				</ol>	
-				<p><b>Blog Articles</b></p>
+				<p class="footer-head">Blog Articles</p>
 				<ol class="vertical small footer-ol">
 					{% for post in site.categories.blog limit:3 %}
-					<li class="footer-li"><a href="{{ post.url }}">{{ post.title }}</a></li>
+					<li class="footer-li"><span class="footer-date">{{ post.date | date: "%b %-d, %Y" }}</span><br><a href="{{ post.url }}">{{ post.title }}</a></li>
 					{% endfor %}
 				</ol>	
 			</section>			
 		</div>
+		<hr>
 		<section class="align-right">
 			<img alt="envision" class="header-logo header-logo-footer" src="/assets/images/envision.png">
 
