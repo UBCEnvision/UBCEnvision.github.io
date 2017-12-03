@@ -254,7 +254,7 @@
 	width: 100% !important;
 	height: 100% !important;
 	display: block;
-	z-index: 99;
+	z-index: 50;
 	position: absolute !important;
 	top: 0;
 	left: 0;
