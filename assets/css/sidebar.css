@@ -168,7 +168,7 @@ nav ul li a:hover {
 .social-icon i {
   margin-top:12px;
 }
-@media screen and (max-width:48em) {
+@media screen and (max-width:1024px) {
   .wrap ul.wrap-nav>li {
     width:100%;
     padding:20px 0;
