@@ -1,7 +1,7 @@
 require 'yaml'
 
 describe "News Articles" do
-  let(:article_keys) { ["layout", "title", "date"] }
+  let(:article_keys) { ["layout", "title", "date", "featured"] }
   let(:articles) {Dir["news/_posts/*"]}
 
   it "should have the right extension" do
