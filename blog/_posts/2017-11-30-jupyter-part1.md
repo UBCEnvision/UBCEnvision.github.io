@@ -145,9 +145,9 @@ The stationIDs are provided by province in this Environment Canada [page](http:/
 
 We will be using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) to parse HTML documents and [FuzzWuzzy](https://github.com/seatgeek/fuzzywuzzy) to perform string matching.
 
-Here's a GitHub gist showing how it's done.
-
-<script src="https://gist.github.com/csianglim/9b181977a948aa838a4228a72b7623f3.js"></script>
+Take a look at the notebook in this GitHub repository to see how it's done: https://github.com/csianglim/weather-gc-ca-python
 
 ### What's Next
+You can play with the notebook interactively in this [GitHub repository](https://github.com/csianglim/weather-gc-ca-python). 
+
 Check back soon for Part II on data manipulation and visualization.
