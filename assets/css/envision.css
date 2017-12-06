@@ -310,7 +310,7 @@
 	z-index: 50;
 	padding-left: 5%;
 	/*padding-right: 5%;*/
-	padding-top: 15%;
+	padding-top: 35%;
 }
 
 .news-header, .news-excerpt {
@@ -319,6 +319,7 @@
 
 .news-header h1:hover{
 	color: #47D3E5 !important;
+	background-color: rgba(0, 0, 0, 0.8); !important;
 }
 
 .news-header p:hover{
@@ -326,25 +327,26 @@
 }
 
 .news-header h1{
+	z-index: 50;
 	font-size: 1.5em;
 	font-weight: 500;
 	color: #fff;
 	letter-spacing: 1px;
-	padding-top: 30px;
-	padding-left: 30px;
-	padding-bottom: 30px;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
 	padding-right: 5%;
 	background-color: rgba(0, 0, 0, 0.5);
-	border-top-left-radius: 60px;
+/*	border-top-left-radius: 60px;
 	border-bottom-left-radius: 60px;
 	border: solid 1px;
 	border-color: rgba(255, 255, 255, 0.5);
-	border-right: none;
+	border-right: none;*/
 }
 
-.news-header p{
-	padding-right: 5%;
-	font-size: 1.2em;
+.header-date{
+	font-size: 0.8em;
+	margin-bottom: 5px;
 	font-weight: 300;
 	color: #fff;
 	letter-spacing: 1px;
@@ -359,7 +361,7 @@
 	overflow: hidden;
 }
 
-.news-excerpt p:hover, .news-excerpt h1:hover, .news-excerpt h2:hover, .news-excerpt h3:hover{
+.news-excerpt, .news-excerpt h1:hover, .news-excerpt h2:hover, .news-excerpt h3:hover{
 	opacity: 0.8 !important;
 	color: #fff !important;
 	-webkit-filter: blur(0px);
@@ -368,17 +370,20 @@
 }
 
 .image-overlay img{
-	top: 5% !important;
+	top: 10% !important;
 	left: 25% !important;
 	width: 50% !important; 
+	height: 100px !important;
 	object-fit: contain !important;
 	-webkit-filter: brightness(0.0) invert(1.0) !important;
 	filter: brightness(0.0) invert(1.0) !important;
-	opacity: 0.15;
+	opacity: 0.25;
+	z-index: 10;
 }
 
 .header-embed {
 	vertical-align: middle;
+	z-index: 10;
 }
 
 .header-logo-footer {

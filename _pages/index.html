@@ -12,8 +12,9 @@ permalink: /
 		</header>
 		<p class="major">We put <strong>novel science and technology development</strong> into practice and take on moonshot challenges.</p>
 		<p>Our student-led team fosters a <strong>fearless, no-holds-barred</strong> approach when coming up with innovative solutions to engineering problems.</p>
-		<ul class="actions vertical">
+		<ul class="actions">
 			<li><a href="/about/" class="button big wide smooth-scroll-middle">Find Out More</a></li>
+			<li><a href="/blog/" class="button big wide special smooth-scroll-middle">Read Our Blog</a></li>
 		</ul>
 	</div>
 	{% assign news = site.categories.news | first %}
@@ -22,10 +23,10 @@ permalink: /
 			<div class="image-overlay">
 		      	<div class="news-header">
 		      		<img class="header-embed" alt="envision" src="/assets/images/envision.png">
-		      		<p>Latest News | {{ news.date | date_to_long_string}}</p>
-		     		<h1><span class="icon fa-arrow-right"></span> {{ news.title }}</h1>
-		     		<hr>
-		     		<span class="news-excerpt">{{ news.excerpt | truncatewords: 70}}</span>
+		     		<h1>
+		     			<span class="header-date"><i>Latest News</i> | {{ news.date | date_to_long_string}}</span><br>
+		     			<span class="header-title"><span class="icon fa-arrow-right"></span> {{ news.title }}</span>
+		     		</h1>
 		     	</div>	
 			</div>
 		</a>
