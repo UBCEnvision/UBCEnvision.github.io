@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: member
 weight: 800
 name: Shannon McInnes
 title: Instrumentation Lead
