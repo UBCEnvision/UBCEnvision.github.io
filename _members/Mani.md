@@ -2,6 +2,7 @@
 layout: member
 weight: 500
 name: Mani Massah
+status: ['alumni']
 title: Battery Team Lead 2017
 img: /assets/images/members/mani.jpg
 biography: >

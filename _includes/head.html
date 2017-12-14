@@ -18,9 +18,9 @@
 	    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 	</script>	
 	{% if page.layout == 'member' %}	
-	<title>UBC Envision | {{ page.name }} </title>
+	<title>{{ page.name }} | UBC Envision</title>
 	{% else %}
-	<title>UBC Envision{% if page.title %} | {{ page.title }} {% endif %}</title>
+	<title>{% if page.title %} {{ page.title }} | {% endif %}UBC Envision</title>
 	{% endif %}
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
