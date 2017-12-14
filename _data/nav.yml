@@ -7,7 +7,7 @@ pages:
   url: /team/
 
 - title: Projects
-  url: /#projects
+  url: /projects/
 
 - title: News
   url: /news/
