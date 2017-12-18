@@ -13,6 +13,6 @@ The CHBeer team is extremely excited and honored for this opportunity and would 
 
 Keep an eye out for the article which will be published in the Globe and Mail sometime over Christmas. Once we receive a link it will be posted here!
 
-![Alt Text](/images/news/beer_photo2.jpg)
+![Alt Text](/assets/images/news/beer_photo2.jpg)
 
 
