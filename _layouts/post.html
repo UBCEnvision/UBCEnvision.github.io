@@ -18,11 +18,22 @@ layout: default
   <div class="inner">
     <p><a href="/blog/"><h3>Envision <strong>Blog</strong></h3></a></p>
     <header class="align-center box no-mathjax blog-header">
-      <h1 id="post-title">{{ page.title }}</h1>
-      <p id="post-author">By 
+      <h1 id="post-title" title="Article Title" itemprop="name">{{ page.title }}</h1>
+      <p id="post-author" title="Article Authors" itemprop="author">By 
         {{ author_array | array_to_sentence_string }}
       </p>
-      <p><small>Published {{ page.date | date: "%b %-d, %Y" }}</small></p>
+      <p>
+        <b><span title="Date Published">Published {{ page.date | date: "%b %-d, %Y" }}</span></b> 
+        <span class="reading-time-article" title="Estimated read time">
+            {% assign words = content | number_of_words %}
+            {% if words < 360 %}
+              1 min
+            {% else %}
+              {{ words | divided_by:180 }} mins
+            {% endif %}
+            read
+          </span>
+        </p>
     </header>
 
     <div class="index">

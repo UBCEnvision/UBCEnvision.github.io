@@ -1,10 +1,10 @@
 ---
 layout: info
-title: The UBC Envision Story
+title: About Us
 permalink: /about/
 ---
 
-## Introduction
+## The UBC Envision Story
 UBC Envision is the AIChE student chapter of the University of British Columbia. We started off as the [UBC Chem-E-Car](http://www.ubcchemecar.com) team, averaging around 5-10 members annually for many years. 
 
 In 2015, we've received an explosion in interest and membership in our team due to stronger recruitment efforts and outreach activities. In 2016, we received a very generous donation from the Daniel Family Foundation, allowing us to expand our activities and provide more opportunities to UBC students. With significant help from the Department of Chemical and Biological Engineering and CHBE faculty members, we established the junior Chem-E-Car team and initiated three new projects: flow cell, beer brewing and biofuels. 

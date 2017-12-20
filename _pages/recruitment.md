@@ -4,8 +4,6 @@ title: Recruitment
 permalink: /recruitment/
 ---
 
-## Recruitment
-
 ### Lab Roles
 
 We thank you for your interest but unfortunately, we won't be able to accommodate everyone for lab-based roles due to limited physical space. We currently do not have any openings for lab roles.
