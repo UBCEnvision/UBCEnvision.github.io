@@ -13,17 +13,17 @@
 				<ul class="vertical footer-ol">
 					<li><a href="/" class="footer-li navigation-li"><img alt="envision" class="header-logo header-logo-nav header-logo-overlay" src="/assets/images/envision.png"></a></li>
 				    {% for item in site.data.nav.pages %}
-				     <li><a class="footer-li navigation-li" href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+				     <li ><a class="footer-li navigation-li" href="{{ item.url }}" alt="{{ item.title }}" itemprop="url" title="{{ item.title }}"><span itemprop='name'>{{ item.title }}</span></a></li>
 				    {% endfor %}					
 				</ul>				
 			</section>
 			<section class="align-left">
 				<p class="footer-head">Projects</p>
 				<ul class="vertical footer-ol">
-					<li><a class="footer-li navigation-li" href="http://www.ubcchemecar.com" target="_blank">Chem-E-Car</a></li>
-					<li><a class="footer-li navigation-li" href="/flowcell/">Flow Cell</a></li>
-					<li><a class="footer-li navigation-li" href="/algae/">Algae</a></li>
-					<li><a class="footer-li navigation-li" href="/beer/">CHBeer</a></li>
+					<li><a class="footer-li navigation-li" href="http://www.ubcchemecar.com" target="_blank"><span itemprop='name'>Chem-E-Car</span></a></li>
+					<li><a class="footer-li navigation-li" href="/flowcell/" itemprop="url" title="{{ item.title }}"><span itemprop='name'>Flow Cell</span></a></li>
+					<li><a class="footer-li navigation-li" href="/algae/" itemprop="url" title="{{ item.title }}"><span itemprop='name'>Algae</span></a></li>
+					<li><a class="footer-li navigation-li" href="/beer/" itemprop="url" title="{{ item.title }}"><span itemprop='name'>CHBeer</span></a></li>
 				</ul>				
 			</section>
 			<section class="align-left"> 
