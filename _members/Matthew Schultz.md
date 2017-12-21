@@ -3,6 +3,7 @@ layout: member
 weight: 800
 name: Matthew Schultz
 title: Instrumentation member
+project: beer
 img: /assets/images/members/matt.jpg
 email: matthew.schultz@alumni.ubc.ca	
 biography: > 

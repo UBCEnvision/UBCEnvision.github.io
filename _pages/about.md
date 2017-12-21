@@ -1,10 +1,10 @@
 ---
 layout: info
-title: The UBC Envision Story
+title: About Us
 permalink: /about/
 ---
 
-## Introduction
+## The UBC Envision Story
 UBC Envision is the AIChE student chapter of the University of British Columbia. We started off as the [UBC Chem-E-Car](http://www.ubcchemecar.com) team, averaging around 5-10 members annually for many years. 
 
 In 2015, we've received an explosion in interest and membership in our team due to stronger recruitment efforts and outreach activities. In 2016, we received a very generous donation from the Daniel Family Foundation, allowing us to expand our activities and provide more opportunities to UBC students. With significant help from the Department of Chemical and Biological Engineering and CHBE faculty members, we established the junior Chem-E-Car team and initiated three new projects: flow cell, beer brewing and biofuels. 
@@ -19,7 +19,7 @@ Check out our blog and news page to see what we are working on:
 </ul>
 
 ## Team
-We have over 50 enthusiastic students who are excited about technology, innovation and engineering. Meet our [team](/team/) members.
+We have over 50 enthusiastic students who are excited about technology, innovation and engineering. Our team members are working on many interesting and challenging projects ranging from beer brewing to biofuels. We are a strong, fast-growing and young organization with humble beginnings as the UBC Chem-E-Car team. Meet our [team](/team/) members.
 
 <ul class="actions">
 	<li><a href="/team/" class="button medium wide">Meet The Team</a></li>
@@ -29,7 +29,7 @@ We have over 50 enthusiastic students who are excited about technology, innovati
 We have several active projects for 2017-2018: Chem-E-Car, Algae Biofuels, Flow Cell and CHBeer. Find out more about what we are working on:
 
 <ul class="actions">
-	<li><a href="/#projects" class="button medium wide">Projects</a></li>
+	<li><a href="/projects/" class="button medium wide">Projects</a></li>
 </ul>
 
 ## Recruitment

@@ -22,13 +22,22 @@ permalink: /blog/
           {% assign author_array = author_array | push: link %}
           {% endif %}
         {% endfor %}
-      <section>
+      <section itemscope itemtype="http://schema.org/Article">
         <header>
-          <h3>{{ post.date | date_to_long_string }}</h3>
+          <h3 title="Date Published">{{ post.date | date_to_long_string }}</h3>
+          <p><span class="reading-time" title="Estimated read time">
+            {% assign words = post.content | number_of_words %}
+            {% if words < 360 %}
+              1 min
+            {% else %}
+              {{ words | divided_by:180 }} mins
+            {% endif %}
+            read
+          </span></p>
         </header>
         <div class="content">
-          <p class="major"><a class="article-title" href="{{ post.url }}">{{ post.title }}</a><br>
-          <span class="article-author">By <i>{{ author_array | array_to_sentence_string }}</i></span></p>
+          <p class="major"><a class="article-title" href="{{ post.url }}"><span itemprop="name">{{ post.title }}</span></a><br>
+          <span class="article-author" itemprop="author" itemscope itemtype="http://schema.org/Person">By <i><span itemprop="name">{{ author_array | array_to_sentence_string }}</span></i></span></p>
           <p>{{ post.excerpt | strip_html | truncatewords: 70}}</p>
         </div>
       </section>

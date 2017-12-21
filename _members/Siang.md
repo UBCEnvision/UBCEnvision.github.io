@@ -1,9 +1,9 @@
 ---
 layout: member
-weight: 200
-status: alumni
+weight: 100
+status: ['alumni', 'board']
 name: Siang Lim
-title: Director
+title: Founding Director
 img: /assets/images/members/siang.png
 website: https://www.siang.ca
 email: wow@siang.ca
