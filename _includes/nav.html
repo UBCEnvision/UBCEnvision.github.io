@@ -1,9 +1,9 @@
 <!-- Credits: https://codepen.io/riogrande/pen/gbXxdx -->
-<nav>
+<nav itemscope='itemscope' itemtype='http://schema.org/SiteNavigationElement' role='navigation'>
 <ul>
-	<li><a href="/"><img alt="envision" class="header-logo header-logo-nav" src="/assets/images/envision.png"></a></li>
+	<li><a href="/" itemprop="url"><img alt="envision" class="header-logo header-logo-nav" src="/assets/images/envision.png"></a></li>
     {% for item in site.data.nav.pages %}
-      <li><a class="smooth-scroll-middle" href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+      <li><a class="smooth-scroll-middle" href="{{ item.url }}" itemprop="url" alt="{{ item.title }}" title="{{ item.title }}"><span itemprop='name'>{{ item.title }}</span></a></li>
     {% endfor %}
 </ul>
 <div class="button-nav">
@@ -17,7 +17,7 @@
 			<a href="/"><img alt="envision" class="header-logo header-logo-nav header-logo-overlay" src="/assets/images/envision.png"></a></li>
 			<ul>
 			    {% for item in site.data.nav.pages %}
-			      <li><a class="smooth-scroll-middle" href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+			      <li><a class="smooth-scroll-middle" href="{{ item.url }}" itemprop="url" alt="{{ item.title }}" title="{{ item.title }}"><span itemprop='name'>{{ item.title }}</span></a></li>
 			    {% endfor %}
 			</ul>
 		</ul>

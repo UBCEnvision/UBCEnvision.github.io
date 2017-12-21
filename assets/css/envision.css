@@ -16,6 +16,9 @@
 	color: #36589A !important;
 }
 
+.reading-time-article:before{content:'•';padding-right:1px;}
+
+
 .project-list{
 	text-decoration: none !important;
 	text-transform: uppercase;

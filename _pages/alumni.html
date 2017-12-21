@@ -1,0 +1,40 @@
+---
+layout: default
+title: Alumni
+description: Envision Alumni Members
+permalink: /alumni/
+---
+{% assign members = site.members | where:"status", "alumni" %}
+<section class="banner style2 align-center">
+	<div class="inner">
+		<header>
+          <h1>Envision <strong>Alumni</strong></h1>
+      	</header>
+      	<p>Please feel free to contact our alumni members by email or add them on LinkedIn if you have any questions.</p>
+		<ul class="actions horizontal align-center">
+			<li><a class="button small" href="/team/">Back to Team</a></li>
+		</ul>      	
+		<div class="items style2 medium">
+			{% for member in members %}
+			<section>
+				<a href="{{ member.url }}"><img alt="{{member.name}}" src="{{ member.img | prepend: site.baseurl | prepend: site.url }}" class="onscroll-image-fade-in img-team"></a>
+				<h4><b>{{ member.name }}</b> 
+					{% if member.linkedin %}
+					| <a href="{{ member.linkedin }}" class="fa fa-linkedin" target="_blank"></a>
+					{% endif %}
+					{% if member.website %}
+					| <a href="{{ member.website }}" class="fa fa-home" target="_blank"></a>
+					{% endif %}
+					<br>
+					<i>{{ member.title }}</i></h4>
+				{% if member.email %}
+				<h5>
+					<i class="fa fa-envelope"></i> 
+					<a href="mailto:{{member.email}}">{{member.email}}</a>
+				</h5>
+				{% endif %}
+			</section>
+			{% endfor %}
+		</div>
+	</div>
+</section>

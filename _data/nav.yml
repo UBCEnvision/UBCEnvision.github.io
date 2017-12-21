@@ -7,7 +7,7 @@ pages:
   url: /team/
 
 - title: Projects
-  url: /#projects
+  url: /projects/
 
 - title: News
   url: /news/
@@ -17,3 +17,6 @@ pages:
 
 - title: Recruitment
   url: /recruitment/
+
+- title: Sponsorship
+  url: /sponsorship/
