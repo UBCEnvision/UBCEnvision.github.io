@@ -4,7 +4,7 @@ weight: 100
 name: Shams Elnawawi
 project: flowcell
 subweight: 10
-title: Flow Cell Captain
+title: Flow Cell Project Captain
 img: /assets/images/members/shams.jpg
 email: flowcell@ubcenvision.com
 biography: >
