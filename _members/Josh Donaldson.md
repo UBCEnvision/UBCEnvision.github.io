@@ -4,7 +4,7 @@ weight: 100
 project: beer
 subweight: 10
 name: Josh Donaldson
-title: Beer Project Lead
+title: Beer Project Captain
 status: executive
 img: /assets/images/members/josh.jpg
 email: brewing@ubcenvision.com
