@@ -4,7 +4,7 @@ weight: 100
 name: Ophela Zhang
 project: algae
 subweight: 10
-title: Algae Project Captain
+title: Algae Captain
 img: /assets/images/members/ophela.jpg
 email: algae@ubcenvision.com
 biography: >
