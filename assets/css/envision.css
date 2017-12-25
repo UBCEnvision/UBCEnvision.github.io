@@ -18,6 +18,9 @@
 
 .reading-time-article:before{content:'•';padding-right:1px;}
 
+.news-img{
+	max-width: 80%;
+}
 
 .project-list{
 	text-decoration: none !important;

@@ -13,10 +13,15 @@ permalink: /news/
       <div class="index align-left">
       {% for news in site.categories.news %}
       <section>
-        <header>
-          <h3>{{ news.date | date_to_long_string }}</h3>
+        <header class="align-center">
+          <div itemscope itemtype='http://schema.org/ImageObject'>
+            <a href="{{ news.url }}" itemprop='contentUrl'>
+              <img src="{{ news.featured }}" itemprop='thumbnailUrl' class="news-img">
+            </a>
+          </div>          
         </header>
         <div class="content">
+          <h4>{{ news.date | date_to_long_string }}</h4>
           <p class="major"><a class="article-title" href="{{ news.url }}">{{ news.title }}</a></p>
           {{ news.excerpt | truncatewords: 70}}
         </div>
