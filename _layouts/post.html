@@ -34,7 +34,6 @@ layout: default
       </header>
   </div>   
   <div class="inner">
-
       <div id="breadcrumbs">
         <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs-ol">
         <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
@@ -55,7 +54,6 @@ layout: default
         </ol>
         <hr>
       </div> 
-
     <div class="index">
     <section>
       <div class="content blog-container">
@@ -75,7 +73,7 @@ layout: default
           {% capture div %}
           <div class="box align-center">
             <div class="blog-authors">
-            <img alt="{{name}}" src="{{ '/assets/images/members/default.png' | prepend: site.baseurl | prepend: site.url }}" class="img-team img-team-blog" style="vertical-align:middle;"></a>
+            <a><img alt="{{name}}" src="{{ '/assets/images/members/default.png' | prepend: site.baseurl | prepend: site.url }}" class="img-team img-team-blog" style="vertical-align:middle;"></a>
             <span class="blog-author-name">{{name}}</span>
             </div>
           </div>
