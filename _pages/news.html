@@ -5,20 +5,51 @@ permalink: /news/
 ---
 
 <section class="wrapper style1 content-align-left">
-  <div class="inner">
-      <header>
-          <h1>Envision <strong>News</strong></h1>
+  <div class="news-header-bg">
+      <header class="news-page-header">
+        <h1><span class="news-header-text">Envision <strong>News</strong></span></h1>
+        <p><span class="news-header-text">Latest news, events and team achievements from UBC Envision</span></p>
       </header>
-
+  </div>
+  <div class="inner">
+      <div id="breadcrumbs">
+        <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs-ol">
+        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a itemprop="item" href="/">
+          <span itemprop="name">Home</span></a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a itemprop="item" href="/news/">
+          <span itemprop="name">News</span></a>
+          <meta itemprop="position" content="2" />
+        </li>          
+        </ol>
+        <hr>
+      </div>
       <div class="index align-left">
       {% for news in site.categories.news %}
       <section>
-        <header>
-          <h3>{{ news.date | date_to_long_string }}</h3>
+        <header class="align-center news-img-header">
+          <div itemscope itemtype='http://schema.org/ImageObject'>
+            <figure class="snip1477">
+              <img alt="{{ news.title }} " src="{{ news.featured }}" itemprop='thumbnailUrl' class="news-img" />
+              <div class="title">
+                <div>
+                  <h4>{{ news.date | date_to_long_string }}</h4>
+                </div>
+              </div>
+              <figcaption>
+                <p>{{ news.title }}</p>
+              </figcaption>
+              <a href="{{ news.url }}" itemprop='contentUrl'></a>
+            </figure>
+          </div>          
         </header>
         <div class="content">
-          <p class="major"><a class="article-title" href="{{ news.url }}">{{ news.title }}</a></p>
-          {{ news.excerpt | truncatewords: 70}}
+          <p class="news-header-date">{{ news.date | date_to_long_string }}</p>
+          <p class="major article-p"><a class="article-title" href="{{ news.url }}">{{ news.title }}</a></p>
+          <span class="article-excerpt">{{ news.excerpt | truncatewords: 70}}</span>
         </div>
       </section>
       {% endfor %}

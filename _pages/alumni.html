@@ -8,7 +8,27 @@ permalink: /alumni/
 <section class="banner style2 align-center">
 	<div class="inner">
 		<header>
-          <h1>Envision <strong>Alumni</strong></h1>
+            <div id="breadcrumbs" class="align-left">
+              <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs-ol">
+              <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="/">
+                <span itemprop="name">Home</span></a>
+                <meta itemprop="position" content="1" />
+              </li>
+              <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="/team/">
+                <span itemprop="name">Team</span></a>
+                <meta itemprop="position" content="2" />
+              </li> 
+              <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="{{ page.url }}">
+                <span itemprop="name">{{ page.title }}</span></a>
+                <meta itemprop="position" content="3" />
+              </li>                  
+              </ol>
+              <hr>
+            </div>
+            <h1>Envision <strong>Alumni</strong></h1>           
       	</header>
       	<p>Please feel free to contact our alumni members by email or add them on LinkedIn if you have any questions.</p>
 		<ul class="actions horizontal align-center">
