@@ -3,16 +3,43 @@ layout: default
 ---
 
 <section class="wrapper style1 content-align-left">
+  <div class="news-header-bg">
+      <header class="news-page-header news-article-header">
+        <h3 class="news-header-date"><span class="news-header-text">{{ page.date | date: "%b %-d, %Y" }}</span></h3>
+        <h1 id="post-title"><span class="news-header-text article-header">{{ page.title }}</span></h1>
+      </header>
+  </div>  
   <div class="inner">
-    <p><a href="/news/"><h3>Envision <strong>News</strong></h3></a></p>
-    <header class="align-center box no-mathjax blog-header">
+      <div id="breadcrumbs">
+        <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs-ol">
+        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a itemprop="item" href="/">
+          <span itemprop="name">Home</span></a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a itemprop="item" href="/news/">
+          <span itemprop="name">News</span></a>
+          <meta itemprop="position" content="2" />
+        </li> 
+        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a itemprop="item" href="{{ page.url }}">
+          <span itemprop="name">{{ page.title }}</span></a>
+          <meta itemprop="position" content="3" />
+        </li>                  
+        </ol>
+        <hr>
+      </div>    
+    <!-- <p><a href="/news/"><h3>Envision <strong>News</strong></h3></a></p>     -->
+<!--     <header class="align-center box no-mathjax blog-header">
       <h1 id="post-title">{{ page.title }}</h1>
       <p><small>{{ page.date | date: "%b %-d, %Y" }}</small></p>
-    </header>
+    </header> -->
 
     <section class="style1 wrapper container" id="blog-content">
       {{ content }}
     </section>
+    <hr>
     <div id="disqus_thread"></div>
 
     <script>

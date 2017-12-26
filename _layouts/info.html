@@ -5,11 +5,9 @@ layout: default
 <section class="wrapper style1">
 	<div class="inner align-left">
 	<header class="align-center">
-<!-- 	  <p><a href="/"><img class="header-logo header-logo-info-page" alt="envision" src="/assets/images/envision.png"></a></p> -->
-	  <h1><b>{{page.title}}</b></h1>
-	</header>
-	<hr>
-	
+	<h1><b>{{page.title}}</b></h1>
+	{% include breadcrumbs.html %} 	  
+	</header>	
 	{{ content }}
 	</div>
 
