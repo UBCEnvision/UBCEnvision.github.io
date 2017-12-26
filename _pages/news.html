@@ -12,21 +12,7 @@ permalink: /news/
       </header>
   </div>
   <div class="inner">
-      <div id="breadcrumbs">
-        <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs-ol">
-        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-          <a itemprop="item" href="/">
-          <span itemprop="name">Home</span></a>
-          <meta itemprop="position" content="1" />
-        </li>
-        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-          <a itemprop="item" href="/news/">
-          <span itemprop="name">News</span></a>
-          <meta itemprop="position" content="2" />
-        </li>          
-        </ol>
-        <hr>
-      </div>
+      {% include breadcrumbs.html %}
       <div class="index align-left">
       {% for news in site.categories.news %}
       <section>

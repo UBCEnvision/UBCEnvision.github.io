@@ -15,16 +15,9 @@ layout: default
 {% endfor %}
 
 <section class="wrapper style1 content-align-left">
-  <div class="inner">
-    <p><a href="/blog/"><h3>Envision <strong>Blog</strong></h3></a></p>
-    <header class="align-center box no-mathjax blog-header">
-      <h1 id="post-title" title="Article Title" itemprop="name">{{ page.title }}</h1>
-      <p id="post-author" title="Article Authors" itemprop="author">By 
-        {{ author_array | array_to_sentence_string }}
-      </p>
-      <p>
-        <b><span title="Date Published">Published {{ page.date | date: "%b %-d, %Y" }}</span></b> 
-        <span class="reading-time-article" title="Estimated read time">
+  <div class="blog-header-bg">
+      <header class="news-page-header news-article-header">
+        <h3 class="news-header-date"><span class="blog-header-text">{{ page.date | date: "%b %-d, %Y" }}</span><span class="reading-time-article" title="Estimated read time">
             {% assign words = content | number_of_words %}
             {% if words < 360 %}
               1 min
@@ -33,9 +26,34 @@ layout: default
             {% endif %}
             read
           </span>
+        </h3>
+        <p id="post-author" title="Article Authors" itemprop="author"><span class="author-post-span">By 
+        {{ author_array | array_to_sentence_string }}</span>
         </p>
-    </header>
-
+        <h1 id="post-title"><span class="blog-header-text">{{ page.title }}</span></h1>
+      </header>
+  </div>   
+  <div class="inner">
+      <div id="breadcrumbs">
+        <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs-ol">
+        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a itemprop="item" href="/">
+          <span itemprop="name">Home</span></a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a itemprop="item" href="/blog/">
+          <span itemprop="name">Blog</span></a>
+          <meta itemprop="position" content="2" />
+        </li> 
+        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a itemprop="item" href="{{ page.url }}">
+          <span itemprop="name">{{ page.title }}</span></a>
+          <meta itemprop="position" content="3" />
+        </li>                  
+        </ol>
+        <hr>
+      </div> 
     <div class="index">
     <section>
       <div class="content blog-container">
@@ -55,7 +73,7 @@ layout: default
           {% capture div %}
           <div class="box align-center">
             <div class="blog-authors">
-            <img alt="{{name}}" src="{{ '/assets/images/members/default.png' | prepend: site.baseurl | prepend: site.url }}" class="img-team img-team-blog" style="vertical-align:middle;"></a>
+            <a><img alt="{{name}}" src="{{ '/assets/images/members/default.png' | prepend: site.baseurl | prepend: site.url }}" class="img-team img-team-blog" style="vertical-align:middle;"></a>
             <span class="blog-author-name">{{name}}</span>
             </div>
           </div>
@@ -74,7 +92,7 @@ layout: default
           {% assign author_box = author_box | push: div %}
           {% endif %}
         {% endfor %}        
-        <h4 class="author-written">Written with :heart: by</h4>
+        <h4 class="author-written">Written By</h4>
         {{ author_box }}
         {% include ad_blog_side.html %}
       </header> 
