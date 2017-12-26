@@ -5,11 +5,14 @@ permalink: /blog/
 ---
 
 <section class="wrapper style1 content-align-left">
-  <div class="inner">
-      <header>
-          <h1>Envision <strong>Blog</strong></h1>
+  <div class="blog-header-bg">
+      <header class="news-page-header">
+        <h1><span class="blog-header-text">Envision <strong>Blog</strong></span></h1>
+        <p><span class="blog-header-text">Showcasing learnings and experiences from the UBC Envision team</span></p>
       </header>
-
+  </div>  
+  <div class="inner">
+    {% include breadcrumbs.html %}
       <div class="index align-left">
       {% for post in site.categories.blog %}
         {% assign author_array = "" | split: "," %}

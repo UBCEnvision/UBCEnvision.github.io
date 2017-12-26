@@ -5,9 +5,30 @@ layout: default
 <section class="wrapper style1 content-align-left">
   <div class="inner">
     <header>
-    <h2><b><a href="/team/">{{ page.name }}</a></b></h2>
     <p>Envision <b>Profile</b></p>
+    <h2><b><a href="/team/" class="member-page-name">{{ page.name }}</a></b></h2>
     </header>
+    <div id="breadcrumbs">
+      <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs-ol">
+      <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="/">
+        <span itemprop="name">Home</span></a>
+        <meta itemprop="position" content="1" />
+      </li>
+      <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="/team/">
+        <span itemprop="name">Team</span></a>
+        <meta itemprop="position" content="2" />
+      </li> 
+      <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="{{ page.url }}">
+        <span itemprop="name">{{ page.name }}</span></a>
+        <meta itemprop="position" content="3" />
+      </li>                  
+      </ol>
+      <hr>
+    </div> 
+
     <div class="index">
       <section>
         <header class="align-center">
