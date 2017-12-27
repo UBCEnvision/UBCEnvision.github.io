@@ -33,7 +33,7 @@ permalink: /news/
           </div>          
         </header>
         <div class="content">
-          <p class="news-header-date">{{ news.date | date_to_long_string }}</p>
+          <p class="news-page-header-date">{{ news.date | date_to_long_string }}</p>
           <p class="major article-p"><a class="article-title" href="{{ news.url }}">{{ news.title }}</a></p>
           <span class="article-excerpt">{{ news.excerpt | truncatewords: 70}}</span>
         </div>
