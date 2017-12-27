@@ -6,6 +6,20 @@ layout: default
   <div class="news-header-bg">
       <header class="news-page-header news-article-header">
         <h3 class="news-header-date"><span class="news-header-text">{{ page.date | date: "%b %-d, %Y" }}</span></h3>
+<!--         <div class="article-img-header">
+          <figure class="snip1477">
+            <img alt="{{ page.title }} " src="{{ page.featured }}" itemprop='thumbnailUrl' />
+            <div class="title">
+              <div>
+                <h4>{{ page.date | date_to_long_string }}</h4>
+              </div>
+            </div>
+            <figcaption>
+              <p>{{ page.title }}</p>
+            </figcaption>
+            <a href="{{ page.url }}" itemprop='contentUrl'></a>
+          </figure>        
+        </div> -->
         <h1 id="post-title"><span class="news-header-text article-header">{{ page.title }}</span></h1>
       </header>
   </div>  
@@ -24,7 +38,7 @@ layout: default
         </li> 
         <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
           <a itemprop="item" href="{{ page.url }}">
-          <span itemprop="name">{{ page.title }}</span></a>
+          <b><span itemprop="name">{{ page.title }}</span></b></a>
           <meta itemprop="position" content="3" />
         </li>                  
         </ol>
