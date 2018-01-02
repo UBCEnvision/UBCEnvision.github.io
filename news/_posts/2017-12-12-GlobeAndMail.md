@@ -11,7 +11,16 @@ We gave Ian an idea how our system works and the different types of testing that
 
 The CHBeer team is extremely excited and honored for this opportunity and would like to thank UBC Public Affairs for arranging this with the Globe and Mail. 
 
-You can find the full article [***here***](https://www.theglobeandmail.com/news/british-columbia/ubc-students-brew-up-smartphone-app-to-help-craft-beer-makers/article37452195/), be sure to spread the news! 
+out for the article which will be published in the Globe and Mail sometime over Christmas. 
+
+Check out the Globe and Mail article [here](https://www.theglobeandmail.com/news/british-columbia/ubc-students-brew-up-smartphone-app-to-help-craft-beer-makers/article37452195/)!
+
+Thank you to everyone who help contribute to the article and the Globe and Mail for covering the work UBC student designs participate in. We appreciate the support on our work. If you are interested in recieving updates about our project check out our latest [blog post](http://www.ubcenvision.com/blog/2017/12/24/brew101.html). 
+
+For any other questions or concerns feel free to email Joshua Donaldson at brewing@ubcenvision.com
+
+CHeers! 
+>>>>>>> master
 
 ![Alt Text](/assets/images/news/beer_photo2.jpg)
 
