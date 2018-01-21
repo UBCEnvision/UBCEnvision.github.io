@@ -2,7 +2,7 @@
 layout: member
 weight: 1000
 name: Carolina Gasparini Silva
-team: Algae
+project: algae
 title: Algae Biofuel Team
 img: /assets/images/members/carol.jpg
 email: carolinagasparini97@gmail.com
