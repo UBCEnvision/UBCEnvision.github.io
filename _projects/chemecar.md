@@ -2,7 +2,7 @@
 layout: project
 project: chemecar
 title: UBC Chem-E-Car
-image: /assets/images/wind.jpg
+image: /assets/images/car.png
 permalink: /chemecar/
 
 headline: Design, Build, Compete
