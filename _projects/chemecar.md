@@ -1,7 +1,7 @@
 ---
 layout: project
 project: chemecar
-title: UBC Chem-E-Car
+title: UBC Chem E Car
 image: /assets/images/car.png
 permalink: /chemecar/
 
