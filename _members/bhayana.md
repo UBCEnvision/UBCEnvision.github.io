@@ -1,8 +1,8 @@
-﻿---
-
+---
 layout: member
-weight: 100
+weight: 1000
 name: Shivam Bhayana
+project: algae
 title: Algae Biofuel Team
 img: /assets/images/members/bhayana.jpg
 email: bhayana@unbc.ca
