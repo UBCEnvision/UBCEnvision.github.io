@@ -1,26 +1,58 @@
 ---
 layout: project
 project: chemecar
-title: Flow-Assisted Batteries
-image: /assets/images/wind.jpg
+title: UBC Chem-E-Car
+image: /assets/images/car.png
 permalink: /chemecar/
 
-headline: Energy storage for the future
-description: Renewable energy sources like wind and solar provide power output that depends largely on environmental conditions. Efficient, affordable energy storage systems are essential for the viability of renewable energy. Join us as we work on an ambitious, multi-disciplinary project in the design and construction of a sustainable microgrid system on campus using rechargeable redox flow batteries.
+headline: Design, Build, Compete
+description: To design a car that can only be powered by chemical reactions. The process of
+creating the car involves building a power system (batteries, fuel cells, supercapacitors etc),
+selecting a stopping mechanism reaction, designing the circuitry, coding microcontrollers and
+assembling the mechanical components and car body.
 box: >
-  The flow cell project began at UBC in 2016 as a research project, intended to research the viability of using a flow-assisted Zinc - Nickel oxide battery as a means of energy storage. Essentially, the flow cell is a rechargeable battery, with some different properties that make it an interesting research topic.Conventional rechargeable batteries use stationary (i.e. non-flowing) solutions, with environmentally harmful materials, such as those in lead-acid or lithium-ion batteries. These batteries are used for a certain number of charge-discharge cycles with a certain efficiency. When applying a flowing electrolytic solution to a normal battery, the energy efficiency of it is greatly increased, due to the electrodes' increased exposure to the ions in solution. This is the main benefit of using flow cells instead of conventional rechargeable batteries. In addition, the materials used in making conventional batteries are normally quite toxic or environmentally harmful. Our flow cell uses Zinc and Nickel oxide with KOH and ZnO solutions, which are all non-toxic, giving us another reason to look into the viability of these cells. Our goal in this project is to vary the parameters of the cell, such as cell geometry and electrolyte flow, in order to optimize cell performance. We will also be researching how to tackle the issue of dendritic growth (see "Technology" section below for details). Eventually, we would like to build a microgrid of flow batteries on campus.
+  UBC Chem-E-Car is a design team under the UBC Chemical & Biological Engineering
+Department that competes in the annual AIChE (American Institute of Chemical Engineers)
+Regional and National Chem-E-Car Competitions. The goal of the competition is to build a
+shoebox sized car that carries a given load of water within a given amount of distance.
+Chem-E-Car provides the opportunity for UBC engineering students to learn valuable technical
+and interpersonal skills.
 ---
 
 # Technology
 
-## Chemistry
-As mentioned before, our flow cell uses Zinc and Nickel oxide, with a flowing solution of ZnO in aqueous KOH. This operates as a normal electrochemical cell, with the zinc dissolving and depositing onto a copper substrate. (Note: the reactions are summarized below) When charging, the electron surplus at the copper anode will cause the Zn(OH)42- ions to form solid Zn and 4 OH- groups. The Zn deposits are said to be dendritic, due to their growth pattern. Dendritic growth is random and very difficult to control, meaning that any unusual growth can touch something else in the cell and cause an internal short, which is a large obstacle for advancements in flow cell technology.
+## Mechanical Team
+Designs and develops the body and other mechanical components of the car. The car is
+custom built, made of 3D printed components and various other purchased materials; the car
+and all its parts must fit inside a 40cm x 30cm x 20cm box and be able to carry an extra load of
+water ranging from 0-500 mL. The design team must incorporate and organize the reactor,
+power source, microcontrollers and wiring onto the car, as well as ensure its stability and ability
+to travel in a straight line.
 
-## Mechanics
-Not surprisingly, the mechanics of the flow cell are all about the flow of solution through the cell. We use a 12-24V DC peristaltic pump to pump the solution through, because peristaltic pumps don't actually come in contact with the fluid being pumped. The solution's flowrate will affect dendritic growth and the cell's efficiency, which is why we are also using a variable power supply. The benefit of this is we can change the voltage going to the pump, which will change the flowrate of solution. <br><br>Our cell is made of laser-cut acrylic sheets glued together using acrylic adhesives, which allows us to see what's going on with the electrodes during operation. This helps us develop our methods of dendrite suppression, and keeps the cell relatively light.
 
-## Electronics
-Since this project is focused on energy storage, there is huge potential to include microelectronic technology, such as Arduino boards and printed circuit boards. We haven't integrated this technology into the project just yet, but we will! Some examples of what we can do include using an Arduino to control the pump's flow direction, using circuits to display the voltage available in the battery in real-time, or even automating the flow cell's charge-discharge cycles.
+## Lab Team
+Designs a chemical-based stopping mechanism for the car. The chemical reaction’s rate of
+completion is used to stop the car motor. The lab teams must design a precise and accurate
+reaction, calibration curve and equation that will calculate the concentrations or quantity of
+reagents that will result in the completion of the reaction at the required time
 
-## Design
-As we're trying to optimize the cell's performance, the shape of the cell itself will have an impact on the cell's electrochemistry. At the moment, our cell is box-shaped, with an inlet and outlet on opposite sides of the cell. Design is one of the most important aspects of engineering, and so we will be incorporating design processes and prototyping technology into the project, to give team members a valuable experience.
+## Power Source Team
+Builds an energy source (battery, fuel cell, combustion engine) to power the motor, and hence
+the propulsion of the car. The energy sources must provide a consistent output of energy and
+be able to be constructed at the day of the competition. It must also be heavily tested in varying
+conditions to ensure successful operation for competition day.
+
+## Circuitry Team
+Codes the car to respond to the stopping mechanism and programmes the motor to run the car.
+Design the sensor system which is responsible for reacting to the changes in the chemical
+reaction which would eventually stop the car. The sensitivity and exactness of the sensor
+system impacts how accurately the calibration curve is applied to stop the car as it covers a
+specified distance.
+
+# Our Future
+UBC Chem-E-Car aims to go to and win National and International AIChE Chem-E-Car
+Competitions. We strive to design innovative timing mechanisms and power sources, and a
+unique car every year. Envision also plans for Chem-E-Car to integrate Flow Cell team’s and
+Algae team’s projects into its designs.
+
+
