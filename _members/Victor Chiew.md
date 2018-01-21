@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 200
+weight: 50
 name: Victor Chiew
 title: President
 img: /assets/images/members/victor.jpg
