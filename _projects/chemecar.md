@@ -6,17 +6,9 @@ image: /assets/images/car.png
 permalink: /chemecar/
 
 headline: Design Build and Compete
-description: To design a car that can only be powered by chemical reactions. The process of
-creating the car involves building a power system (batteries, fuel cells, supercapacitors etc),
-selecting a stopping mechanism reaction, designing the circuitry, coding microcontrollers and
-assembling the mechanical components and car body.
+description: To design a car that can only be powered by chemical reactions. The process of creating the car involves building a power system (batteries, fuel cells, supercapacitors etc), selecting a stopping mechanism reaction, designing the circuitry, coding microcontrollers and assembling the mechanical components and car body.
 box: >
-  UBC Chem-E-Car is a design team under the UBC Chemical & Biological Engineering
-Department that competes in the annual AIChE (American Institute of Chemical Engineers)
-Regional and National Chem-E-Car Competitions. The goal of the competition is to build a
-shoebox sized car that carries a given load of water within a given amount of distance.
-Chem-E-Car provides the opportunity for UBC engineering students to learn valuable technical
-and interpersonal skills.
+  UBC Chem-E-Car is a design team under the UBC Chemical & Biological Engineering Department that competes in the annual AIChE (American Institute of Chemical Engineers) Regional and National Chem-E-Car Competitions. The goal of the competition is to build a shoebox sized car that carries a given load of water within a given amount of distance. Chem-E-Car provides the opportunity for UBC engineering students to learn valuable technical and interpersonal skills.
 ---
 
 # Technology
