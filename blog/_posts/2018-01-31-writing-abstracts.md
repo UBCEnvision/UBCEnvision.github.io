@@ -29,7 +29,7 @@ Here is a quick list of questions you’ll need to answer:
 - What were your findings?
 - What do your results mean? Why is it significant?
 
- ## The Structure
+## The Structure
 
 Now that we know what we need in our abstract, let’s begin to structure it in a logical order:
 

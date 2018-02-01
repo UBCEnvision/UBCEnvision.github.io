@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 800
+weight: 1000
 name: Nhi Nguyen
 project: beer
 subweight: 10
