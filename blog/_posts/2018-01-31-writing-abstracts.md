@@ -41,7 +41,9 @@ Now that we know what we need in our abstract, let’s begin to structure it in 
 
 1)	Introduction
 
+  p{
   a.	Background – provide an overview of the topic and existing research
+  }
   
   b.	What is the gap in knowledge? What are you trying to find out? Why did you perform the research?
   
