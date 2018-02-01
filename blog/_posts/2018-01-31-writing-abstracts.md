@@ -2,7 +2,7 @@
 layout: post
 title: "The Ins and Outs of Writing a Good Abstract"
 date: "2018-01-31"
-author: ["Shivam Bhayana]
+author: ["Shivam Bhayana"]
 ---
 
 ## Introduction
