@@ -40,8 +40,11 @@ Now that we know what we need in our abstract, let’s begin to structure it in 
 - What do your results mean? Why is it significant?
 
 1)	Introduction
+
   a.	Background – provide an overview of the topic and existing research
+  
   b.	What is the gap in knowledge? What are you trying to find out? Why did you perform the research?
+  
   c.	What is the research question?
 
 2)	Research methods: what did you do? How was it done?
