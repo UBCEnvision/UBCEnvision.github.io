@@ -1,9 +1,8 @@
-﻿---
-
+---
 layout: member
-weight: 100
+weight: 1000
 name: Param Arora
-title: Chm-E-Car Vice-Captain
+title: Chem-E-Car Vice-Captain
 img: /assets/images/members/Param.jpg
 email: paramjeet.arora@alumni.ubc.ca
 biography: >
