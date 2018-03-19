@@ -2,6 +2,8 @@
 layout: member
 weight: 800
 name: Matheus Cassol
+project: chemecar
+subweight: 10
 title: Jr. Power Source Team
 img: /assets/images/members/matheus.jpg
 email: m.cassol@alumni.ubc.ca
