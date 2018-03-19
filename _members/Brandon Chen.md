@@ -2,6 +2,8 @@
 layout: member
 weight: 1000
 name: Brandon Chen
+project: chemecar
+subweight: 10
 title: Senior Chem-E Car Laboratory Team Lead and Lab Manager
 img: /assets/images/members/brandon.jpg
 biography: >
