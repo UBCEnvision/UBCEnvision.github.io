@@ -2,6 +2,8 @@
 layout: member
 weight: 100
 name: Jayg Dimayacyac
+project: chemecar
+subweight: 10
 title: Chem-E-Car Captain
 img: /assets/images/members/jayg.jpg
 email: chemecar@ubcenvision.com

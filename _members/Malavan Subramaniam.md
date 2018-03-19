@@ -2,6 +2,8 @@
 layout: member
 weight: 1000
 name: Malavan Subramaniam
+project: algae
+subweight: 10
 title: Algae Biofuels Administrator
 img: /assets/images/members/malavan.jpg
 biography: >
