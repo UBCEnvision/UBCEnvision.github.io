@@ -3,6 +3,7 @@ layout: member
 weight: 1000
 name: Azha Aslam
 project: algae
+subweight: 10
 title: Algae Biofuel Team 
 img: /assets/images/members/azha.jpg
 email: azha@alumni.ubc.ca
