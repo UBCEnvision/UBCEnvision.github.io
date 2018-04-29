@@ -1,13 +1,13 @@
 ---
 layout: member
-weight: 100
-status: ['alumni', 'board']
-name: Siang Lim
-title: Founding Director
-img: /assets/images/members/siang.png
-website: https://www.siang.ca
-email: wow@siang.ca
+weight: 138
+status: new recruitment
+name: Matt Gin
+title: new
+img: /assets/images/members/MattGin.jpeg
+website: https://www.linkedin.com/in/matthew-gin/
+email: matthewgin10@gmail.com
 biography: >
-  Siang graduated from UBC with distinction in chemical engineering and a minor in computer science. He was selected as a 2017 Faculty of Applied Science Rising Star. Siang retired as Vice-Captain of the Chem-E-Car team and is currently serving on the advisory board of UBC Envision, working closely with the team executives to help them achieve their organizational goals.
-linkedin: https://www.linkedin.com/in/c-siang-lim-98535048
+  Matt Gin is a 3rd year ChBe student who is really passionate about developing android apps.  He thought that Envision's ChBeer project's  android app that monitors and automates a chemical process is really cool.  He would hope to be a positive, enthusiastic influence to UBC Envision should he be accepted.
+
 ---
