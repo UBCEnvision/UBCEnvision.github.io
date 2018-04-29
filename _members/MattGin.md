@@ -4,7 +4,7 @@ weight: 138
 status: new recruitment
 name: Matt Gin
 title: new
-img: /assets/images/members/MattGin.jpeg
+img: /assets/images/members/MattGin.jpg
 website: https://www.linkedin.com/in/matthew-gin/
 email: matthewgin10@gmail.com
 biography: >
