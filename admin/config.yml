@@ -1,0 +1,45 @@
+backend:
+  name: github
+  repo: ubcenvision/ubcenvision.github.io # Path to your Github repository
+publish_mode: editorial_workflow
+media_folder: "assets/images" # Media files will be stored in the repo under images/uploads
+collections:
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "blog/_posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "news" # Used in routes, e.g., /admin/collections/blog
+    label: "News" # Used in the UI
+    folder: "news/_posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "news"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "featured", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "team" # Used in routes, e.g., /admin/collections/blog
+    label: "Team" # Used in the UI
+    folder: "_members" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "member"}
+      - {label: "Weight", name: "weight", widget: "number", default: 1000, required: true}
+      - {label: "Subweight", name: "subweight", widget: "number", default: 10, required: true}
+      - {label: "Name", name: "name", widget: "string", required: true}
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Project", name: "project", widget: "string"}
+      - {label: "Image", name: "img", widget: "image", required: true}
+      - {label: "Biography", name: "biography", widget: "text", required: true}
+      - {label: "LinkedIn", name: "linkedin", widget: "text", required: true}
+      - {label: "Website", name: "website", widget: "text", pattern: ['^(https?:\/\/.+)?$', 'Must start with http:// or https://']}
+      - {label: "Email", name: "email", widget: "text"}
