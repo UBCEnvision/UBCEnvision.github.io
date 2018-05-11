@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: ubcenvision/ubcenvision.github.io # Path to your Github repository
+  branch: staging
 publish_mode: editorial_workflow
 media_folder: "assets/images" # Media files will be stored in the repo under images/uploads
 collections:
@@ -11,10 +12,10 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Author", name: "author", widget: "list"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Date", name: "date", widget: "datetime", required: true}
+      - {label: "Author", name: "author", widget: "list", required: true}
+      - {label: "Body", name: "body", widget: "markdown", required: true}
   - name: "news" # Used in routes, e.g., /admin/collections/blog
     label: "News" # Used in the UI
     folder: "news/_posts" # The path to the folder where the documents are stored
@@ -22,10 +23,10 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "news"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "featured", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Date", name: "date", widget: "datetime", required: true}
+      - {label: "Featured Image", name: "featured", widget: "image", required: true}
+      - {label: "Body", name: "body", widget: "markdown", required: true}
   - name: "team" # Used in routes, e.g., /admin/collections/blog
     label: "Team" # Used in the UI
     folder: "_members" # The path to the folder where the documents are stored
