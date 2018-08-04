@@ -5,6 +5,8 @@ date: "2018-08-04"
 author: ["Grania Jain", "Aviral Salhotra", "Jayg Dimayacyac"]
 ---
 
+Find out about the Senior Chem-E-Car team's winning car from the 2018 AIChE Pacific Northwest Regional Conference at Montana State University!
+
 ## Introduction
 
 The AIChE 2018 Regional Conference at Montana State University brought major success to our current Chem-E-Car teams. At the conference, our teams were able to claim the following awards:
