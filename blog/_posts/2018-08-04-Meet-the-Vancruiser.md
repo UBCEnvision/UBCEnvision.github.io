@@ -19,9 +19,9 @@ The AIChE 2018 Regional Conference at Montana State University brought major suc
 
 Below, we are excited to present to you Vancruiser!
 
-![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/vancruiser.jpg "Vancruiser")
-
 ## VANCRUISER
+
+![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/1.JPG "Vancruiser")
 
 By securing 1st place at Regionals, Vancruiser has advanced to compete at the AIChE 2018 National Chem-E-Car Competition this October, 2018. In the process of preparing for our next competition, the Vancruiser has been torn apart and is currently being rebuilt to optimize its functions and improve performance. The Vancruiser will be described below at its state during the Regional competition of April, 2018.
 
@@ -29,24 +29,47 @@ Named after our city of Vancouver, the Vancruiser uses an iodine clock reaction 
 
 ### Stopping Mechanism
 
+
+![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/1.JPG "Vancruiser")
+
 The stopping mechanism uses Lugol’s solution in which iodide anions from the potassium iodide react with molecular iodine, creating triiodide ions. In the presence of ascorbic acid, triiodide will quickly oxidize ascorbic acid, forming dehydroascorbic acid. When the ascorbic acid is used up, the triiodide reacts with the starch in solution, creating a dark blue/black colored solution. The change in color is detected by an LED and solar panel sensor control system. Once color change in detected, the motor is stopped.
+
+
+![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/2.PNG "Reactions for Iodine Clock")
+
+
+![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/3.jpg "Brandon and Wendie")
 
 ### Battery
 
 The battery used a magnesium oxide coated Gaskatel mesh as a cathode and zinc power made into a paste using water as an anode. When oxygen diffuses through and reacts with water present in the pores of the mesh creating hydroxyl ions, hydroxyl undergoes a reaction with the zinc anode which results in the release of water, zinc oxide, hydrogen and electrons which provide an approximate voltage of 1.2 V per cell. Enough cells are put together to power a 12V DC motor which moves the car at a rate of 15 meters per minute. 
 
-Zn → Zn2+ + 2e-
+![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/4.PNG "Reactions for Zinc-Air Battery")
 
-Zn2+ + 4OH- → Zn(OH)42-
+![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/5.PNG "Battery Casing Model")
 
-Zn(OH)42- → ZnO + H2O + 2OH-
-
-Zn + 2H2O → Zn(OH)2 + H2
+![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/6.jpg "Fiona and Matheus")
 
 ### Control System
 
 The Vancruiser uses an arduino to control the solenoid valve, detection system and stopping mechanism. An arduino is a microcontroller which can be used to control electronics in a circuit. When the car is switched on the arduino  activates a solenoid valve, which allows reactant to pour into a beaker housed in a reaction vessel and initiates the iodine clock reaction. In addition, a stirring motor is activated, stirring the reactants as the reaction progresses. Simultaneously, the chemical battery is connected to the motors and the car begins to move.Once the reaction finishes the arduino detects the color change and stops the car.
 
+
+![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/7.png "Control 1")
+
+
+![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/8.png "Control 2")
+
+
+![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/9.png "Control 3")
+
+
+![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/10.png "Control 4")
+
 ### Mechanical Components
 
 All the battery casings, reaction vessel and circuity cover are 3D printed. Water was secured in 700mL foldable water packs. 
+
+![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/11.png "Solidworks Model of Car")
+
+![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/12.JPG "Vancruiser 2")
