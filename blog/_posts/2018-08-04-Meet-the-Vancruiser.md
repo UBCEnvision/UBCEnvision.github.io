@@ -5,7 +5,9 @@ date: "2018-08-04"
 author: ["Grania Jain", "Aviral Salhotra", "Jayg Dimayacyac"]
 ---
 
-Find out about the Senior Chem-E-Car team's winning car from the 2018 AIChE Pacific Northwest Regional Conference at Montana State University!
+
+Learn out about the Senior Chem-E-Car team's winning car from the 2018 AIChE Pacific Northwest Regional Conference at Montana State University!
+
 
 ## Introduction
 
@@ -95,3 +97,4 @@ _The 3D model of the Vancruiser showing the car body, wheels, reaction vessel, b
 
 _The Vancruiser at the start line during its winning trial at the competition_
 
+For more information about Chem-E-Car, make sure to check us out at our [webpage](http://www.ubcenvision.com/chemecar/)!
