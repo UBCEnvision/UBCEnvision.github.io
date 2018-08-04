@@ -2,7 +2,7 @@
 layout: member
 weight: 50
 name: Victor Chiew
-title: President
+title: Advisor
 img: /assets/images/members/victor.jpg
 email: president@ubcenvision.com
 biography: >
