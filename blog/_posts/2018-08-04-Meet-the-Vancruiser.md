@@ -33,15 +33,15 @@ Named after our city of Vancouver, the Vancruiser uses an Iodine-Ascorbic Acid c
 
 The stopping mechanism uses Lugol’s solution in which iodide anions from the potassium iodide react with molecular iodine, creating triiodide ions. In the presence of ascorbic acid, triiodide will quickly oxidize ascorbic acid, forming dehydroascorbic acid. When the ascorbic acid is used up, the triiodide reacts with the starch in solution, creating a dark blue/black colored solution. 
 
-![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/2.png "Reactions for Iodine Clock")
+![alt text](/assets/images/blog/meet-the-vancruiser/2.png "Reactions for Iodine Clock")
 
 On the Vancruiser, Lugol’s solution was kept in the above compartment (the injection port), where its flow into the reaction vessel was controlled by a valve. The ascorbic acid, water and starch were kept within the reaction vessel, and as soon as the car began to accelerate, the Lugol’s solution was injected into the vessel. After the reaction is complete, the change in color is detected by an LED and solar panel sensor control system. Once color change in detected, the motor is stopped.
 
-![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/3.jpg "Brandon and Wendie at the Competition")
+![alt text](/assets/images/blog/meet-the-vancruiser/3.jpg "Brandon and Wendie at the Competition")
 
 _Brandon and Wendie (in the lab team) carefully reproducing the Iodine- Ascorbic Acid Clock Reaction at the competition while under pressure_
 
-![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/13.gif "Clock Reaction in Action")
+![alt text](/assets/images/blog/meet-the-vancruiser/13.gif "Clock Reaction in Action")
 
 _The Iodine-Ascorbic Acid Clock Reaction in action_
 
@@ -49,13 +49,13 @@ _The Iodine-Ascorbic Acid Clock Reaction in action_
 
 The battery used a magnesium oxide coated Gaskatel mesh as a cathode and zinc power made into a paste using water as an anode. When oxygen diffuses through and reacts with water present in the pores of the mesh creating hydroxyl ions, hydroxyl undergoes a reaction with the zinc anode which results in the release of water, zinc oxide, hydrogen and electrons which provide an approximate voltage of 1.2 V per cell. Enough cells are put together to power a 12V DC motor which moves the car at a rate of 15 meters per minute. 
 
-![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/4.PNG "Reactions for Zinc-Air Battery")
+![alt text](/assets/images/blog/meet-the-vancruiser/4.PNG "Reactions for Zinc-Air Battery")
 
-![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/5.PNG "Battery Casing Model")
+![alt text](/assets/images/blog/meet-the-vancruiser/5.PNG "Battery Casing Model")
 
 _The 3D model of the battery casing is shown above. Within each of the four compartments on each stack, the lid encloses the Zinc powder, metal plating and Gaskatel, which together comprise one cell of the battery_
 
-![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/6.jpg "Fiona and Matheus")
+![alt text](/assets/images/blog/meet-the-vancruiser/6.jpg "Fiona and Matheus")
 
 _Fiona and Matheus (power source teams) working on their respective batteries during the competition_
 
@@ -64,19 +64,19 @@ _Fiona and Matheus (power source teams) working on their respective batteries du
 The Vancruiser uses an arduino to control the solenoid valve, detection system and stopping mechanism. An arduino is a microcontroller which can be used to control electronics in a circuit. When the car is switched on the arduino  activates a solenoid valve, which allows reactant to pour into a beaker housed in a reaction vessel and initiates the iodine clock reaction. In addition, a stirring motor is activated, stirring the reactants as the reaction progresses. Simultaneously, the chemical battery is connected to the motors and the car begins to move.Once the reaction finishes the arduino detects the color change and stops the car.
 
 
-![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/7.png "Control 1")
+![alt text](/assets/images/blog/meet-the-vancruiser/7.png "Control 1")
 
 _Above shows the system for the solenoid valve, which controls the flow of the Lugol’s solution into the reaction vessel at the start of the run. The solenoid valve is powered by a 9V battery, which is supplied separately (not the chemical battery created by the battery team)_
 
-![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/8.png "Control 2")
+![alt text](/assets/images/blog/meet-the-vancruiser/8.png "Control 2")
 
 _Above shows the control for the stir motor and button on the Vancruiser. The stir motor is used to spin a stir magnet within the reaction vessel to ensure the Iodine-Ascorbic Acid solution is mixed evenly_
 
-![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/9.png "Control 3")
+![alt text](/assets/images/blog/meet-the-vancruiser/9.png "Control 3")
 
 _Above shows the systems for the light source, solar cell and Arduino. The light source and solar cell comprise the clock reaction sensor system and detects when the reaction has changed color. This data is sent to the Arduino, which is the so-called “brain” of the Vancruiser, and the Arduino, after receiving this data, shuts off the motor powering the movement of the car_
 
-![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/10.png "Control 4")
+![alt text](/assets/images/blog/meet-the-vancruiser/10.png "Control 4")
 
 _Above shows the system for the Zinc-air battery (created by the power source team), motor and Arduino. Once the Arduino has been informed of the color change, it triggers the stopping mechanism, which prevents the battery from powering the motor, and hence stopping the car_
 
@@ -85,11 +85,11 @@ _Above shows the system for the Zinc-air battery (created by the power source te
 
 All the battery casings, reaction vessel and circuity cover are 3D printed. Water was secured in 700mL foldable water packs. Stacked Tupperware containers made up the body of the car. The motor powering the car was a 12 V DC motor.
 
-![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/11.png "Solidworks Model of Car")
+![alt text](/assets/images/blog/meet-the-vancruiser/11.png "Solidworks Model of Car")
 
 _The 3D model of the Vancruiser showing the car body, wheels, reaction vessel, battery casing, motor and Arduino_
 
-![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/12.JPG "Vancruiser 2")
+![alt text](/assets/images/blog/meet-the-vancruiser/12.JPG "Vancruiser 2")
 
 _The Vancruiser at the start line during its winning trial at the competition_
 
