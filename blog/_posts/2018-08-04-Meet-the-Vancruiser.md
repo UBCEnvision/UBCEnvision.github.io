@@ -10,12 +10,12 @@ author: ["Grania Jain", "Aviral Salhotra", "Jayg Dimayacyac"]
 The AIChE 2018 Regional Conference at Montana State University brought major success to our current Chem-E-Car teams. At the conference, our teams were able to claim the following awards:
 
 #### Vancruiser
-1st Place at the Chem-E-Car Competition
-2nd Place at the Chem-E-Car Poster Competition
+* 1st Place at the Chem-E-Car Competition
+* 2nd Place at the Chem-E-Car Poster Competition
 
 #### The Black Box
-3rd Place at the Chem-E-Car Competition
-1st Place at the Chem-E-Car Poster Competition
+* 3rd Place at the Chem-E-Car Competition
+* 1st Place at the Chem-E-Car Poster Competition
 
 Below, we are excited to present to you Vancruiser!
 
