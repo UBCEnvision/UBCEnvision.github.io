@@ -19,6 +19,8 @@ The AIChE 2018 Regional Conference at Montana State University brought major suc
 
 Below, we are excited to present to you Vancruiser!
 
+![alt text](assets/images/blog/meet-the-vancruiser/vancruiser.jpg)
+
 ## VANCRUISER
 
 By securing 1st place at Regionals, Vancruiser has advanced to compete at the AIChE 2018 National Chem-E-Car Competition this October, 2018. In the process of preparing for our next competition, the Vancruiser has been torn apart and is currently being rebuilt to optimize its functions and improve performance. The Vancruiser will be described below at its state during the Regional competition of April, 2018.
