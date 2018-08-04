@@ -34,8 +34,11 @@ The stopping mechanism uses Lugol’s solution in which iodide anions from the p
 The battery used a magnesium oxide coated Gaskatel mesh as a cathode and zinc power made into a paste using water as an anode. When oxygen diffuses through and reacts with water present in the pores of the mesh creating hydroxyl ions, hydroxyl undergoes a reaction with the zinc anode which results in the release of water, zinc oxide, hydrogen and electrons which provide an approximate voltage of 1.2 V per cell. Enough cells are put together to power a 12V DC motor which moves the car at a rate of 15 meters per minute. 
 
 Zn → Zn2+ + 2e-
+
 Zn2+ + 4OH- → Zn(OH)42-
+
 Zn(OH)42- → ZnO + H2O + 2OH-
+
 Zn + 2H2O → Zn(OH)2 + H2
 
 ### Control System
