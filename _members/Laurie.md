@@ -3,7 +3,7 @@ layout: member
 weight: 300
 name: Laurie Jiang
 title: Battery Team Lead
-status: executive
+status: alumni
 img: /assets/images/members/laurie.jpg
 email: lauriejiang@alumni.ubc.ca
 biography: >
