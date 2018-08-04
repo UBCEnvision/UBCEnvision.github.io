@@ -5,7 +5,6 @@ date: "2018-01-31"
 author: ["Shivam Bhayana"]
 ---
 ## Introduction
-
 Creating a lab report can be an extremely arduous process; it requires patience, critical thinking, and varying degrees of technical skills. However, sometimes it can be one little 300-word paragraph that proves to be the most difficult part of this entire process. Yes, I am talking about the abstract. 
 It’s not always easy providing such a concise summary for a research report that may be several pages long, and that may have taken weeks, months, or even years to finish. I know I have had trouble writing out abstracts in the past. Thankfully, I was lucky enough to have recently attended the Multidisciplinary Undergraduate Research Conference (MURC) Abstract Writing Workshop at UBC. 
 I learned a lot about writing abstracts, and hopefully I’ll be able to pass some of my new-found knowledge onto you. 
