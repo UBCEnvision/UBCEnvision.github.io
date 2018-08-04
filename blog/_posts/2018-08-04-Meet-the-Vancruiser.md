@@ -27,7 +27,7 @@ _By securing 1st place at Regionals, Vancruiser has advanced to compete at the A
 
 _The Vancruiser completing its winning trial at the 2018 Pacific Northwest Regional Competition_
 
-Named after our city of Vancouver, the Vancruiser uses an iodine clock reaction as the stopping mechanism and a zinc-air battery to power the motor. The three-layered body, each of which is a tupperware container, separates the circuity, the reaction vessel and the battery, and lastly, the container holding the water load.
+Named after our city of Vancouver, the Vancruiser uses an Iodine-Ascorbic Acid clock reaction as the stopping mechanism and a Zinc-Air battery to power the motor. The three-layered body, each of which is a tupperware container, separates the circuity, the reaction vessel and the battery, and lastly, the container holding the water load.
 
 ### Stopping Mechanism
 
@@ -83,7 +83,7 @@ _Above shows the system for the Zinc-air battery (created by the power source te
 
 ### Mechanical Components
 
-All the battery casings, reaction vessel and circuity cover are 3D printed. Water was secured in 700mL foldable water packs. 
+All the battery casings, reaction vessel and circuity cover are 3D printed. Water was secured in 700mL foldable water packs. Stacked Tupperware containers made up the body of the car. The motor powering the car was a 12 V DC motor.
 
 ![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/11.png "Solidworks Model of Car")
 
