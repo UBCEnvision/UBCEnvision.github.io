@@ -29,9 +29,6 @@ Named after our city of Vancouver, the Vancruiser uses an iodine clock reaction 
 
 ### Stopping Mechanism
 
-
-![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/1.JPG "Vancruiser")
-
 The stopping mechanism uses Lugol’s solution in which iodide anions from the potassium iodide react with molecular iodine, creating triiodide ions. In the presence of ascorbic acid, triiodide will quickly oxidize ascorbic acid, forming dehydroascorbic acid. When the ascorbic acid is used up, the triiodide reacts with the starch in solution, creating a dark blue/black colored solution. The change in color is detected by an LED and solar panel sensor control system. Once color change in detected, the motor is stopped.
 
 
