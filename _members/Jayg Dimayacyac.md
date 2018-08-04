@@ -4,7 +4,7 @@ weight: 100
 name: Jayg Dimayacyac
 project: chemecar
 subweight: 10
-title: Chem-E-Car Captain
+title: Envision President
 img: /assets/images/members/jayg.jpg
 email: chemecar@ubcenvision.com
 biography: >
