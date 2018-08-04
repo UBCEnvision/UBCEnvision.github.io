@@ -37,6 +37,8 @@ The stopping mechanism uses Lugol’s solution in which iodide anions from the p
 
 ![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/3.jpg "Brandon and Wendie")
 
+![alt text](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/chemecar-2018/assets/images/blog/meet-the-vancruiser/13.gif "Iodine Clock Reaction in Action")
+
 ### Battery
 
 The battery used a magnesium oxide coated Gaskatel mesh as a cathode and zinc power made into a paste using water as an anode. When oxygen diffuses through and reacts with water present in the pores of the mesh creating hydroxyl ions, hydroxyl undergoes a reaction with the zinc anode which results in the release of water, zinc oxide, hydrogen and electrons which provide an approximate voltage of 1.2 V per cell. Enough cells are put together to power a 12V DC motor which moves the car at a rate of 15 meters per minute. 
