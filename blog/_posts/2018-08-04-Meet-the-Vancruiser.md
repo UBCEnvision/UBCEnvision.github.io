@@ -19,7 +19,7 @@ The AIChE 2018 Regional Conference at Montana State University brought major suc
 
 Below, we are excited to present to you Vancruiser!
 
-![alt text](assets/images/blog/meet-the-vancruiser/vancruiser.jpg)
+![alt text](assets/images/blog/meet-the-vancruiser/vancruiser.jpg "Vancruiser")
 
 ## VANCRUISER
 
