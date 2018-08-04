@@ -4,7 +4,6 @@ title: "The Ins and Outs of Writing a Good Abstract"
 date: "2018-01-31"
 author: ["Shivam Bhayana"]
 ---
-
 ## Introduction
 
 Creating a lab report can be an extremely arduous process; it requires patience, critical thinking, and varying degrees of technical skills. However, sometimes it can be one little 300-word paragraph that proves to be the most difficult part of this entire process. Yes, I am talking about the abstract. 
