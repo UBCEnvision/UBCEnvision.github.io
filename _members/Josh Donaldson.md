@@ -4,7 +4,7 @@ weight: 100
 project: beer
 subweight: 10
 name: Josh Donaldson
-title: CHBeer Captain
+title: Advisor
 status: ['executive', 'board']
 img: /assets/images/members/josh.jpg
 email: brewing@ubcenvision.com
