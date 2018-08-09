@@ -34,27 +34,37 @@ permalink: /alumni/
 		<ul class="actions horizontal align-center">
 			<li><a class="button small" href="/team/">Back to Team</a></li>
 		</ul>      	
-		<div class="items style2 medium">
-			{% for member in members %}
-			<section>
-				<a href="{{ member.url }}"><img alt="{{member.name}}" src="{{ member.img | prepend: site.baseurl | prepend: site.url }}" class="onscroll-image-fade-in img-team"></a>
-				<h4><b>{{ member.name }}</b> 
+		<div>
+			<table class="alt">
+			<thead>
+				<tr>
+					<td>Name</td>
+					<td>Alumni Since</td>
+					<td>Now At</td>
+					<td>Contact</td>
+				</tr>
+			</thead>
+			<tbody>
+			{% for member in members | sort: 'year' %}
+			<tr>
+				<td>
+					<a href="{{ member.url }}">{{ member.name }}</a>
+				</td>
+				<td>
+					<i>{{ member.year }}</i>
+				</td>
+				<td>
+					{{ member.alumni_position }}
+				</td>
+				<td> 
 					{% if member.linkedin %}
-					| <a href="{{ member.linkedin }}" class="fa fa-linkedin" target="_blank"></a>
-					{% endif %}
-					{% if member.website %}
-					| <a href="{{ member.website }}" class="fa fa-home" target="_blank"></a>
-					{% endif %}
-					<br>
-					<i>{{ member.title }}</i></h4>
-				{% if member.email %}
-				<h5>
-					<i class="fa fa-envelope"></i> 
-					<a href="mailto:{{member.email}}">{{member.email}}</a>
-				</h5>
-				{% endif %}
-			</section>
+					<a href="{{ member.linkedin }}" target="_blank">LinkedIn</a>
+					{% endif %}	
+				</td>				
+			</tr>
 			{% endfor %}
+			</tbody>
+			</table>
 		</div>
 	</div>
 </section>
