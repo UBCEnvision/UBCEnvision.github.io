@@ -23,7 +23,7 @@ Microalgae are fast growing photosynthetic microorganisms; they use chlorophyll 
 
 Unlike plant-based biofuels, microalgae-based biofuels do not compete with the food market. For example, corn can be used for food or biofuel production, but not both. Microalgae-based biofuels also have a faster turnover rate than plant-based biofuels; a batch of microalgae can be fully grown and ready for extraction within months, while plants typically take a year to grow. Lastly, microalgae can also be grown in a variety of setting: factories, ponds, photobioreactors, even harsh conditions such as salish and wastewater. 
 
-Despite the advantages over plant-based biofuels, algae-based biofuels are still not economically viable. Currently, the price for microalgae biodiesel is almost triple the amount of petroleum diesel1. This is mainly due to the high production cost that is associated with both growing the microalgae and extracting the chemical components for biofuels production.
+Despite the advantages over plant-based biofuels, algae-based biofuels are still not economically viable. Currently, the price for microalgae biodiesel is almost triple the amount of petroleum diesel (2). This is mainly due to the high production cost that is associated with both growing the microalgae and extracting the chemical components for biofuels production.
 
 ## Green Joule
 
