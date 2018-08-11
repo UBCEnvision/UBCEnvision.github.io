@@ -6,7 +6,7 @@ author: ["Ophela Zhang"]
 ---
 
 
-Learn about the project that Green Joule is actively working on and how their work can potentially benefit industry!
+Learn about the motives and goals of the Green Joule project and how their work can potentially benefit the industry!
 
 ## Introduction
 
