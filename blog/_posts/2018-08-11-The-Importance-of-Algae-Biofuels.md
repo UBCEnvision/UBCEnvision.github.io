@@ -19,7 +19,7 @@ Biofuels could be a viable alternative for fossil fuels due to their renewable n
 
 Microalgae are fast growing photosynthetic microorganisms; they use chlorophyll to convert light energy, water and carbon dioxide to biomass resources such as carbohydrates and lipids. The inner cell walls of microalgae constitute mainly of hemicellulose and cellulose, which can be hydrolyzed into sugar monomers and further fermented into bioethanol. Microalgae are also able to accumulate a large mass of lipids which can be processed into biodiesel through transesterification. 
 
-![alt text](/assets/images/blog/meet-the-vancruiser/1.JPG "Vancruiser")
+![alt text](/assets/images/blog/The%20Importance%20of%20Algae%20Biofuels/1.png "Inner workings of microalgae")
 
 Unlike plant-based biofuels, microalgae-based biofuels do not compete with the food market. For example, corn can be used for food or biofuel production, but not both. Microalgae-based biofuels also have a faster turnover rate than plant-based biofuels; a batch of microalgae can be fully grown and ready for extraction within months, while plants typically take a year to grow. Lastly, microalgae can also be grown in a variety of setting: factories, ponds, photobioreactors, even harsh conditions such as salish and wastewater. 
 
@@ -29,7 +29,7 @@ Despite the advantages over plant-based biofuels, algae-based biofuels are still
 
 Green Joule (previously the Algae Biofuels Project) aims to offset the production cost of algae biofuels by maximizing the potential of microalgae. Our proposed process includes growing the microalgae strain Chlorella vulgaris under wastewater conditions and extracting sugars and lipids for bioethanol and biodiesel production, respectively.
 
-![alt text](/assets/images/blog/meet-the-vancruiser/2.png "Reactions for Iodine Clock")
+![alt text](/assets/images/blog/The%20Importance%20of%20Algae%20Biofuels/2.png "Green Joule flowchart")
 
 _A flowchart of Green Joule’s proposed process._
 
