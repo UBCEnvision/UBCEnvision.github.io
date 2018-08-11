@@ -10,7 +10,7 @@ Learn about the motives and goals of the Green Joule project and how their work 
 
 ## Introduction
 
-Biofuels are simply fuels that are derived from living matter, whether directly or indirectly. For example, wood is possibly the most ancient raw material for biofuel; it was burned to create heat. Liquid oil from animals and plants (such as olive and whale oils) were used to light up homes for a long time until they were replaced by kerosene. Since the late 18th century, other forms of biofuels started to appear. For example, ethanol, a form of biofuel, became widely used in the transportation sector by the early 19th century. By the 20th century, biodiesel, another form of biofuel, came into the picture. Since then, bioethanol and biodiesel have become the two most exploited types of biofuels.1
+Biofuels are simply fuels that are derived from living matter, whether directly or indirectly. For example, wood is possibly the most ancient raw material for biofuel; it was burned to create heat. Liquid oil from animals and plants (such as olive and whale oils) were used to light up homes for a long time until they were replaced by kerosene. Since the late 18th century, other forms of biofuels started to appear. For example, ethanol, a form of biofuel, became widely used in the transportation sector by the early 19th century. By the 20th century, biodiesel, another form of biofuel, came into the picture. Since then, bioethanol and biodiesel have become the two most exploited types of biofuels (1).
 
 Biofuels could be a viable alternative for fossil fuels due to their renewable nature. Unlike fossil fuels, which are derived from organisms buried for millions of years and converted to fuel from high pressure and temperature, biofuels are extracted from living organisms which have a much shorter and recurring growth period.
 
@@ -23,7 +23,7 @@ Microalgae are fast growing photosynthetic microorganisms; they use chlorophyll 
 
 Unlike plant-based biofuels, microalgae-based biofuels do not compete with the food market. For example, corn can be used for food or biofuel production, but not both. Microalgae-based biofuels also have a faster turnover rate than plant-based biofuels; a batch of microalgae can be fully grown and ready for extraction within months, while plants typically take a year to grow. Lastly, microalgae can also be grown in a variety of setting: factories, ponds, photobioreactors, even harsh conditions such as salish and wastewater. 
 
-Despite the advantages over plant-based biofuels, algae-based biofuels are still not economically viable. Currently, the price for microalgae biodiesel is almost triple the amount of petroleum diesel1. This is mainly due to the high production cost that is associated with both growing the microalgae and extracting the chemical components for biofuels production.
+Despite the advantages over plant-based biofuels, algae-based biofuels are still not economically viable. Currently, the price for microalgae biodiesel is almost triple the amount of petroleum diesel (2). This is mainly due to the high production cost that is associated with both growing the microalgae and extracting the chemical components for biofuels production.
 
 ## Green Joule
 
