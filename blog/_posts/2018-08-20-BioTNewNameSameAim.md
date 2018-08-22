@@ -1,16 +1,17 @@
 ---
-layout: blog
-title:  "BioT: New Name, Same Aim"
-date:   2018-08-20
+layout: post
+title: "BioT: New Name, Same Aim"
+date: "2018-08-20"
 author: ["Landon Jackson"]
 ---
+
+
 ##What's brewing?
 ###How process control and the Internet of Things could spell large potential for biological processes.
 
 ###Background
 
 Process control is the implementation of control systems to optimize and improve the creation of value added products. At the same time, the main concept of the Internet of Things (IoT) is to place data acquisition and simple control methods at the fingertips of the everyday user.  When we throw these together, it results in the most beautiful use of modern day technology.  The ability to see real time data fluctuations, monitor the progress from kilometers away and still have to ability to alter or adjust process parameters at the touch of a smartphone is the next step for the modern age.  
-
 
 ###Our Work
 
@@ -19,7 +20,6 @@ Kombucha, wine and homebrewing all grow in popularity everyday.  The Lower Mainl
 ![alt text](/assets/images/blog/BioT-NewName/pathway.JPG "Complexity of pathways arising from the anaerobic fermentation cycle")
 
 It is BIoT’s aim to develop this affordable technology through the use of basic controllers and sensors that can be made available to the average person.  Over the past year, the team has been working tirelessly on characterizing key aspects of the fermentation cycle, integrating modified sensors and using cloud storage to retain and analyze key data points.  The team has now progressed onto its second design stage.  Simultaneous small batch testing of fully equipped glass jars will provide the team with sufficient amounts of data to begin the machine learning algorithm.  This will also provide unique opportunities to experiment with raw products as they go through the fermentation cycle.
-
 
 ###Appreciation
 
