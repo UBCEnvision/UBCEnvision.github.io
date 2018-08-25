@@ -5,7 +5,6 @@ date:   2018-08-25
 featured: "/assets/images/news/BrandonAward01.jpg"
 ---
 ### Brandon Chen earns the AIChE Freshman Recognition Award
-
 UBC Envision always looks forward to the moments when we can recognize members of our projects and teams, for their achievements in the various fields of work they pursue. Brandon Chen, a third-year student at the Chemical and Biological Engineering program in UBC, recently received the AIChE Freshmen Recognition Award at the 2018 Pacific Northwest Regional Conference. The Freshmen Recognition Award is presented to the most active and involved student in each chapter during his/her freshman year. He was nominated for this award by one of his professors, who accredits Brandon for the time and effort he has put in to the design team, Chem-E-Car.
 
 
