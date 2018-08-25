@@ -2,7 +2,7 @@
 layout: news
 title:  "Brandon Chen earns the AIChE Freshman Recognition Award"
 date:   2018-08-25
-featured: "/assets/images/news/UPCnews.jpg"
+featured: "/assets/images/news/BrandonAward01.jpg"
 ---
 ### Brandon Chen earns the AIChE Freshman Recognition Award
 
