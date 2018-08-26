@@ -5,7 +5,7 @@
 UBC Envision - The AIChE Student Chapter of the University of British Columbia (UBC).
 
 ## Getting Started
-This website is hosted for free on [GitHub Pages](https://pages.github.com). We write our content in [Markdown](https://guides.github.com/features/mastering-markdown/) and use [Jekyll](https://jekyllrb.com/docs/github-pages/) to generate a fast, static and low-maintenance website available at [www.ubcenvision.com](www.ubcenvision.com). Our website design is based on a heavily-modified theme called [Story](https://html5up.net/story) by HTML5Up. Our blog and news articles support [MathJax](https://www.mathjax.org).
+This website is hosted for free on [GitHub Pages](https://pages.github.com). We write our content in [Markdown](https://guides.github.com/features/mastering-markdown/) and use [Jekyll](https://jekyllrb.com/docs/github-pages/) to generate a fast, static and low-maintenance website available at [www.ubcenvision.com](https://www.ubcenvision.com). Our website design is based on a heavily-modified theme called [Story](https://html5up.net/story) by HTML5Up. Our blog and news articles support [MathJax](https://www.mathjax.org).
 
 Our website data is organized into several folders:
 
@@ -64,7 +64,7 @@ Fill out the pull request template and let us know what changes you made! Ensure
 ## Check Us Out!
 
 ### Website
-[http://www.ubcenvision.com](http://www.ubcenvision.com)
+[https://www.ubcenvision.com](https://www.ubcenvision.com)
 
 ### Contact
 contact@ubcenvision.com
