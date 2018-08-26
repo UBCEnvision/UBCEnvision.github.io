@@ -1,6 +1,21 @@
+<img src="https://github.com/UBCEnvision/UBCEnvision.github.io/blob/master/assets/images/envision.png?raw=true" width="250px">
+
 # :canada: UBC Envision [![Build Status](https://travis-ci.org/UBCEnvision/UBCEnvision.github.io.svg?branch=staging)](https://travis-ci.org/UBCEnvision/UBCEnvision.github.io)
 
 UBC Envision - The AIChE Student Chapter of the University of British Columbia (UBC).
+
+## Getting Started
+This website is hosted for free on [GitHub Pages](https://pages.github.com). We write our content in [Markdown](https://guides.github.com/features/mastering-markdown/) and use [Jekyll](https://jekyllrb.com/docs/github-pages/) to generate a fast, static and low-maintenance website available at [www.ubcenvision.com](www.ubcenvision.com). Our website design is based on a heavily-modified theme called [Story](https://html5up.net/story) by HTML5Up. Our blog and news articles support [MathJax](https://www.mathjax.org).
+
+Our website data is organized into several folders:
+
+- Members: information about our team members and alumni members
+- Blog: blog articles
+- News: news articles
+- Pages: all website pages and layout information
+- Projects: project information
+
+The `master` branch is [protected](https://help.github.com/articles/about-protected-branches/) and commits cannot be made to this branch directly. We use [Travis CI](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/master/.travis.yml) to run [RSpec tests](https://github.com/UBCEnvision/UBCEnvision.github.io/tree/master/spec) to ensure all contributions meet our code quality requirements and website standards.
 
 ## Contributing
 :+1::tada: Thanks for taking the time to contribute! :tada::+1:
