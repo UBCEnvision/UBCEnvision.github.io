@@ -4,7 +4,7 @@ title: Alumni
 description: Envision Alumni Members
 permalink: /alumni/
 ---
-{% assign members = site.members | where:"status", "alumni" %}
+{% assign members = site.members | where:"status", "alumni" | sort: 'year' %}
 <section class="banner style2 align-center">
 	<div class="inner">
 		<header>
@@ -45,7 +45,7 @@ permalink: /alumni/
 				</tr>
 			</thead>
 			<tbody>
-			{% for member in members | sort: 'year' %}
+			{% for member in members %}
 			<tr>
 				<td>
 					<a href="{{ member.url }}">{{ member.name }}</a>

@@ -1,4 +1,5 @@
 require 'yaml'
+require 'helpers'
 
 describe "Members" do
   let(:member_keys) { ["layout", "name", "title", "img", "biography", "linkedin"] }
@@ -18,14 +19,6 @@ describe "Members" do
       expect(array.keys).to include(*member_keys),
         "The member #{member} is missing one or more variables in #{member_keys}"
     end
-  end
-
-  def front_matter(file)
-    content = File.read(file)
-    yaml_delimiter = "---"
-
-    front_matter = content[/#{yaml_delimiter}(.*?)#{yaml_delimiter}/m, 1]
-    YAML.load(front_matter)
   end
 
 end
