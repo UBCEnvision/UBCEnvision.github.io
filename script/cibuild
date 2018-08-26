@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-bundle exec jekyll build
+bundle exec jekyll build --strict_front_matter --incremental
 bundle exec htmlproofer ./_site --check-html --check-external-hash --check-opengraph --check-favicon --disable-external --url-ignore "/#.*/"
 bundle exec rspec

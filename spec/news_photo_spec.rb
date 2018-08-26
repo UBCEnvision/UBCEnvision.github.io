@@ -1,4 +1,5 @@
 require "mini_magick"
+require 'helpers'
 
 describe "News Photos" do
   let(:photos) {Dir["assets/images/news/*"]}
