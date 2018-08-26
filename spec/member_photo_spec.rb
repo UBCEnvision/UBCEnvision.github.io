@@ -1,4 +1,5 @@
 require "mini_magick"
+require 'helpers'
 
 describe "Member Photos" do
   let(:photos) {Dir["assets/images/members/*"]}
