@@ -17,6 +17,32 @@ Our website data is organized into several folders:
 
 The `master` branch is [protected](https://help.github.com/articles/about-protected-branches/) and commits cannot be made to this branch directly. We use [Travis CI](https://github.com/UBCEnvision/UBCEnvision.github.io/blob/master/.travis.yml) to run [RSpec tests](https://github.com/UBCEnvision/UBCEnvision.github.io/tree/master/spec) to ensure all contributions meet our code quality requirements and website standards.
 
+## :whale: We now support docker! :whale:
+
+It is now SUPER EASY to contribute to the UBC Envision site with Docker support thanks to @bretfisher! 
+
+### Step 1: Install Docker
+
+1. Go to [the Docker website](https://www.docker.com/get-started)
+2. Download for your operating system (Windows, Mac, etc...)
+
+### Step 2: Start Docker
+
+1. Click on the Docker icon :whale:! For Mac it should be in the top menu bar
+2. Select **start docker**
+
+### Step 3: Run a Local Website
+
+1. Go to your terminal
+2. Navigate to the repository
+3. Run the following command:
+
+```bash
+docker-compose up
+```
+
+4. Open a brower and navigate to [http://localhost:4000/](http://localhost:4000/)
+
 ## Contributing
 :+1::tada: Thanks for taking the time to contribute! :tada::+1:
 
