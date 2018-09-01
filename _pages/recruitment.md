@@ -21,6 +21,8 @@ permalink: /recruitment/
 	<li><a href="https://ubc-envision.gitbooks.io/recruitment/content/" class="button medium wide">Instructions</a></li>
 </ul>
 
+<a target=_blank href=https://ubc.ca1.qualtrics.com/jfe/form/SV_82idkRnBb9pWRZX>Apply to Envision!</a>
+
 <img src=
       "/assets/images/recruitment/biot.png"
       alt="biotlogo">  
