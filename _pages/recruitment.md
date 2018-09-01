@@ -14,21 +14,35 @@ permalink: /recruitment/
 - ***September 19***: Final decision about project members
 </ul>
 
-## Apply
+## Apply to Envision
+
+</ul>
 
 <!--Envision-->
 
-</ul>
-<div align="left"><img src="/assets/images/envision.png" width="40%" alt="envisionlogo"></div>
-</ul>
-[Short Summary of benefits to Envision membership]
-Click [here](http://www.ubcenvision.com/about/) to learn more about Envision!  
-All students are always welcome to join!
+<div align="left"><img src="/assets/images/envision.png" width="50%" alt="envisionlogo"></div>
+
+Because Envision is a student chapter under the American Institute of Chemical Engineers (AIChE), we require new applicants to either _apply for AIChE membership_ or _renew their existing AIChE membership for 2018_ before applying for Envision membership. It only takes a few minutes to sign up!
+
+Click [here](https://www.aiche.org/community/membership/benefits) to learn more about AIChE!
+
 <ul class="actions">
-	<li><a href="https://ubc-envision.gitbooks.io/recruitment/content/" class="button medium wide">Apply to Envision</a></li>
+	<li><a href="https://www.aiche.org/community/membership" class="button medium wide">APPLY TO ENVISION</a></li>
 </ul>
 
+After becoming an AIChE member, you are eligible to become a member of Envision.
+
+Click [here](http://www.ubcenvision.com/about/) to learn more about Envision!  
+
+Students from any faculty are always welcome!
+
+<ul class="actions">
+	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_82idkRnBb9pWRZX" class="button medium wide">APPLY TO ENVISION</a></li>
 </ul>
+
+
+## Apply to a Project
+
 
 <!--BIoT-->
 
@@ -36,12 +50,16 @@ All students are always welcome to join!
       "/assets/images/recruitment/biot.png"
       alt="biotlogo"></div>
 
-#### Brewing up a storm  
-[Link to full page Long Summary pdf of Project]  
-[Interview Dates]  
-Application closes on _September 12, 2018_!
+#### Biological Internet of Things (BIoT)
+
+Click [here](http://www.ubcenvision.com/beer/) to learn more about BIoT! 
+
+Application closes: _September 12_
+
+Interviews will be held: _September 15-16_
+
 <ul class="actions">
-	<li><a href="https://ubc-envision.gitbooks.io/recruitment/content/" class="button medium wide">Apply to BioT</a></li>
+	<li><a href="https://ubc-envision.gitbooks.io/recruitment/content/" class="button medium wide">APPLY TO BIOT</a></li>
 </ul>
 
 <!--Green Joule-->
@@ -49,12 +67,17 @@ Application closes on _September 12, 2018_!
 <div align="left"><img src=
       "/assets/images/recruitment/greenjoule.png"
       alt="greenjoulelogo"></div>
- #### 
-[Link to full page Long Summary pdf of Project]   
-[Interview Dates]  
-Application closes on _September 12, 2018_!
+      
+#### Green Joule
+
+Click [here](http://www.ubcenvision.com/algae/) to learn more about Green Joule! 
+
+Application closes: _September 12_
+
+Interviews will be held: _September 15_
+
 <ul class="actions">
-	<li><a href="https://ubc-envision.gitbooks.io/recruitment/content/" class="button medium wide">Apply to Green Joule</a></li>
+	<li><a href="https://ubc-envision.gitbooks.io/recruitment/content/" class="button medium wide">APPLY TO GREEN JOULE</a></li>
 </ul>
 
 <!--Chem-E-Car-->
@@ -63,14 +86,15 @@ Application closes on _September 12, 2018_!
       "/assets/images/recruitment/chemecar.png"
       alt="chemecarlogo"></div>
       
-[Short Summary of Project]  
+#### Chem-E-Car
+
 Click [here](http://www.ubcenvision.com/chemecar/) to learn more about Chem-E-Car! 
-[Interview Dates]  
-Application closes on _September 12, 2018_!
+
+Application closes: _September 12_
+
+Interviews will be held: _September 11 & September 15_
+
 <ul class="actions">
-	<li><a href="https://ubc-envision.gitbooks.io/recruitment/content/" class="button medium wide">Apply to Chem-E-Car</a></li>
+	<li><a href="https://ubc-envision.gitbooks.io/recruitment/content/" class="button medium wide">APPLY TO CHEM-E-CAR</a></li>
 </ul>
 
-<!--<ul class="actions">
-	<li><a href="https://ubc-envision.gitbooks.io/recruitment/content/" class="button medium wide">Instructions</a></li>
-</ul>-->
