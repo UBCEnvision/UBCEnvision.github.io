@@ -10,7 +10,7 @@ permalink: /recruitment/
 - ***September 4***: Envision Booth at Imagine Day
 - ***September 7***: Envision Info Session (_free pizza included!_)
 - ***September 12***: Applications for Envision projects close
-- ***September 13-16***: Interviews for Envision projects (look below to see specific dates for each project)
+- ***September 11-16***: Interviews for Envision projects (look below to see specific dates for each project)
 - ***September 19***: Final decision about project members
 </ul>
 
@@ -22,27 +22,25 @@ permalink: /recruitment/
 
 <div align="left"><img src="/assets/images/envision.png" width="50%" alt="envisionlogo"></div>
 
-Because Envision is a student chapter under the American Institute of Chemical Engineers (AIChE), we require new applicants to either _apply for AIChE membership_ or _renew their existing AIChE membership for 2018_ before applying for Envision membership. It only takes a few minutes to sign up!
+Because Envision is a student chapter under the American Institute of Chemical Engineers (AIChE), we require new applicants to either __apply for AIChE membership__ or __renew their existing AIChE membership for 2018__ before applying for Envision membership. It only takes a few minutes to sign up!
 
-Click [here](https://www.aiche.org/community/membership/benefits) to learn more about AIChE!
+Click [here](https://www.aiche.org/community/membership/benefits) to learn more about _AIChE_!
 
 <ul class="actions">
 	<li><a href="https://www.aiche.org/community/membership" class="button medium wide">APPLY TO ENVISION</a></li>
 </ul>
 
-After becoming an AIChE member, you are eligible to become a member of Envision.
+After becoming an AIChE member, you are eligible to become a member of Envision and its projects. Also, students from any faculty are always welcome!
 
-Click [here](http://www.ubcenvision.com/about/) to learn more about Envision!  
-
-Students from any faculty are always welcome!
+Click [here](http://www.ubcenvision.com/about/) to learn more about _Envision_!  
 
 <ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_82idkRnBb9pWRZX" class="button medium wide">APPLY TO ENVISION</a></li>
 </ul>
 
+</br>
 
 ## Apply to a Project
-
 
 <!--BIoT-->
 
@@ -52,16 +50,17 @@ Students from any faculty are always welcome!
 
 #### Biological Internet of Things (BIoT)
 
-Click [here](http://www.ubcenvision.com/beer/) to learn more about BIoT! 
+Click [here](http://www.ubcenvision.com/beer/) to learn more about _BIoT_! 
 
-Application closes: _September 12_
+Application closes: __September 12__
 
 Interviews will be held: _September 15-16_
 
 <ul class="actions">
-	<li><a href="https://ubc-envision.gitbooks.io/recruitment/content/" class="button medium wide">APPLY TO BIOT</a></li>
+	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_3LhrpbmqgXmwIND" class="button medium wide">APPLY TO BIOT</a></li>
 </ul>
 
+</br>
 <!--Green Joule-->
 
 <div align="left"><img src=
@@ -70,15 +69,17 @@ Interviews will be held: _September 15-16_
       
 #### Green Joule
 
-Click [here](http://www.ubcenvision.com/algae/) to learn more about Green Joule! 
+Click [here](http://www.ubcenvision.com/algae/) to learn more about _Green Joule_! 
 
-Application closes: _September 12_
+Application closes: __September 12__
 
-Interviews will be held: _September 15_
+Interviews will be held: __September 15__
 
 <ul class="actions">
-	<li><a href="https://ubc-envision.gitbooks.io/recruitment/content/" class="button medium wide">APPLY TO GREEN JOULE</a></li>
+	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_2t3r37arjDLjteB" class="button medium wide">APPLY TO GREEN JOULE</a></li>
 </ul>
+
+</br>
 
 <!--Chem-E-Car-->
 
@@ -88,13 +89,13 @@ Interviews will be held: _September 15_
       
 #### Chem-E-Car
 
-Click [here](http://www.ubcenvision.com/chemecar/) to learn more about Chem-E-Car! 
+Click [here](http://www.ubcenvision.com/chemecar/) to learn more about _Chem-E-Car_! 
 
-Application closes: _September 12_
+Application closes: __September 12__
 
-Interviews will be held: _September 11 & September 15_
+Interviews will be held: __September 11 & September 15__
 
 <ul class="actions">
-	<li><a href="https://ubc-envision.gitbooks.io/recruitment/content/" class="button medium wide">APPLY TO CHEM-E-CAR</a></li>
+	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_9Xr7z99CwsrLgrP" class="button medium wide">APPLY TO CHEM-E-CAR</a></li>
 </ul>
 
