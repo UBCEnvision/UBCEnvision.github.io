@@ -17,15 +17,11 @@ permalink: /recruitment/
 
 ## Apply to Envision
 
-</br>
-
-</ul>
-
 <!--Envision-->
 
 <div align="left"><img src="/assets/images/envision.png" width="50%" alt="envisionlogo"></div>
-
-Because Envision is a student chapter under the American Institute of Chemical Engineers (AIChE), we require new applicants to either __apply for AIChE membership__ or __renew their existing AIChE membership for 2018__ before applying for Envision membership. It only takes a few minutes to sign up and it's FREE!
+</br>
+Because Envision is a student chapter under the American Institute of Chemical Engineers (AIChE), we require new applicants to either __apply for AIChE student membership__ or __renew their existing AIChE student membership for 2018__ before applying for Envision membership. It only takes a few minutes to sign up and it's FREE!
 
 Click [here](https://www.aiche.org/community/membership/benefits) to learn more about _AIChE_!
 
@@ -33,7 +29,7 @@ Click [here](https://www.aiche.org/community/membership/benefits) to learn more 
 	<li><a href="https://www.aiche.org/community/membership" class="button medium wide">APPLY TO AIChE</a></li>
 </ul>
 
-After becoming an AIChE member, you are eligible to become a member of Envision and its projects. Also, students from any faculty are always welcome!
+After becoming an AIChE student member, you are eligible to become a member of Envision and its projects. Also, students from any faculty are always welcome!
 
 Click [here](http://www.ubcenvision.com/about/) to learn more about _Envision_!  
 
@@ -45,8 +41,6 @@ Click [here](http://www.ubcenvision.com/about/) to learn more about _Envision_!
 
 ## Apply to an Envision Project
 
-</br>
-
 Before applying to a project, make sure that you have already filled out the Envision application above!
 
 </br>
@@ -57,7 +51,7 @@ Before applying to a project, make sure that you have already filled out the Env
       "/assets/images/recruitment/biot.png"
       alt="biotlogo"></div>
 
-#### Biological Internet of Things (BIoT)
+### Biological Internet of Things (BIoT)
 
 Click [here](http://www.ubcenvision.com/beer/) to learn more about _BIoT_! 
 
@@ -76,7 +70,7 @@ Interviews will be held: __September 15-16__
       "/assets/images/recruitment/greenjoule.png"
       alt="greenjoulelogo"></div>
       
-#### Green Joule
+### Green Joule
 
 Click [here](http://www.ubcenvision.com/algae/) to learn more about _Green Joule_! 
 
@@ -96,7 +90,7 @@ Interviews will be held: __September 15__
       "/assets/images/recruitment/chemecar.png"
       alt="chemecarlogo"></div>
       
-#### Chem-E-Car
+### Chem-E-Car
 
 Click [here](http://www.ubcenvision.com/chemecar/) to learn more about _Chem-E-Car_! 
 
