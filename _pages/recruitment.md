@@ -11,7 +11,7 @@ permalink: /recruitment/
 - ***September 7***: Envision Info Session (_free pizza included!_)
 - ***September 12***: Applications for Envision projects close
 - ***September 11-16***: Interviews for Envision projects (look below to see specific dates for each project)
-- ***September 19***: Final decision about project members
+- ***September 19***: Final decision about Envision project members
 </ul>
 </br>
 
@@ -21,7 +21,7 @@ permalink: /recruitment/
 
 <div align="left"><img src="/assets/images/envision.png" width="50%" alt="envisionlogo"></div>
 </br>
-Because Envision is a student chapter under the American Institute of Chemical Engineers (AIChE), we require new applicants to either __apply for AIChE student membership__ or __renew their existing AIChE student membership for 2018__ before applying for Envision membership. It only takes a few minutes to sign up and it's FREE!
+Because Envision is a student chapter under the American Institute of Chemical Engineers (AIChE), we require new applicants to either **apply for AIChE student membership** or **renew their existing AIChE student membership for 2018** before applying for Envision membership. It only takes a few minutes to sign up and it's FREE!
 
 Click [here](https://www.aiche.org/community/membership/benefits) to learn more about _AIChE_!
 
@@ -29,7 +29,7 @@ Click [here](https://www.aiche.org/community/membership/benefits) to learn more 
 	<li><a href="https://www.aiche.org/community/membership" class="button medium wide">APPLY TO AIChE</a></li>
 </ul>
 
-After becoming an AIChE student member, you are eligible to become a member of Envision and its projects. Also, students from any faculty are always welcome!
+After becoming an AIChE student member, you are eligible to become a member of Envision and its projects. Also, students from *any faculty* are always welcome!
 
 Click [here](http://www.ubcenvision.com/about/) to learn more about _Envision_!  
 
@@ -51,7 +51,7 @@ Before applying to a project, make sure that you have already filled out the Env
       "/assets/images/recruitment/biot.png"
       alt="biotlogo"></div>
 
-### Biological Internet of Things (BIoT)
+### Biological Internet of Things
 
 Click [here](http://www.ubcenvision.com/beer/) to learn more about _BIoT_! 
 
