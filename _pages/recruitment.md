@@ -13,8 +13,11 @@ permalink: /recruitment/
 - ***September 11-16***: Interviews for Envision projects (look below to see specific dates for each project)
 - ***September 19***: Final decision about project members
 </ul>
+</br>
 
 ## Apply to Envision
+
+</br>
 
 </ul>
 
@@ -22,12 +25,12 @@ permalink: /recruitment/
 
 <div align="left"><img src="/assets/images/envision.png" width="50%" alt="envisionlogo"></div>
 
-Because Envision is a student chapter under the American Institute of Chemical Engineers (AIChE), we require new applicants to either __apply for AIChE membership__ or __renew their existing AIChE membership for 2018__ before applying for Envision membership. It only takes a few minutes to sign up!
+Because Envision is a student chapter under the American Institute of Chemical Engineers (AIChE), we require new applicants to either __apply for AIChE membership__ or __renew their existing AIChE membership for 2018__ before applying for Envision membership. It only takes a few minutes to sign up and it's FREE!
 
 Click [here](https://www.aiche.org/community/membership/benefits) to learn more about _AIChE_!
 
 <ul class="actions">
-	<li><a href="https://www.aiche.org/community/membership" class="button medium wide">APPLY TO ENVISION</a></li>
+	<li><a href="https://www.aiche.org/community/membership" class="button medium wide">APPLY TO AIChE</a></li>
 </ul>
 
 After becoming an AIChE member, you are eligible to become a member of Envision and its projects. Also, students from any faculty are always welcome!
@@ -40,7 +43,13 @@ Click [here](http://www.ubcenvision.com/about/) to learn more about _Envision_!
 
 </br>
 
-## Apply to a Project
+## Apply to an Envision Project
+
+</br>
+
+Before applying to a project, make sure that you have already filled out the Envision application above!
+
+</br>
 
 <!--BIoT-->
 
@@ -54,7 +63,7 @@ Click [here](http://www.ubcenvision.com/beer/) to learn more about _BIoT_!
 
 Application closes: __September 12__
 
-Interviews will be held: _September 15-16_
+Interviews will be held: __September 15-16__
 
 <ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_3LhrpbmqgXmwIND" class="button medium wide">APPLY TO BIOT</a></li>
