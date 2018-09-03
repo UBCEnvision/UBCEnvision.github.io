@@ -6,14 +6,52 @@ permalink: /recruitment/
 
 ## Recruitment Timeline
 
-- ***September 1***: Applications for Envision and Envision projects open
-- ***September 4***: Envision Booth at Imagine Day
+<!-- ***August 29***: Applications for Envision and Envision projects open
+- ***September 4***: Come check out our booth on Imagine day
 - ***September 7***: Envision Info Session (_free pizza included!_)
 - ***September 12***: Applications for Envision projects close
-- ***September 11-16***: Interviews for Envision projects (look below to see specific dates for each project)
-- ***September 19***: Final decision about Envision project members
+- ***September 13-16***: Interviews for Envision projects (look below to see specific dates for each project)
+- ***September 19***: Final decision about project members-->
 
-
+<div class="timeline">
+{% include head.html %} 
+  <div class="container left">
+    <div class="content">
+      <h2>August 29</h2>
+      <p>Applications for Envision and Envision projects open</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>September 4</h2>
+      <p>Come check out our booth on Imagine day</p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>September 7</h2>
+      <p>Envision Info Session (free pizza included!)</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>September 12</h2>
+      <p>Applications for Envision projects close</p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>September 13-16</h2>
+      <p>nterviews for Envision projects (look below to see specific dates for each project)</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>September 19</h2>
+      <p>Final decision about project members</p>
+    </div>
+  </div>
+</div>
 
 ## Apply to Envision
 
