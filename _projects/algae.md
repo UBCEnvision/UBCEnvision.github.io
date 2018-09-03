@@ -1,7 +1,7 @@
 ---
 layout: project
-project: algae
-title: Algal Wastewater Treatment and Biofuels
+project: Green Joule
+title: Green Joule
 image: /assets/images/algae.jpg
 permalink: /algae/
 

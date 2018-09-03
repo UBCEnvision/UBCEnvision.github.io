@@ -1,7 +1,7 @@
 ---
 layout: project
-project: beer
-title: CHBeer
+project: BioT
+title: BioT
 image: /assets/images/BeerChemistry.jpg
 permalink: /beer/
 
