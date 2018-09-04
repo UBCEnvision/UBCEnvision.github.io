@@ -14,50 +14,50 @@ permalink: /recruitment/
 - ***September 19***: Final decision about project members-->
 
 <div class="timeline">
- <link rel="stylesheet" href="/assets/css/timeline.css">
-  <div class="container left">
-    <div class="content">
-      <h2>August 29</h2>
-      <p>Applications for Envision and Envision projects open</p>
+  <link rel="stylesheet" href="/assets/css/timeline.css">
+    <div class="container left">
+      <div class="content">
+        <h2>August 29</h2>
+        <p>Applications for Envision and Envision projects open</p>
+      </div>
     </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>September 4</h2>
-      <p>Come check out our booth on Imagine day</p>
+    <div class="container right">
+      <div class="content">
+        <h2>September 4</h2>
+        <p>Come check out our booth on Imagine day</p>
+      </div>
     </div>
-  </div>
-  <div class="container left">
-    <div class="content">
-      <h2>September 7</h2>
-      <p>Envision Info Session (free pizza included!)</p>
+    <div class="container left">
+      <div class="content">
+        <h2>September 7</h2>
+        <p>Envision Info Session (free pizza included!)</p>
+      </div>
     </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>September 12</h2>
-      <p>Applications for Envision projects close</p>
+    <div class="container right">
+      <div class="content">
+        <h2>September 12</h2>
+        <p>Applications for Envision projects close</p>
+      </div>
     </div>
-  </div>
-  <div class="container left">
-    <div class="content">
-      <h2>September 13-16</h2>
-      <p>Interviews for Envision projects (look below to see specific dates for each project)</p>
+    <div class="container left">
+      <div class="content">
+        <h2>September 13-16</h2>
+        <p>Interviews for Envision projects (look below to see specific dates for each project)</p>
+      </div>
     </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>September 19</h2>
-      <p>Final decision about project members</p>
+    <div class="container right">
+      <div class="content">
+        <h2>September 19</h2>
+        <p>Final decision about project members</p>
+      </div>
     </div>
-  </div>
 </div>
 
 ## Apply to Envision
 
 <!--Envision-->
 
-<div align="center"><img src="/assets/images/envision.png" width="505%" left="50%" alt="envisionlogo"></div>
+<div align="center"><img src="/assets/images/envision.png" width="55%" left="50%" alt="envisionlogo"></div>
 
 
 Because Envision is a student chapter under the American Institute of Chemical Engineers (AIChE), we require new applicants to either **apply for AIChE student membership** or **renew their existing AIChE student membership for 2018** before applying for Envision membership. It only takes a few minutes to sign up and it's FREE!
