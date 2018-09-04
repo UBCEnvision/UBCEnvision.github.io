@@ -1,15 +1,14 @@
-# require 'spec_helper'
+require 'spec_helper'
 
-# describe "Testing Team Page" do
-#   # What size should the images be
-#   $size = '120px'
+feature "Testing Team Page" do
 
-#   before :each do
-#     visit "/team/"
-#   end
+	it "Has team id" do
+		visit '/team'
+	  	expect(page).to have_team_id
+	end
 
-#   it "has a title" do
-#     expect(page).to have_css("h1", text: "Envision Team")
-#   end
-  
-# end
+	def have_team_id
+	  	have_css("#team")
+	end
+
+end
