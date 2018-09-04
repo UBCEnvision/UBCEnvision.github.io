@@ -89,7 +89,7 @@ Before applying to a project, make sure that you have already filled out the Env
 
 <div align="left"><img src="/assets/images/recruitment/biot.png" alt="biotlogo" width="30%" height="auto"></div>
  
-  Previously the CHBeer Brewing team, BioT continues the practice of developing an automated brewing system by merging fundamental chemical engineering principles with software development. Currently, the team is able to monitor various parameters of their brew through a web app, but the would needs your help to take it further. Not to metion a few helping hands with the brewing sessions.
+  Previously the CHBeer Brewing team, BioT continues the practice of developing an automated brewing system by merging fundamental chemical engineering principles with software development. Currently, the team is able to monitor various parameters of their brew through a web app, but they need your help to take it further. Maybe develop a phone app, or help scale the project up into UBC's own microbrewery?
 
 Click [here](http://www.ubcenvision.com/beer/) to learn more about _BIoT_! 
 
@@ -110,7 +110,7 @@ Interviews will be held: __September 15-16__
       width= "40%"
       height= "auto"></div>
       
-  Established in the summer of 2017, Green Joule focuses on the growth and extraction processes of algae biofuels; we wanted to combine the different uses of microalgae to maximize production, instead of purely focusing on one deliverable of the algae cell. The project hopes to recruit fellow enthusiastic parties (such yourself, reader) to help grow the ambition of the team. Currently, we have our sights set on perfecting our process in the lab while looking to incorporate genetic modification into the mix in the hopes of making the biofuel yields more abundant. Who knows where you might take the team?
+  Established in the summer of 2017, Green Joule focuses on the growth and extraction processes of algae biofuels; we wanted to combine the different uses of microalgae to maximize production, instead of purely focusing on one deliverable of the algae cell. The project hopes to recruit fellow enthusiastic parties (such yourself, reader) to help grow the scope and ambition of the team. Currently, we have our sights set on perfecting our process in the lab while looking to incorporate genetic modification into the mix in the hopes of making the biofuel yields more abundant. Who knows where you might take the team?
 
 Click [here](http://www.ubcenvision.com/algae/) to learn more about _Green Joule_! 
 
@@ -133,7 +133,7 @@ Interviews will be held: __September 15__
       width= "45%"
       height= "auto"></div>
       
-  UBC Chem-E-Car is a design team under the UBC Chemical & Biological Engineering Department that competes in the annual AIChE (American Institute of Chemical Engineers) Regional and National Chem-E-Car Competitions. We are a top contender in our region, most recently having qualified to compete in the 2018 National ChemE Car Competition. 
+  UBC Chem-E-Car is a design team under the UBC Chemical & Biological Engineering Department that competes in the annual AIChE (American Institute of Chemical Engineers) Regional and National Chem-E-Car Competitions. We are a top contender in our region, most recently having qualified to compete in the 2018 National ChemE Car Competition. While currently employing electrochemical batteries on our model-size cars, biochemical batteries is a frontier that no one has mastered yet. Can you help us be the first?
 
 Click [here](http://www.ubcenvision.com/chemecar/) to learn more about _Chem-E-Car_! 
 

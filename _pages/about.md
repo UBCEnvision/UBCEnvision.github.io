@@ -26,11 +26,11 @@ We have over 50 enthusiastic students who are excited about technology, innovati
 </ul>
 
 ## Benefits
-Envision aims to not only help the student boy enrich their university careers, but also help you apply your ingenuity and drive in projects that have real-world applications. Let's not wait for the chance to be given to you. Take it, it really is yours.
+Envision aims to not only help the student body enrich their university careers, but also help you apply your ingenuity and drive in projects that have real-world applications. Let's not wait for the chance to be given to you. Take it and run with it.
 
 Here's what you can expect by joining Envision:
 - An opportunity to find and grow your passion, be it software engineering, prototyping, 3D modelling, marketing, social outreach and more!
-- Access to industry networking events, such as Generate hosted by the Clean Energy BC, Amazon workshops in AWS, UBC Multidisciplinary Undergraduate Research Conference and more!
+- Access to industry networking events, such as Generate hosted by Clean Energy BC, Amazon workshops in AWS, the UBC Multidisciplinary Undergraduate Research Conference and more!
 - Opportunities to pick up and apply a new skill, be it machine learning, website development, 3D modelling for protoyping and designing, project management etc.
 - Access to international conferences, most notably the AIChE Regional and National Conferences. Network with not only our North American neighbours, but with people from all over the world, including Korea, Hong Kong, Spain and more! 
 
