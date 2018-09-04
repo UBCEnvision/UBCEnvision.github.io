@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include nav.html %}
+    <div id="wrapper" class="divided">
+        <section class="spotlight style1 orient-left content-align-left image-position-right onscroll-image-fade-in">
+          <div class="content">
+            <div id="breadcrumbs">
+              <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs-ol">
+              <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="/">
+                <span itemprop="name">Home</span></a>
+                <meta itemprop="position" content="1" />
+              </li>
+              <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="/projects/">
+                <span itemprop="name">Projects</span></a>
+                <meta itemprop="position" content="2" />
+              </li> 
+              <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="{{ page.url }}">
+                <span itemprop="name">{{ page.title }}</span></a>
+                <meta itemprop="position" content="3" />
+              </li>                  
+              </ol>
+              <hr>
+            </div>              
+            <h2>{{ page.title }}</h2>
+            <p class="major">{{ page.headline }}</p>
+            <p>{{ page.description }}</p>
+          </div>
+          <div class="image">
+            <img src="{{ page.image }}" alt=" {{page.name}} " />
+          </div>
+       </section>
+       <section class="style1 wrapper container">
+         <div class="inner">
+           <h2>Project</h2>
+           <div class="box">
+           <p>{{ page.box }}</p>
+          </div>
+        </div>
+      </section>          
+          
+      <section class="style1 wrapper">
+        <div class="inner">
+          <div class="index">
+            <section>
+              <header>
+                <h3>Project Details</h3>
+              </header>     
+              <div class="content">
+                {{ content }}
+              </div>
+            </section>
+          </div>
+        </div>
+      </section>
+      <section class="style1 wrapper">
+        <div class="inner">
+          <div class="index">
+            <section>
+              <header>
+                <h3>Team Members</h3>
+              </header>     
+              <div class="content align-center">
+                <div class="items style3 small onload-fade-in">
+                {% assign members = site.members | sort: 'subweight' %}
+                {% for member in members %}
+                {% if member.project == page.project %}
+                <section>
+                  <a href="{{ member.url }}"><img alt="{{member.name}}" src="{{ member.img | prepend: site.baseurl | prepend: site.url }}" class="img-team"></a>
+                  <h4><b>{{ member.name }}</b> 
+                  <br>
+                  <i>{{ member.title }}</i></h4>
+                </section>
+                {% endif %}
+                {% endfor %}
+                </div>
+              </div>
+            </section>
+          </div>
+        </div>
+      </section>      
+      {% include footer.html %}
+    </div>
+
+  </body>
+
+</html>

@@ -1,0 +1,45 @@
+---
+layout: default
+title: News
+permalink: /news/
+---
+
+<section class="wrapper style1 content-align-left">
+  <div class="news-header-bg">
+      <header class="news-page-header">
+        <h1><span class="news-header-text">Envision <strong>News</strong></span></h1>
+        <p><span class="news-header-text">Latest news, events and team achievements from UBC Envision</span></p>
+      </header>
+  </div>
+  <div class="inner">
+      {% include breadcrumbs.html %}
+      <div class="index align-left">
+      {% for news in site.categories.news %}
+      <section>
+        <header class="align-center news-img-header">
+          <div itemscope itemtype='http://schema.org/ImageObject'>
+            <figure class="snip1477">
+              <img alt="{{ news.title }} " src="{{ news.featured }}" itemprop='thumbnailUrl' class="news-img" />
+              <div class="title">
+                <div>
+                  <h4>{{ news.date | date_to_long_string }}</h4>
+                </div>
+              </div>
+              <figcaption>
+                <p>{{ news.title }}</p>
+              </figcaption>
+              <a href="{{ news.url }}" itemprop='contentUrl'></a>
+            </figure>
+          </div>          
+        </header>
+        <div class="content">
+          <p class="news-page-header-date">{{ news.date | date_to_long_string }}</p>
+          <p class="major article-p"><a class="article-title" href="{{ news.url }}">{{ news.title }}</a></p>
+          <span class="article-excerpt">{{ news.excerpt | truncatewords: 70}}</span>
+        </div>
+      </section>
+      {% endfor %}
+      </div>
+
+  </div>
+</section>

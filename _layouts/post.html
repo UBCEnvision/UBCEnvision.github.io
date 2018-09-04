@@ -1,0 +1,128 @@
+---
+layout: default
+---
+{% include mathjax.html %}
+
+{% assign author_array = "" | split: "," %}
+{% for name in page.author %}
+  {% assign author = site.members | where:"name", name | first %}
+  {% if author == null %}
+  {% assign author_array = author_array | push: name %}
+  {% else %}
+  {% capture link %}<a href="{{ author.url }}">{{ author.name }}</a>{% endcapture %}
+  {% assign author_array = author_array | push: link %}
+  {% endif %}
+{% endfor %}
+
+<section class="wrapper style1 content-align-left">
+  <div class="blog-header-bg">
+      <header class="news-page-header news-article-header">
+        <h3 class="news-header-date"><span class="blog-header-text">{{ page.date | date: "%b %-d, %Y" }}</span><span class="reading-time-article" title="Estimated read time">
+            {% assign words = content | number_of_words %}
+            {% if words < 360 %}
+              1 min
+            {% else %}
+              {{ words | divided_by:180 }} mins
+            {% endif %}
+            read
+          </span>
+        </h3>
+        <p id="post-author" title="Article Authors" itemprop="author"><span class="author-post-span">By 
+        {{ author_array | array_to_sentence_string }}</span>
+        </p>
+        <h1 id="post-title"><span class="blog-header-text">{{ page.title }}</span></h1>
+      </header>
+  </div>   
+  <div class="inner">
+      <div id="breadcrumbs">
+        <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs-ol">
+        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a itemprop="item" href="/">
+          <span itemprop="name">Home</span></a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a itemprop="item" href="/blog/">
+          <span itemprop="name">Blog</span></a>
+          <meta itemprop="position" content="2" />
+        </li> 
+        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a itemprop="item" href="{{ page.url }}">
+          <span itemprop="name">{{ page.title }}</span></a>
+          <meta itemprop="position" content="3" />
+        </li>                  
+        </ol>
+        <hr>
+      </div> 
+    <div class="index">
+    <section>
+      <div class="content blog-container">
+        <section id="blog-content" class="style1 wrapper container mathjax">
+          {{ content }}
+          <hr>
+        </section>
+        {% include ad_blog.html %}
+        <h2><b>Comments</b></h2>
+        <div id="disqus_thread"></div>
+      </div>
+      <header>
+        {% assign author_box = "" | split: ":" %}
+        {% for name in page.author %}
+          {% assign author = site.members | where:"name", name | first %}
+          {% if author == null %}
+          {% capture div %}
+          <div class="box align-center">
+            <div class="blog-authors">
+            <a><img alt="{{name}}" src="{{ '/assets/images/members/default.png' | prepend: site.baseurl | prepend: site.url }}" class="img-team img-team-blog" style="vertical-align:middle;"></a>
+            <span class="blog-author-name">{{name}}</span>
+            </div>
+          </div>
+          {% endcapture %}   
+          {% assign author_box = author_box | push: div %}       
+          {% else %}
+          {% capture div %}
+          <div class="box align-center">
+            <div class="blog-authors">
+            <a href="{{ author.url }}"><img alt="{{author.name}}" src="{{ author.img | prepend: site.baseurl | prepend: site.url }}" class="img-team img-team-blog" style="vertical-align:middle;"></a>
+            <span class="blog-author-name"><a href="{{ author.url }}"><h5><b>{{ author.name }}</b></h5></a></span>
+            </div>
+            <p class="align-left blog-author-text">{{ author.biography | truncatewords: 20 }}</p>
+          </div>
+          {% endcapture %}
+          {% assign author_box = author_box | push: div %}
+          {% endif %}
+        {% endfor %}        
+        <h4 class="author-written">Written By</h4>
+        {{ author_box }}
+        {% include ad_blog_side.html %}
+      </header> 
+    </section>
+    </div>
+
+    
+    <script>
+
+    var disqus_config = function () {
+    this.page.url = "{{ page.url | prepend: site.baseurl | prepend: site.url }}";
+    this.page.identifier = "{{ page.url | prepend: site.baseurl | prepend: site.url }}";
+    };
+      
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://ubc-envision.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+      
+    <footer>
+      <hr>
+      <p>Like this article? <b>Read More</b>:</p>
+      <ul class="actions small">
+        <li><a href="/blog/" class="button special small">Back To Blog</a></li>
+      </ul>
+    </footer>
+  </div>
+</section>

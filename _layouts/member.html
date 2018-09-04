@@ -1,0 +1,122 @@
+---
+layout: default
+---
+
+<section class="wrapper style1 content-align-left">
+  <div class="inner">
+    <header>
+    <p>Envision <b>Profile</b></p>
+    <h2><b><a href="/team/" class="member-page-name">{{ page.name }}</a></b></h2>
+    </header>
+    <div id="breadcrumbs">
+      <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs-ol">
+      <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="/">
+        <span itemprop="name">Home</span></a>
+        <meta itemprop="position" content="1" />
+      </li>
+      <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="/team/">
+        <span itemprop="name">Team</span></a>
+        <meta itemprop="position" content="2" />
+      </li> 
+      <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="{{ page.url }}">
+        <span itemprop="name">{{ page.name }}</span></a>
+        <meta itemprop="position" content="3" />
+      </li>                  
+      </ol>
+      <hr>
+    </div> 
+
+    <div class="index">
+      <section>
+        <header class="align-center">
+          <img alt="{{page.name}}" src="{{ page.img | prepend: site.baseurl | prepend: site.url }}" class="img-team img-profile-page">
+          <h4>
+            <b>
+              {{ page.name }}        
+            </b>
+            <br>
+            {{ page.title }}           
+          </h4>   
+        </header>     
+        <div class="content align-left">
+          {{ page.biography }}
+          <div class="index">
+            <section>
+              <header>
+                <h5><b>Contact Information</b></h5>
+              </header>
+              <div class="content">
+                {% if page.email %}
+                <h4>
+                  <i class="fa fa-envelope"></i> 
+                  <a href="mailto:{{page.email}}">{{page.email}}</a>
+                </h4>
+                {% endif %}         
+                <ul class="icons">
+                {% if page.linkedin %}
+                  <li><a href="{{ page.linkedin }}" class="icon style2 fa fa-linkedin" target="_blank"></a></li>
+                {% endif %}
+                {% if page.email %}
+                  <li><a href="mailto:{{ page.email }}" class="icon style2 fa fa-envelope" target="_blank"></a></li>
+                {% endif %}            
+                {% if page.website %}
+                  <li><a href="{{ page.website }}" class="icon style2 fa fa-home" target="_blank"></a></li>
+                {% endif %}
+                </ul> 
+              </div>
+            </section>
+          </div>
+
+          {% assign articles_with_author =  site.categories.blog | where_exp:"article", "article.author contains page.name" %}
+          {% unless articles_with_author.size == 0 %}
+            <div class="index">
+              <section>
+                <header>
+                  <h5><b>Contributed Articles</b></h5>
+                </header>
+                <div class="content">
+                <ol>
+                {% for post in articles_with_author %}
+                  {% assign author_array = "" | split: "," %}
+                  {% for name in post.author %}
+                    {% assign author = site.members | where:"name", name | first %}
+                    {% if author == null %}
+                    {% assign author_array = author_array | push: name %}
+                    {% else %}
+                    {% capture link %}<a href="{{ author.url }}">{{ author.name }}</a>{% endcapture %}
+                    {% assign author_array = author_array | push: link %}
+                    {% endif %}
+                  {% endfor %}                                   
+                  <li>
+                    <h4><b><a href="{{ post.url }}">{{ post.title }}</a></b></h4>
+                    <p>{{ post.date | date: "%b %-d, %Y"}} &middot; <i>{{ author_array | array_to_sentence_string }}</i></p>
+                  </li>
+                {% endfor %}
+                </ol>
+                </div>
+              </section>
+            </div>
+          {% endunless %}
+        </div>                    
+      </section>
+    </div>
+</div>
+
+  <div class="inner">
+      <hr>
+      <footer>
+        <ul class="actions small">
+          {% if page.previous %}
+          <li><a href="{{ page.previous.url }}" class="button small">&larr; Previous Member</a></li>
+          {% endif %}
+          <li><a href="/team/" class="button special small">Team Members</a></li>
+          {% if page.next %}
+          <li> <a href="{{ page.next.url }}" class="button small">Next Member &rarr;</a></li>
+          {% endif %}
+        </ul>
+      </footer>
+  </div>
+</section>

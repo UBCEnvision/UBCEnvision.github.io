@@ -1,0 +1,82 @@
+---
+layout: default
+---
+
+<section class="wrapper style1 content-align-left">
+  <div class="news-header-bg">
+      <header class="news-page-header news-article-header">
+        <h3 class="news-header-date"><span class="news-header-text">{{ page.date | date: "%b %-d, %Y" }}</span></h3>
+<!--         <div class="article-img-header">
+          <figure class="snip1477">
+            <img alt="{{ page.title }} " src="{{ page.featured }}" itemprop='thumbnailUrl' />
+            <div class="title">
+              <div>
+                <h4>{{ page.date | date_to_long_string }}</h4>
+              </div>
+            </div>
+            <figcaption>
+              <p>{{ page.title }}</p>
+            </figcaption>
+            <a href="{{ page.url }}" itemprop='contentUrl'></a>
+          </figure>        
+        </div> -->
+        <h1 id="post-title"><span class="news-header-text article-header">{{ page.title }}</span></h1>
+      </header>
+  </div>  
+  <div class="inner">
+      <div id="breadcrumbs">
+        <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs-ol">
+        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a itemprop="item" href="/">
+          <span itemprop="name">Home</span></a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a itemprop="item" href="/news/">
+          <span itemprop="name">News</span></a>
+          <meta itemprop="position" content="2" />
+        </li> 
+        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+          <a itemprop="item" href="{{ page.url }}">
+          <b><span itemprop="name">{{ page.title }}</span></b></a>
+          <meta itemprop="position" content="3" />
+        </li>                  
+        </ol>
+        <hr>
+      </div>    
+    <!-- <p><a href="/news/"><h3>Envision <strong>News</strong></h3></a></p>     -->
+<!--     <header class="align-center box no-mathjax blog-header">
+      <h1 id="post-title">{{ page.title }}</h1>
+      <p><small>{{ page.date | date: "%b %-d, %Y" }}</small></p>
+    </header> -->
+
+    <section class="style1 wrapper container" id="blog-content">
+      {{ content }}
+    </section>
+    <hr>
+    <div id="disqus_thread"></div>
+
+    <script>
+
+    var disqus_config = function () {
+    this.page.url = "{{ page.url | prepend: site.baseurl | prepend: site.url }}";
+    this.page.identifier = "{{ page.url | prepend: site.baseurl | prepend: site.url }}";
+    };
+      
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://ubc-envision.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>    
+      
+      <footer>
+        <hr>
+        <ul class="actions small">
+          <li><a href="/news/" class="button special small">Back To News</a></li>
+        </ul>
+      </footer>
+  </div>
+</section>

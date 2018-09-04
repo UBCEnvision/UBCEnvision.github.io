@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include nav.html %}
+    <div id="wrapper" class="divided">
+        {{ content }}
+        {% include footer.html %}
+    </div>
+    <script type="text/javascript">
+	(function ($) {
+		$(function () { 
+		  i = new Instafeed({
+		    get: 'user',
+		    userId: 1916181001,
+		    clientId: '533bedde9cc84450bae1dbf7360541b1',
+		    accessToken: '1916181001.1677ed0.79680d83083742229d9fa598db5f5424',
+		    target: "instafeed",
+		    resolution: 'standard_resolution',
+		    limit: 10,
+		    after: function() {
+		      $("#instafeed").simplyScroll({
+		        speed: 1,
+		        frameRate: 20,
+		        orientation: "horizontal",
+		        direction: "forwards",
+		        customClass: "instagram_scroller"
+		      });
+		    }
+		  });
+		  i.run()
+		});
+		})(jQuery);
+	</script> 
+
+	<script>
+	var members = []; 
+	{% assign members = site.members %}
+	{% for member in members %}
+		members.push({
+		    "id": {{forloop.index}},
+		    "name": "{{ member.name}}",
+		    "img": "{{ member.img | prepend: site.baseurl | prepend: site.url }}",
+		    "title": "{{member.title}}",
+		    "url": "{{ member.url }}"
+		});
+	{% endfor %}
+
+	// Fisher-Yates (aka Knuth) Shuffle
+	// https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array
+	function shuffle(array) {
+	  var currentIndex = array.length, temporaryValue, randomIndex;
+
+	  // While there remain elements to shuffle...
+	  while (0 !== currentIndex) {
+
+	    // Pick a remaining element...
+	    randomIndex = Math.floor(Math.random() * currentIndex);
+	    currentIndex -= 1;
+
+	    // And swap it with the current element.
+	    temporaryValue = array[currentIndex];
+	    array[currentIndex] = array[randomIndex];
+	    array[randomIndex] = temporaryValue;
+	  }
+
+	  return array;
+	}
+
+	members = shuffle(members);
+
+	size_wall = 20;
+	max_len = members.length;
+
+	var makeARandomNumber = function(){
+	    return Math.round(Math.random() * (max_len-1));
+	}
+
+	var randoms = Array(size_wall).fill(0).map(makeARandomNumber);	
+	// console.log(max_len);
+
+	for (i in randoms){	
+		// console.log(randoms[i])
+		img = members[randoms[i]].img;
+		name = members[randoms[i]].name;
+		title = members[randoms[i]].title;
+		member_url = members[randoms[i]].url;
+
+		const markup = `
+			<article>
+			<a href="${member_url}" class="image">
+			  <img src="${img}" alt="${name}" />
+			</a>
+			<div class="caption">
+				<p>${title}</p>
+			</div>
+			</article>
+		`;
+
+		document.getElementById("members-gallery").innerHTML += markup;
+	}
+
+</script>
+  </body>
+
+</html>

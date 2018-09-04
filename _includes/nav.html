@@ -1,0 +1,29 @@
+<!-- Credits: https://codepen.io/riogrande/pen/gbXxdx -->
+<nav itemscope='itemscope' itemtype='http://schema.org/SiteNavigationElement' role='navigation' class="navbar">
+<ul>
+	<li><a href="/" itemprop="url"><img alt="envision" class="header-logo header-logo-nav" src="/assets/images/envision.png"></a></li>
+    {% for item in site.data.nav.pages %}
+      <li><a class="smooth-scroll-middle" href="{{ item.url }}" itemprop="url" alt="{{ item.title }}" title="{{ item.title }}"><span itemprop='name'>{{ item.title }}</span></a></li>
+    {% endfor %}
+</ul>
+<div class="button-nav">
+	<a class="btn-open" href="#"></a>
+</div>
+</nav>
+<div class="overlay" id="navigation-overlay">
+	<div class="wrap">
+		<ul class="wrap-nav">
+			<li>
+			<a href="/"><img alt="envision" class="header-logo header-logo-nav header-logo-overlay" src="/assets/images/envision.png"></a></li>
+			<ul>
+			    {% for item in site.data.nav.pages %}
+			      <li><a class="smooth-scroll-middle" href="{{ item.url }}" itemprop="url" alt="{{ item.title }}" title="{{ item.title }}"><span itemprop='name'>{{ item.title }}</span></a></li>
+			    {% endfor %}
+			</ul>
+		</ul>
+		<div class="social">
+			<p>&copy; UBC Envision Engineering Design Team</p> 
+			<p><span class="fa fa-envelope"></span> Email: <a href="mailto:contact@ubcenvision.com">contact@ubcenvision.com</a> | <a target="_blank" href="https://github.com/UBCEnvision/UBCEnvision.github.io">Source on GitHub</a> | <a target="_blank" href="https://html5up.net">Theme</a> | <a target="_blank" href="https://www.siang.ca/">Dev</a></p>
+		</div>
+	</div>
+</div>
