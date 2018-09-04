@@ -1,5 +1,5 @@
 ---
-<!--layout: project
+layout: project
 project: flowcell
 title: Flow-Assisted Batteries
 image: /assets/images/wind.jpg
