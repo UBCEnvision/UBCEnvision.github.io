@@ -18,37 +18,37 @@ Welcome to our recruitment page for 2018! You can find a timeline of our importa
 <div class="timeline">
   <link rel="stylesheet" href="/assets/css/timeline.css">
     <div class="container left">
-      <div class="content">
+      <div class="timelinecontent">
         <h2>August 29</h2>
         <p>Applications for Envision and Envision projects open</p>
       </div>
     </div>
     <div class="container right">
-      <div class="content">
+      <div class="timelinecontent">
         <h2>September 4</h2>
         <p>Come check out our booth on Imagine day</p>
       </div>
     </div>
     <div class="container left">
-      <div class="content">
+      <div class="timelinecontent">
         <h2>September 7</h2>
         <p>Envision Info Session (free pizza included!)</p>
       </div>
     </div>
     <div class="container right">
-      <div class="content">
+      <div class="timelinecontent">
         <h2>September 12</h2>
         <p>Applications for Envision projects close</p>
       </div>
     </div>
     <div class="container left">
-      <div class="content">
+      <div class="timelinecontent">
         <h2>September 13-16</h2>
         <p>Interviews for Envision projects (look below to see specific dates for each project)</p>
       </div>
     </div>
     <div class="container right">
-      <div class="content">
+      <div class="timelinecontent">
         <h2>September 19</h2>
         <p>Final decision about project members</p>
       </div>
