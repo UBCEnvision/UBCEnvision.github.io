@@ -14,7 +14,7 @@ permalink: /recruitment/
 - ***September 19***: Final decision about project members-->
 
 <div class="timeline">
-{% include head.html %} 
+ <link rel="stylesheet" href="/assets/css/timeline.css">
   <div class="container left">
     <div class="content">
       <h2>August 29</h2>
@@ -42,7 +42,7 @@ permalink: /recruitment/
   <div class="container left">
     <div class="content">
       <h2>September 13-16</h2>
-      <p>nterviews for Envision projects (look below to see specific dates for each project)</p>
+      <p>Interviews for Envision projects (look below to see specific dates for each project)</p>
     </div>
   </div>
   <div class="container right">
@@ -57,13 +57,12 @@ permalink: /recruitment/
 
 <!--Envision-->
 
-<div align="left"><img src="/assets/images/envision.png" width="50%" alt="envisionlogo"></div>
+<div align="center"><img src="/assets/images/envision.png" width="505%" left="50%" alt="envisionlogo"></div>
 
 
 Because Envision is a student chapter under the American Institute of Chemical Engineers (AIChE), we require new applicants to either **apply for AIChE student membership** or **renew their existing AIChE student membership for 2018** before applying for Envision membership. It only takes a few minutes to sign up and it's FREE!
 
 Click [here](https://www.aiche.org/community/membership/benefits) to learn more about _AIChE_!
->>>>>>> master
 
 <ul class="actions">
 	<li><a href="https://www.aiche.org/community/membership" class="button medium wide">APPLY TO AIChE</a></li>
@@ -87,10 +86,7 @@ Before applying to a project, make sure that you have already filled out the Env
 
 <!--BIoT-->
 
-<div align="left"><img src=
-      "/assets/images/recruitment/biot.png"
-      alt="biotlogo"></div>
-
+<div align="left"><img src="/assets/images/recruitment/biot.png" alt="biotlogo" width="30%" height="auto"></div>
 
 
 Click [here](http://www.ubcenvision.com/beer/) to learn more about _BIoT_! 
@@ -108,7 +104,9 @@ Interviews will be held: __September 15-16__
 
 <div align="left"><img src=
       "/assets/images/recruitment/greenjoule.png"
-      alt="greenjoulelogo"></div>
+      alt="greenjoulelogo"
+      width= "40%"
+      height= "auto"></div>
       
 
 
@@ -128,7 +126,10 @@ Interviews will be held: __September 15__
 
 <div align="left"><img src=
       "/assets/images/recruitment/chemecar.png"
-      alt="chemecarlogo"></div>
+      alt="chemecarlogo"
+      left="50%"
+      width= "45%"
+      height= "auto"></div>
       
 
 Click [here](http://www.ubcenvision.com/chemecar/) to learn more about _Chem-E-Car_! 

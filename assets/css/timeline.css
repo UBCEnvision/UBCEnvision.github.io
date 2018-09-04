@@ -1,14 +1,15 @@
-* {
+/** {
   box-sizing: border-box;
-}
+}*/
 
 /* Set a background color */
-body {
+body { 
   font-family: Helvetica, sans-serif;
 }
 
 /* The actual timeline (the vertical ruler) */
 .timeline {
+  /* background-color: #474e5d; */
   position: relative;
   max-width: 1200px;
   margin: 0 auto;
@@ -23,14 +24,13 @@ body {
   top: 0;
   bottom: 0;
   left: 50%;
-  margin-left: -3px;
 }
 
 /* Container around content */
 .container {
   padding: 10px 40px;
   position: relative;
-  background-color: inherit;
+  background-color: white;
   width: 50%;
 }
 
@@ -40,7 +40,7 @@ body {
   position: absolute;
   width: 25px;
   height: 25px;
-  right: -17px;
+  right: -50%;
   background-color: white;
   border: 4px solid #FF9F55;
   top: 15px;
