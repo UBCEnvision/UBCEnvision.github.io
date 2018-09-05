@@ -32,7 +32,7 @@ Welcome to our recruitment page for 2018! You can find a timeline of our importa
     <div class="container left">
       <div class="timelinecontent">
         <h2>September 7</h2>
-        <p>Envision Info Session (free pizza included!)</p>
+        <p>Envision Info Session, 5pm at CHBE 102 (free pizza included!)</p>
       </div>
     </div>
     <div class="container right">
