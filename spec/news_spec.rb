@@ -1,10 +1,10 @@
 require 'yaml'
 require 'helpers'
-require_all '/news/_posts/*'
+require_all 'news/_posts/*'
 
 describe "News Articles" do
   let(:article_keys) { ["layout", "title", "date", "featured"] }
-  let(:articles) {Dir["/news/_posts/*"]}
+  let(:articles) {Dir["news/_posts/*.md"]}
 
   it "should have the right extension" do
     articles.each do |article|
