@@ -1,5 +1,6 @@
 # get necessary gems
 require 'rspec'
+require "selenium-webdriver"
 require 'capybara/rspec'
 require 'rack/jekyll'
 require 'rack/test'
@@ -23,8 +24,7 @@ RSpec.configure do |config|
   # Configure Capybara to use Selenium.
   # https://gist.github.com/deanmarano/aeae5cd2d357fec1b06e30ead397d4e3
   Capybara.register_driver :selenium do |app|
-    # Configure selenium to use Chrome.
-    Capybara::Selenium::Driver.new(app, :browser => :chrome)
+    Capybara::Selenium::Driver.new app, browser: :chrome, options: Selenium::WebDriver::Chrome::Options.new(args: %w[headless disable-gpu])
   end
 
   Capybara.configure do |config|
