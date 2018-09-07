@@ -1,6 +1,10 @@
 require 'yaml'
 require 'helpers'
+<<<<<<< HEAD
 require_all '/_site/_members/*.md'
+=======
+require_all '_members/*.md'
+>>>>>>> rspec_paths
 
 describe "Members" do
   let(:member_keys) { ["layout", "name", "title", "img", "biography", "linkedin"] }

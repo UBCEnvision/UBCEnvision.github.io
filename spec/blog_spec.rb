@@ -3,7 +3,7 @@ require 'helpers'
 
 describe "Blog Articles" do
   let(:article_keys) { ["layout", "title", "date", "author"] }
-  let(:articles) {Dir["blog/_posts/*"]}
+  let(:articles) {Dir["/blog/_posts/*"]}
 
   it "should have the right extension" do
     articles.each do |article|
