@@ -1,10 +1,10 @@
 require 'yaml'
 require 'helpers'
-require_all '/news/_projects/*.md'
+require_all '_projects/*.md'
 
 describe "Projects" do
   let(:project_keys) { ["layout", "project", "title", "image", "permalink", "headline", "description", "box"] }
-  let(:projects) {Dir["/_projects/*.md"]}
+  let(:projects) {Dir["_projects/*.md"]}
 
   it "should have the right layout" do
     projects.each do |project|

@@ -1,9 +1,9 @@
 require "mini_magick"
 require 'helpers'
-require_all '/assets/images/news/*'
+require_all 'assets/images/news/*'
 
 describe "News Photos" do
-  let(:photos) {Dir["/assets/images/news/*"]}
+  let(:photos) {Dir["assets/images/news/*"]}
 
   it "should be less than 1MB" do
     photos.each do |photo|
