@@ -1,10 +1,6 @@
 require "mini_magick"
 require 'helpers'
-<<<<<<< HEAD
-require_all '/assets/images/news/*'
-=======
 require_all 'assets/images/news/*'
->>>>>>> rspec_paths
 
 describe "News Photos" do
   let(:photos) {Dir["/assets/images/news/*"]}

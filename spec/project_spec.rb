@@ -1,10 +1,6 @@
 require 'yaml'
 require 'helpers'
-<<<<<<< HEAD
-require_all '/news/_projects/*.md'
-=======
 require_all '_projects/*.md'
->>>>>>> rspec_paths
 
 describe "Projects" do
   let(:project_keys) { ["layout", "project", "title", "image", "permalink", "headline", "description", "box"] }
