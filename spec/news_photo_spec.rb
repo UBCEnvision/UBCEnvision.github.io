@@ -1,6 +1,6 @@
 require "mini_magick"
 require 'helpers'
-require_all '/assets/images/news/*'
+require_all 'assets/images/news/*'
 
 describe "News Photos" do
   let(:photos) {Dir["/assets/images/news/*"]}

@@ -1,6 +1,6 @@
 require 'yaml'
 require 'helpers'
-require_all '/_site/_members/*.md'
+require_all '_members/*.md'
 
 describe "Members" do
   let(:member_keys) { ["layout", "name", "title", "img", "biography", "linkedin"] }
