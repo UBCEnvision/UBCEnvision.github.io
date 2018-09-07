@@ -27,6 +27,11 @@ RSpec.configure do |config|
     Capybara::Selenium::Driver.new(app, :browser => :chrome)
   end
 
+  Capybara.configure do |config|
+    config.default_max_wait_time = 10 # seconds
+    config.default_driver        = :selenium
+  end  
+
   # Configure Capybara to load the website through rack-jekyll.
   # (force_build: true) builds the site before the tests are run,
   # so our tests are always running against the latest version

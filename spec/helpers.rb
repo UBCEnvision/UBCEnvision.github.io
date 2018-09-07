@@ -1,11 +1,13 @@
 module Helpers
+  MAX_RETRIES = 50
+
   def front_matter(file)
     begin
       retries ||= 0
     	content = File.read(file).chomp
   	rescue
       puts "Retry: ##{ retries }"
-      retry if (retries += 1) < 5
+      retry if (retries += 1) < MAX_RETRIES
   	end
     yaml_delimiter = "---"
 
@@ -19,9 +21,16 @@ module Helpers
       content = MiniMagick::Image.open(image_file)
     rescue
       puts "Retry: ##{ retries }"
-      retry if (retries += 1) < 10
+      retry if (retries += 1) < MAX_RETRIES
     end
     content
+  end
+
+  # https://medium.com/@TheSunwave/testing-your-css-styles-with-capybara-556022e0076d
+  def computed_style(selector, pseudo = nil, prop)
+    page.evaluate_script(
+      "window.getComputedStyle(document.querySelector('{selector}'), '#{pseudo}').getPropertyValue('#{prop}')"
+    )
   end
 
 end
