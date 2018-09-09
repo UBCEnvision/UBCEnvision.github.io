@@ -1,7 +1,7 @@
 require 'yaml'
 require 'helpers'
 
-describe "Blog Articles" do
+describe "Blog article .md files" do
   let(:article_keys) { ["layout", "title", "date", "author"] }
   let(:articles) {Dir["/blog/_posts/*"]}
 

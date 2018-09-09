@@ -2,12 +2,6 @@
   box-sizing: border-box;
 }
 
-/* Set a background color */
-body {
-  
-  font-family: Helvetica, sans-serif;
-}
-
 /* The actual timeline (the vertical ruler) */
 .timeline {
   background-color: white;

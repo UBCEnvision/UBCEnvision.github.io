@@ -133,7 +133,7 @@ Interviews will be held: __September 15__
       width= "45%"
       height= "auto"></div>
       
-  UBC Chem-E-Car is a design team under the UBC Chemical & Biological Engineering Department that competes in the annual AIChE (American Institute of Chemical Engineers) Regional and National Chem-E-Car Competitions. We are a top contender in our region, most recently having qualified to compete in the 2018 National ChemE Car Competition. While currently employing electrochemical batteries on our model-size cars, biochemical batteries is a frontier that no one has mastered yet. Can you help us be the first?
+  UBC Chem-E-Car is a design team under the UBC Chemical & Biological Engineering Department that competes in the annual AIChE (American Institute of Chemical Engineers) Regional and National Chem-E-Car Competitions. We are a top contender in our region, most recently having qualified to compete in the 2018 National Chem-E-Car Competition. While currently employing electrochemical batteries on our model-size cars, biochemical batteries is a frontier that no one has mastered yet. Can you help us be the first?
 
 Click [here](http://www.ubcenvision.com/chemecar/) to learn more about _Chem-E-Car_! 
 
