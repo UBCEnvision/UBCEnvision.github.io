@@ -2,7 +2,7 @@ require 'yaml'
 require 'helpers'
 require_all '_members/*.md'
 
-describe "Members" do
+describe "Member .md files" do
   let(:member_keys) { ["layout", "name", "title", "img", "biography", "linkedin"] }
   let(:members) {Dir["/_site/_members/*.md"]}
 
