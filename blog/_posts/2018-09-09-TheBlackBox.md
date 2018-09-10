@@ -52,7 +52,7 @@ All battery casings and the reaction vessel were 3D printed. Silicone was used t
 ## Water storage
 
 To control the motion of water at the bottom of the base, four baffles, made out of thin ABS sheets, were added at regular intervals at an approximate angle of 30° to the horizontal on each side along the length of the car. 
-
+![alt text](UBCEnvision.github.io/assets/images/blog/The Black Box/BlackBoxLowerDeck.png)
 ![alt text](/assets/images/blog/The Black Box/BlackBoxLowerDeck.png "Lower Deck of the Black Box")
 ![alt text](/assets/images/blog/The Black Box/BlackBoxSideView.png "Black Box Side View")
 ![alt text](/assets/images/blog/The Black Box/BlackBoxTopView.png "Black Box Top View")
