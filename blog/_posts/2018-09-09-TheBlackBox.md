@@ -11,7 +11,7 @@ Learn out about the Junior Chem-E-Car team's car from the 2018 AIChE Pacific Nor
 
 ## Introduction
 
-Named after its appearance, The Black Box has a body made completely out of black ABS plastic sheets of varying thickness. The “box” is divided into two horizontal compartments using a thinner fit-to-size sheet of ABS. The lower level is used as a water storage and the upper level accommodates all the other components of the car including the circuity, the reaction vessel and the battery. Similar to [Vancruiser] (https://www.ubcenvision.com/blog/2018/08/04/Meet-the-Vancruiser.html), the car uses an iodine clock reaction as the stopping mechanism and a zinc-air battery to power the motor that runs the car.
+Named after its appearance, The Black Box has a body made completely out of black ABS plastic sheets of varying thickness. The “box” is divided into two horizontal compartments using a thinner fit-to-size sheet of ABS. The lower level is used as a water storage and the upper level accommodates all the other components of the car including the circuity, the reaction vessel and the battery. Similar to [Vancruiser](https://www.ubcenvision.com/blog/2018/08/04/Meet-the-Vancruiser.html/), the car uses an iodine clock reaction as the stopping mechanism and a zinc-air battery to power the motor that runs the car.
 
 #### The Black Box
 * 3rd Place at the Chem-E-Car Competition
