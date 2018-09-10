@@ -23,9 +23,9 @@ Below, we are excited to present to you Vancruiser!
 
 The time the car takes to stop is based on the ratio of potassium iodide and potassium chloride in a volume-dependent iodine clock reaction. The reaction requires a mixture of potassium chloride and potassium iodide which reacts with a mixture of sodium thiosulfate, potassium sulfate, potassium persulfate, and starch. The iodide is initially oxidized by the persulfate ions to iodine before some of it is reduced back to iodide by the thiosulfate ions. The remaining iodine reacts with the starch to form an iodine-starch complex, giving the reaction its characteristic prussian blue final colour. This colour change is what “breaks the circuit” as it no longer allows light from the LED to pass through the solution and be received by the LDR at the other end of the beaker. 
 
-2 I− + S2O82− → I2 + 2 SO42−     (SLOW)
-I2 + 2 S2O32− → 2 I− + S4O62−     (FAST)
-I2 + (C6H1 0O5 )n • H2O → Blue Iodine Starch Complex
+                                  2 I− + S2O82− → I2 + 2 SO42−     (SLOW)
+                                 I2 + 2 S2O32− → 2 I− + S4O62−     (FAST)
+                           I2 + (C6H1 0O5 )n • H2O → Blue Iodine Starch Complex
 
 What makes it feasible for us to use an iodine clock reaction to stop the car immediately with minimum error in the distance that it covers, is the fact it takes place all that once. This means that as soon as the reaction goes to completion, the colour change in the blink of an eye. 
 
