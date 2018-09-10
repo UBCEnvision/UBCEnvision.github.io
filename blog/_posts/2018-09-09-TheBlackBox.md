@@ -39,7 +39,7 @@ The zinc-air battery consists of a PTFE-coated MOC air electrode attached to a p
                                  Overall:	   2Zn + O2 → 2ZnO (E0= 1.66 V)
 
 
-<img src="/assets/images/blog/The Black Box/BatteryBuild.png alt="Battery Schematic image">
+<img src="/assets/images/blog/The Black Box/BatteryBuild.png" alt="Battery Schematic image">
 
 ## Control System
 
@@ -57,5 +57,5 @@ To control the motion of water at the bottom of the base, four baffles, made out
 <img src="/assets/images/blog/The Black Box/BlackBoxSideView.png" alt="Black Box Side View">
 <img src="/assets/images/blog/The Black Box/BlackBoxTopView.png" alt="Black Box Top View">
 <img src="/assets/images/blog/The Black Box/CompetitionDayPrep.png" alt="Junior Team preparing car before the competition">
-<img src="/assets/images/blog/The Black Box/CompetitionDayInspection.png" alt="Checking the car before starting">
+<img src="/assets/images/blog/The Black Box/CompetitonDayInspection.png" alt="Checking the car before starting">
 <img src="/assets/images/blog/The Black Box/CompetitionDayFirstRun.png" alt="Starting the car">
