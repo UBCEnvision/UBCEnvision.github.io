@@ -39,11 +39,11 @@ The zinc-air battery consists of a PTFE-coated MOC air electrode attached to a p
                                  Overall:	   2Zn + O2 → 2ZnO (E0= 1.66 V)
 
 
-![alt text](/assets/images/blog/meet-the-vancruiser/4.PNG "Reactions for Zinc-Air Battery")
+![alt text](/assets/images/blog/The Black Box/BatteryBuild.JPG "Battery Schematic image")
 
 ## Control System
 
-![alt text](/assets/images/blog/meet-the-vancruiser/7.png "Control 1")
+![alt text](/assets/images/blog/The Black Box/ControlSystemFlowDiagram.JPG "Control System Flow Chart")
 
 ## Mechanical Components
 
@@ -52,3 +52,10 @@ All battery casings and the reaction vessel were 3D printed. Silicone was used t
 ## Water storage
 
 To control the motion of water at the bottom of the base, four baffles, made out of thin ABS sheets, were added at regular intervals at an approximate angle of 30° to the horizontal on each side along the length of the car. 
+
+![alt text](/assets/images/blog/The Black Box/BlackBoxLowerDeck.JPG "Lower Deck of the Black Box")
+![alt text](/assets/images/blog/The Black Box/BlackBoxSideView.JPG "Black Box Side View")
+![alt text](/assets/images/blog/The Black Box/BlackBoxTopView.JPG "Black Box Top View")
+![alt text](/assets/images/blog/The Black Box/CompetitionDayPrep.JPG "Junior Team preparing car before the competition")
+![alt text](/assets/images/blog/The Black Box/CompetitionDayInspection.JPG "Checking the car before starting")
+![alt text](/assets/images/blog/The Black Box/CompetitionDayFirstRun.JPG "Starting the car")
