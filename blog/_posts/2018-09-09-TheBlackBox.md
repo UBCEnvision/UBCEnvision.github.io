@@ -39,7 +39,7 @@ The zinc-air battery consists of a PTFE-coated MOC air electrode attached to a p
                                  Overall:	   2Zn + O2 → 2ZnO (E0= 1.66 V)
 
 
-![alt text](/assets/images/blog/The Black Box/BatteryBuild.png "Battery Schematic image")
+<img src="/assets/images/blog/The Black Box/BatteryBuild.png "Battery Schematic image">
 
 ## Control System
 
@@ -53,10 +53,9 @@ All battery casings and the reaction vessel were 3D printed. Silicone was used t
 
 To control the motion of water at the bottom of the base, four baffles, made out of thin ABS sheets, were added at regular intervals at an approximate angle of 30° to the horizontal on each side along the length of the car. 
 
-![alt text](UBCEnvision.github.io/assets/images/blog/The Black Box/BlackBoxLowerDeck.png)
-![alt text](/assets/images/blog/The Black Box/BlackBoxLowerDeck.png "Lower Deck of the Black Box")
-![alt text](/assets/images/blog/The Black Box/BlackBoxSideView.png "Black Box Side View")
-![alt text](/assets/images/blog/The Black Box/BlackBoxTopView.png "Black Box Top View")
-![alt text](/assets/images/blog/The Black Box/CompetitionDayPrep.png "Junior Team preparing car before the competition")
-![alt text](/assets/images/blog/The Black Box/CompetitionDayInspection.png "Checking the car before starting")
-![alt text](/assets/images/blog/The Black Box/CompetitionDayFirstRun.png "Starting the car")
+<img src="/assets/images/blog/The Black Box/BlackBoxLowerDeck.png "Lower Deck of the Black Box">
+<img src="/assets/images/blog/The Black Box/BlackBoxSideView.png "Black Box Side View">
+<img src="/assets/images/blog/The Black Box/BlackBoxTopView.png "Black Box Top View">
+<img src="/assets/images/blog/The Black Box/CompetitionDayPrep.png "Junior Team preparing car before the competition">
+<img src="/assets/images/blog/The Black Box/CompetitionDayInspection.png "Checking the car before starting">
+<img src="/assets/images/blog/The Black Box/CompetitionDayFirstRun.png "Starting the car">
