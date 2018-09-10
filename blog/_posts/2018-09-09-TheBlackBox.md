@@ -43,7 +43,7 @@ The zinc-air battery consists of a PTFE-coated MOC air electrode attached to a p
 
 ## Control System
 
-![alt text](/assets/images/blog/The Black Box/ControlSystemFlowDiagram.png "Control System Flow Chart")
+<img src="/assets/images/blog/The Black Box/ControlSystemFlowDiagram.png" alt="Control System Flow Chart">
 
 ## Mechanical Components
 
@@ -52,6 +52,7 @@ All battery casings and the reaction vessel were 3D printed. Silicone was used t
 ## Water storage
 
 To control the motion of water at the bottom of the base, four baffles, made out of thin ABS sheets, were added at regular intervals at an approximate angle of 30° to the horizontal on each side along the length of the car. 
+
 ![alt text](UBCEnvision.github.io/assets/images/blog/The Black Box/BlackBoxLowerDeck.png)
 ![alt text](/assets/images/blog/The Black Box/BlackBoxLowerDeck.png "Lower Deck of the Black Box")
 ![alt text](/assets/images/blog/The Black Box/BlackBoxSideView.png "Black Box Side View")
