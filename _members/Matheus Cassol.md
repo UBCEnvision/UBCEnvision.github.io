@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 800
+weight: 5
 name: Matheus Cassol
 project: chemecar
 subweight: 10

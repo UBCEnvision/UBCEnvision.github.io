@@ -21,10 +21,10 @@ permalink: /team/
 		</ul> 
 		<h2 id="team">Envision <strong>Team</strong></h2>
 		<p>UBC Envision is divided into 4 main projects linked by a common leadership team that oversees all projects and team activities. Please feel free to contact our team members directly by email or add them on LinkedIn if you have any questions about our work.</p>
-		<div class="items style1 small">
+		<div class="items style1 small" id="team-members">
 			{% for member in members %}
 			{% unless member.status contains 'board' or member.status contains 'alumni' %}
-			<section>
+			<section class="member">
 				<a href="{{ member.url }}"><img alt="{{member.name}}" src="{{ member.img | prepend: site.baseurl | prepend: site.url }}" class="onscroll-image-fade-in img-team"></a>
 				<h4><b>{{ member.name }}</b> 
 					{% if member.linkedin %}
@@ -34,11 +34,11 @@ permalink: /team/
 					| <a href="{{ member.website }}" class="fa fa-home" target="_blank"></a>
 					{% endif %}
 					<br>
-					<i>{{ member.title }}</i></h4>
+					<i class="member-title">{{ member.title }}</i></h4>
 				{% if member.email %}
 				<h5>
 					<i class="fa fa-envelope"></i> 
-					<a href="mailto:{{member.email}}">{{member.email}}</a>
+					<a class="member-email" href="mailto:{{member.email}}">{{member.email}}</a>
 				</h5>
 				{% endif %}
 			</section>
@@ -55,9 +55,9 @@ permalink: /team/
           <h2>Envision <strong>Board</strong></h2>
       	</header>
       	<p>The UBC Envision leadership is supported by a volunteer board comprised of alumni members and UBC faculty members. Our AIChE faculty advisor is <a href="http://www.chbe.ubc.ca/profile/jonathan-verrett/" target="_blank">Dr. Jonathan Verrett</a>. The Board provides strategic advice and oversight on team activities and guidance for long-term goals. </p>
-		<div class="items style2 medium">
+		<div class="items style2 medium" id="board-members">
 			{% for member in board_members %}
-			<section>
+			<section class="member">
 				<a href="{{ member.url }}"><img alt="{{member.name}}" src="{{ member.img | prepend: site.baseurl | prepend: site.url }}" class="onscroll-image-fade-in img-team"></a>
 				<h4><b>{{ member.name }}</b> 
 					{% if member.linkedin %}

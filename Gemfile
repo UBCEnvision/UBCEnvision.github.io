@@ -31,8 +31,12 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 group :development, :test do
 	gem "rspec"
-	gem 'capybara'
-	gem 'poltergeist'
+	gem "capybara"
+	gem "selenium-webdriver"
+	gem "chromedriver-helper"
+	gem "poltergeist"
 	gem "rack-jekyll"
-	gem 'mini_magick'
+	gem "mini_magick"
+	gem "pry"
+	gem "require_all"
 end
