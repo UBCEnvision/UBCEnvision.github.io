@@ -2,12 +2,6 @@
   box-sizing: border-box;
 }
 
-/* Set a background color */
-body {
-  
-  font-family: Helvetica, sans-serif;
-}
-
 /* The actual timeline (the vertical ruler) */
 .timeline {
   background-color: white;
@@ -95,7 +89,7 @@ body {
 }
 
 /* The actual content */
-.content {
+.timelinecontent {
   padding: 20px 30px;
   background-color: white;
   position: relative;
