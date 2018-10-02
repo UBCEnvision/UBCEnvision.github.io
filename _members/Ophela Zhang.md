@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 100
+weight: 10
 name: Ophela Zhang
 project: algae
 subweight: 10
