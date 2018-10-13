@@ -34,6 +34,12 @@ Here's what you can expect by joining Envision:
 - Opportunities to pick up and apply a new skill, be it machine learning, website development, 3D modelling for protoyping and designing, project management etc.
 - Access to international conferences, most notably the AIChE Regional and National Conferences. Network with not only our North American neighbours, but with people from all over the world, including Korea, Hong Kong, Spain and more! 
 
+## Sister Chapter
+ Since February 2018, we are officially AIChE Sister Chapters with the Polytechnic University of Catalonia (UPC)!
+ <ul class="actions">
+	<li><a href="https://bcn-aiche.upc.edu/en" target="_blank" class="button medium wide">AIChE UPC Chapter</a></li>
+</ul>
+
 ## Projects
 We have several active projects for 2017-2018: Chem-E-Car, Algae Biofuels, Flow Cell and CHBeer. Find out more about what we are working on for the upcoming 2018-2019 year:
 
