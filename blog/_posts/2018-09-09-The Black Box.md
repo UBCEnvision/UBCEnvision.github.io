@@ -25,9 +25,11 @@ Below, we are excited to present to you Vancruiser!
 
 The time the car takes to stop is based on the ratio of potassium iodide and potassium chloride in a volume-dependent iodine clock reaction. The reaction requires a mixture of potassium chloride and potassium iodide which reacts with a mixture of sodium thiosulfate, potassium sulfate, potassium persulfate, and starch. The iodide is initially oxidized by the persulfate ions to iodine before some of it is reduced back to iodide by the thiosulfate ions. The remaining iodine reacts with the starch to form an iodine-starch complex, giving the reaction its characteristic prussian blue final colour. This colour change is what “breaks the circuit” as it no longer allows light from the LED to pass through the solution and be received by the LDR at the other end of the beaker. 
 
-                                  2 I− + S2O82− → I2 + 2 SO42−     (SLOW)
-                                 I2 + 2 S2O32− → 2 I− + S4O62−     (FAST)
-                           I2 + (C6H1 0O5 )n • H2O → Blue Iodine Starch Complex
+>2I<sup>−</sup> + S<sub>2</sub>O<sub>8</sub><sup>2−</sup> → I<sub>2</sub> + 2 SO<sub>4</sub><sup>2−</sup>     (SLOW)
+><br>
+>I<sub>2</sub> + 2 S<sub>2</sub>O<sub>3</sub><sup>2−</sup> → 2 I<sup>−</sup> + S<sub>4</sub>O<sub>6</sub><sup>2−</sup>     (FAST)
+><br>
+>I<sub>2</sub> + (C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)n • H<sub>2</sub>O → Blue Iodine Starch Complex
 
 What makes it feasible for us to use an iodine clock reaction to stop the car immediately with minimum error in the distance that it covers, is the fact it takes place all that once. This means that as soon as the reaction goes to completion, the colour change in the blink of an eye. 
 
@@ -35,11 +37,13 @@ What makes it feasible for us to use an iodine clock reaction to stop the car im
 
 The zinc-air battery consists of a PTFE-coated MOC air electrode attached to a porous 3D printed base and a zinc anode made from mixing zinc and ethanol to form a paste and applying this paste onto copper gauze. The electrolyte for each cell of the battery is 6M KOH solution. The assembly requires a separator between the air cathode and the electrolyte and the the zinc anode is attached to the non-porous 3D printed base. The battery produced a final voltage of 19.92V: 12 cells with an average output of 1.66V each.
 
-                                   Anode:           Zn + 4OH− → Zn(OH)42− + 2e− (E0 = －1.26 V)
-                                   Fluid: 	   Zn(OH)42− → ZnO + H2O + 2OH−
-                                 Cathode: 	1/2 O2 + H2O + 2e−→ 2OH− (E0 = 0.40 V pH＝11)
-                                 Overall:	   2Zn + O2 → 2ZnO (E0= 1.66 V)
-
+>  Anode:           Zn + 4OH<sup>−</sup> → Zn(OH)<sub>4</sub><sup>2−</sup> + 2e<sup>−</sup> (E<sub>0</sub> = －1.26 V)
+>  <br>
+>  Fluid: 	        Zn(OH)<sub>4</sub><sup>2−</sup> → ZnO + H<sub>2</sub>O + 2OH<sup>−</sup>
+>  <br>
+>  Cathode: 	    1/2 O<sub>2</sub> + H<sub>2</sub>O + 2e<sup>−</sup>→ 2OH<sup>−</sup> (E<sub>0</sub> = 0.40 V pH＝11)
+>  <br>
+>  Overall:	       2Zn + O<sub>2</sub> → 2ZnO (E<sub>0</sub>= 1.66 V)
 
 <img src="/assets/images/blog/The Black Box/BatteryBuild.png" alt="Battery Schematic image">
 
