@@ -4,16 +4,11 @@ title: Recruitment
 permalink: /recruitment/
 ---
 
-Welcome to our recruitment page for 2018! You can find a timeline of our important deadlines and application forms here. Before applying for a project or pitching your own, please sign up for Envision first. After that, let your interest take over and join fellow like-minded peers in pushing the limits in what you are capable of in your young university career.
+Welcome to our recruitment page for 2018! You can find a timeline of our important deadlines and application forms here.  
+
+Unfortunately, we have **closed** registration for the 2018 year, but check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! In the meantime, feel free to explore Envision and its projects, or email us at contact@ubcenvision.com for any enquiries.
 
 ## Recruitment Timeline
-
-<!-- ***August 29***: Applications for Envision and Envision projects open
-- ***September 4***: Come check out our booth on Imagine day
-- ***September 7***: Envision Info Session (_free pizza included!_)
-- ***September 12***: Applications for Envision projects close
-- ***September 13-16***: Interviews for Envision projects (look below to see specific dates for each project)
-- ***September 19***: Final decision about project members-->
 
 <div class="timeline">
   <link rel="stylesheet" href="/assets/css/timeline.css">
@@ -62,7 +57,7 @@ Welcome to our recruitment page for 2018! You can find a timeline of our importa
 <div align="center"><img src="/assets/images/envision.png" width="55%" left="50%" alt="envisionlogo"></div>
 
 
-Because Envision is a student chapter under the American Institute of Chemical Engineers (AIChE), we require new applicants to either **apply for AIChE student membership** or **renew their existing AIChE student membership for 2018** before applying for Envision membership. It only takes a few minutes to sign up and it's FREE!
+Because Envision is a student chapter under the American Institute of Chemical Engineers (AIChE), we require new applicants to either **apply for AIChE student membership** or **renew their existing AIChE student membership for 2018** before applying for Envision membership. It only takes a few minutes to sign up and it's FREE! Unfortunately, registration to be part of Envision teams are now closed, but we still encourage you to sign up as an AICHE member and take advantage of professional networking and academic enrichment opportunities!
 
 Click [here](https://www.aiche.org/community/membership/benefits) to learn more about _AIChE_!
 
@@ -70,20 +65,11 @@ Click [here](https://www.aiche.org/community/membership/benefits) to learn more 
 	<li><a href="https://www.aiche.org/community/membership" class="button medium wide">APPLY TO AIChE</a></li>
 </ul>
 
-After becoming an AIChE student member, you are eligible to become a member of Envision and its projects. Also, students from *any faculty* are always welcome!
 
 Click [here](http://www.ubcenvision.com/about/) to learn more about _Envision_!  
 
-<ul class="actions">
-	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_82idkRnBb9pWRZX" class="button medium wide">APPLY TO ENVISION</a></li>
-</ul>
 
-
-## Apply to an Envision Project
-
-Before applying to a project, make sure that you have already filled out the Envision application above!
-
-
+## Check out an Envision Project
 
 <!--BIoT-->
 
@@ -93,13 +79,9 @@ Before applying to a project, make sure that you have already filled out the Env
 
 Click [here](http://www.ubcenvision.com/beer/) to learn more about _BIoT_! 
 
-Application closes: __September 12__
-
-Interviews will be held: __September 15-16__
-
-<ul class="actions">
+<!--<ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_3LhrpbmqgXmwIND" class="button medium wide">APPLY TO BIOT</a></li>
-</ul>
+</ul>-->
 
 
 <!--Green Joule-->
@@ -114,13 +96,9 @@ Interviews will be held: __September 15-16__
 
 Click [here](http://www.ubcenvision.com/algae/) to learn more about _Green Joule_! 
 
-Application closes: __September 12__
-
-Interviews will be held: __September 15__
-
-<ul class="actions">
+<!--<ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_2t3r37arjDLjteB" class="button medium wide">APPLY TO GREEN JOULE</a></li>
-</ul>
+</ul>-->
 
 
 
@@ -137,11 +115,7 @@ Interviews will be held: __September 15__
 
 Click [here](http://www.ubcenvision.com/chemecar/) to learn more about _Chem-E-Car_! 
 
-Application closes: __September 12__
-
-Interviews will be held: __September 11 & September 15__
-
-<ul class="actions">
+<!--<ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_9Xr7z99CwsrLgrP" class="button medium wide">APPLY TO CHEM-E-CAR</a></li>
-</ul>
+</ul>-->
 

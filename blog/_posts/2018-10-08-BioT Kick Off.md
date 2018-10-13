@@ -2,7 +2,7 @@
 layout: post
 title: "2018 and beyond, the current state of BIoT"
 date: "2018-10-06"
-author: ["Matt Schultz"]
+author: ["Matthew Schultz"]
 ---
 
 ## 2018 kick-off
