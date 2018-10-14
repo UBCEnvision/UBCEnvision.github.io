@@ -5,8 +5,8 @@ permalink: /report_incidents/
 ---
 
 <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js?ver=1.3.2'></script>
+
 <script type='text/javascript'>
-    
     $(function(){
     
         var iFrames = $('iframe');
@@ -28,7 +28,7 @@ permalink: /report_incidents/
         			iFrames[i].src = '';
         			iFrames[i].src = iSource;
                }
-               
+
         	} else {
         	   iFrames.load(function() { 
         	       this.style.height = this.contentWindow.document.body.offsetHeight + 'px';
