@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The BubbleT Battery - Zn-Tapioca-Air"
-date: "2018-10-13"
+date: "2018-10-14"
 author: ["Fiona D'Silva"]
 ---
 
@@ -16,6 +16,15 @@ The Vancruiser’s battery design and composition is visualized below in a Solid
 
 Insert Video (ZnAir Solidworks: 
 https://drive.google.com/open?id=1W2Kz65EZbnArMfMfNNOLImuhjuoDFsu1
+
+``` Video implementation block```
+<video controls="controls">
+  <source type="video/mp4" src="/assets/videos/blog/ZnAir_Solidworks.mp4">
+</video>   
+
+
+
+<a href="UBCEnvision.github.io/assets/videos/blog/ZnAir_Solidworks.mp4"><img src="UBCEnvision.github.io/assets/videos/blog/ZnAir_Solidworks.mp4" alt="The Zn-Air Battery system’s components. Each tall stack can hold upto 15 cells, and each cell has a voltage of 1.45V." width="640" height="480" border="10" /></a>
 
 Video Caption: The Zn-Air Battery system’s components. Each tall stack can hold upto 15 cells, and each cell has a voltage of 1.45V. 
 
