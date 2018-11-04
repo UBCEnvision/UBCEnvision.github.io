@@ -2,7 +2,6 @@
 layout: member
 weight: 300
 name: Caitlin Lee
-status: ['alumni']
 title: Advisor
 img: /assets/images/members/caitlin.jpg
 email: caitlin.lee@alumni.ubc.ca
