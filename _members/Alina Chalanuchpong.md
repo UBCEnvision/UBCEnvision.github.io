@@ -1,12 +1,15 @@
 ---
 layout: member
-weight: 1000
+weight: 1
 name: Alina Chalanuchpong
-project: algae
+title: Green Joule Subteam Lead
+project: Green Joule
 subweight: 10
-title: Algae Growth Leader
 img: /assets/images/members/Alina.jpg
+email: 
+
 biography: >
-  Alina is a second year student specializing in Microbiology and Immunology. After learning more about microbes, she became interested in the application of algae towards a more sustainable lifestyle. She is eager to explore the sustainable growth of algae and the generation of biofuel from its biomass. Alina is currently the sub-team leader for the algae growth division and hopes to inspire and learn more about the application of algae’s metabolism and biomass
-linkedin: https://www.linkedin.com/in/alina-chalanuchpong
+ Alina is a third-year student specializing in Microbiology and Immunology. She is passionate about the powerful applications of micro-organisms in industries. She is eager to explore the sustainable growth of algae and the generation of biofuel from its biomass. Alina is currently the sub-team lead for the algae growth division and hopes to inspire others and learn more about the algae’s metabolism and its application.
+
+linkedin: https://www.linkedin.com/in/alina-chalanuchpong/
 ---

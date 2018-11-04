@@ -6,9 +6,8 @@ project: chemecar
 subweight: 10
 title: Envision President
 img: /assets/images/members/jayg.jpg
-email: chemecar@ubcenvision.com
+email: president@ubcenvision.com
 biography: >
-  Jose Gabriel (Jayg) Dimayacyac is a third year Chemical Engineering student who is currently working in Co-op until September, 2018. As the current captain of Chem-E-Car, he has been involved in the development of Envision, the recruitment process for Chem-E-Car, the restructuring of Chem-E-Car and the ongoing management of both the Senior and Junior Chem-E-Car teams. Jayg was the former Junior Chemical Team Lead during his second year and went with the team last year to compete in Oregon. That following summer, he also made major contributions in applying a Hydrogen Fuel Cell as the power source of the car.
-  With a competitive vision for Chem-E-Car, Jayg now hopes to bring success to both the Senior and Junior Chem-E-Car teams at the 2018 AIChe Chem-E-Car Competition.
+  Jayg Dimayacyac is a third year Chemical Engineering student who is working towards a Bachelors' in Applied Science with a minor in Commerce. As president of Envision, he oversees the goals of Envision, as well as its people, hoping to provide them with substantial professional development to launch them into their careers. Jayg has received plenty of achievements through Envision himself, including winning gold with his team at the Regional Chem-E-Car competition, winning silver at the AIChE Regional Paper Competition, and having the opportunity to qualify for the National level in both competitions. Outside of Envision and Chem-E-Car, Jayg has gotten to work under the Co-op program, performing research for the pulp and paper industry. In his spare time, Jayg enjoys singing and writing the a cappella pieces for UBC's competitive a cappella group, which competes annually in the ICCA.
 linkedin: https://www.linkedin.com/in/jose-gabriel-jayg-dimayacyac-17bb0a131
 ---

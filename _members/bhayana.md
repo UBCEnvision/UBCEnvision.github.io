@@ -2,7 +2,7 @@
 layout: member
 weight: 1000
 name: Shivam Bhayana
-project: algae
+project: Green Joule
 title: Team Member
 img: /assets/images/members/bhayana.jpg
 biography: >

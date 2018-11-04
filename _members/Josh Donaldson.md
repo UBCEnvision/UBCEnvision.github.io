@@ -1,7 +1,7 @@
 ---
 layout: member
 weight: 9000
-project: beer
+project: BioT
 subweight: 10
 name: Josh Donaldson
 title: Advisor

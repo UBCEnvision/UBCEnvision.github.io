@@ -2,7 +2,7 @@
 layout: member
 weight: 900
 name: Mitchell Ang
-project: beer
+status: alumni
 subweight: 10
 title: Data Analysis Lead
 img: /assets/images/members/mitchell_ang.jpg

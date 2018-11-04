@@ -2,11 +2,12 @@
 layout: member
 weight: 800
 name: Matthew Schultz
-title: Instrumentation member
-project: beer
+title: BioT Project Lead
+project: BioT
 img: /assets/images/members/matt.jpg
 email: matthew.schultz@alumni.ubc.ca	
 biography: > 
-  Matthew Schultz is a 3rd year student in Chemical Engineering.  He is currently a part of the instrumentation team on the home brewing project. Matthew is currently looking for his first co-op job, starting in the summer.  His plan upon graduation is to work in water treatment, either in Canada or Europe.
+  Matthew Schultz is the current BIoT project lead who has been involved in merging the predominately chemical and biological engineering team with the food nutrition health faculty to better understand the fermentation process.  This merger has created a dedicated space to brew along with many student connections with professors who are interested in the fermentation process.  Matthew is currently in his final year of chemical engineering and can't wait to start working in industry in the spring.
+
 linkedin: https://www.linkedin.com/in/matthew-schultz-89794a151/
 ---

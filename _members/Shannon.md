@@ -2,7 +2,7 @@
 layout: member
 weight: 800
 name: Shannon McInnes
-project: beer
+project: BioT
 title: Instrumentation Lead
 img: /assets/images/members/shannon.jpg
 email: shannon.mcinnes@alumni.ubc.ca

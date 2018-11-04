@@ -2,7 +2,7 @@
 layout: member
 weight: 5000
 name: Nhi Nguyen
-project: beer
+project: BioT
 subweight: 10
 title: Brewing Team Member
 img: /assets/images/members/NhiNguyen.jpg
