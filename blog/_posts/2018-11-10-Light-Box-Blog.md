@@ -27,7 +27,7 @@ Apart from radiant energy, light also produces thermal energy. C. Vulgaris grows
 
 The ratio of light/dark cycles per day will act as a composite parameter in future experiments. Its effect on algae growth represents the net impact of photosynthetic and temperature considerations.
 
-## CO<sub>2</sub>
+## Carbon Dioxide (CO<sub>2</sub>)
 
 Carbon dioxide is needed for photosynthesis and acts as the carbon source for the biofuels. The atmosphere contains around 400 ppm CO<sub>2</sub> . Algae grows around 200% faster at CO<sub>2</sub> concentrations of 100,000 ppm, 250 times more CO<sub>2</sub> than ambient levels <sup>[3]</sup>. The lightbox needs a way to deliver this CO<sub>2</sub> to the algae.
 We are considering two methods of CO<sub>2</sub> delivery: sparging and fermentation. Many photobioreactors use CO<sub>2</sub> feed lines that sparge CO<sub>2</sub> directly into the algae growth medium. This is likely the most efficient method of CO<sub>2</sub> delivery, however it can be costly given the current scale of our project. 
