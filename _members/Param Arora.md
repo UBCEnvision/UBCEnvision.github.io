@@ -4,7 +4,7 @@ weight: 15
 name: Param Arora
 project: chemecar
 subweight: 10
-title: Chem-E-Car Vice-Captain
+title: Chem-E-Car Vice - Captain
 img: /assets/images/members/Param.jpg
 email: paramjeet.arora@alumni.ubc.ca
 biography: >

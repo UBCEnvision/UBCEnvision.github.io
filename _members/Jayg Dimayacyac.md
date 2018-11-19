@@ -4,7 +4,7 @@ weight: 1
 name: Jayg Dimayacyac
 project: chemecar
 subweight: 10
-title: Envision President
+title: President
 img: /assets/images/members/jayg.jpg
 email: president@ubcenvision.com
 biography: >

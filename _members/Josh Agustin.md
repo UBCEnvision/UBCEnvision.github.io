@@ -4,7 +4,7 @@ weight: 100
 name: Josh Agustin
 project: Envision
 subweight: 9
-title: Treasurer
+title: VP Treasurer
 img: /assets/images/members/JoshAgustin.jpg
 email: jagustin570@alumni.ubc.ca
 biography: >
