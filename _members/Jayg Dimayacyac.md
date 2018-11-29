@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 1
+weight: 10000
 name: Jayg Dimayacyac
 project: chemecar
 subweight: 10

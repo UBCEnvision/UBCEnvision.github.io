@@ -4,7 +4,7 @@ weight: 5000
 name: Nhi Nguyen
 project: BioT
 subweight: 10
-title: Brewing Team Member
+title: BioT Team Member
 img: /assets/images/members/NhiNguyen.jpg
 email: nhinguyen.26@alumni.ubc.ca
 biography: > 

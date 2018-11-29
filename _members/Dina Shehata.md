@@ -1,8 +1,6 @@
 ﻿---
 layout: member
-
 weight: 1
-
 name: Dina Shehata
 project: Green Joule
 
