@@ -1,8 +1,8 @@
 ---
 layout: member
-weight: 1
+weight: 2
 name: Arjun Venkat
-title: Growth Team
+title: Growth Team Member
 project: Green Joule
 subweight: 10
 img: /assets/images/members/default.png

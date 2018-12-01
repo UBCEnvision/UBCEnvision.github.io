@@ -1,9 +1,8 @@
 ---
 layout: member
-weight: 5000
+weight: 3
 name: Grania Jain
 project: chemecar
-subweight: 10
 title: Chem-E-Car Captain
 img: /assets/images/members/Grania.jpg
 email: chemecar@ubcenvision.com

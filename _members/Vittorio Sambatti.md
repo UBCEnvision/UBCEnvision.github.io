@@ -1,9 +1,8 @@
 ---
 layout: member
-weight: 5000
+weight: 3
 name: Vitorio von Staa Sambatti
 project: BioT
-subweight: 10
 title: Fermentation Team Lead
 img: /assets/images/members/vittorio.jpg
 email: vvssambatti@gmail.com

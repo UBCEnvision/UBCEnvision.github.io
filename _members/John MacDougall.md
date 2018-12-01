@@ -1,9 +1,8 @@
 ﻿---
 layout: member
-weight: 1
+weight: 2
 name: John MacDougall                
 project: chemecar
-subweight: 10
 title: Mech Team Member
 img: /assets/images/members/john.jpg
 email: jmacdougall2121@gmail.com

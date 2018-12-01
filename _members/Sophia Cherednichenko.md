@@ -1,8 +1,7 @@
 ﻿layout: member
-weight: 1
+weight: 2
 name: Sophia Cherednichenko
 project: Green Joule
-subweight: 10
 title: Growth Team Member
 img: /assets/images/members/Sophia.jpg
 email: sophiachered@gmail.com

@@ -1,10 +1,9 @@
 ---
 layout: member
-weight: 1
+weight: 2
 name: Amanpreet Tithh
 title: Instrumentation Member
 project: BioT
-subweight: 10
 img: /assets/images/members/Aman.jpg
 email: amantithh@gmail.com
 

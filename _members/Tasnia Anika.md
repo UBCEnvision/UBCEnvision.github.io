@@ -1,9 +1,8 @@
 ---
 layout: member
-weight: 1
+weight: 2
 name: Tasnia Naim Anika
 project: Green Joule
-subweight: 10
 title: Member 
 img: /assets/images/members/Anika.jpg
 email: anika8397@yahoo.com.sg

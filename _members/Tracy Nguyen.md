@@ -1,9 +1,8 @@
 ---
 layout: member
-weight: 5000
+weight: 3
 name: Tracy Nguyen
 project: Green Joule
-subweight: 10
 title: Green Joule Admin
 img: /assets/images/members/tracy.jpg
 email: tracy.nguyen@alumni.ubc.ca

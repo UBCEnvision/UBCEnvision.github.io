@@ -1,9 +1,8 @@
 ---
 layout: member
-weight: 5000
+weight: 3
 name: Ryan Carrusca
 project: BioT
-subweight: 10
 title: Instrumentation Lead
 email: RyanCarrusca@alumni.ubc.ca
 img: /assets/images/members/default.png

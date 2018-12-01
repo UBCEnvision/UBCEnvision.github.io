@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 300
+weight: 1
 name: Abhishek Lekhi
 title: Advisor
 img: /assets/images/members/abhi.jpg

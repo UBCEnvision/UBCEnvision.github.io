@@ -1,9 +1,8 @@
 ﻿---
 layout: member
-weight: 1
+weight: 2
 name: Stella Wang
 project: Green Joule
-subweight: 10
 title: Monitoring Team Member
 img: /assets/images/members/Stella.jpg
 email: stella.wang@alumni.ubc.ca

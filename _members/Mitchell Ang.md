@@ -1,11 +1,11 @@
 ---
 layout: member
-weight: 300
+weight: 3
 name: Mitchell Ang
 status: alumni
 subweight: 10
 year: 2018
-alumni_position: A Random Location (Touring the worlds)
+alumni_position: A Random Location (Touring the world)
 title: Data Analysis Lead
 img: /assets/images/members/mitchell_ang.jpg
 biography: >

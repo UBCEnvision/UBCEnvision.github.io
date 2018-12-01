@@ -1,9 +1,8 @@
 ---
 layout: member
-weight: 5000
+weight: 3
 name: Param Arora
 project: chemecar
-subweight: 10
 title: Chem-E-Car Vice - Captain
 img: /assets/images/members/Param.jpg
 email: paramjeet.arora@alumni.ubc.ca

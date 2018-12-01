@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 300
+weight: 3
 name: Laurie Jiang
 title: Battery Team Lead
 status: alumni

@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 1
+weight: 2
 status: new
 name: Matt Gin
 project: BioT

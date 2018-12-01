@@ -1,9 +1,8 @@
 ---
 layout: member
-weight: 1
+weight: 2
 name: Liam Swiednicki
 project: BioT
-subweight: 10
 title: Brewing Team Member
 img: /assets/images/members/Liam.jpg
 email: liammarkam@gmail.com

@@ -1,9 +1,8 @@
 ---
 layout: member
-weight: 5000
+weight: 3
 name: Manisha Walia
 project: Green Joule
-subweight: 10
 title: Extraction Lead
 img: /assets/images/members/manisha.jpg
 email: wmanisha@alumni.ubc.ca

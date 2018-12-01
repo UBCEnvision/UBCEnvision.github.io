@@ -1,9 +1,8 @@
 ---
 layout: member
-weight: 5000
+weight: 3
 name: Daniel McClement
 project: Green Joule
-subweight: 10
 title: Monitoring Team Lead
 img: /assets/images/members/Daniel.jpg
 email: daniel.mcclement@alumni.ubc.ca

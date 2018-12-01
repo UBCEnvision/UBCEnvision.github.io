@@ -1,9 +1,8 @@
 ---
 layout: member
-weight: 5000
+weight: 3
 name: Brandon Chen
 project: chemecar
-subweight: 10
 title: Facilities Chair
 img: /assets/images/members/brandon.jpg
 biography: >

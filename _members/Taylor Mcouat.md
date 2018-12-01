@@ -1,9 +1,8 @@
 ---
 layout: member
-weight: 1
+weight: 2
 name: Taylor Mcouat
 project: BioT
-subweight: 10
 title: Instrumentation Team Member
 img: /assets/images/members/default.png
 email: taylor.mcouat@gmail.com

@@ -1,10 +1,9 @@
 ---
 layout: member
-weight: 1
+weight: 2
 name: Azha Aslam
 project: Green Joule
-subweight: 10
-title: Green Joule Team 
+title: Green Joule Team Member
 img: /assets/images/members/azha.jpg
 email: azha@alumni.ubc.ca
 biography: >

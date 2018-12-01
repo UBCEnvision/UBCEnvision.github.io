@@ -1,10 +1,8 @@
-
 ---
 layout: member
-weight: 5000
+weight: 3
 name: Matheus Cassol
 project: admin
-subweight: 10
 title: VP Internal
 img: /assets/images/members/Matheus.jpg
 email: m.cassol@alumni.ubc.ca

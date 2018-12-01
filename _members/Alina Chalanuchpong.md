@@ -1,10 +1,9 @@
 ---
 layout: member
-weight: 5000
+weight: 3
 name: Alina Chalanuchpong
 title: Green Joule Subteam Lead
 project: Green Joule
-subweight: 10
 img: /assets/images/members/Alina.jpg
 email: 
 

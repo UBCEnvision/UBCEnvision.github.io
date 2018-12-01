@@ -1,9 +1,8 @@
 ---
 layout: member
-weight: 1
+weight: 2
 name: Wendie Wu
 project: chemecar
-subweight: 10
 title: Senior Lab Team Member
 img: /assets/images/members/wendie.jpg
 biography: >

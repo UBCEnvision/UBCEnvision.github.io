@@ -1,9 +1,8 @@
 ---
 layout: member
-weight: 1
+weight: 2
 name: Kwangho Jung 
 project: BioT
-subweight: 1
 title: App Team Member
 img: /assets/images/members/Kevin.jpg
 email: KEVINJUNG1998@GMAIL.COM

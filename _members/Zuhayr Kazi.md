@@ -1,9 +1,8 @@
 ---
 layout: member
-weight: 1
+weight: 2
 name: Zuhayr Kazi
 project: chemecar
-subweight: 10
 title: Circuitry Sub-Team Member
 img: /assets/images/members/default.png
 email: zkkazi99@gmail.com

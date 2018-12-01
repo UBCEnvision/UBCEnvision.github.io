@@ -1,9 +1,8 @@
 ﻿---
 layout: member
-weight: 1
+weight: 2
 name: Zelin Li
 project: Green Joule
-subweight: 10
 title: Member
 img: /assets/images/members/default.png
 email: lizelin0727@gmail.com

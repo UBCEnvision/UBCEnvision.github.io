@@ -1,10 +1,9 @@
 ﻿---
 layout: member
-weight: 1
+weight: 2
 name: Brian Tang
 title: Mech Team Member		
 project: chemecar
-subweight: 10
 img: /assets/images/members/BRIANTANG.jpg
 email: briantang051@gmail.com
 

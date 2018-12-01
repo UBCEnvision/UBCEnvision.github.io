@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 5000
+weight: 3
 project: flowcell
 name: Shirley Zhang
 title: Flow Cell Battery Chem Lead

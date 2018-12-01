@@ -1,9 +1,8 @@
 ﻿---
 layout: member
-weight: 1
+weight: 2
 name: Emily Mattarollo
 project: Green Joule
-subweight: 10
 title: Member
 img: /assets/images/members/Emily.jpg
 email: 05emily18@gmail.com

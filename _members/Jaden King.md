@@ -1,9 +1,8 @@
 ---
 layout: member
-weight: 1
+weight: 2
 name: Jaden King
 project: chemecar
-subweight: 10
 title: Power Source Team Member
 img: /assets/images/members/Jaden.jpg
 email: kinger3944@gmail.com

@@ -1,10 +1,8 @@
-
 ---
 layout: member
-weight: 1
+weight: 2
 name: Shlok Verma	
 project: chemecar
-subweight: 10
 title: Circuitry Sub-Team Member
 img: /assets/images/members/Shlok.jpg
 email: shlok.v123@gmail.com

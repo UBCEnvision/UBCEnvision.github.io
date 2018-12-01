@@ -1,9 +1,8 @@
 ---
 layout: member
-weight: 1
+weight: 2
 name: Nhi Nguyen
 project: BioT
-subweight: 10
 title: BioT Team Member
 img: /assets/images/members/NhiNguyen.jpg
 email: nhinguyen.26@alumni.ubc.ca

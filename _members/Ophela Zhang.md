@@ -1,9 +1,8 @@
 ---
 layout: member
-weight: 5000
+weight: 3
 name: Ophela Zhang
 project: Green Joule
-subweight: 10
 title: Green Joule Captain
 img: /assets/images/members/ophela.jpg
 email: algae@ubcenvision.com

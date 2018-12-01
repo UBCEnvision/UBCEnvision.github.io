@@ -1,9 +1,8 @@
 ---
 layout: member
-weight: 1
+weight: 2
 name: Rosalyn Carr 
 project: Green Joule
-subweight: 10
 title: Monitoring Team Member 
 img: /assets/images/members/Roz.jpg
 email: rosalyncarr@ieee.org 
