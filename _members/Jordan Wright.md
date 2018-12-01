@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 800
+weight: 5000
 name: Jordan Wright
 title: Flow Cell Chem Co-lead
 project: flowcell

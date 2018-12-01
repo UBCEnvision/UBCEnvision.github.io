@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 9000
+weight: 300
 name: Victor Chiew
 status: ['executive']
 title: Advisor, President 2017 -2018

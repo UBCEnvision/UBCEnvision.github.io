@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 1
+weight: 5000
 name: Miguel Planas
 project: Green Joule
 subweight: 10

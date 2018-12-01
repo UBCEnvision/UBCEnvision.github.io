@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 900
+weight: 1
 name: Osbert Yu
 project: chemecar
 subweight: 10

@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 10
+weight: 5000
 name: Grania Jain
 project: chemecar
 subweight: 10

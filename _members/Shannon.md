@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 800
+weight: 5000
 name: Shannon McInnes
 project: BioT
 title: Instrumentation Lead

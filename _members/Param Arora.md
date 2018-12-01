@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 15
+weight: 5000
 name: Param Arora
 project: chemecar
 subweight: 10

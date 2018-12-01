@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 100
+weight: 5000
 name: Josh Agustin
 project: Envision
 subweight: 9

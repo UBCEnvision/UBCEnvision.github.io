@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 9000
+weight: 500
 project: BioT
 subweight: 10
 name: Josh Donaldson

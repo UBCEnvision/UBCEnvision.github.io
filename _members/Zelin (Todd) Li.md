@@ -1,6 +1,6 @@
 ﻿---
 layout: member
-weight: 10
+weight: 1
 name: Zelin Li
 project: Green Joule
 subweight: 10

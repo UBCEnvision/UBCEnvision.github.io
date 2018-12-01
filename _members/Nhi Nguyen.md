@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 5000
+weight: 1
 name: Nhi Nguyen
 project: BioT
 subweight: 10

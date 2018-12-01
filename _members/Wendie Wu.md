@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 1000
+weight: 1
 name: Wendie Wu
 project: chemecar
 subweight: 10

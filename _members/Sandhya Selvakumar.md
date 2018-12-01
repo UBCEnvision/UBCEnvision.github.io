@@ -1,8 +1,8 @@
 ---
 layout: member
-weight: 800
+weight: 1
 name: Sandhya Selvakumar
-title: Algae Biofuel Team
+title: Algae Biofuel Team Member
 project: BioT
 subweight: 10
 img: /assets/images/members/sandhya.jpg

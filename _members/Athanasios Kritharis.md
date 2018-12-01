@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 100
+weight: 500
 name: Athanasios Kritharis
 status: ['board', 'alumni']
 title: Founding Director

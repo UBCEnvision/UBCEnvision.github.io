@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 800
+weight: 5000
 name: Landon Jackson
 project: BioT
 subweight: 10

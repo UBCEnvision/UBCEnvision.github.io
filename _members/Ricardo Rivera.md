@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 1
+weight: 5000
 name: Ricardo Rivera
 project: BioT
 subweight: 10

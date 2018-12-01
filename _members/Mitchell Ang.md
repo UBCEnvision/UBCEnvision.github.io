@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 900
+weight: 300
 name: Mitchell Ang
 status: alumni
 subweight: 10

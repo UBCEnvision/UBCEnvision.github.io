@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 800
+weight: 5000
 name: Manisha Walia
 project: Green Joule
 subweight: 10

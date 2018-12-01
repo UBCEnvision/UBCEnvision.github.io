@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 1000
+weight: 5000
 name: Malavan Subramaniam
 project: Green Joule
 subweight: 10

@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 1
+weight: 5000
 name: Alan Vilchis
 title: App Team Co-Lead
 project: BioT

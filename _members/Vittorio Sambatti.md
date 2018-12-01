@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 1
+weight: 5000
 name: Vitorio von Staa Sambatti
 project: BioT
 subweight: 10

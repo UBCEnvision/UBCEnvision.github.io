@@ -3,9 +3,7 @@ layout: member
 weight: 1
 name: Dina Shehata
 project: Green Joule
-
 subweight: 10
-
 title: Extraction Sub-team Member
 img: /assets/images/members/Dina.jpg
 
