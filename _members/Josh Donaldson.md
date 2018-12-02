@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 10000
+weight: 100000
 project: BioT
 name: Josh Donaldson
 title: Advisor

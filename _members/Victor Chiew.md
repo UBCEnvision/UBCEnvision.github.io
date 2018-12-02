@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 10000
+weight: 100000
 name: Victor Chiew
 status: ['executive']
 title: Advisor
