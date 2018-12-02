@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 20
+weight: 50
 name: Miguel Planas
 project: Green Joule
 title: Financial Officer

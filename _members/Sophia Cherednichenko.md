@@ -1,4 +1,5 @@
-﻿layout: member
+﻿---
+layout: member
 weight: 5000
 name: Sophia Cherednichenko
 project: Green Joule

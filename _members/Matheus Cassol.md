@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 20
+weight: 50
 name: Matheus Cassol
 project: admin
 title: VP Internal

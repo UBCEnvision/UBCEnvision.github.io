@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 20
+weight: 50
 name: Josh Agustin
 project: Envision
 title: VP Treasurer

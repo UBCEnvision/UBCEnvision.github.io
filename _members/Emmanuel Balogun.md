@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 20
+weight: 50
 name: Emmanuel Balogun
 project: chemecar
 title: Envision Communication Chair
