@@ -3,8 +3,7 @@ layout: member
 weight: 5000
 name: Veronika Zenova
 project: chemecar
-subweight: 10
-title: Junior lab sub-team member
+title: Junior lab sub-team Member
 img: /assets/images/members/Veronika.jpg
 email: nikazen21@gmail.com
 biography: >

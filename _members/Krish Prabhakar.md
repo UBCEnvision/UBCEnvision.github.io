@@ -3,7 +3,7 @@ layout: member
 weight: 5000
 name: Krish Prabhakar
 project: chemecar
-title: Fuel Cell Sub Team member
+title: Fuel Cell Sub Team Member
 img: /assets/images/members/default.png
 email: thekrishp@gmail.com
 biography: >

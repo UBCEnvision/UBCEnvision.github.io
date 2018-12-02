@@ -26,7 +26,7 @@ describe "The Envision team page" do
 
 	it "has project captains displayed before all other profiles" do
 		# keyword filters for profiles we want on top
-		keywords = ['President', 'Captain', 'VP', 'Lead']
+		keywords = ['President', 'Captain', 'Vice-Captain', 'VP', 'Lead', 'Co-Lead', 'Chair', 'Administrator', 'Officer', 'Admin']
 		# grab all titles and return an array
 		member_titles = page.all(:css, '.member-title').map{|el| el.text}
 		# search through titles array, return the index of titles with substrings that match keywords defined earlier, president, captain, vp etc.
@@ -42,7 +42,7 @@ describe "The Envision team page" do
 
 	it "has advisors displayed after all other profiles" do
 		# keyword filters for profiles we want on top
-		keywords = ['Advisor', 'President 2017 -2018']
+		keywords = ['Advisor', 'President 2017 -2018', 'Mentor']
 		# grab all titles and return an array
 		member_titles = page.all(:css, '.member-title').map{|el| el.text}
 		# search through titles array, return the index of titles with substrings that match keywords defined earlier, president, captain, vp etc.

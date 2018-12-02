@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 5000
+weight: 50
 name: Ryan Carrusca
 project: BioT
 title: Instrumentation Lead

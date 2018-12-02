@@ -3,7 +3,7 @@ layout: member
 weight: 5000
 name: Lizzie Torres
 project: Green Joule
-title: Extraction Sub-team member
+title: Extraction Sub-team Member
 img: /assets/images/members/Lizzie.jpg
 email: ltorrescruz152@gmail.com
 biography: >
