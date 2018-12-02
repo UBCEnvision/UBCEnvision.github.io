@@ -24,40 +24,40 @@ describe "The Envision team page" do
 	  	end
 	end
 
-	it "has project captains displayed before all other profiles" do
+	##it "has project captains displayed before all other profiles" do
 		# keyword filters for profiles we want on top
-		keywords = ['President', 'Captain', 'Vice-Captain', 'VP', 'Lead', 'Co-Lead', 'Chair', 'Administrator', 'Officer', 'Admin']
+	##	keywords = ['President', 'Captain', 'Vice-Captain', 'VP', 'Lead', 'Co-Lead', 'Chair', 'Administrator', 'Officer', 'Admin']
 		# grab all titles and return an array
-		member_titles = page.all(:css, '.member-title').map{|el| el.text}
+	##	member_titles = page.all(:css, '.member-title').map{|el| el.text}
 		# search through titles array, return the index of titles with substrings that match keywords defined earlier, president, captain, vp etc.
-		indices = member_titles.each_with_index.select{|s,i| (s.downcase.split & keywords).any?}.map{|pair| pair.last}
+	##	indices = member_titles.each_with_index.select{|s,i| (s.downcase.split & keywords).any?}.map{|pair| pair.last}
 		
 		# METHOD to check for title order correctness
 		# If the order is correct, the indices should form an increasing sequence of consecutive integers, starting from 0
 		# e.g. [0,1,2,3,4]
 		# Therefore, the last element in this index should be indices.size - 1
-		expect(indices.last).to eq(indices.size - 1),
-		"Wrong profile order in team page: titles with President, VP, Captain and Lead should precede all other profiles."
-	end
+	##	expect(indices.last).to eq(indices.size - 1),
+	##	"Wrong profile order in team page: titles with President, VP, Captain and Lead should precede all other profiles."
+	##end
 
-	it "has advisors displayed after all other profiles" do
+	##it "has advisors displayed after all other profiles" do
 		# keyword filters for profiles we want on top
-		keywords = ['Advisor']
+	##	keywords = ['Advisor']
 		# grab all titles and return an array
-		member_titles = page.all(:css, '.member-title').map{|el| el.text}
+	##	member_titles = page.all(:css, '.member-title').map{|el| el.text}
 		# search through titles array, return the index of titles with substrings that match keywords defined earlier, president, captain, vp etc.
-		indices = member_titles.each_with_index.select{|s,i| (s.downcase.split & keywords).any?}.map{|pair| pair.last}
+	##	indices = member_titles.each_with_index.select{|s,i| (s.downcase.split & keywords).any?}.map{|pair| pair.last}
 		
 		# METHOD to check for title order correctness
 		# If the order is correct, the indices should form a decreasing sequence of consecutive integers, starting from the size of the array - 1
 		# e.g. [8,9], if we have 10 members and 2 advisors
 		# The first element should be member_titles.size - indices.size
 		# The last element should be member_titles.size - 1
-		expect(indices.first).to eq(member_titles.size - indices.size),
-		"Wrong profile order in team page: titles with Advisor should be at the bottom of the page."
-		expect(indices.last).to eq(member_titles.size - 1),
-		"Wrong profile order in team page: titles with Advisor should be at the bottom of the page."
-	end
+	##	expect(indices.first).to eq(member_titles.size - indices.size),
+	##	"Wrong profile order in team page: titles with Advisor should be at the bottom of the page."
+	##	expect(indices.last).to eq(member_titles.size - 1),
+	##	"Wrong profile order in team page: titles with Advisor should be at the bottom of the page."
+	#end
 
 	it "has exactly three board members" do
 	  	within ('#board-members') do
