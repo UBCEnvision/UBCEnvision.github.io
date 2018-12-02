@@ -1,9 +1,10 @@
 ---
 layout: member
-weight: 900
+weight: 50
 name: Mitchell Ang
-project: beer
-subweight: 10
+status: alumni
+year: 2018
+alumni_position: A Random Location (Touring the world)
 title: Data Analysis Lead
 img: /assets/images/members/mitchell_ang.jpg
 biography: >

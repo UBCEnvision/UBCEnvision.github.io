@@ -1,12 +1,12 @@
 ---
 layout: member
-weight: 800
+weight: 50
 name: Tracy Nguyen
-title: Team Member
-project: algae
-subweight: 10
+project: Green Joule
+title: Green Joule Admin
 img: /assets/images/members/tracy.jpg
+email: tracy.nguyen@alumni.ubc.ca
 biography: >
-  Tracy Nguyen is a 2nd year Chemical and Biological Engineering student. She is a member of the Algae Biofuels project, where she focuses on nutrient extraction of microalgae. Her involvement in the team stems from her interest in research and development of sustainable energy sources using chemical and biological engineering applications.
-linkedin: https://www.linkedin.com/in/nguyentracyt
+  Tracy is a third year Chemical and Biological Engineering student. She is interested in rewewable energy sources. Tracy has worked in a fuel cell research group during her first co-op and actively participates in Green Joule, a research based project on microalgae and its feasbility as an alternative energy source. 
+linkedin: https://www.linkedin.com/in/nguyentracyt/
 ---

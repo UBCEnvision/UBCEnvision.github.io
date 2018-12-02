@@ -1,11 +1,9 @@
 ---
 layout: member
-weight: 9000
-project: beer
-subweight: 10
+weight: 100000
+project: BioT
 name: Josh Donaldson
 title: Advisor
-status: ['executive']
 img: /assets/images/members/josh.jpg
 email: brewing@ubcenvision.com
 biography: >

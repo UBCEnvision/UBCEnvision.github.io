@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 150
+weight: 1
 name: Vasilii Triandafilidi
 status: ['board', 'alumni']
 title: Graduate Advisor

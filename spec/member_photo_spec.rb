@@ -18,7 +18,7 @@ describe "Member Photos" do
     photos.each do |photo|
       image = image_loader(photo)
       size = image.size
-      expect(size).to be <= 500000,
+      expect(size).to be <= 5000000,
         "Image is too large (>500kb): #{photo}. Compress it using https://xkeshi.github.io/image-compressor/"
     end
   end
