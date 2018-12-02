@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 2
+weight: 5000
 name: Kwangho Jung 
 project: BioT
 title: App Team Member

@@ -1,6 +1,6 @@
 ﻿---
 layout: member
-weight: 2
+weight: 10000
 name: Dina Shehata
 project: Green Joule
 title: Extraction Sub-team Member

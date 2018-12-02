@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 3
+weight: 50
 name: Ricardo Rivera
 project: BioT
 title: App Team Co-Lead

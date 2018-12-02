@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 2
+weight: 5000
 name: Shivam Bhayana
 project: Green Joule
 title: Green Joule Team Member

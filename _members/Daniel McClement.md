@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 3
+weight: 50
 name: Daniel McClement
 project: Green Joule
 title: Monitoring Team Lead

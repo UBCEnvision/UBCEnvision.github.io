@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 3
+weight: 50
 name: Vitorio von Staa Sambatti
 project: BioT
 title: Fermentation Team Lead

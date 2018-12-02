@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 2
+weight: 5000
 name: Amanpreet Tithh
 title: Instrumentation Member
 project: BioT

@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 3
+weight: 50
 name: Noor Adil
 project: Green Joule
 title: Growth Team Lead

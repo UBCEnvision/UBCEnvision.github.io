@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 2
+weight: 5000
 name: Zuhayr Kazi
 project: chemecar
 title: Circuitry Sub-Team Member

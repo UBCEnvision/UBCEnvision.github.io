@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 3
+weight: 50
 name: Said Zaid-Alkailani
 status: founder
 title: IOB Marketing Lead

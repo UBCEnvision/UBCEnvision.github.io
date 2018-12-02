@@ -1,6 +1,6 @@
 ﻿---
 layout: member
-weight: 2
+weight: 5000
 name: Emily Mattarollo
 project: Green Joule
 title: Member

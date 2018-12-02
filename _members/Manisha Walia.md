@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 3
+weight: 50
 name: Manisha Walia
 project: Green Joule
 title: Extraction Lead

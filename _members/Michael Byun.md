@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 2
+weight: 5000
 name: Michael Dongwook Byun
 project: BioT
 title: Instrumentation Member

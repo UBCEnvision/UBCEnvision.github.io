@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 2
+weight: 5000
 name: Harbir Bajwa
 project: Green Joule
 title: Extraction Team Member

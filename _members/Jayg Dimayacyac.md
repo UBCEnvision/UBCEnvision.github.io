@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 4
+weight: 1
 name: Jayg Dimayacyac
 project: chemecar
 title: President

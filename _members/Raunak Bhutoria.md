@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 2
+weight: 5000
 name: Raunak Bhutoria
 project: chemecar
 title: Power Source Sub-Team Member

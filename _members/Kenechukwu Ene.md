@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 2
+weight: 5000
 name: Kenechukwu Ene
 project: BioT
 title: Fermentation Team Member

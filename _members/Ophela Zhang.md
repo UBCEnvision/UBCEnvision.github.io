@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 3
+weight: 50
 name: Ophela Zhang
 project: Green Joule
 title: Green Joule Captain

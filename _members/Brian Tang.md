@@ -1,6 +1,6 @@
 ﻿---
 layout: member
-weight: 2
+weight: 5000
 name: Brian Tang
 title: Mech Team Member		
 project: chemecar

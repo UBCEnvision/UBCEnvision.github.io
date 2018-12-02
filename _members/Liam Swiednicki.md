@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 2
+weight: 5000
 name: Liam Swiednicki
 project: BioT
 title: Brewing Team Member

@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 2
+weight: 5000
 name: Rosalyn Carr 
 project: Green Joule
 title: Monitoring Team Member 

@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 3
+weight: 50
 name: Pranav Misri
 title: Research-Design-Workshop Co-Lead
 project: chemecar

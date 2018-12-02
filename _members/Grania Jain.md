@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 3
+weight: 50
 name: Grania Jain
 project: chemecar
 title: Chem-E-Car Captain

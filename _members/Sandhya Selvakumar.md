@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 2
+weight: 5000
 name: Sandhya Selvakumar
 title: Algae Biofuel Team Member
 project: BioT

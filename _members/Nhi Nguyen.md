@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 2
+weight: 5000
 name: Nhi Nguyen
 project: BioT
 title: BioT Team Member

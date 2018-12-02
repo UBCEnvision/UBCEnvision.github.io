@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 1
+weight: 10000
 name: Caitlin Lee
 title: Advisor
 img: /assets/images/members/caitlin.jpg

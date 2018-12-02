@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 3
+weight: 50
 name: Landon Jackson
 project: BioT
 title: Brewing Team Lead

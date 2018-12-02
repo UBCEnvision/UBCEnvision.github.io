@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 3
+weight: 50
 name: Matthew Schultz
 title: BioT Project Lead
 project: BioT

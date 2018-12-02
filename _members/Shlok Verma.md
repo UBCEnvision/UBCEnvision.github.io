@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 2
+weight: 5000
 name: Shlok Verma	
 project: chemecar
 title: Circuitry Sub-Team Member

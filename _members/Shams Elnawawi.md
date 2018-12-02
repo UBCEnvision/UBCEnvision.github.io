@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 1
+weight: 10000
 name: Shams Elnawawi
 title: Advisor
 img: /assets/images/members/shams.jpg

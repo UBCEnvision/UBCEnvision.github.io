@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 2
+weight: 5000
 name: Osbert Yu
 project: chemecar
 title: Junior Lab Team Member

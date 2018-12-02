@@ -1,6 +1,6 @@
 ﻿---
 layout: member
-weight: 2
+weight: 5000
 name: Zelin Li
 project: Green Joule
 title: Member

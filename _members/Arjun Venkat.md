@@ -1,6 +1,6 @@
 ---
 layout: member
-weight: 2
+weight: 5000
 name: Arjun Venkat
 title: Growth Team Member
 project: Green Joule
