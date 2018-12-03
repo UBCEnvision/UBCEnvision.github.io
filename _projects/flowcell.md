@@ -24,3 +24,4 @@ Since this project is focused on energy storage, there is huge potential to incl
 
 ## Design
 As we're trying to optimize the cell's performance, the shape of the cell itself will have an impact on the cell's electrochemistry. At the moment, our cell is box-shaped, with an inlet and outlet on opposite sides of the cell. Design is one of the most important aspects of engineering, and so we will be incorporating design processes and prototyping technology into the project, to give team members a valuable experience.
+---
