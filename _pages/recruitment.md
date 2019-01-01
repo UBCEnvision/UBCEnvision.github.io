@@ -73,7 +73,7 @@ Click [here](http://www.ubcenvision.com/about/) to learn more about _Envision_!
 
 <!--AgroBot-->
 
-<div align="center"><img src="/assets/images/recruitment/agrobot.png" alt="agrobotlogo" width="30%" height="auto"></div>
+<div align="center"><img src="/assets/images/recruitment/agrobotofficiallogo.JPG" alt="agrobotlogo" width="30%" height="auto"></div>
  
   A new addition to the Envision project line-up, the team behind AgroBot hope to innovate the way we supply our societies with food. The secret fuel behind economic, social and physical growth, the team is always on the lookout for enthusiastic peers to help realize the revolution of agriculture that is just on the horizon. To the budding engineers and scientists joining, just don't try to Skynet the whole process, shall we?
 

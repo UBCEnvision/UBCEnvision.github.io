@@ -2,7 +2,7 @@
 layout: project
 project: AgroBot
 title: AgroBot
-image: /assets/images/agrobotsymbol.JPG
+image: /assets/images/agrobotofficialcircle.JPG
 permalink: /agrobot/
 
 headline: Future-proof agriculture
@@ -21,7 +21,11 @@ This project will be competing in the agBot challenge at the Purdue University, 
 To build an agricultural robot that is fully autonomous with data analysis capabilities and a remote user interface is by no means a simple task. That is why we are looking for highly motivated individuals who are ready to take on this challenging yet rewarding job. The start-up like environment and multidisciplinary projects will give you the best hands-on and learning experience to tackle any engineering problems. Members of the team will be assigned to highly collaborative projects in two major categories which are robotics and automation. In small groups, members in these projects will get the full experience from researching, sourcing materials, prototyping and constructing a working product. Robotics projects will focus on the mechanical and electrical aspects of the robot such as chassis design. The automation projects will be more software-oriented such as developing an image recognition system and the user interface.
 
 
-If you are interested in applying, please complete the following application before January 10th [here](https://ubc.ca1.qualtrics.com/jfe/form/SV_5BDOYaSDWVUm1kV).
+If you are interested in applying, please complete the following application before January 10th here:
+
+<ul class="actions">
+  <li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_5BDOYaSDWVUm1kV" class="button medium wide">APPLY TO AGROBOT</a></li>
+</ul>
 
 We highly recommend applying soon as positions will be assigned on an ongoing basis. Feel free to contact us at ubcagrobot@gmail.com if you have any questions.
 
