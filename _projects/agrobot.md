@@ -2,7 +2,7 @@
 layout: project
 project: AgroBot
 title: AgroBot
-image: /assets/images/agrobotofficialcircle.JPG
+image: /assets/images/agrobotofficialcircle.jpg
 permalink: /agrobot/
 
 headline: Future-proof agriculture
