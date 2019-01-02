@@ -9,7 +9,7 @@ headline: Future-proof agriculture
 description: We are a diverse team of students from across different engineering disciplines. With a shared passion for innovation and technology, we hope to contribute to the future of agriculture, in transitioning from human labour to full automation.
 
 box: >
-  As the world population grows, climate change continues, and reliable human labour becomes increasingly expensive, we must find more efficient and sustainable ways to grow food. The UBC AgroBot team will be building a fully autonomous robot capable of analyzing its environment and performing targeted farming tasks to minimize the amount of chemicals used and disruptions in the soil. We hope to raise interest in modern agriculture and its possibility for application of advanced robotics, machine learning, image recognition, artificial intelligence and much more. This project will be competing in the agBot challenge at Purdue University.
+  As the world population grows, climate change continues and reliable human labour becomes increasingly expensive, we must find more efficient and sustainable ways to grow food and sustain ourselves. The UBC AgroBot team will be building a fully autonomous robot capable of analyzing its environment and performing targeted farming tasks to minimize the amount of chemicals used and disruptions in the soil. We hope to raise interest in modern agriculture and its possibility for application of advanced robotics, machine learning, image recognition, artificial intelligence and much more. This project will be competing in the agBot challenge at Purdue University.
 ---
 
 # The Challenge
