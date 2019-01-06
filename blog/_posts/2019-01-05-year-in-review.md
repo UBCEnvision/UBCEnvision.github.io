@@ -15,15 +15,15 @@ In 2018, Envision has achieved and attended the following.
 
 # Awards Earned in 2018
 
-## [AIChE Pacific Northwest Regional Conference](https://www.aiche.org/community/students/chem-e-car) (at Bozeman, MT):
+## [AIChE Pacific Northwest Regional Conference](https://www.aiche.org/community/students/chem-e-car) (at Bozeman, MT)
 
-- 1st Place Chem-E-Car – UBC Senior ([Vancruiser](http://localhost:4000/blog/2018/08/04/Meet-the-Vancruiser.html)) 
+- 1st Place Chem-E-Car – UBC Senior ([Vancruiser](http://localhost:4000/blog/2018/08/04/Meet-the-Vancruiser.html))
 - 3rd Place Chem-E-Car – UBC Junior ([Black Box](http://localhost:4000/blog/2018/09/09/The-Black-Box.html))
 - 1st Place Chem-E-Car Poster – UBC Junior ([Black Box](http://localhost:4000/blog/2018/09/09/The-Black-Box.html))
 - 2nd Place Chem-E-Car Poster – UBC Senior ([Vancruiser](http://localhost:4000/blog/2018/08/04/Meet-the-Vancruiser.html))
 - 2nd Place Paper Competition – Jayg Dimayacyac
 
-## [AIChE National Conference](https://www.aiche.org/community/students/chem-e-car) (at Pittsburgh, PA):
+## [AIChE National Conference](https://www.aiche.org/community/students/chem-e-car) (at Pittsburgh, PA)
 
 - 1st Place Chem-E-Car Poster – UBC Senior ([Vancruiser](http://localhost:4000/blog/2018/08/04/Meet-the-Vancruiser.html))
 
@@ -45,7 +45,7 @@ In 2018, Envision has achieved and attended the following.
 - Former Members of Envision organized the first annual [Innovation OnBoard Competition](http://www.innovationonboard.ca)
 - Envision showcased its projects at [Honeywell](https://www.honeywell.com)
 
-## In addition to the above achievements and external events, Envision introduced a few new activities to the internal organization: 
+## In addition to the above achievements and external events, Envision introduced a few new activities to the internal organization
 
 - Monthly General Meetings
 - Speakers’ Series: [Introduction to Python](http://www.ubcenvision.com/blog/2018/09/29/Quick-Data-Analysis-with-Python.html)
