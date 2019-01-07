@@ -56,7 +56,7 @@ Chem-E-Car even got custom lab coats for the National Conference at Pittsburgh, 
 Lastly, Envision has also connected with the Polytechnic University of Catalonia (UPC), finding a mutual interest in Chem-E-Car and brewing projects. As a result, UBC Envision and UPC’s AIChE Chapter have officially enlisted to become Sister Chapters under AIChE, offering a means of communication and sharing of ideas between our two schools. This Sister Chapter relationship between our schools could bring a lot of cool, possibly international, opportunities to Envision and UPC.
 Check out the [UPC AIChE Chapter](https://bcn-aiche.upc.edu/en).Though 2018 has been a big year of development for Envision, there is a lot more to come in 2019, so stay tuned.
 
-Upcoming Events and Activities in 2019
+## Upcoming Events and Activities in 2019
 
 - Potential exchange program with [Polytechnic University of Catalonia](https://bcn-aiche.upc.edu/en) (UPC)
 - Merchandise Sales (Envision T-shirts)
