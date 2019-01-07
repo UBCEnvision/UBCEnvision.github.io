@@ -8,7 +8,7 @@ Welcome to our recruitment page for 2018! You can find a timeline of our importa
 
 Unfortunately, we have **closed** registration for the 2018 year, but check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! In the meantime, feel free to explore Envision and its projects, or email us at contact@ubcenvision.com for any enquiries.
 
-## Recruitment Timeline
+<!--## Recruitment Timeline
 
 <div class="timeline">
   <link rel="stylesheet" href="/assets/css/timeline.css">
@@ -48,7 +48,7 @@ Unfortunately, we have **closed** registration for the 2018 year, but check our 
         <p>Final decision about project members</p>
       </div>
     </div>
-</div>
+</div>-->
 
 ## Apply to Envision
 
@@ -71,13 +71,25 @@ Click [here](http://www.ubcenvision.com/about/) to learn more about _Envision_!
 
 ## Check out an Envision Project
 
+<!--AgroBot-->
+
+<div align="center"><img src="/assets/images/recruitment/agrobotofficiallogo.JPG" alt="agrobotlogo" width="30%" height="auto"></div>
+ 
+  A new addition to the Envision project line-up, the team behind AgroBot hope to innovate the way we supply our societies with food. The secret fuel behind economic, social and physical growth, the team is always on the lookout for enthusiastic peers to help realize the revolution of agriculture that is just on the horizon. To the budding engineers and scientists joining, just don't try to Skynet the whole process, shall we?
+
+Click [here](http://www.ubcenvision.com/agrobot/) to learn more about _AgroBot_!
+
+<ul class="actions">
+  <li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_5BDOYaSDWVUm1kV" class="button medium wide">APPLY TO AGROBOT</a></li>
+</ul>
+
 <!--BIoT-->
 
-<div align="left"><img src="/assets/images/recruitment/biot.png" alt="biotlogo" width="30%" height="auto"></div>
+<div align="center"><img src="/assets/images/recruitment/biot.png" alt="biotlogo" width="20%" height="auto"></div>
  
   Previously the CHBeer Brewing team, BioT continues the practice of developing an automated brewing system by merging fundamental chemical engineering principles with software development. Currently, the team is able to monitor various parameters of their brew through a web app, but they need your help to take it further. Maybe develop a phone app, or help scale the project up into UBC's own microbrewery?
 
-Click [here](http://www.ubcenvision.com/beer/) to learn more about _BIoT_! 
+Click [here](http://www.ubcenvision.com/beer/) to learn more about _BIoT_!
 
 <!--<ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_3LhrpbmqgXmwIND" class="button medium wide">APPLY TO BIOT</a></li>
@@ -86,15 +98,11 @@ Click [here](http://www.ubcenvision.com/beer/) to learn more about _BIoT_!
 
 <!--Green Joule-->
 
-<div align="left"><img src=
-      "/assets/images/recruitment/greenjoule.png"
-      alt="greenjoulelogo"
-      width= "40%"
-      height= "auto"></div>
+<div align="center"><img src= "/assets/images/recruitment/greenjoule.png" alt="greenjoulelogo" width= "20%" left = "50%" height= "auto"></div>
       
   Established in the summer of 2017, Green Joule focuses on the growth and extraction processes of algae biofuels; we wanted to combine the different uses of microalgae to maximize production, instead of purely focusing on one deliverable of the algae cell. The project hopes to recruit fellow enthusiastic parties (such yourself, reader) to help grow the scope and ambition of the team. Currently, we have our sights set on perfecting our process in the lab while looking to incorporate genetic modification into the mix in the hopes of making the biofuel yields more abundant. Who knows where you might take the team?
 
-Click [here](http://www.ubcenvision.com/algae/) to learn more about _Green Joule_! 
+Click [here](http://www.ubcenvision.com/algae/) to learn more about _Green Joule_!
 
 <!--<ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_2t3r37arjDLjteB" class="button medium wide">APPLY TO GREEN JOULE</a></li>
@@ -104,16 +112,11 @@ Click [here](http://www.ubcenvision.com/algae/) to learn more about _Green Joule
 
 <!--Chem-E-Car-->
 
-<div align="left"><img src=
-      "/assets/images/recruitment/chemecar.png"
-      alt="chemecarlogo"
-      left="50%"
-      width= "45%"
-      height= "auto"></div>
+<div align="center"><img src="/assets/images/recruitment/chemecar.png" alt="chemecarlogo" left="50%" width= "30%" height= "auto"></div>
       
   UBC Chem-E-Car is a design team under the UBC Chemical & Biological Engineering Department that competes in the annual AIChE (American Institute of Chemical Engineers) Regional and National Chem-E-Car Competitions. We are a top contender in our region, most recently having qualified to compete in the 2018 National Chem-E-Car Competition. While currently employing electrochemical batteries on our model-size cars, biochemical batteries is a frontier that no one has mastered yet. Can you help us be the first?
 
-Click [here](http://www.ubcenvision.com/chemecar/) to learn more about _Chem-E-Car_! 
+Click [here](http://www.ubcenvision.com/chemecar/) to learn more about _Chem-E-Car_!
 
 <!--<ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_9Xr7z99CwsrLgrP" class="button medium wide">APPLY TO CHEM-E-CAR</a></li>
