@@ -28,7 +28,7 @@ NEW Summer 2019 Recruitment
 This summer we will attampt to complete a simple, functioning protype of the AgroBot. This will entail 10-15 hours of work every week, most will be acomplished on the weekends. 
 
 
-<b> Engineering Positions Avaliable: </b> 
+<h3> Engineering Positions Avaliable: </h3> 
 
 <b> Wireless Communication System Team Member </b>: Designing and building a transportable transceiver system allowing medium/long distance communication with the AgroBot. 
 
@@ -38,8 +38,13 @@ This summer we will attampt to complete a simple, functioning protype of the Agr
 
 <b> Chassis Team Member </b>: Designing and constructing the AgroBot chassis and powertrain system.
 
-<b> Exterminating Mechanism Team Member </b>: Designing and building the AgroBot's precision exterminating mechanisms (chemcial and mechanical). 
+<b> Exterminating Mechanism Team Member </b>: Designing and building the AgroBot's precision exterminating mechanisms (pesticide and mechanical). 
 
+<b> Robotics Coordinator </b>: Assist in design and development, coordinate meetings (internal and external), create deadlines and ensure sub-project intergration. 
+
+Apply here: *link* <br>
+Deadline to apply: 11:59 pm, April 14th <br>
+If you have any questions regarding the project or recruitment, please email: ubcagrobot@gmail.com
 
 
 
