@@ -26,7 +26,8 @@ We are looking for highly self motivated individuals who are ready to take on th
 NEW Summer 2019 Recruitment
 ---
 This summer we will attampt to complete a simple, functioning protype of the AgroBot. This will entail 10-15 hours of work every week, most will be acomplished on the weekends. <br>
-Previous technical experience is not mandatory but will be considered an asset. 
+
+Previous technical experience is <b> not </b> required but will be considered an asset. 
 
 <h3> Engineering Positions Avaliable: </h3> 
 <dl>
