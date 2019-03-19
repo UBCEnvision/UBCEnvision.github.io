@@ -23,7 +23,7 @@ You can find more information at: https://ag.purdue.edu/agBOT/
 We are looking for highly self motivated individuals who are ready to take on this challenging yet rewarding project. This new team provides a start-up like environment and multidisciplinary projects give you the best hands-on and learning experience to tackle any engineering problems. Members of the team will be assigned to highly collaborative projects in two major categories which are robotics and automation. In small groups, members in these projects will get the full experience from researching, sourcing materials, prototyping and constructing a working product. Robotics projects will focus on the mechanical and electrical aspects of the robot such as chassis design. The automation projects will be more software-oriented such as developing an image recognition system and the user interface.
 
 
-Summer 2019 Recruitment
+NEW Summer 2019 Recruitment
 ---
 This summer we will attampt to complete a simple, functioning protype of the AgroBot. This will entail 10-15 hours of work every week, most will be acomplished on the weekends. 
 
