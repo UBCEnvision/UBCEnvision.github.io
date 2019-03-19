@@ -29,19 +29,27 @@ This summer we will attampt to complete a simple, functioning protype of the Agr
 
 
 <h3> Engineering Positions Avaliable: </h3> 
+<dl>
+  
+<dt><b> Wireless Communication System Team Member </b>:</dt> 
+<dd> Designing and building a transportable transceiver system allowing medium/long distance communication with the AgroBot. </dd>
 
-<b> Wireless Communication System Team Member </b>: Designing and building a transportable transceiver system allowing medium/long distance communication with the AgroBot. 
+<dt><b> Naivgation System Team Member </b>:</dt>
+<dd>Developing an onboard navigation system through use of GPS, IMU, and image recognition technologies. </dd>
 
-<b> Naivgation System Team Member </b>: Developing an onboard navigation system through use of GPS, IMU, and image recognition technologies. 
+<dt><b> Image Reconition Team Member </b>:</dt>
+<dd>Devolping a high accuracy image recongnition system for weeds and crop detection. </dd>
 
-<b> Image Reconition Team Member </b>: Devolping a high accuracy image recongnition system for weeds and crop detection. 
+<dt><b> Chassis Team Member </b>:</dt>
+<dd>Designing and constructing the AgroBot chassis and powertrain system.</dd>
 
-<b> Chassis Team Member </b>: Designing and constructing the AgroBot chassis and powertrain system.
+<dt><b> Exterminating Mechanism Team Member </b>:</dt>
+<dd>Designing and building the AgroBot's precision exterminating mechanisms (pesticide and mechanical).</dd> 
 
-<b> Exterminating Mechanism Team Member </b>: Designing and building the AgroBot's precision exterminating mechanisms (pesticide and mechanical). 
-
-<b> Robotics Coordinator </b>: Assist in design and development, coordinate meetings (internal and external), create deadlines and ensure sub-project intergration. 
-
+<dt><b> Robotics Coordinator </b>:</dt>
+<dd>Assist in design and development, coordinate meetings (internal and external), create deadlines and ensure sub-project intergration. 
+</dl>
+ 
 Apply here: *link* <br>
 Deadline to apply: 11:59 pm, April 14th <br>
 If you have any questions regarding the project or recruitment, please email: ubcagrobot@gmail.com
