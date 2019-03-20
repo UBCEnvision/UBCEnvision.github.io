@@ -38,7 +38,7 @@ Previous technical experience is <b> not </b> required but will be considered an
 <dt><b> Naivgation System Team Member </b>:</dt>
 <dd>Developing an onboard navigation system through use of GPS, IMU, and image recognition technologies. </dd>
 
-<dt><b> Image Reconition Team Member </b>:</dt>
+<dt><b> Image Recognition Team Member </b>:</dt>
 <dd>Devolping a high accuracy image recongnition system for weeds and crop detection. </dd>
 
 <dt><b> Chassis Team Member </b>:</dt>
