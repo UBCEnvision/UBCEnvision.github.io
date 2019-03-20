@@ -20,7 +20,7 @@ This project will be competing in the agBot challenge at the Purdue University, 
 You can find more information at: https://ag.purdue.edu/agBOT/ 
 
 ## Getting Involved
-We are looking for highly self motivated individuals who are ready to take on this challenging yet rewarding project. This new team provides a start-up like environment and multidisciplinary projects give you the best hands-on and learning experience to tackle any engineering problems. Members of the team will be assigned to highly collaborative projects in two major categories which are robotics and automation. In small groups, members in these projects will get the full experience from researching, sourcing materials, prototyping and constructing a working product. Robotics projects will focus on the mechanical and electrical aspects of the robot such as chassis design. The automation projects will be more software-oriented such as developing an image recognition system and the user interface.
+We are looking for highly self motivated individuals who are ready to take on this challenging yet rewarding project. This new team provides a start-up like environment and multidisciplinary projects give you the best hands-on and learning experience to tackle any engineering problems. Members of the team will take part in highly collaborative projects in two major categories which are robotics and automation. Members will get the opportunity to go through the engineering design process from studying and researching the problem, engaging stakeholders, developing potential solutions, prototyping, sourcing materials and constructing a working product. 
 
 
 NEW Summer 2019 Recruitment
