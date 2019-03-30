@@ -38,17 +38,20 @@ Previous technical experience is <b> not </b> required but will be considered an
 <dt><b> Naivgation System Team Member </b>:</dt>
 <dd>Developing an onboard navigation system through use of GPS, IMU, and image recognition technologies. </dd>
 
-<dt><b> Image Recognition Team Member </b>:</dt>
+<dt><b> Image Recognition System Team Member </b>:</dt>
 <dd>Devolping a high accuracy image recongnition system for weeds and crop detection. </dd>
 
-<dt><b> Chassis Team Member </b>:</dt>
+<dt><b> Chassis Design Team Member </b>:</dt>
 <dd>Designing and constructing the AgroBot chassis and powertrain system.</dd>
 
 <dt><b> Exterminating Mechanism Team Member </b>:</dt>
 <dd>Designing and building the AgroBot's precision exterminating mechanisms (pesticide and mechanical).</dd> 
 
-<dt><b> Robotics Coordinator </b>:</dt>
-<dd>Assist in design and development, coordinate meetings (internal and external), create deadlines and ensure sub-project intergration. 
+<dt><b> Pesticide Storage and Transport Team Members </b>:</dt>
+<dd>Designing and building the AgroBot's pesticide (and fertilizer) storage, pumping and spraying mechanism. </dd> 
+
+<dt><b> Robotics Team Coordinator </b>:</dt>
+<dd>Assist in design and development, coordinate meetings (internal and external), create deadlines and ensure sub-project integration. 
 </dl>
  
 Apply here: *link* <br>
