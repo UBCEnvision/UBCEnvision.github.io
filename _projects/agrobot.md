@@ -62,10 +62,5 @@ Previous technical experience is <b> not </b> required but will be considered an
 Deadline to apply: 11:59 pm, April 14th <br>
 If you have any questions regarding the project or recruitment, please email: ubcagrobot@gmail.com
 
-
-
-
-
-
-
-
+If you are interested in joining, please send us a brief paragraph about why you want to join and what you can contribute to this project along with your resume to ubcagrobot@gmail.com. We will record your information in our system and notify you when there is a position available.
+---
