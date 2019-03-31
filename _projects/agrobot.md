@@ -15,17 +15,17 @@ box: >
 # The Challenge
 
 ## agBOT @ Purdue University
-This project will be competing in the agBot challenge at the Purdue University, Indiana. This competition attracts many teams from companies and universities across North America. The objectives of the compeition are to create an autonomous machine capable of navigating a corn field to identify the corn crop and weeds. Upon identification of the corn plant, the machine should determine if the plant is healthy or in distress that requires fertilizer be applied by the machine. Upon identification of a weed, the machine should eradicate the weed chemically and/or mechanically. The competition will be judged by reputable members of the agricultural technology industry, such as The Climate Corporation (Monsanto), and Blue River Technology.
+This project will be competing in the agBot challenge at Purdue University, Indiana. This competition attracts many teams from companies and universities across North America. The objectives of the competition are to create an autonomous machine capable of navigating a corn field to identify weeds and analyze crop health. Upon identification of the corn plant, the machine should determine if the plant is healthy or in distress which requires fertilizer to be applied by the machine. Upon identification of a weed, the machine should eradicate the weed chemically and/or mechanically. The competition will be judged by reputable members of the agricultural technology industry, such as The Climate Corporation (Monsanto), and Blue River Technology.
 
 You can find more information at: https://ag.purdue.edu/agBOT/ 
 
 ## Getting Involved
-We are looking for highly self motivated individuals who are ready to take on this challenging yet rewarding project. This new team provides a start-up like environment and multidisciplinary projects give you the best hands-on and learning experience to tackle any engineering problems. Members of the team will take part in highly collaborative projects in two major categories which are robotics and automation. Members will get the opportunity to go through the engineering design process from studying and researching the problem, engaging stakeholders, developing potential solutions, prototyping, sourcing materials and constructing a working product. 
+We are looking for highly self motivated individuals who are ready to take on this challenging yet rewarding project. This new team provides a start-up like environment. The multidisciplinary projects give you the hands-on experience to tackle any engineering problem. Members of the team will take part in highly collaborative projects in two major categories, robotics and automation. Members will get the opportunity to go through the engineering design process including studying and researching the problem, engaging stakeholders, developing potential solutions, prototyping, sourcing materials and constructing a working product. 
 
 
 NEW Summer 2019 Recruitment
 ---
-This summer we will attampt to complete a simple, functioning protype of the AgroBot. This will entail 10-15 hours of work every week, most will be acomplished on the weekends. <br>
+This summer we will attempt to complete a simple, functioning protype of the AgroBot. This will entail 10-15 hours of work every week. Most will be accomplished on the weekends. <br>
 
 Previous technical experience is <b> not </b> required but will be considered an asset. 
 
@@ -35,11 +35,11 @@ Previous technical experience is <b> not </b> required but will be considered an
 <dt><b> Wireless Communication System Team Member </b>:</dt> 
 <dd> Designing and building a transportable transceiver system allowing medium/long distance communication with the AgroBot. </dd>
 
-<dt><b> Naivgation System Team Member </b>:</dt>
+<dt><b> Navigation System Team Member </b>:</dt>
 <dd>Developing an onboard navigation system through use of GPS, IMU, and image recognition technologies. </dd>
 
 <dt><b> Image Recognition System Team Member </b>:</dt>
-<dd>Devolping a high accuracy image recongnition system for weeds and crop detection. </dd>
+<dd>Developing a high accuracy image recognition system using machine learning for weeds and crop detection. </dd>
 
 <dt><b> Chassis Design Team Member </b>:</dt>
 <dd>Designing and constructing the AgroBot chassis and powertrain system.</dd>
