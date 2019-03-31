@@ -51,7 +51,7 @@ Previous technical experience is <b> not </b> required but will be considered an
 <dd>Designing and building the AgroBot's pesticide (and fertilizer) storage, pumping and spraying mechanism. </dd> 
 
 <dt><b> Robotics Team Coordinator </b>:</dt>
-<dd>Assist in design and development, coordinate meetings (internal and external), create deadlines and ensure sub-project integration. 
+<dd>Take a leadership role in assisting in design and development, coordinating meetings (internal and external), creating deadlines and ensuring sub-project integration. 
 </dl>
  
 Apply here: *link* <br>
