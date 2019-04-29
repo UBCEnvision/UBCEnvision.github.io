@@ -59,6 +59,5 @@ Previous technical experience is <b> not </b> required but will be considered an
 </ul>
 <br>
 
-Deadline to apply: 11:59 pm, April 27th <br>
 Applications accepted on a rolling basis. <br>
 If you have any questions regarding the project or recruitment, please email: ubcagrobot@gmail.com
