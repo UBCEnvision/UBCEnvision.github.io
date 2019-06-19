@@ -33,7 +33,7 @@ group :development, :test do
 	gem "rspec"
 	gem "capybara"
 	gem "selenium-webdriver"
-	gem "chromedriver-helper"
+	gem "webdriver"
 	gem "poltergeist"
 	gem "rack-jekyll"
 	gem "mini_magick"
