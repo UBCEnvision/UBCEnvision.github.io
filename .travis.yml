@@ -11,7 +11,7 @@ cache: bundler
 
 before_install:
  - gem install selenium-webdriver
- - wget -N https://chromedriver.storage.googleapis.com/2.33/chromedriver_linux64.zip -P ~/Downloads
+ - wget -N https://chromedriver.storage.googleapis.com/76.0.3809.25/chromedriver_linux64.zip -P ~/Downloads
  - unzip ~/Downloads/chromedriver_linux64.zip -d ~/Downloads
 
 before_script:
@@ -30,5 +30,3 @@ branches:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-
-
