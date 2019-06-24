@@ -5,10 +5,13 @@ require 'capybara/rspec'
 require 'rack/jekyll'
 require 'rack/test'
 require 'pry'
+require 'webdrivers'
 
 RSpec.configure do |config|
   config.include Capybara::DSL
   Capybara.server = :webrick
+
+  Webdrivers::Chromedriver.version = '72.0.3626.69'
 
   config.expect_with :rspec do |expectations|
     expectations.include_chain_clauses_in_custom_matcher_descriptions = true
