@@ -8,8 +8,6 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
-    archive-zip (0.11.0)
-      io-like (~> 0.3.0)
     capybara (2.16.0)
       addressable
       mini_mime (>= 0.1.3)
@@ -19,9 +17,6 @@ GEM
       xpath (~> 2.0)
     childprocess (0.9.0)
       ffi (~> 1.0, >= 1.0.11)
-    chromedriver-helper (1.2.0)
-      archive-zip (~> 0.10)
-      nokogiri (~> 1.8)
     cliver (0.3.2)
     coderay (1.1.2)
     colorator (1.1.0)
@@ -47,7 +42,6 @@ GEM
       yell (~> 2.0)
     i18n (0.9.1)
       concurrent-ruby (~> 1.0)
-    io-like (0.3.0)
     jekyll (3.6.2)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -137,6 +131,10 @@ GEM
       ethon (>= 0.8.0)
     tzinfo (1.2.4)
       thread_safe (~> 0.1)
+    webdrivers (3.9.4)
+      nokogiri (~> 1.6)
+      rubyzip (~> 1.0)
+      selenium-webdriver (~> 3.0)
     websocket-driver (0.7.0)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.3)
@@ -149,7 +147,6 @@ PLATFORMS
 
 DEPENDENCIES
   capybara
-  chromedriver-helper
   html-proofer
   jekyll (~> 3.6.0)
   jekyll-feed (~> 0.6)
@@ -165,6 +162,7 @@ DEPENDENCIES
   rspec
   selenium-webdriver
   tzinfo-data
+  webdrivers (~> 3.0)
 
 BUNDLED WITH
-   1.16.1
+   2.0.2
