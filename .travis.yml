@@ -10,7 +10,7 @@ rvm: 2.5.0
 cache: bundler
 
 before_install:
-  - gem install webdriver -v 3.0.0
+  - gem install webdriver
 
 before_script:
  - chmod +x ./script/cibuild
