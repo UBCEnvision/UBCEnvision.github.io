@@ -6,7 +6,7 @@ permalink: /recruitment/
 
 Welcome to our recruitment page for 2019! You can find a timeline of our important deadlines and application forms here.  
 
-<!--Unfortunately, we have **closed** registration for the 2018 year, but check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! In the meantime, feel free to explore Envision and its projects, or email us at contact@ubcenvision.com for any enquiries.-->
+<!--Unfortunately, we have **closed** registration for the 2019 year, but check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! In the meantime, feel free to explore Envision and its projects, or email us at contact@ubcenvision.com for any enquiries.-->
 
 ## Recruitment Timeline
 
@@ -14,7 +14,7 @@ Welcome to our recruitment page for 2019! You can find a timeline of our importa
   <link rel="stylesheet" href="/assets/css/timeline.css">
     <div class="container left">
       <div class="timelinecontent">
-        <h2>August 25</h2>
+        <h2>August 26</h2>
         <p>Applications for Envision and Envision projects open</p>
       </div>
     </div>
@@ -27,24 +27,30 @@ Welcome to our recruitment page for 2019! You can find a timeline of our importa
     <div class="container left">
       <div class="timelinecontent">
         <h2>September 6</h2>
-        <p>Envision Info Session, 5pm at CHBE 102 (free pizza included!)</p>
+        <p>Envision Info Session, 6pm at CHBE 103 (free pizza included!)</p>
       </div>
     </div>
-    <div class="container right">
+     <div class="container right">
+      <div class="timelinecontent">
+        <h2>September 6</h2>
+        <p>Envision Info Session, 1pm at CHBE 103 (free pizza included!)</p>
+      </div>
+    </div>
+    <div class="container left">
       <div class="timelinecontent">
         <h2>September 11</h2>
         <p>Applications for Envision projects close</p>
       </div>
     </div>
-    <div class="container left">
-      <div class="timelinecontent">
-        <h2>September 12-15</h2>
-        <p>Interviews for Envision projects (look below to see specific dates for each project)</p>
-      </div>
-    </div>
     <div class="container right">
       <div class="timelinecontent">
-        <h2>September 18</h2>
+        <h2>September 13-16</h2>
+        <p>Interviews for Envision projects</p>
+      </div>
+    </div>
+    <div class="container left">
+      <div class="timelinecontent">
+        <h2>September 16</h2>
         <p>Final decision about project members</p>
       </div>
     </div>
@@ -77,9 +83,9 @@ Click [here](http://www.ubcenvision.com/about/) to learn more about _Envision_!
 
 Click [here](http://www.ubcenvision.com/agrobot/) to learn more about _AgroBot_!
 
-<!--<ul class="actions">
-	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_3LhrpbmqgXmwIND" class="button medium wide">APPLY TO AGROBOT</a></li>
-</ul>-->
+<ul class="actions">
+	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_5BDOYaSDWVUm1kV" class="button medium wide">APPLY TO AGROBOT</a></li>
+</ul>
 
 
 <!--BIoT-->
@@ -89,6 +95,7 @@ Click [here](http://www.ubcenvision.com/agrobot/) to learn more about _AgroBot_!
 
 Click [here](http://www.ubcenvision.com/beer/) to learn more about _BIoT_!
 
+_Application coming soon!_
 <!--<ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_3LhrpbmqgXmwIND" class="button medium wide">APPLY TO BIOT</a></li>
 </ul>-->
@@ -102,6 +109,7 @@ Click [here](http://www.ubcenvision.com/beer/) to learn more about _BIoT_!
 
 Click [here](http://www.ubcenvision.com/algae/) to learn more about _Green Joule_!
 
+_Application coming soon!_
 <!--<ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_2t3r37arjDLjteB" class="button medium wide">APPLY TO GREEN JOULE</a></li>
 </ul>-->
@@ -116,6 +124,6 @@ Click [here](http://www.ubcenvision.com/algae/) to learn more about _Green Joule
 
 Click [here](http://www.ubcenvision.com/chemecar/) to learn more about _Chem-E-Car_!
 
-<!--<ul class="actions">
-	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_9Xr7z99CwsrLgrP" class="button medium wide">APPLY TO CHEM-E-CAR</a></li>
-</ul>-->
+<ul class="actions">
+	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_1QPFDr68m7B5MON" class="button medium wide">APPLY TO CHEM-E-CAR</a></li>
+</ul>
