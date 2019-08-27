@@ -22,7 +22,7 @@ You can find more information at: https://ag.purdue.edu/agBOT/
 We are looking for highly self motivated individuals who are ready to take on this challenging yet rewarding project. This new team provides a start-up like environment. The multidisciplinary projects give you the hands-on experience to tackle any engineering problem. Members of the team will take part in highly collaborative projects in two major categories, robotics and automation. Members will get the opportunity to go through the engineering design process including studying and researching the problem, engaging stakeholders, developing potential solutions, prototyping, sourcing materials and constructing a working product. 
 
 
-NEW Winter 2019 Recruitment
+NEW Fall 2019 Recruitment
 ---
 This Winter we will attempt to complete a simple, functioning protype of the AgroBot. This will entail 10-15 hours of work every week. Most will be accomplished on the weekends. <br>
 
