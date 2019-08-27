@@ -24,7 +24,7 @@ We are looking for highly self motivated individuals who are ready to take on th
 
 NEW Fall 2019 Recruitment
 ---
-This Winter we will attempt to complete a simple, functioning protype of the AgroBot. This will entail 10-15 hours of work every week. Most will be accomplished on the weekends. <br>
+This year we will attempt to complete a simple, functioning protype of the AgroBot. This will entail 10-15 hours of work every week. Most will be accomplished on the weekends. <br>
 
 Previous technical experience is <b> not </b> required but will be considered an asset. 
 
