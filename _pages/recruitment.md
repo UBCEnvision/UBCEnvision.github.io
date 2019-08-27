@@ -26,13 +26,13 @@ Welcome to our recruitment page for 2019! You can find a timeline of our importa
     </div>
     <div class="container left">
       <div class="timelinecontent">
-        <h2>September 6</h2>
+        <h2>September 5</h2>
         <p>Envision Info Session, 6pm at CHBE 103 (free pizza included!)</p>
       </div>
     </div>
      <div class="container right">
       <div class="timelinecontent">
-        <h2>September 6</h2>
+        <h2>September 7</h2>
         <p>Envision Info Session, 1pm at CHBE 103 (free pizza included!)</p>
       </div>
     </div>
