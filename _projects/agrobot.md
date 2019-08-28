@@ -22,9 +22,9 @@ You can find more information at: https://ag.purdue.edu/agBOT/
 We are looking for highly self motivated individuals who are ready to take on this challenging yet rewarding project. This new team provides a start-up like environment. The multidisciplinary projects give you the hands-on experience to tackle any engineering problem. Members of the team will take part in highly collaborative projects in two major categories, robotics and automation. Members will get the opportunity to go through the engineering design process including studying and researching the problem, engaging stakeholders, developing potential solutions, prototyping, sourcing materials and constructing a working product. 
 
 
-NEW Summer 2019 Recruitment
+NEW Fall 2019 Recruitment
 ---
-This summer we will attempt to complete a simple, functioning protype of the AgroBot. This will entail 10-15 hours of work every week. Most will be accomplished on the weekends. <br>
+This year we will attempt to complete a simple, functioning protype of the AgroBot. This will entail 10-15 hours of work every week. Most will be accomplished on the weekends. <br>
 
 Previous technical experience is <b> not </b> required but will be considered an asset. 
 
@@ -43,22 +43,16 @@ Previous technical experience is <b> not </b> required but will be considered an
   <dt><b> Chassis Design Team Member </b>:</dt>
   <dd>Designing and constructing the AgroBot chassis and powertrain system.</dd>
 
-  <dt><b> Exterminating Mechanism Team Member </b>:</dt>
+  <dt><b> Exterminating Mechanisms Team Member </b>:</dt>
   <dd>Designing and building the AgroBot's precision exterminating mechanisms (pesticide and mechanical).</dd> 
 
-  <dt><b> Pesticide Storage and Transport Team Members </b>:</dt>
-  <dd>Designing and building the AgroBot's pesticide (and fertilizer) storage, pumping and spraying mechanism. </dd> 
+   <dt><b> Web Developer </b>:</dt>
+  <dd>Developing and maintaining a website to showcase our project and highlights to students and potential sponsors.</dd> 
 
-  <dt><b> Robotics Team Coordinator </b>:</dt>
-  <dd>Take a leadership role in assisting in design and development, coordinating meetings (internal and external), creating deadlines and ensuring sub-project integration. </dd>
-</dl>
- 
 
 <ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_5BDOYaSDWVUm1kV" class="button medium wide">APPLY HERE</a></li>
 </ul>
 <br>
 
-Deadline to apply: 11:59 pm, April 27th <br>
-Applications accepted on a rolling basis. <br>
 If you have any questions regarding the project or recruitment, please email: ubcagrobot@gmail.com
