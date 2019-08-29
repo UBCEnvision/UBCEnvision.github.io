@@ -63,7 +63,8 @@ Welcome to our recruitment page for 2019! You can find a timeline of our importa
 <div align="center"><img src="/assets/images/envision.png" width="55%" left="50%" alt="envisionlogo"></div>
 
 
-Because Envision is a student chapter under the American Institute of Chemical Engineers (AIChE), we require new applicants to either **apply for AIChE student membership** or **renew their existing AIChE student membership for 2019** before applying for Envision membership. It only takes a few minutes to sign up and it's FREE! Unfortunately, registration to be part of Envision teams are now closed, but we still encourage you to sign up as an AICHE member and take advantage of professional networking and academic enrichment opportunities!
+Because Envision is a student chapter under the American Institute of Chemical Engineers (AIChE), we require new applicants to either **apply for AIChE student membership** or **renew their existing AIChE student membership for 2019** before applying for Envision membership. It only takes a few minutes to sign up and it's FREE! Registration to be part of Envision teams is now open! You can find the links to the applications below. Please note that you must also apply for Envision if you plan on joining our projects.
+<!--Unfortunately, registration to be part of Envision teams are now closed, but we still encourage you to sign up as an AICHE member and take advantage of professional networking and academic enrichment opportunities!-->
 
 Click [here](https://www.aiche.org/community/membership/benefits) to learn more about _AIChE_!
 
@@ -73,6 +74,10 @@ Click [here](https://www.aiche.org/community/membership/benefits) to learn more 
 
 
 Click [here](http://www.ubcenvision.com/about/) to learn more about _Envision_!  
+
+<ul class="actions">
+	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_82idkRnBb9pWRZX" class="button medium wide">APPLY TO ENVISION</a></li>
+</ul>
 
 
 ## Check out an Envision Project
