@@ -14,7 +14,7 @@ We'd like to thank our sponsors for their kind support and various contributions
 Join one of our sponsorship tiers and recieve the benefits below! Our full sponsorship package can be found [here.](/documents/UBC_Envision_2016-2017_Sponsorship.pdf)
     
 
-|                                                        | Bronze       | Silver   | Gold    | Platnium|
+|                                                        | Bronze       | Silver   | Gold    | Platinium|
 |------------|------------|--------|----------|----------|
 |<b>Invitations to UBC networking and industry events</b>|     ✔️     |     ✔️  |    ✔️   |    ✔️      |  
 |<b>Logo and name on website and social media sites</b>  |             |     ✔️   |    ✔️  |    ✔️      |  
