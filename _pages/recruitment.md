@@ -100,10 +100,9 @@ Click [here](http://www.ubcenvision.com/agrobot/) to learn more about _AgroBot_!
 
 Click [here](http://www.ubcenvision.com/beer/) to learn more about _BIoT_!
 
-_Application coming soon!_
-<!--<ul class="actions">
-	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_3LhrpbmqgXmwIND" class="button medium wide">APPLY TO BIOT</a></li>
-</ul>-->
+<ul class="actions">
+	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_bjejpM5MPoMpjDv" class="button medium wide">APPLY TO BIOT</a></li>
+</ul>
 
 
 <!--Green Joule-->
