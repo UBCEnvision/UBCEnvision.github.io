@@ -2,7 +2,7 @@
 layout: news
 title: "Preparing for the upcoming year"
 date: 2019-08-29
-featured: 
+featured: \assets\images\banner.jpg
 ---
 
 ### Preparing for the upcoming year
