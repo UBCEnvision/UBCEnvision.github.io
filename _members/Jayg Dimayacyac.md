@@ -1,9 +1,9 @@
 ---
 layout: member
-weight: 1
+weight: 50
 name: Jayg Dimayacyac
 project: chemecar
-title: President
+title: Advisor
 img: /assets/images/members/jayg.jpg
 email: president@ubcenvision.com
 biography: >
