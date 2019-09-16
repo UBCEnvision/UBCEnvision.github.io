@@ -1,0 +1,11 @@
+---
+layout: member
+weight: 50
+name: Malavan Subramaniam
+project: Green Joule
+title: Green Joule Administrator
+img: /assets/images/members/malavan.jpg
+biography: >
+  Malavan is a 3rd year Chemistry student and is the administrator for UBC Envision’s Algae team. He has a significant interest in the environment and the many solutions that have been proposed to better manage its health, including alternative energy sources such as biofuels. The opportunity to gain further insight into this fascinating idea by joining this team was overly compelling.  
+linkedin: https://www.linkedin.com/in/malavan-subramaniam-647a66122/
+---
