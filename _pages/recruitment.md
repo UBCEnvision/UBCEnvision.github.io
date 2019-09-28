@@ -6,8 +6,9 @@ permalink: /recruitment/
 
 Welcome to our recruitment page for 2019! You can find a timeline of our important deadlines and application forms here.  
 
-<!--Unfortunately, we have **closed** registration for the 2019 year, but check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! In the meantime, feel free to explore Envision and its projects, or email us at contact@ubcenvision.com for any enquiries.-->
+We have **closed** registration for the 2019 year, but check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! In the meantime, feel free to explore Envision and its projects, or email us at contact@ubcenvision.com for any enquiries.
 
+<!--
 ## Recruitment Timeline
 
 <div class="timeline">
@@ -55,6 +56,7 @@ Welcome to our recruitment page for 2019! You can find a timeline of our importa
       </div>
     </div>
 </div>
+-->
 
 ## Apply to Envision
 
@@ -62,9 +64,11 @@ Welcome to our recruitment page for 2019! You can find a timeline of our importa
 
 <div align="center"><img src="/assets/images/envision.png" width="55%" left="50%" alt="envisionlogo"></div>
 
-
+<!--
 Because Envision is a student chapter under the American Institute of Chemical Engineers (AIChE), we require new applicants to either **apply for AIChE student membership** or **renew their existing AIChE student membership for 2019** before applying for Envision membership. It only takes a few minutes to sign up and it's FREE! Registration to be part of Envision teams is now open! You can find the links to the applications below. Please note that you must also apply for Envision if you plan on joining our projects.
-<!--Unfortunately, registration to be part of Envision teams are now closed, but we still encourage you to sign up as an AICHE member and take advantage of professional networking and academic enrichment opportunities!-->
+-->
+
+Registration to be part of Envision teams are now closed, but we still encourage you to sign up as an AICHE member and take advantage of professional networking and academic enrichment opportunities!
 
 Click [here](https://www.aiche.org/community/membership/benefits) to learn more about _AIChE_!
 
@@ -72,13 +76,13 @@ Click [here](https://www.aiche.org/community/membership/benefits) to learn more 
 	<li><a href="https://www.aiche.org/community/membership" class="button medium wide">APPLY TO AIChE</a></li>
 </ul>
 
-
+<!--
 Click [here](http://www.ubcenvision.com/about/) to learn more about _Envision_!  
 
 <ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_82idkRnBb9pWRZX" class="button medium wide">APPLY TO ENVISION</a></li>
 </ul>
-
+-->
 
 ## Check out an Envision Project
 
@@ -88,10 +92,11 @@ Click [here](http://www.ubcenvision.com/about/) to learn more about _Envision_!
 
 Click [here](http://www.ubcenvision.com/agrobot/) to learn more about _AgroBot_!
 
+<!--
 <ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_5BDOYaSDWVUm1kV" class="button medium wide">APPLY TO AGROBOT</a></li>
 </ul>
-
+-->
 
 <!--BIoT-->
 <div align="center"><img src="/assets/images/recruitment/biot.png" alt="biotlogo" width="20%" height="auto"></div>
@@ -100,10 +105,11 @@ Click [here](http://www.ubcenvision.com/agrobot/) to learn more about _AgroBot_!
 
 Click [here](http://www.ubcenvision.com/beer/) to learn more about _BIoT_!
 
+<!--
 <ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_bjejpM5MPoMpjDv" class="button medium wide">APPLY TO BIOT</a></li>
 </ul>
-
+-->
 
 <!--Green Joule-->
 
@@ -113,11 +119,11 @@ Click [here](http://www.ubcenvision.com/beer/) to learn more about _BIoT_!
 
 Click [here](http://www.ubcenvision.com/algae/) to learn more about _Green Joule_!
 
-
+<!--
 <ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_b8VzM22V9GRHEnH" class="button medium wide">APPLY TO GREEN JOULE</a></li>
 </ul>
-
+-->
 
 
 <!--Chem-E-Car-->
@@ -128,6 +134,8 @@ Click [here](http://www.ubcenvision.com/algae/) to learn more about _Green Joule
 
 Click [here](http://www.ubcenvision.com/chemecar/) to learn more about _Chem-E-Car_!
 
+<!--
 <ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_1QPFDr68m7B5MON" class="button medium wide">APPLY TO CHEM-E-CAR</a></li>
 </ul>
+-->
