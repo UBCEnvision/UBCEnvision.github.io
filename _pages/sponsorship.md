@@ -8,11 +8,14 @@ permalink: /sponsorship/
 ## Thank You
 We'd like to thank our sponsors for their kind support and various contributions, without which our student-led projects would not have been possible. As a sponsor, your contributions help fund student development and professional growth for undergraduate students.
 
+Chem-E-Car would like to thank our exclusive Diamond sponsor, Daniel Family Foundation, and the UBC Student Competition Team Fund. Our progress as a design team would not be possible without your generous support.
 
 ## How To Join
 
-Join one of our sponsorship tiers and recieve the benefits below! Our full sponsorship package can be found [here.](/documents/UBC_Envision_2016-2017_Sponsorship.pdf)
-    
+Join one of our sponsorship tiers and recieve the benefits below!
+
+Click [here](/documents/ChemECar_Sponsorship.pdf) for the Chem-E-Car Sponsorship package. 
+
 
 |                                                        | Bronze       | Silver   | Gold    | Platinum|
 |------------|------------|--------|----------|----------|
