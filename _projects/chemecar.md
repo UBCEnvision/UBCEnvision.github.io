@@ -42,9 +42,20 @@ system impacts how accurately the calibration curve is applied to stop the car a
 specified distance.
 
 # Our Future
-UBC Chem-E-Car aims to go to and win National and International AIChE Chem-E-Car
-Competitions. We strive to design innovative timing mechanisms and power sources, and a
-unique car every year. Envision also plans for Chem-E-Car to integrate Flow Cell team’s and
-Algae team’s projects into its designs.
+UBC Chem-E-Car will attend the 2020 Pactific Northwest Regional AlChE Chem-E-Car Competition. We aim to place in the Regional Competition and compete at the National AIChE Chem-E-Car Competition in the fall. The team strives to design innovative timing mechanisms and power sources, and a unique car every year. We hope to continue to do this while teaching others about this technology, and growing as a team. 
 
+# Sponsorship
 
+Check out our sponsorship page [here!](/_pages/sponsorship.md)
+
+# Accomplishments / Awards
+
+- 2019 AIChE Regionals Poster Presentation (1st Runner-up)
+- 2019 AIChE Chem-E-Car Regionals (1st Runner-up)
+- 2019 AIChE Student Paper Competition (1st Runner-up)
+- 2018 AIChE Nationals Poster Presentation (1st place)
+- 2018 AIChE Chem-E-Car Nationals (25th out of 40 teams)
+- 2018 AIChE Chem-E-Car Regionals (1st place)
+- 2018 AIChE Regionals Poster Presentation (1st place)
+- 2017 World Congress Poster Competition (1st place)
+- 2017 World Congress Competition (7th out of 18 teams)

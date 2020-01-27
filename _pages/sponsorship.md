@@ -10,6 +10,8 @@ We'd like to thank our sponsors for their kind support and various contributions
 
 Chem-E-Car would like to thank our exclusive Diamond sponsor, Daniel Family Foundation, and the UBC Student Competition Team Fund. Our progress as a design team would not be possible without your generous support.
 
+![alt-text](/assets/images/daniel_family_fund.jpg)
+
 ## How To Join
 
 Join one of our sponsorship tiers and recieve the benefits below!
