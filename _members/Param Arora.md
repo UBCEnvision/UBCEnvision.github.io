@@ -3,7 +3,7 @@ layout: member
 weight: 50
 name: Param Arora
 project: chemecar
-title: Chem-E-Car Vice-Captain
+title: Agrobot Team Lead
 img: /assets/images/members/Param.jpg
 email: paramjeet.arora@alumni.ubc.ca
 biography: >

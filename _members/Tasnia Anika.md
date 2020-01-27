@@ -3,7 +3,7 @@ layout: member
 weight: 5
 name: Tasnia Naim Anika
 project: Green Joule
-title: Co-Lead
+title: Green Joule Co-Lead
 img: /assets/images/members/Anika.jpg
 email: anika8397@yahoo.com.sg
 biography: >
