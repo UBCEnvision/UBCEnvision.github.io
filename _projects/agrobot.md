@@ -24,36 +24,37 @@ We are looking for highly self motivated individuals who are ready to take on th
 
 NEW Fall 2019 Recruitment
 ---
-This year we will attempt to complete a simple, functioning protype of the AgroBot. This will entail 10-15 hours of work every week. Most will be accomplished on the weekends. <br>
-
+This year we will attempt to complete a simple, functioning protype of the AgroBot. This will entail 10-15 hours of work every week. Most will be accomplished on the weekends.
+<br>
+<br>
 Previous technical experience is <b> not </b> required but will be considered an asset. 
 
 <h3> Engineering Positions Avaliable: </h3> 
 <dl>
   
   <dt><b> Wireless Communication System Team Member </b>:</dt> 
-  <dd> Designing and building a transportable transceiver system allowing medium/long distance communication with the AgroBot. </dd>
+  <dd> Designing and building a transportable transceiver system allowing medium/long distance communication with the AgroBot. </dd><br>
 
   <dt><b> Navigation System Team Member </b>:</dt>
-  <dd>Developing an onboard navigation system through use of GPS, IMU, and image recognition technologies. </dd>
+  <dd>Developing an onboard navigation system through use of GPS, IMU, and image recognition technologies. </dd><br>
 
   <dt><b> Image Recognition System Team Member </b>:</dt>
-  <dd>Developing a high accuracy image recognition system using machine learning for weeds and crop detection. </dd>
+  <dd>Developing a high accuracy image recognition system using machine learning for weeds and crop detection. </dd><br>
 
   <dt><b> Chassis Design Team Member </b>:</dt>
-  <dd>Designing and constructing the AgroBot chassis and powertrain system.</dd>
+  <dd>Designing and constructing the AgroBot chassis and powertrain system.</dd><br>
 
   <dt><b> Exterminating Mechanisms Team Member </b>:</dt>
-  <dd>Designing and building the AgroBot's precision exterminating mechanisms (pesticide and mechanical).</dd> 
+  <dd>Designing and building the AgroBot's precision exterminating mechanisms (pesticide and mechanical).</dd> <br>
 
    <dt><b> Web Developer </b>:</dt>
-  <dd>Developing and maintaining a website to showcase our project and highlights to students and potential sponsors.</dd> 
+  <dd>Developing and maintaining a website to showcase our project and highlights to students and potential sponsors.</dd><br>
 
-
+<br>
 <ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_5BDOYaSDWVUm1kV" class="button medium wide">APPLY HERE</a></li>
+
 </ul>
-<br>
 Deadline to Apply: September 12th, 11:59pm
 <br>
 If you have any questions regarding the project or recruitment, please email: ubcagrobot@gmail.com
