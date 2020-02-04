@@ -40,4 +40,4 @@ Our next steps include:
 * Research on water-containers for the cars
 * Work with the laboratory team to develop holders for the reactions
 * Work with circuitry on placements of objects on the car, and how to compartmentalize the wiring
-We’re extremely excited to be building the cars soon, and hope to perform various prototypes of the cars. ![3 homies](/assets/images/blog/Feb-2020-Update/printed-parts.JPG)
+We’re extremely excited to be building the cars soon, and hope to perform various prototypes of the cars. ![printed-parts](/assets/images/blog/Feb-2020-Update/printed-parts.JPG)
