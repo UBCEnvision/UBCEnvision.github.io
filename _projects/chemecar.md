@@ -11,6 +11,15 @@ box: >
   UBC Chem-E-Car is a design team under the UBC Chemical & Biological Engineering Department that competes in the annual AIChE (American Institute of Chemical Engineers) Regional and National Chem-E-Car Competitions. The goal of the competition is to build a shoebox sized car that carries a given load of water within a given amount of distance. Chem-E-Car provides the opportunity for UBC engineering students to learn valuable technical and interpersonal skills.
 ---
 
+# Recruitment
+
+## 2020/2021 Recruitment
+
+We are currerntly accepting applications are open August 22nd to September 10th 2020. 
+Contact chemecar@ubcenvision.com if you have any questions!
+
+Click [here](https://ubc.ca1.qualtrics.com/jfe/form/SV_cvvfQmfCvT5aJdX) to apply to Chem-E-Car!
+
 # Technology
 
 ## Mechanical Team
