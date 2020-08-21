@@ -4,9 +4,9 @@ title: Recruitment
 permalink: /recruitment/
 ---
 
-Welcome to our recruitment page for 2019! You can find a timeline of our important deadlines and application forms here.  
+Welcome to our recruitment page for 2020! You can find a timeline of our important deadlines and application forms here.  
 
-We have **closed** registration for the 2019 year, but check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! In the meantime, feel free to explore Envision and its projects, or email us at contact@ubcenvision.com for any enquiries.
+The applications for the 2020-2021 year have not opened yet, but check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! In the meantime, feel free to explore Envision and its projects, or email us at [contact@ubcenvision.com](mailto:contact@ubcenvision.com) for any enquiries.
 
 <!--
 ## Recruitment Timeline
