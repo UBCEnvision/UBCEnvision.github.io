@@ -4,9 +4,9 @@ title: Recruitment
 permalink: /recruitment/
 ---
 
-Welcome to our recruitment page for 2020! You can find a timeline of our important deadlines and application forms here.  
+Welcome to our recruitment page for 2020/2021! You can find a timeline of our important deadlines and application forms here.  
 
-The applications for the 2020-2021 year have not opened yet, but check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! In the meantime, feel free to explore Envision and its projects, or email us at [contact@ubcenvision.com](mailto:contact@ubcenvision.com) for any enquiries.
+The applications for the 2020/2021 year are open for certain projects! Check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! Feel free to explore Envision and its projects, or email us at [contact@ubcenvision.com](mailto:contact@ubcenvision.com) for any enquiries.
 
 <!--
 ## Recruitment Timeline
@@ -89,6 +89,23 @@ Click [here](http://www.ubcenvision.com/about/) to learn more about _Envision_!
 
 ## Check out an Envision Project
 
+<br>
+
+<div align="center"><img src="/assets/images/recruitment/chemecar.png" alt="chemecarlogo" left="50%" width= "30%" height= "auto"></div>
+      
+  UBC Chem-E-Car is a design team under the UBC Chemical & Biological Engineering Department that competes in the annual AIChE (American Institute of Chemical Engineers) Regional and National Chem-E-Car Competitions. We are a top contender in our region, having placed in regional and national Chem-E-Car Competitions in the past. While currently employing electrochemical batteries on our model-size cars, biochemical batteries is a frontier that no one has mastered yet. Can you help us be the first?
+
+Click [here](http://www.ubcenvision.com/chemecar/) to learn more about _Chem-E-Car_!
+
+  We are currently accepting applications for all sub-teams from August 22nd to September 14th 2020. 
+  Contact chemecar@ubcenvision.com if you have any questions!
+
+<ul class="actions">
+	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_cvvfQmfCvT5aJdX" class="button medium wide">APPLY TO CHEM-E-CAR</a></li>
+</ul>
+
+
+
 <!--AgroBot-->
 <!--
 <div align="center"><img src="/assets/images/recruitment/agrobotofficiallogo.JPG" alt="agrobotlogo" width="30%" height="auto"></div>
@@ -131,12 +148,6 @@ Click [here](http://www.ubcenvision.com/algae/) to learn more about _Green Joule
 
 
 <!--Chem-E-Car-->
-
-<div align="center"><img src="/assets/images/recruitment/chemecar.png" alt="chemecarlogo" left="50%" width= "30%" height= "auto"></div>
-      
-  UBC Chem-E-Car is a design team under the UBC Chemical & Biological Engineering Department that competes in the annual AIChE (American Institute of Chemical Engineers) Regional and National Chem-E-Car Competitions. We are a top contender in our region, having placed in regional and national Chem-E-Car Competitions in the past. While currently employing electrochemical batteries on our model-size cars, biochemical batteries is a frontier that no one has mastered yet. Can you help us be the first?
-
-Click [here](http://www.ubcenvision.com/chemecar/) to learn more about _Chem-E-Car_!
 
 <!--
 <ul class="actions">
