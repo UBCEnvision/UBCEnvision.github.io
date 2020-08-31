@@ -91,6 +91,7 @@ Click [here](http://www.ubcenvision.com/about/) to learn more about _Envision_!
 
 <br>
 
+<a name="CHEM-E-CAR"></a>
 <div align="center"><img src="/assets/images/recruitment/chemecar.png" alt="chemecarlogo" left="50%" width= "30%" height= "auto"></div>
       
   UBC Chem-E-Car is a design team under the UBC Chemical & Biological Engineering Department that competes in the annual AIChE (American Institute of Chemical Engineers) Regional and National Chem-E-Car Competitions. We are a top contender in our region, having placed in regional and national Chem-E-Car Competitions in the past. While currently employing electrochemical batteries on our model-size cars, biochemical batteries is a frontier that no one has mastered yet. Can you help us be the first?
@@ -120,12 +121,21 @@ Click [here](http://www.ubcenvision.com/agrobot/) to learn more about _AgroBot_!
 -->
 
 <!--BIoT-->
+<a name="BIOT"></a>
 <div align="center"><img src="/assets/images/recruitment/biot.png" alt="biotlogo" width="20%" height="auto"></div>
  
-  Previously the CHBeer Brewing team, BioT continues the practice of developing an automated brewing system by merging fundamental chemical engineering principles with software development. Currently, the team is able to monitor various parameters of their brew through a web app, but they need your help to take it further. Maybe develop a phone app, or help scale the project up into UBC's own microbrewery?
+  Do you have a passion for the Chemical Arts? More importantly, do you like beer? UBC Envision BioT is recruiting now for all sub-teams: brewing, instrumentation and laboratory teams.
+
+  Our focus is to develop craft brewing technologies and to create an automated brewing system with the ability to monitor and control process variables such as temperature and acidity in real-time. We make efforts to design and implement low-cost data monitoring and have our innovative techniques and advanced technology be applied to actual breweries to brew the perfect beer through various projects.
 
 Click [here](http://www.ubcenvision.com/beer/) to learn more about _BIoT_!
 
+  We are now accepting applications for all sub-teams from August 25th to September 14th 2020.
+  If you have any question about recruiting or want to talk about beer, feel free to contact biot@ubcenvision.com.
+
+<ul class="actions">
+	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_e4e3qHw9IaUYraZ" class="button medium wide">APPLY TO BIOT</a></li>
+</ul>
 <!--
 <ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_bjejpM5MPoMpjDv" class="button medium wide">APPLY TO BIOT</a></li>
