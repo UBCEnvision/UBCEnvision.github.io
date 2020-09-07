@@ -14,7 +14,7 @@ box: >
 
 # 2020/2021 Recruitment
 
-We are now accepting applications for all sub-teams from August 25th to September 14th 2020. You can check out our recruitment page [here](https://www.ubcenvision.com/recruitment/#BIOT).
+We are now accepting applications for all sub-teams from August 25th to September 14th 2020. You can check out our recruitment page [here](/recruitment/#BIOT).
 
 If you have any question about recruiting or want to talk about beer, feel free to contact [biot@ubcenvision.com](mailto:biot@ubcenvision.com).
 

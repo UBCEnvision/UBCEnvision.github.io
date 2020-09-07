@@ -1,7 +1,7 @@
 ---
 layout: member
 weight: 100
-status: ['alumni', 'board']
+status: ['alumni']
 name: Siang Lim
 title: Founding Director
 img: /assets/images/members/siang.png

@@ -13,7 +13,7 @@ box: >
 
 # 2020/2021 Recruitment
 
-We are currently accepting applications for all sub-teams from August 22nd to September 14th 2020. You can check out our recruitment page [here](http://www.ubcenvision.com/recruitment/#CHEM-E-CAR).
+We are currently accepting applications for all sub-teams from August 22nd to September 14th 2020. You can check out our recruitment page [here](/recruitment/#CHEM-E-CAR).
 
 Contact [chemecar@ubcenvision.com](mailto:chemecar@ubcenvision.com) if you have any questions!
 

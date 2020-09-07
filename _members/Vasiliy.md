@@ -2,7 +2,7 @@
 layout: member
 weight: 1
 name: Vasilii Triandafilidi
-status: ['board', 'alumni']
+status: ['alumni']
 title: Graduate Advisor
 img: /assets/images/members/vasiliy.png
 email: president@innovationonboard.ca
