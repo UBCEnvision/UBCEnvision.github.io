@@ -68,12 +68,12 @@ The applications for the 2020/2021 year are open for certain projects! Check our
 Because Envision is a student chapter under the American Institute of Chemical Engineers (AIChE), we require new applicants to either **apply for AIChE student membership** or **renew their existing AIChE student membership for 2019** before applying for Envision membership. It only takes a few minutes to sign up and it's FREE! Registration to be part of Envision teams is now open! You can find the links to the applications below. Please note that you must also apply for Envision if you plan on joining our projects.
 -->
 
-Registration to be part of Envision teams are now closed, but we still encourage you to sign up as an AICHE member and take advantage of professional networking and academic enrichment opportunities!
+Envision, as the UBC chapter of AIChE, does not require applications for membership. Envision events are open for all UBC students and the general public to join, and we encourage you to sign up as an AIChE Member to take full advantage of professional networking and academic enrichment opportunities! If you are interested in joining an Envision project, please refer to the application links below. 
 
 Click [here](https://www.aiche.org/community/membership/benefits) to learn more about _AIChE_!
 
 <ul class="actions">
-	<li><a href="https://www.aiche.org/community/membership" class="button medium wide">APPLY TO AIChE</a></li>
+	<li><a href="https://www.aiche.org/community/membership" class="button medium wide">JOIN AIChE</a></li>
 </ul>
 
 
