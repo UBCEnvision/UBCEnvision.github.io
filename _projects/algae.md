@@ -13,7 +13,7 @@ box: >
 
 # 2020/2021 Recruitment
 
-We are currently accepting applications from September 1st to September 14th 2020. You can check out our recruitment page [here](http://www.ubcenvision.com/recruitment/#GreenJoule).
+We are currently accepting applications from September 1st to September 14th 2020. You can check out our recruitment page [here](/recruitment/#GreenJoule).
 
 Contact [greenjoule@ubcenvision.com](mailto:greenjoule@ubcenvision.com) if you have any questions!
 
