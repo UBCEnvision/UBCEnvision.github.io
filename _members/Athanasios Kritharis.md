@@ -2,7 +2,7 @@
 layout: member
 weight: 10000
 name: Athanasios Kritharis
-status: ['board', 'alumni']
+status: ['alumni']
 title: Founding Director
 img: /assets/images/members/thanos.jpg
 email: director@ubcenvision.com
