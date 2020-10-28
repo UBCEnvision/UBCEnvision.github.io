@@ -4,7 +4,7 @@ title: Team
 description: Envision Team Members
 permalink: /team/
 ---
-{% assign members = site.members | sort: 'weight' %}
+{% assign members = site.members | where: "status", "lead" | sort: 'weight' %}
 <section class="banner style2 align-left">
 	<div class="inner">
 		<header>    
