@@ -3,7 +3,7 @@ layout: project
 project: Green Joule
 title: Green Joule
 image: /assets/images/algae.jpg
-permalink: /algae/
+permalink: /greenjoule/
 
 headline: Maximizing Potential of Microalgae
 description: Biofuels are fuels derived from biological sources; their renewable nature makes them a promising alternative to fossil fuels. Since the 1950s, algae has been commercially cultivated (mainly for pharmaceutical products) and  recently gained attention as a potential biofuel source. However, due to the price of production, it creates a big limitation for the utilization of algae biofuels. Join us as we work to offset the production cost of algae biofuels by combining algae growth with wastewater treatment and simultaneously extracting carbohydrates and lipids to produce two different types of biofuels.
@@ -13,14 +13,23 @@ box: >
 
 # 2020/2021 Recruitment
 
-We are currently accepting applications from September 1st to September 14th 2020. You can check out our recruitment page [here](/recruitment/#GreenJoule).
-
+Closed for the year!
 Contact [greenjoule@ubcenvision.com](mailto:greenjoule@ubcenvision.com) if you have any questions!
 
-# Technology
+<!-- 
+We are currently accepting applications from September 1st to September 14th 2020. You can check out our recruitment page [here](/recruitment/#GreenJoule).
+-->
 
-## Wastewater Treatment
-In the wastewater treatment system, nutrient (mainly dissolved nitrogen and phosphorus) removal is an important step in treating wastewater. These nutrients stimulate the growth of unwanted aquatic macrophytes and lead to eutrophication when discharged into the environment. In addition, excessive nitrate concentrations in drinking water can cause methemoglobinemia, also known as “blue baby” disease. On the other hand, nitrogen is an essential compound for biological microorganisms, such as microalgae. Microorganisms convert nitrogen into ammonium, then into proteins, as part of their growth process. 
+# Subteams
 
-## Nutrients Extraction
-Microalgae are photosynthetic microorganisms which uses chlorophyll to convert light energy into energy sources such as carbohydrates. The inner cell walls of microalgae constitute mainly of hemicellulose and cellulose, which can be hydrolyzed into sugar monomers and further fermented into bioethanol. In addition, microalgae can accumulate a large mass of lipids which can be processed into biodiesel via transesterification. The use of ionic liquids (IL) are favorable pre-treatments for nutrient extraction as the ILs are able to dissolve the lipids; leaving a lipid-rich liquid and carbohydrate-solid. This allows for extraction of both components after a simple phase separation process.
+## Growth
+The growth team is responsible for cultivating microalgae using different growth conditions. Their objective is to optimize the lipid and sugar content in the cells. Members formulate the growth medium and isolate the grown microalgae for extraction usage.
+
+## Extraction
+The extraction team is responsible for converting the microalgae into biofuels. Their objective is to optimize the biofuel yield. Members separate the lipids and sugars from the cultivated cells and process both into biodiesel and bioethanol, respectively.
+
+## Monitoring
+The monitoring team is responsible for monitoring the microalgae culture conditions to determine the optimal time for cultivation. Members will create a system that collects data from the growth cultures.
+
+## Impact Analysis
+The impact analysis is a new addition to the project; it will be responsible for analyzing the sustainability of algal biofuels. This team works closely with the projects undertaken by the Growth and Extraction Teams. Using relevant research literature and Life Cycle Assessments,  they will work towards ensuring that the projects have minimal adverse effects on the environment.

@@ -98,12 +98,14 @@ Click [here](http://www.ubcenvision.com/about/) to learn more about _Envision_!
 
 Click [here](/chemecar/) to learn more about _Chem-E-Car_!
 
+<!--
   We are currently accepting applications for all sub-teams from August 22nd to September 14th 2020. 
   Contact [chemecar@ubcenvision.com](mailto:chemecar@ubcenvision.com) if you have any questions!
 
 <ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_cvvfQmfCvT5aJdX" class="button medium wide">APPLY TO CHEM-E-CAR</a></li>
 </ul>
+-->
 
 <!--AgroBot-->
 <!--
@@ -127,24 +129,27 @@ Click [here](http://www.ubcenvision.com/agrobot/) to learn more about _AgroBot_!
 
 Click [here](/beer/) to learn more about _BIoT_!
 
+<!--
   We are now accepting applications for all sub-teams from August 25th to September 14th 2020.
   If you have any questions about recruiting, or want to talk about beer, feel free to contact [biot@ubcenvision.com](mailto:biot@ubcenvision.com).
 
 <ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_e4e3qHw9IaUYraZ" class="button medium wide">APPLY TO BIOT</a></li>
 </ul>
-
+-->
 
 <a name="GreenJoule"></a>
 <div align="center"><img src= "/assets/images/recruitment/greenjoule.png" alt="greenjoulelogo" width= "20%" left = "50%" height= "auto"></div>
       
   Established in the summer of 2017, Green Joule focuses on the growth and extraction processes of algae biofuels; we wanted to combine the different uses of microalgae to maximize production, instead of purely focusing on one deliverable of the algae cell. The project hopes to recruit fellow enthusiastic parties (such yourself, reader) to help grow the scope and ambition of the team. Currently, we have our sights set on perfecting our process in the lab while looking to incorporate genetic modification into the mix in the hopes of making the biofuel yields more abundant. Who knows where you might take the team?
 
-Click [here](/algae/) to learn more about _Green Joule_!
+Click [here](/greenjoule/) to learn more about _Green Joule_!
 
+<!--
   We are now accepting applications from September 1st to September 14th 2020.
   If you have any questions about recruiting, feel free to contact [greenjoule@ubcenvision.com](mailto:greenjoule@ubcenvision.com).
 
 <ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_2hj52S3Wbl9ztc1" class="button medium wide">APPLY TO GREEN JOULE</a></li>
 </ul>
+-->

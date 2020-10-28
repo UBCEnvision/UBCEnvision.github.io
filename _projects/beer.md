@@ -14,11 +14,14 @@ box: >
 
 # 2020/2021 Recruitment
 
+Closed for the year!
+Contact [biot@ubcenvision.com](mailto:biot@ubcenvision.com) if you have any questions!
+
+<!--
 We are now accepting applications for all sub-teams from August 25th to September 14th 2020. You can check out our recruitment page [here](/recruitment/#BIOT).
+-->
 
-If you have any question about recruiting or want to talk about beer, feel free to contact [biot@ubcenvision.com](mailto:biot@ubcenvision.com).
-
-# Technology
+# Subteams
 
 ## Chemistry
 Fermentation is an incredibly important biological process. It is used in the production of penicillin, wine, kombucha, and of course, beer! Yeast is a facultative anaerobe meaning that it can two different metabolic pathways. The aerobic pathway uses oxygen to produce water and carbon dioxide. The anaerobic pathway uses sugars broken down from the mashing process to produce ethanol and carbon dioxide. Hops is added for flavor. Each strain of hops has its own characteristics such as alpha acids and flavor profile. A mixture of hops makes up the flavor in each distinct beer type. This team researches the reaction kinetics in the fermenter as well as makes the recipes for the beer (and soon kombucha) we brew! This team is also responsible for testing key characteristics of the beer such as bitterness, alcohol by volume, turbidity, and the standard reference model (or color) of the beer. 

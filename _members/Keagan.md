@@ -1,11 +1,11 @@
 ---
 layout: member
-name: Montserrat del Toro
-project: Green Joule
-title: Green Joule Co-Lead
+name: Keagan
+project: BioT
+title: BioT Lead
 img: /assets/images/members/default.png
 status: lead
-weight: 10
+weight: 11
 email: 
 biography:
 linkedin: 

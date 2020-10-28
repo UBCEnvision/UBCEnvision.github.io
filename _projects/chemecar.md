@@ -13,11 +13,16 @@ box: >
 
 # 2020/2021 Recruitment
 
-We are currently accepting applications for all sub-teams from August 22nd to September 14th 2020. You can check out our recruitment page [here](/recruitment/#CHEM-E-CAR).
-
+Closed for the year!
 Contact [chemecar@ubcenvision.com](mailto:chemecar@ubcenvision.com) if you have any questions!
 
-# Technology
+<!--
+We are currently accepting applications for all sub-teams from August 22nd to September 14th 2020. You can check out our recruitment page [here](/recruitment/#CHEM-E-CAR).
+-->
+
+
+
+# Subteams
 
 ## Mechanical Team
 Designs and develops the body and other mechanical components of the car. The car is
