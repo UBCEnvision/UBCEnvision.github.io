@@ -9,9 +9,6 @@ pages:
 - title: Projects
   url: /projects/
 
-- title: News
-  url: /news/
-
 - title: Blog
   url: /blog/
 
@@ -23,3 +20,6 @@ pages:
 
 - title: Contact Us
   url: /contact/
+
+- title: AIChE Resources
+  url: /resources/
