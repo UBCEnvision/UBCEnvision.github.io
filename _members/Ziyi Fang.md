@@ -2,6 +2,7 @@
 layout: member
 name: Ziyi Fang
 title: Project Coordinator
+project: chemecar
 img: /assets/images/members/Ziyi.jpg
 email:
 status: lead

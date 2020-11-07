@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Shlok Verma	
-project: chemecar
+project: BioT
 title: VP Internal
 img: /assets/images/members/Shlok.jpg
 email: shlok.v123@gmail.com
