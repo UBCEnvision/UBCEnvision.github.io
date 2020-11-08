@@ -3,7 +3,6 @@ layout: member
 weight: 5000
 name: Arjun Venkat
 title: Growth Team Member
-project: Green Joule
 img: /assets/images/members/default.png
 email: arjun.venkat99@gmail.com
 status: alumni

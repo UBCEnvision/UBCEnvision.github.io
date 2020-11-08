@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Alyssa Liu
-project: chemecar
+project: 
 title: Social Media Chair
 img: /assets/images/members/default.png
 email:

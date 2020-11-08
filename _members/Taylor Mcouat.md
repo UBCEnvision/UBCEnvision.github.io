@@ -2,7 +2,6 @@
 layout: member
 weight: 5000
 name: Taylor Mcouat
-project: BioT
 title: Instrumentation Team Member
 img: /assets/images/members/default.png
 email: taylor.mcouat@gmail.com

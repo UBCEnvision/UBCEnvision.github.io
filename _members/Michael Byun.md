@@ -2,7 +2,6 @@
 layout: member
 weight: 5000
 name: Michael Dongwook Byun
-project: BioT
 title: Instrumentation Member
 img: /assets/images/members/Michael.jpg
 email: mbyun95@alumni.ubc.ca

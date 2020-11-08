@@ -2,7 +2,6 @@
 layout: member
 weight: 5000
 name: Zuhayr Kazi
-project: chemecar
 title: Circuitry Sub-Team Member
 img: /assets/images/members/default.png
 email: zkkazi99@gmail.com

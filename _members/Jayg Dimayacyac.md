@@ -2,7 +2,6 @@
 layout: member
 weight: 50
 name: Jayg Dimayacyac
-project: chemecar
 title: Advisor
 img: /assets/images/members/jayg.jpg
 email: jayg.dimayacyac@gmail.com

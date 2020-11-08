@@ -2,7 +2,6 @@
 layout: member
 weight: 5000
 name: Harbir Bajwa
-project: Green Joule
 title: Extraction Team Member
 img: /assets/images/members/Harbir.JPG
 email: harbirbajwa@hotmial.com

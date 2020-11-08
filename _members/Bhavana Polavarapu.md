@@ -3,7 +3,6 @@ layout: member
 weight: 5000
 name: Bhavana Polavarapu
 title: Extraction Sub-team Member
-project: Green Joule
 img: /assets/images/members/Bhavana.jpg
 email: polavarapubhavana@gmail.com
 status: alumni
