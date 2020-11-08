@@ -2,7 +2,6 @@
 layout: member
 weight: 5000
 name: Raunak Bhutoria
-project: chemecar
 title: Power Source Sub-Team Member
 img: /assets/images/members/Raunak.jpg
 email: raunakbhutoria@gmail.com

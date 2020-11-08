@@ -2,7 +2,6 @@
 layout: member
 weight: 50
 name: Ricardo Rivera
-project: BioT
 title: App Team Co-Lead
 img: /assets/images/members/RicardoR.jpg
 email: rick_1924@outlook.com

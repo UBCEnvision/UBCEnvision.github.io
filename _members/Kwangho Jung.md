@@ -2,7 +2,6 @@
 layout: member
 weight: 5000
 name: Kwangho Jung 
-project: BioT
 title: App Team Member
 img: /assets/images/members/Kevin.jpg
 email: KEVINJUNG1998@GMAIL.COM

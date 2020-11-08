@@ -2,7 +2,6 @@
 layout: member
 weight: 5000
 name: Wendie Wu
-project: chemecar
 title: Senior Lab Team Member
 img: /assets/images/members/wendie.jpg
 status: alumni

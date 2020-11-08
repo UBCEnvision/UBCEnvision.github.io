@@ -3,7 +3,6 @@ layout: member
 weight: 5000
 name: Amanpreet Tithh
 title: Instrumentation Member
-project: BioT
 img: /assets/images/members/Aman.jpg
 email: amantithh@gmail.com
 status: alumni

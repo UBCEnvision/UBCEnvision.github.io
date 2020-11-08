@@ -2,7 +2,7 @@
 layout: member
 weight: 5000
 name: Crisella Harsono
-project: chemecar
+project: BioT
 title: Junior Lab Sub-Team Member
 img: /assets/images/members/Crisella.jpg
 email: crisellaharsono17@gmail.com

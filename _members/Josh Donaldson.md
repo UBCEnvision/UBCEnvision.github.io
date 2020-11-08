@@ -1,7 +1,6 @@
 ---
 layout: member
 weight: 5
-project: BioT
 name: Josh Donaldson
 title: BIoT Team Lead
 img: /assets/images/members/josh.jpg

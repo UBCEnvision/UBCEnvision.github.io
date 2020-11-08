@@ -2,7 +2,6 @@
 layout: member
 weight: 5000
 name: Kenechukwu Ene
-project: BioT
 title: Fermentation Team Member
 img: /assets/images/members/Kene.jpg
 email: kenechukwu.ene@ubc.ca 
