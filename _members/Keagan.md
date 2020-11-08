@@ -1,6 +1,6 @@
 ---
 layout: member
-name: Keagan
+name: Keagan Read
 project: BioT
 title: BioT Lead
 img: /assets/images/members/KeaganRead.jpg
