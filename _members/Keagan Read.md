@@ -3,7 +3,7 @@ layout: member
 name: Keagan Read
 project: BioT
 title: BioT Lead
-img: /assets/images/members/KeaganRead.jpg
+img: /assets/images/members/Keagan.jpg
 status: lead
 weight: 11
 email: biot@ubcenvision.com

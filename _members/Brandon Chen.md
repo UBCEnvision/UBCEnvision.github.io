@@ -1,7 +1,6 @@
 ---
 layout: member
 name: Brandon Chen
-project: 
 title: President
 img: /assets/images/members/BrandonChen.png
 status: lead
