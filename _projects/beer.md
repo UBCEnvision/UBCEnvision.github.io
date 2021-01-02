@@ -6,9 +6,13 @@ image: /assets/images/BeerChemistry.jpg
 permalink: /beer/
 
 headline: Automated Brewing
-description: Do you enjoy beer? What about process control, thermodynamics and kinetic modelling? Fermentation started in the Bronze Age and is theorized to be the main driver behind the origin of civilization! However, controlling this biological process to achieve the desired beer characteristics challenging to this day. Large breweries have access to sophisticated devices for process control, but what about homebrewers and craft breweries who can’t spend hundreds of thousands of dollars on high-end equipment? This workshop will demonstrate how to build a low-cost device that can monitor and control key process variables such as temperature and pH during the brewing process. Through the Internet of Things, it is possible to access and monitor process variables from anywhere! Come join us and learn how to make great beer from the comfort of your phone. 
+description: Do you enjoy beer? What about process control, thermodynamics and kinetic modelling? Controlling this biological process to achieve the desired beer characteristics is challenging to this day. Large breweries have access to sophisticated devices for process control, but what about homebrewers and craft breweries who can’t spend hundreds of thousands of dollars on high-end equipment? BioT makes efforts to design and implement low-cost data monitoring and have our innovative techniques and advanced technology be applied to actual breweries to brew the perfect beer through various projects. 
 box: >
- BioT, formerly the CHBeer Brewing system is a project encompassed by the student organization UBC Envision. The project is based on the idea of ‘The Internet of Things’, and aims to develop craft brewing technologies and to create an automated brewing system with the ability to monitor and control process variables such as temperature and acidity in real-time. We are currently coupling sensors to web servers and developing a mobile app, which would allow operators to remotely view brewing conditions and key control variables. A large focus of our project is the concept that many home-breweries or smaller breweries lack the hundreds of thousands of dollars required for high-end equipment. Through our project, our long-goal is to optimize brewing processes for brewing technologies, to design and implement low-cost data monitoring, and in time, to have our machine learning algorithms be applied to actual breweries to brew the perfect beer.
+    The Automated Beer Brewing system is a project encompassed by the student organization UBC Envision. The project is based on the idea of ‘The Internet of Things’, and BioT aims to develop craft brewing technologies and to create an automated brewing system with the ability to monitor and control process variables such as temperature, acidity, gravity and possibly more in real-time. The team also pays attention to engineering multidisciplinary student development through practical applications while creating a meaningful and relevant product. The team will conduct the brewing process, collect data in the fermentation phase, provide quality control on the finished product, as well as analyze and model the data using an online web server. The students are able to apply what they learned in their classes, work on their teamwork skills while preparing their technical skills for industry.
+    
+    BioT’s short term goals are to develop our members' knowledge on the brewing world and establish an appreciation of how directly the brewing process relates to concepts learned in class. Our long term goals are to implement a small scale brewing laboratory that can operate autonomously and allow for simple, low cost data collection on an 'internet of things' basis. This data collection is going to be used to develop models and data clusters, to establish consistency within brew quality and eventually create and incorporate new brewing technologies into our bench scale setup. 
+
+    Through various projects, BioT’s long-goal is to optimize brewing processes for brewing technologies, to design and implement low-cost data monitoring, and in time, to have our research and technology introduced and applied to actual breweries to brew the perfect beer. The sub-team's learning goals will differ throughout the teams,although all sub-teams are working towards the same short and long term goals. 
 
 ---
 
@@ -23,17 +27,36 @@ We are now accepting applications for all sub-teams from August 25th to Septembe
 
 # Subteams
 
-## Chemistry
-Fermentation is an incredibly important biological process. It is used in the production of penicillin, wine, kombucha, and of course, beer! Yeast is a facultative anaerobe meaning that it can two different metabolic pathways. The aerobic pathway uses oxygen to produce water and carbon dioxide. The anaerobic pathway uses sugars broken down from the mashing process to produce ethanol and carbon dioxide. Hops is added for flavor. Each strain of hops has its own characteristics such as alpha acids and flavor profile. A mixture of hops makes up the flavor in each distinct beer type. This team researches the reaction kinetics in the fermenter as well as makes the recipes for the beer (and soon kombucha) we brew! This team is also responsible for testing key characteristics of the beer such as bitterness, alcohol by volume, turbidity, and the standard reference model (or color) of the beer. 
+## Brewing Team
+The brewing team is responsible for designing the brews, maintaining the equipment, and brewing the beer. Everything must run smoothly for efficiency and the good quality of the product, as this process gets very complicated. The team uses the theory taught in CHBE courses (such as CHBE 220/221) to develop a bench scale brewery, develop methods to optimize the brewing process by analyzing products and intermediates during fermentation and create new recipes through research and determine the conditions needed for consistent product quality. 
 
-## Software
-In a large factory everything in controlled in a central control room so why not apply the same for a home brewery? This team takes the data that is read from the temperature sensors and sends it to Amazon Web Services where the data is processed and sent to a web app viewable on desktop or mobile. This data can be put into a graph to track temperature profiles or the acidity can be used predict the final SRM. 
+For the brewing team, the objective is to simulate a project in industry and to introduce fluid transfer, real pumps, electronics, and unit operations. These are essential for any chemical or mechanical engineer when working in industry
 
-## Instrumentation
-Custom instrumentation is built to read temperature and acidity. We are developing a way to read the SRM (or color) of the beer using a Raspberry Pi camera. Taking the input variables allows us to use them in machine learning algorithms later custom built for our brewing system. Many companies are entirely built around building and designing custom brewing instrumentation. A refrigeration system is used to chill the beer to desired temperatures in a food safe manner. Our next step is using the temperature readings to control the refrigeration system. 
+## Instrumentation Team
+The instrumentation team is responsible for programming temperature, pH, CO2, density and dissolved oxygen sensors to collect the data during the fermentation. The team also builds and designs analytical equipment to monitor and control the brewing process variables and builds upon a web app that allows a user to see key fermentation parameters in real-time and warn users about outliers.
 
-## Machine Learning
-Process data is incredibly difficult to analyze and predict. There are many unpredictable variables that can only be analyzed in a computer. Running machine learning algorithms to predict output variables will allow us to predict and create beer tailored to whatever the brewer desires. We are currently partnering with a local brewery to analyze key process variables for our machine learning algorithms. 
+The instrumentation team will have goals more specific to electrical/computer and chemical engineering in the process control area. This means that they must understand how the programming/process control interface works, essential process control theory, and data collection through probes. 
+
+
+## Laboratory Team
+The lab team is responsible for testing the final product for quality control as a simulation of real world quality control processes. The team creates data clusters to develop models for brewing process data and uses laboratory equipment to test properties beyond the instrumentation team’s abilities. 
+
+The laboratory team is specific to anyone with interest in data analysis and it has the goal of improving students’ computational method and statistics skills through real data utilization. They will also focus on developing lab procedures, creating and updating Standard Operating Procedures and ensuring that the product is on par, or better with BC's standard for fermented beverages.
+
+# Current Projects
+## Brewing:
+### Sustainable Brewing: Algae Beer 
+### Yeast Recovery and Repitching
+### Water Analysis: Additive Chemistry
+
+## Instrumentation:
+### Process Automation: Developing a Programmable Logic Controller (PLC) 
+### Data Collection: Raspberry Pi and Arduino coding
+
+## Laboratory: 
+### Genetic Modification of Yeast: Glow-in-the-dark Beer
+### Protein Beer
+### Variable Measurement: IBU and SRM
 
 # Like Brewing? 
 If you have any questions or want to talk about beer feel free to contact biot@ubcenvision.com
