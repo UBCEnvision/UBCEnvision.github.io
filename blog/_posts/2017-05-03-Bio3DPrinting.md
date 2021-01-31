@@ -1,8 +1,8 @@
 ---
-layout: news
+layout: post
 title:  "Printing the Future of Therapeutics in 3D, International Research Roundtable."
 date:   2017-05-03
-featured: "/assets/images/news/Bio3DPrinting.jpg"
+author: "UBC Envision"
 ---
 ### Printing life's building blocks.
 The University of British Columbia and the award-winning bioprinting company Aspect Biosystems successfully co-organized the first “Printing the Future of Therapeutics in 3D” International Research Roundtable. 

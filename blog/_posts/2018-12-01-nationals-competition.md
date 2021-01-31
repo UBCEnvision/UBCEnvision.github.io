@@ -1,11 +1,9 @@
 ---
-layout: news
+layout: post
 title: "UBC wins first place in Chem-E-Car Poster Competiton 2018"
 date: 2018-12-01
-featured: /assets/images/news/Poster_1.jpg
+author: "UBC Envision"
 ---
-
-### UBC wins first place in Chem-E-Car Poster Competiton 2018
 
 From September 26<sup>th</sup> to 31<sup>st</sup>, the American Institute of Chemical Engineering hosted the Chem-E-Car National Competition in Pittsburgh, PA. The Chem-E-Car Competition consists of two components. The first component is the design competition, where the goal is to have a shoebox-sized car travel a target distance while carrying a given load of water. The car must be powered by a power source that is created entirely by the team. To control the distance that the car moves, the team must implement a chemical reaction stopping mechanism. The second component of Chem-E-Car is the poster competition, where the goal is to impress the adjudicators with a well-organized, descriptive and attractive poster presentation about the car.
 

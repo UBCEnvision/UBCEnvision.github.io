@@ -1,11 +1,9 @@
 ---
-layout: news
+layout: post
 title: "Preparing for the upcoming year"
 date: 2019-08-29
-featured: \assets\images\banner.jpg
+author: "UBC Envision"
 ---
-
-### Preparing for the upcoming year
 
 With a collection of great ideas in mind, UBC Envision worked hard all summer in planning the upcoming academic year. The new admin team held general meetings every two weeks to ensure that everything ran smoothly and is on the right track for the fruitful year ahead.
 
