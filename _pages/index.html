@@ -17,25 +17,25 @@ permalink: /
 			<li><a href="/blog/" class="button big wide special smooth-scroll-middle">Read Our Blog</a></li>
 		</ul>
 	</div>
-	{% assign news = site.categories.news | first %}
+	{% assign blog = site.categories.blog | first %}
 	<div class="image">
-		<a href="{{ news.url}}">
+		<a href="{{ blog.url}}">
 			<div class="image-overlay">
 		      	<div class="news-header">
 		      		<img class="header-embed" alt="envision" src="/assets/images/envision.png">
 		     		<h1>
-		     			<span class="header-date"><i>Latest News</i> | {{ news.date | date_to_long_string}}</span><br>
-		     			<span class="header-title"><span class="icon fa-arrow-right"></span> {{ news.title }}</span>
+		     			<span class="header-date"><i>Latest News</i> | {{ blog.date | date_to_long_string}}</span><br>
+		     			<span class="header-title"><span class="icon fa-arrow-right"></span> {{ blog.title }}</span>
 		     		</h1>
 		     	</div>	
 			</div>
 		</a>
-		{% if news.featured %}
-			{% assign banner = news.featured %}
+		{% if blog.featured %}
+			{% assign banner = blog.featured %}
 		{% else %}
 			{% assign banner = "/assets/images/banner.jpg" %}
 		{% endif %}
-		<img alt="UBC Envision News" src="{{ banner }}" class="envision-banner"/>
+		<img alt="UBC Envision blog" src="{{ banner }}" class="envision-banner"/>
 	</div>
 </section>
 
@@ -77,16 +77,16 @@ permalink: /
 	</div>
 </section>
 
-<section class="wrapper style1 color5 invert" id="news">
+<section class="wrapper style1 color5 invert" id="blog">
 	<div class="inner align-left">
 		<header>
 			<!-- <h1>Latest Updates</h1> -->
-			<h2><a href="/news/"><span class="fa fa-newspaper-o"></span> News Center</a></h2>
+			<h2><a href="/blog/"><span class="fa fa-blogpaper-o"></span> News Center</a></h2>
 		</header>
 		<h4 class="major">We send our best members to many different competitions, conferences and on-campus events every year to learn, compete and network, bringing valuable experience and ideas back to the team.</h4>
 		<p class="align-left">Find out more about our projects and achievements:</p>
 		<div class="index align-left onload-content-fade-right">
-		{% for post in site.categories.news limit:3 %}
+		{% for post in site.categories.blog limit:3 %}
 		<section>
 			<header>
 				<h3>{{ post.date | date_to_long_string }}</h3>
@@ -99,7 +99,7 @@ permalink: /
 		{% endfor %}
 		</div>
 		<div class="content-align-right">
-			<p><a href="/news/" class="button">See All Articles</a></p>
+			<p><a href="/blog/" class="button">See All Articles</a></p>
 		</div>
 	</div>
 </section>
@@ -204,7 +204,7 @@ permalink: /
 		<p class="major">Transforming engineering education.</p>
 		<p>We are extremely passionate about <b>technology, innovation and engineering education</b>. UBC Envision members have been actively consulting with CHBE faculty members to design and implement projects that will improve the education and learning experience of UBC engineering students. These projects include: </p>
 		<ul class="actions horizontal">
-			<li><a href="https://apsc.ubc.ca/news/2017/11/open-education-stories-creating-and-reusing-problems-using-oer" target="_blank" class="button">Open Chem-E</a></li>
+			<li><a href="https://apsc.ubc.ca/blog/2017/11/open-education-stories-creating-and-reusing-problems-using-oer" target="_blank" class="button">Open Chem-E</a></li>
 			<li><a href="http://www.innovationonboard.ca" target="_blank" class="button">Innovation OnBoard</a></li>
 		</ul>
 	</div>

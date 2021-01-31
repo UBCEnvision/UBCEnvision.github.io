@@ -1,8 +1,8 @@
 ---
-layout: news
+layout: post
 title:  "Envision Sister Chapter: Polytechnic University of Catalonia"
 date:   2018-02-20
-featured: "/assets/images/news/UPCnews.jpg"
+author: "UBC Envision"
 ---
 ### Hola, amigos!
 We are happy to announce that we are officially AIChE Sister Chapters with the [Polytechnic University of Catalonia (UPC)](https://bcn-aiche.upc.edu/en/about-us "UPC AIChE Student Chapter")! 

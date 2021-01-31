@@ -11,11 +11,11 @@ In 2015, we've received an explosion in interest and membership in our team due 
 
 The former UBC Chem-E-Car team is now part of UBC Envision, an umbrella organization for all our projects. This new name that reflects the breadth and diversity of our team.
 
-Check out our blog and news page to see what we are working on:
+Check out our blog page to see what we are working on:
 
 <ul class="actions">
 	<li><a href="/blog/" class="button medium wide">Blog</a></li>
-	<li><a href="/news/" class="button medium wide">News</a></li>
+	<!-- <li><a href="/news/" class="button medium wide">News</a></li> -->
 </ul>
 
 ## Team
