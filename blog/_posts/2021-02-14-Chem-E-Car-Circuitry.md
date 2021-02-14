@@ -15,7 +15,7 @@ The team began by working through arduino tutorials to give them the basic build
 <center>Figure 1: First Practice Problem Circuit.</center>
 <br/>
 
-## Online Circuit building and Coding
+## Online Circuit Building and Coding
 
 Using the online arduino board building and coding website TINKERCAD, the team went through a variety of different practice problems to put the lessons from the online tutorials into practice. The first problem was simply trying to get an LED light to turn on and off, and another was attempting to have a motor spin in two directions. These problems grew more complex until the team was ready for a term final project. This was to code a working Simon Says game, a memory testing game where LED lights blink in a pattern and a user must repeat the pattern back using buttons. This required the team members using all of the knowledge they had learnt throughout the term. 
 
