@@ -2,7 +2,7 @@
 layout: post
 title: "Chem-E-Car Laboratory Subteam Updates "
 date: "2021-02-14"
-author: ["Akshi Valji","Noor Ali-Mhamad","Bhavya Nagda","Siddhant Sharma","Abhay Sirsi","Stephanie Hasjim","Meghan Cooke","Veronika Zenova"]
+author: ["Akshi Valji","Noor Ali-Mohamad","Bhavya Nagda","Siddhant Sharma","Abhay Sirsi","Stephanie Hasjim","Meghan Cooke","Veronika Zenova"]
 ---
 
 Throughout the first semester, our laboratory subteam has been hard at work at developing technical memos and completing research about potential reactions to use in future Chem-E-Cars. Below is a summary of the research and work they have completed throughout the term. 
