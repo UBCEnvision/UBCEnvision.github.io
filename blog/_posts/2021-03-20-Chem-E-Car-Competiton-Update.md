@@ -17,7 +17,7 @@ UBC Participated with two posters, the Lightning McCHBE Car and The Jeff Car. Th
 ![Chem-E-Car-Comp-Update1](/assets/images/blog/Chem-E-Car-Mar20-Competiton-Update-Images/image2.jpg)
 <center>UBC Lightning McCHBE Poster</center>
 <br/>
-![Chem-E-Car-Comp-Update-2](/assets/images/blog/Chem-E-Car-Mar20-Competiton-Update-Images/image2.jpg)
+![Chem-E-Car-Comp-Update-2](/assets/images/blog/Chem-E-Car-Mar20-Competiton-Update-Images/image1.jpg)
 <center>UBC The Jeff Poster</center>
 <br/>
 
