@@ -4,7 +4,7 @@ name: Bhavya Nagda
 project: chemecar
 title: Webmaster
 status: lead
-img: /assets/images/members/default.png
+img: /assets/images/members/BhavyaN.jpg
 email: bhavyanagda47@gmail.com
 weight: 6
 biography: Hello everyone! I am the new webmaster!
