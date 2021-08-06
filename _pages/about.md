@@ -7,7 +7,7 @@ permalink: /about/
 ## The UBC Envision Story
 UBC Envision is the AIChE student chapter of the University of British Columbia. We started off as the UBC Chem-E-Car team, averaging around 5-10 members annually for many years. 
 
-In 2015, we've received an explosion in interest and membership in our team due to stronger recruitment efforts and outreach activities. In 2016, we received a very generous donation from the Daniel Family Foundation, allowing us to expand our activities and provide more opportunities to UBC students. With significant help from the Department of Chemical and Biological Engineering and CHBE faculty members, we established the junior Chem-E-Car team and initiated three new projects: flow cell, beer brewing and biofuels. 
+In 2015, we've received an explosion in interest and membership in our team due to stronger recruitment efforts and outreach activities. In 2016, we received a very generous donation from the Daniel Family Foundation, allowing us to expand our activities and provide more opportunities to UBC students. With significant help from the Department of Chemical and Biological Engineering and CHBE faculty members, we established the junior Chem-E-Car team and initiated three new projects: flow cell, beer brewing and biofuels. In 2020/2021, the pandemic meant that we had pivot our work online. We are pleased to report that moving virtually did not impede our process of expanding our project to including even more members!
 
 The former UBC Chem-E-Car team is now part of UBC Envision, an umbrella organization for all our projects. This new name that reflects the breadth and diversity of our team.
 
@@ -41,7 +41,7 @@ Here's what you can expect by joining Envision:
 </ul>
 
 ## Projects
-We have several active projects for 2019-2020: Chem-E-Car, Algae Biofuels, and BIoT. Click below to find more information about what we are working on:
+We have several active projects for 2021-2022: Chem-E-Car, Algae Biofuels, and BIoT. Click below to find more information about what we are working on:
 
 <ul class="actions">
 	<li><a href="/projects/" class="button medium wide">Projects</a></li>
