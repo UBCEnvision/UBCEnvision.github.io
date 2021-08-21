@@ -4,9 +4,11 @@ title: Recruitment
 permalink: /recruitment/
 ---
 
-Welcome to our recruitment page for 2020/2021! You can find a timeline of our important deadlines and application forms here.  
+Welcome to our recruitment page for 2021/2022! You can find a timeline of our important deadlines and application forms here.  
 
-The applications for the 2020/2021 year are open for certain projects! Check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! Feel free to explore Envision and its projects, or email us at [contact@ubcenvision.com](mailto:contact@ubcenvision.com) for any enquiries.
+The applications for the 2021/2022 year are open for certain projects! Check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! Feel free to explore Envision and its projects, or email us at [contact@ubcenvision.com](mailto:contact@ubcenvision.com) for any enquiries.
+
+Applications are open from August 21 to September 12, and projects will be having info sessions on September 8 and 9
 
 <!--
 ## Recruitment Timeline
