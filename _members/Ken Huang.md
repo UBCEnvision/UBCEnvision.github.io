@@ -1,13 +1,11 @@
 ---
 layout: member
 name: Ken Huang
-project: BioT
-title: BioT Co-Lead
+title: Vice President
 img: /assets/images/members/ken_huang.png
 status: lead
-email: biot@ubcenvision.com
-weight: 7
+weight: 3
 biography: >
-    Ken Huang is a third year Chemical Engineering student in the biological stream. He is the financial officer and brew team lead of BioT (Brewing Internet of Things). He joined BioT’s the fermentation/brewing team in his second year and is currently leading the three brewing team projects, as well as outreach and finance. He is aiming to develop more efficient and sustainable technologies to help other people to further achieve his professional, personal and academic goals.  Ken enjoys volunteering and playing the harmonica in his spare time.
+    Ken Huang finished his third year Chemical Engineering in the biological stream and he is currently on Co-Op. He is now the Vice President of UBC Envision after two years of leadership and project experience on BioT. His personal and professional goal is to help more people by developing more sustainable technologies to produce cleaner water, more efficient fuels and superior medicine. Ken also enjoys playing the harmonica and exploring local breweries in his spare time.
 linkedin: https://www.linkedin.com/in/honghuang99/
 ---

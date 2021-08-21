@@ -18,12 +18,12 @@ box: >
 
 # 2020/2021 Recruitment
 
+<!--
 Closed for the year!
 Contact [biot@ubcenvision.com](mailto:biot@ubcenvision.com) if you have any questions!
-
-<!--
-We are now accepting applications for all sub-teams from August 25th to September 14th 2020. You can check out our recruitment page [here](/recruitment/#BIOT).
 -->
+
+Applications will be open from August 21st to September 12th. To learn more, we will host information sessions on September 8th and 9th, stay tuned for more details! Please feel free to follow us on [Instagram](https://www.instagram.com/ubcbiot/) or [Facebook](https://www.facebook.com/biotubcc/) for recruitment updates, and contact us via email [biot@ubcenvision.com](mailto:biot@ubcenvision.com) if you have any other questions.
 
 # Subteams
 
@@ -46,17 +46,32 @@ The laboratory team is specific to anyone with interest in data analysis and it 
 # Current Projects
 ## Brewing:
 ### Sustainable Brewing: Algae Beer 
+ Bringing more awareness to climate change and encouraging more sustainable and environmentally friendly technologies, potential collaboration with Young Henry’s Brewery and the Deep Green Biotech Hub (DGBH) from University of Technology Sydney.
 ### Yeast Recovery and Repitching
+Optimizing brewing efficiency and cost
 ### Water Analysis: Additive Chemistry
+Developing new recipes
 
 ## Instrumentation:
 ### Process Automation: Developing a Programmable Logic Controller (PLC) 
-### Data Collection: Raspberry Pi and Arduino coding
+Developing a Programmable Logic Controller (PLC), with a user interface capable of displaying data from pumps, fermenters and tanks.
+### Data Collection: 
+Raspberry Pi and Arduino coding, Integration of brew lab code with current BIoT needs.
+
 
 ## Laboratory: 
-### Genetic Modification of Yeast: Glow-in-the-dark Beer
-### Protein Beer
-### Variable Measurement: IBU and SRM
+### Genetic Modification of Yeast:
+Glow-in-the-dark Beer, practice knowledge from bioprocessing and technical writing skills
 
-# Like Brewing? 
-If you have any questions or want to talk about beer feel free to contact biot@ubcenvision.com
+### Protein Beer:
+For educational purposes of unique brewing controls.
+
+### Variable Measurement:
+IBU and SRM, practicing the development of SOPs
+
+# Contact Us 
+Please feel free to contact us if you have any questions or have chat about beer
+
+Email: biot@ubcenvision.com
+Instagram: [UBC BioT (@ubcbiot)](https://www.instagram.com/ubcbiot/)
+Facebook: [UBC BioT | Facebook](https://www.facebook.com/biotubcc/)
