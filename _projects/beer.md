@@ -16,7 +16,7 @@ box: >
 
 ---
 
-# 2020/2021 Recruitment
+# 2021/2022 Recruitment
 
 Closed for the year!
 Contact [biot@ubcenvision.com](mailto:biot@ubcenvision.com) if you have any questions!
