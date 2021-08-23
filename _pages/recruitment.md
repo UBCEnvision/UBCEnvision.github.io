@@ -155,3 +155,10 @@ Click [here](/greenjoule/) to learn more about _Green Joule_!
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_2hj52S3Wbl9ztc1" class="button medium wide">APPLY TO GREEN JOULE</a></li>
 </ul>
 -->
+
+<a name="CRIT"></a>
+<div align="center"><img src="/assets/images/CosmeticProjectLogo1.png" alt="critlogo" width="20%" height="auto"></div>
+ 
+  UBC CRIT (cosmetic research and innovation team) is looking to recruit students interested in the cosmetic industry for the 2021-2022 school year. We will be researching Vitamin C and its stability and hopefully presenting at the UBC Multidisciplinary Undergraduate Research Conference. Join 2 skincare-obsessed co-captains and pick up some tips on how to take care of your largest organ
+
+Click [here](/CRIT/) to learn more about _CRIT_!
