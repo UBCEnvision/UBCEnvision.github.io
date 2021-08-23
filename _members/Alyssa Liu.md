@@ -5,8 +5,8 @@ project:
 title: Social Media Chair
 img: /assets/images/members/Alyssa.png
 email:
-status: lead
-weight: 4
+status: alumni
+year: 2021
 biography: >
 linkedin:
 ---

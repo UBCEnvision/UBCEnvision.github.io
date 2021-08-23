@@ -11,14 +11,17 @@ box: >
   The algae project began at UBC in 2016 as a research project, which focused on the design of a cost-efficient photobioreactor using bioluminescent algae strains. Since the summer of 2017, the focus shifted to the growth and extraction processes; we wanted to combine the different uses of microalgae to maximize production. Algae is one of many feedstocks used to produce biofuels from biomass, as well as a medium used for wastewater treatment to reduce the nitrogen content in secondary effluents. Currently, two types of biofuels can be extracted from algae; biodiesel and bioethanol. Cytosolic lipid bodies contain substantial amounts of triacylglycerides (TAG), which can then be processed into biodiesel via transesterification. Monomeric sugars from carbohydrates can be fermented into bioethanol. Our project aims to combine all three usages of microalgae (reduction of nitrogen content in wastewater, production of biodiesel, and production of bioethanol) into one process. This way, we offset the production cost of algae biofuels by maximizing the products.
 ---
 
-# 2020/2021 Recruitment
-
-Closed for the year!
-Contact [greenjoule@ubcenvision.com](mailto:greenjoule@ubcenvision.com) if you have any questions!
+# 2021/2022 Recruitment
 
 <!-- 
-We are currently accepting applications from September 1st to September 14th 2020. You can check out our recruitment page [here](/recruitment/#GreenJoule).
+Closed for the year!
+Contact [greenjoule@ubcenvision.com](mailto:greenjoule@ubcenvision.com) if you have any questions!
 -->
+
+Green Joule is excited to be recruiting members to all their sub-teams for the 2021-2022 school year! Please read the four sub-team descriptions to see which one you may be interested in applying to. We are open to all science and engineering disciplines and levels of experience. As a member of the team, you will be developing technical and interpersonal skills within a team-oriented environment. We look forward to exploring the potential of algal biofuels with you!
+
+[Apply here!](https://ubc.ca1.qualtrics.com/jfe/form/SV_2hj52S3Wbl9ztc1)
+
 
 # Subteams
 
