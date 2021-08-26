@@ -2,7 +2,7 @@
 layout: member
 name: Vinh Vu
 title: Cosmetic Research and Innovation Team Co-Captain
-img: /assets/images/members/default.png
+img: /assets/images/members/Vinh Vu.jpg
 status: lead
 weight: 12
 email: vinhv.vu01@gmail.com
