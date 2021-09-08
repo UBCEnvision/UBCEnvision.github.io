@@ -12,7 +12,7 @@ Applications are open from August 21 to September 12, and projects will be havin
 
 ## Info Sessions
 
-We will be hosting info sessions on September 8th and 9th. The sessions can be attended in-person or on zoom. Feel free to ettend either way!
+We will be hosting info sessions on September 8th and 9th. The sessions can be attended in-person or on zoom. Feel free to attend either way!
 
 Sep 8, 2021 06:30 PM Pacific Time  
 Zoom: [https://us02web.zoom.us/j/85310485983?pwd=RE1LYlhmQWxwUHZsSUlHVXpXYWhjdz09](https://us02web.zoom.us/j/85310485983?pwd=RE1LYlhmQWxwUHZsSUlHVXpXYWhjdz09)  
