@@ -10,6 +10,31 @@ The applications for the 2021/2022 year are open for certain projects! Check our
 
 Applications are open from August 21 to September 12, and projects will be having info sessions on September 8 and 9
 
+## Info Sessions
+
+Sep 8, 2021 06:30 PM Pacific Time 
+Zoom: [https://us02web.zoom.us/j/85310485983?pwd=RE1LYlhmQWxwUHZsSUlHVXpXYWhjdz09](https://us02web.zoom.us/j/85310485983?pwd=RE1LYlhmQWxwUHZsSUlHVXpXYWhjdz09)
+Meeting ID: 853 1048 5983
+Passcode: 152080
+Room Location: CHBE 101
+
+Sep 9, 2021 07:00 PM Pacific Time 
+Zoom: [https://us02web.zoom.us/j/82537346772?pwd=dWhRWmkyTlVjTlEvaFQ1YnAvRVFNUT09](https://us02web.zoom.us/j/82537346772?pwd=dWhRWmkyTlVjTlEvaFQ1YnAvRVFNUT09)
+Meeting ID: 825 3734 6772
+Passcode: 101179
+Room Location: CHBE 102
+
+Sep 14, 2021 06:00 PM Pacific Time 
+Room Location: CHBE 102
+
+Sep 15, 2021 06:00 PM Pacific Time 
+Room Location: CHBE 102
+
+Sep 19, 2021 10:00 AM Pacific Time 
+Room Location: CHBE 103
+
+
+
 <!--
 ## Recruitment Timeline
 
