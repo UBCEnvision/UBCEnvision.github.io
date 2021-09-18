@@ -6,7 +6,9 @@ permalink: /recruitment/
 
 Welcome to our recruitment page for 2021/2022! You can find a timeline of our important deadlines and application forms here.  
 
-The applications for the 2021/2022 year are open for certain projects! Check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! Feel free to explore Envision and its projects, or email us at [contact@ubcenvision.com](mailto:contact@ubcenvision.com) for any enquiries.
+The applications for the 2021/2022 year are currently closed! Check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! Feel free to explore Envision and its projects, or email us at [contact@ubcenvision.com](mailto:contact@ubcenvision.com) for any enquiries.
+
+<!--
 
 Applications are open from August 21 to September 12, and projects will be having info sessions on September 8 and 9
 
@@ -25,6 +27,7 @@ Zoom: [https://us02web.zoom.us/j/82537346772?pwd=dWhRWmkyTlVjTlEvaFQ1YnAvRVFNUT0
 Meeting ID: 825 3734 6772  
 Passcode: 101179  
 Room Location: CHBE 102
+-->
 
 <!--
 ## Recruitment Timeline
@@ -141,7 +144,7 @@ Click [here](http://www.ubcenvision.com/agrobot/) to learn more about _AgroBot_!
 <a name="BIOT"></a>
 <div align="center"><img src="/assets/images/recruitment/biot.png" alt="biotlogo" width="20%" height="auto"></div>
  
-  Do you have a passion for the Chemical Arts? More importantly, do you like beer? UBC Envision BioT is recruiting now for all sub-teams: brewing, instrumentation and laboratory teams.
+  Do you have a passion for the Chemical Arts? More importantly, do you like beer? UBC Envision BioT recruits for sub-teams: brewing, instrumentation and laboratory teams.
 
   Our focus is to develop craft brewing technologies and to create an automated brewing system with the ability to monitor and control process variables such as temperature and acidity in real-time. We make efforts to design and implement low-cost data monitoring and have our innovative techniques and advanced technology be applied to actual breweries to brew the perfect beer through various projects.
 
@@ -159,7 +162,7 @@ Click [here](/beer/) to learn more about _BIoT_!
 <a name="GreenJoule"></a>
 <div align="center"><img src= "/assets/images/recruitment/greenjoule.png" alt="greenjoulelogo" width= "20%" left = "50%" height= "auto"></div>
       
-  Established in the summer of 2017, Green Joule focuses on the growth and extraction processes of algae biofuels; we wanted to combine the different uses of microalgae to maximize production, instead of purely focusing on one deliverable of the algae cell. The project hopes to recruit fellow enthusiastic parties (such yourself, reader) to help grow the scope and ambition of the team. Currently, we have our sights set on perfecting our process in the lab while looking to incorporate genetic modification into the mix in the hopes of making the biofuel yields more abundant. Who knows where you might take the team?
+  Established in the summer of 2017, Green Joule focuses on the growth and extraction processes of algae biofuels; we wanted to combine the different uses of microalgae to maximize production, instead of purely focusing on one deliverable of the algae cell. The project hopes to recruit fellow enthusiastic parties (such as yourself, reader) to help grow the scope and ambition of the team. Currently, we have our sights set on perfecting our process in the lab while looking to incorporate genetic modification into the mix in the hopes of making the biofuel yields more abundant. Who knows where you might take the team?
 
 Click [here](/greenjoule/) to learn more about _Green Joule_!
 
@@ -175,6 +178,6 @@ Click [here](/greenjoule/) to learn more about _Green Joule_!
 <a name="CRIT"></a>
 <div align="center"><img src="/assets/images/CosmeticProjectLogo1.png" alt="critlogo" width="20%" height="auto"></div>
  
-  UBC CRIT (cosmetic research and innovation team) is looking to recruit students interested in the cosmetic industry for the 2021-2022 school year. We will be researching Vitamin C and its stability and hopefully presenting at the UBC Multidisciplinary Undergraduate Research Conference. Join 2 skincare-obsessed co-captains and pick up some tips on how to take care of your largest organ
+  UBC CRIT (Cosmetic Research and Innovation Team) will be researching Vitamin C and its stability and hopefully presenting at the UBC Multidisciplinary Undergraduate Research Conference. Join 2 skincare-obsessed co-captains and pick up some tips on how to take care of your largest organ
 
 Click [here](/CRIT/) to learn more about _CRIT_!
