@@ -13,15 +13,15 @@ box: >
 
 # 2021/2022 Recruitment
 
-<!-- 
+
 Closed for the year!
 Contact [greenjoule@ubcenvision.com](mailto:greenjoule@ubcenvision.com) if you have any questions!
--->
 
+<!-- 
 Green Joule is excited to be recruiting members to all their sub-teams for the 2021-2022 school year! Please read the four sub-team descriptions to see which one you may be interested in applying to. We are open to all science and engineering disciplines and levels of experience. As a member of the team, you will be developing technical and interpersonal skills within a team-oriented environment. We look forward to exploring the potential of algal biofuels with you!
 
 [Apply here!](https://ubc.ca1.qualtrics.com/jfe/form/SV_2hj52S3Wbl9ztc1)
-
+-->
 
 # Subteams
 
