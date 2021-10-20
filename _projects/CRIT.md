@@ -14,12 +14,12 @@ box: >
 
 # 2021/2022 Recruitment
 
-<!--
-Closed for the year!
--->
 
+Closed for the year!
+
+<!--
 UBC CRIT (cosmetic research and innovation team) is looking to recruit students interested in the cosmetic industry for the 2021-2022 school year. We will be researching Vitamin C and its stability and hopefully presenting at the UBC Multidisciplinary Undergraduate Research Conference. Join 2 skincare-obsessed co-captains and pick up some tips on how to take care of your largest organ! 
 
 [Apply here!](https://forms.gle/BzmPL57PHi3cmL1t5)
-
+-->
 
