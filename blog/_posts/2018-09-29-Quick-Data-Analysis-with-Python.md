@@ -1484,4 +1484,4 @@ plt.show()
 
 ![png](/assets/images/blog/python/output_20_0.png)
 
-There are **MANY** tools I did not cover in this tutorial but this should show the basic building blocks of data analysis with Python. Here is an extensive [cheat sheet](https://www.pcwdld.com/python-cheat-sheet) from to Hitesh Jethva of PCWDLD to aid you in the learning process. Feel free to comment below in case of any questions!
+There are **MANY** tools I did not cover in this tutorial but this should show the basic building blocks of data analysis with Python. Here is an extensive [cheat sheet](https://www.pcwdld.com/python-cheat-sheet) from Hitesh Jethva of PCWDLD to aid you in the learning process. Feel free to comment below in case of any questions!
