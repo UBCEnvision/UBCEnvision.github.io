@@ -41,7 +41,7 @@ Here's what you can expect by joining Envision:
 </ul>
 
 ## Projects
-We have several active projects for 2021-2022: Chem-E-Car, Algae Biofuels, CRIT and BIoT. Click below to find more information about what we are working on:
+We have several active projects for 2022-2023: Chem-E-Car, Green Joule and BIoT. Click below to find more information about what we are working on:
 
 <ul class="actions">
 	<li><a href="/projects/" class="button medium wide">Projects</a></li>

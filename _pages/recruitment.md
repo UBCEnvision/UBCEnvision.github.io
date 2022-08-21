@@ -175,9 +175,9 @@ Click [here](/greenjoule/) to learn more about _Green Joule_!
 </ul>
 -->
 
-<a name="CRIT"></a>
+<!--<a name="CRIT"></a>
 <div align="center"><img src="/assets/images/CosmeticProjectLogo1.png" alt="critlogo" width="20%" height="auto"></div>
  
   UBC CRIT (Cosmetic Research and Innovation Team) will be researching Vitamin C and its stability and hopefully presenting at the UBC Multidisciplinary Undergraduate Research Conference. Join 2 skincare-obsessed co-captains and pick up some tips on how to take care of your largest organ
 
-Click [here](/CRIT/) to learn more about _CRIT_!
+Click [here](/CRIT/) to learn more about _CRIT_!-->
