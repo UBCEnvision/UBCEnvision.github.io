@@ -2,8 +2,8 @@
 layout: member
 name: Tessa Price
 project: Green Joule
-status: lead
-weight: 4 
+status: alumni
+year: 2022 
 title: Social Media Coordinator/Green Joule Impact Analysis 
 img: /assets/images/members/default.png
 email:

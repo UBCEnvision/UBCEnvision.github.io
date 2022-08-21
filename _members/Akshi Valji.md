@@ -2,10 +2,11 @@
 layout: member
 name: Akshi Valji
 project: chemecar
-title: Team Member
+title: Project Coordinator
 img: /assets/images/members/default.png
+status: lead
 email:
-weight: 5000
+weight: 4
 biography: >
 linkedin:
 ---
