@@ -4,9 +4,18 @@ title: Recruitment
 permalink: /recruitment/
 ---
 
-Welcome to our recruitment page for 2021/2022! You can find a timeline of our important deadlines and application forms here.  
+Welcome to our recruitment page for 2022/2023! You can find a timeline of our important deadlines and application forms here.  
 
-The applications for the 2021/2022 year are currently closed! Check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! Feel free to explore Envision and its projects, or email us at [contact@ubcenvision.com](mailto:contact@ubcenvision.com) for any enquiries.
+Envision welcomes everyone to apply to our teams: ChemECar, BioT, and Green Joule. We are excited to have you on our team whether you have previous experience or are looking to gain new hands-on skills. For more detailed information about the teams and available positions, see below and explore the projects section!
+
+The applications for the 2022/2023 year are open from August 22nd to September 14th, 2022. 
+
+Info sessions will be in-person and on Zoom: September 8th and 9th. Check back for more info!
+
+Check out our [Facebook](https://www.facebook.com/ubcenvision) and [Instagram](https://www.instagram.com/ubcenvision/) pages and leave a like for updates on projects, member activities and future registrations dates! Feel free to explore Envision and the teams, or email us at [contact@ubcenvision.com](mailto:contact@ubcenvision.com) for any enquiries.
+
+<!--The applications for the 2021/2022 year are currently closed! Check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! Feel free to explore Envision and its projects, or email us at [contact@ubcenvision.com](mailto:contact@ubcenvision.com) for any enquiries.
+-->
 
 <!--
 
@@ -89,22 +98,28 @@ Room Location: CHBE 102
 Because Envision is a student chapter under the American Institute of Chemical Engineers (AIChE), we require new applicants to either **apply for AIChE student membership** or **renew their existing AIChE student membership for 2019** before applying for Envision membership. It only takes a few minutes to sign up and it's FREE! Registration to be part of Envision teams is now open! You can find the links to the applications below. Please note that you must also apply for Envision if you plan on joining our projects.
 -->
 
-Envision, as the UBC chapter of AIChE, does not require applications for membership. Envision events are open for all UBC students and the general public to join, and we encourage you to sign up as an AIChE Member to take full advantage of professional networking and academic enrichment opportunities! If you are interested in joining an Envision project, please refer to the application links below. 
+Join our Admin Team! Applications are open for Marketing Coordinator and Web Developer. We encourage students from any program and experience level to apply!
+Are you interested in managing social media and marketing for Envision?
+Are you interested in managing the Envision website content and design?
 
-Click [here](https://www.aiche.org/community/membership/benefits) to learn more about _AIChE_!
-
+<!-->
 <ul class="actions">
 	<li><a href="https://www.aiche.org/community/membership" class="button medium wide">JOIN AIChE</a></li>
 </ul>
-
+-->
 
 <!--
 Click [here](http://www.ubcenvision.com/about/) to learn more about _Envision_!  
+-->
 
 <ul class="actions">
-	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_82idkRnBb9pWRZX" class="button medium wide">APPLY TO ENVISION</a></li>
+	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_3CqcE6lXxT84bnU" class="button medium wide">APPLY HERE</a></li>
 </ul>
--->
+
+
+Envision, as the UBC chapter of AIChE, does not require applications for membership. Envision events are open for all UBC students and the general public to join, and we encourage you to sign up as an AIChE Member to take full advantage of professional networking and academic enrichment opportunities! If you are interested in joining an Envision project, please refer to the application links below. 
+
+Click [here](https://www.aiche.org/community/membership/benefits) to learn more about _AIChE_!
 
 <br>
 
