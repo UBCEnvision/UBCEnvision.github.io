@@ -16,17 +16,17 @@ box: >
 
 ---
 
-# 2021/2022 Recruitment
+# 2022/2023 Recruitment
 
 
-Closed for the year!
+<!--Closed for the year!
 Please feel free to follow us on [Instagram](https://www.instagram.com/ubcbiot/) or [Facebook](https://www.facebook.com/biotubcc/) and contact [biot@ubcenvision.com](mailto:biot@ubcenvision.com) if you have any questions!
-
-<!--
-Applications will be open from August 21st to September 12th. To learn more, we will host information sessions on September 8th and 9th, stay tuned for more details! Please feel free to follow us on [Instagram](https://www.instagram.com/ubcbiot/) or [Facebook](https://www.facebook.com/biotubcc/) for recruitment updates, and contact us via email [biot@ubcenvision.com](mailto:biot@ubcenvision.com) if you have any other questions.
-
-[Apply here!](https://ubc.ca1.qualtrics.com/jfe/form/SV_e4e3qHw9IaUYraZ)
 -->
+Applications will be open from August 22nd to September 14th. To learn more, we will host information sessions on September 8th and 9th, stay tuned for more details! Please feel free to follow us on [Instagram](https://www.instagram.com/ubcbiot/) or [Facebook](https://www.facebook.com/biotubcc/) for recruitment updates, and contact us via email [biot@ubcenvision.com](mailto:biot@ubcenvision.com) if you have any other questions.
+
+<ul class="actions">
+	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_e4e3qHw9IaUYraZ" class="button medium wide">APPLY HERE</a></li>
+</ul>
 
 # Subteams
 
