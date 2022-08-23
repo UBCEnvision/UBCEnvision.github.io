@@ -6,8 +6,11 @@ permalink: /recruitment/
 
 Welcome to our recruitment page for 2022/2023! You can find a timeline of our important deadlines and application forms here.  
 Envision welcomes everyone to apply to our teams: ChemECar, BioT, and Green Joule. We are excited to have you on our team whether you have previous experience or are looking to gain new hands-on skills. For more detailed information about the teams and available positions, see below and explore the projects section!
+
 The applications for the 2022/2023 year are open from August 22nd to September 14th, 2022. 
+
 Info sessions will be in-person and on Zoom: September 8th and 9th. Check back for more info!
+
 Check out our [Facebook](https://www.facebook.com/ubcenvision) and [Instagram](https://www.instagram.com/ubcenvision/) pages and leave a like for updates on projects, member activities and future registrations dates! Feel free to explore Envision and the teams, or email us at [contact@ubcenvision.com](mailto:contact@ubcenvision.com) for any enquiries.
 
 <!--The applications for the 2021/2022 year are currently closed! Check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! Feel free to explore Envision and its projects, or email us at [contact@ubcenvision.com](mailto:contact@ubcenvision.com) for any enquiries.
