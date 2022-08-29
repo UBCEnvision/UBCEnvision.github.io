@@ -3,7 +3,7 @@ layout: member
 name: Akshi Valji
 project: chemecar
 title: Project Coordinator
-img: /assets/images/members/default.png
+img: /assets/images/members/Valji_Akshi.jpeg
 status: lead
 email:
 weight: 4
