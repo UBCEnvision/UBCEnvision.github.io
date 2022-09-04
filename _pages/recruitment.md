@@ -18,7 +18,7 @@ RSVP for info sessions (CHBE room 101 and online): [https://ubc.ca1.qualtrics.co
 <p>
 <b>September 8th: 6:30 pm - 8:00 pm</b><br>
 Room: CHBE Room 101<br>
-Zoom: Click [here!](https://ubc.zoom.us/j/64855783838?pwd=cWd6NGN6VG9VYlE4OEsxRCtKOVd4Zz09&fbclid=IwAR0mIJXxVJdIi_vMdfGzs4DkPzcT9TI9ZHEzxvBb5bUDw0gMSO3Q1_QAUHM#success) <br>
+Zoom: <a href="https://ubc.zoom.us/j/64855783838?pwd=cWd6NGN6VG9VYlE4OEsxRCtKOVd4Zz09&fbclid=IwAR0mIJXxVJdIi_vMdfGzs4DkPzcT9TI9ZHEzxvBb5bUDw0gMSO3Q1_QAUHM#success">'Click here!'</a> <br>
 Meeting ID: 648 5578 3838 <br>
 Passcode: 770008<br>
 </p>
@@ -26,7 +26,7 @@ Passcode: 770008<br>
 <p>
 <b>September 9th: 7:30 pm - 9:00 pm</b><br>
 Room: CHBE Room 101<br>
-Zoom: Click [here!](https://ubc.zoom.us/j/64425594639?pwd=VWI0VUg2ZThtd2ZZV0Q3YWZyb2FUUT09&fbclid=IwAR3tOyUjDKc3GAD6lOM4KPy8DuSVgKD5MogaCBGsqDxdv7MKaJCIPMzC1IE#success)<br>
+Zoom: <a href="https://ubc.zoom.us/j/64425594639?pwd=VWI0VUg2ZThtd2ZZV0Q3YWZyb2FUUT09&fbclid=IwAR3tOyUjDKc3GAD6lOM4KPy8DuSVgKD5MogaCBGsqDxdv7MKaJCIPMzC1IE#success">'Click here!'</a> <br>
 Meeting ID: 644 2559 4639<br>
 Passcode: 166026<br>
 </p>
