@@ -14,17 +14,22 @@ Apply here by September 14th!
 
 Learn more at our info sessions in-person or online! Pizza will be served in-person.
 
-RSVP for info sessions (CHBE room 101 and online): [https://ubc.ca1.qualtrics.com/jfe/form/SV_bvXmBYNQJvVY1Se] (https://ubc.ca1.qualtrics.com/jfe/form/SV_bvXmBYNQJvVY1Se)
+RSVP for info sessions (CHBE room 101 and online): [https://ubc.ca1.qualtrics.com/jfe/form/SV_bvXmBYNQJvVY1Se](https://ubc.ca1.qualtrics.com/jfe/form/SV_bvXmBYNQJvVY1Se)
+<p>
+<b>September 8th: 6:30 pm - 8:00 pm</b><br>
+Room: CHBE Room 101<br>
+Zoom: Click [here!](https://ubc.zoom.us/j/64855783838?pwd=cWd6NGN6VG9VYlE4OEsxRCtKOVd4Zz09&fbclid=IwAR0mIJXxVJdIi_vMdfGzs4DkPzcT9TI9ZHEzxvBb5bUDw0gMSO3Q1_QAUHM#success) <br>
+Meeting ID: 648 5578 3838 <br>
+Passcode: 770008<br>
+</p>
 
-September 8th: 6:30 - 8:00 pm (CHBE Room 101)
-Zoom: Click [here!](https://ubc.zoom.us/j/64855783838?pwd=cWd6NGN6VG9VYlE4OEsxRCtKOVd4Zz09&fbclid=IwAR0mIJXxVJdIi_vMdfGzs4DkPzcT9TI9ZHEzxvBb5bUDw0gMSO3Q1_QAUHM#success) 
-Meeting ID: 648 5578 3838 
-Passcode: 770008
-
-September 9th: 7:30 - 9:00 pm (CHBE Room 101) 
-Zoom: Click [here!](https://ubc.zoom.us/j/64425594639?pwd=VWI0VUg2ZThtd2ZZV0Q3YWZyb2FUUT09&fbclid=IwAR3tOyUjDKc3GAD6lOM4KPy8DuSVgKD5MogaCBGsqDxdv7MKaJCIPMzC1IE#success)
-Meeting ID: 644 2559 4639 
-Passcode: 166026
+<p>
+<b>September 9th: 7:30 pm - 9:00 pm</b><br>
+Room: CHBE Room 101<br>
+Zoom: Click [here!](https://ubc.zoom.us/j/64425594639?pwd=VWI0VUg2ZThtd2ZZV0Q3YWZyb2FUUT09&fbclid=IwAR3tOyUjDKc3GAD6lOM4KPy8DuSVgKD5MogaCBGsqDxdv7MKaJCIPMzC1IE#success)<br>
+Meeting ID: 644 2559 4639<br>
+Passcode: 166026<br>
+</p>
 
 <!--The applications for the 2021/2022 year are currently closed! Check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! Feel free to explore Envision and its projects, or email us at [contact@ubcenvision.com](mailto:contact@ubcenvision.com) for any enquiries.
 -->
