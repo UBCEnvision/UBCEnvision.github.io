@@ -14,7 +14,7 @@ Apply here by September 14th!
 
 Learn more at our info sessions in-person or online! Pizza will be served in-person.
 
-RSVP for info sessions (CHBE room 101 and online): [https://ubc.ca1.qualtrics.com/jfe/form/SV_bvXmBYNQJvVY1Se] (https://ubc.ca1.qualtrics.com/jfe/form/SV_bvXmBYNQJvVY1Se?fbclid=IwAR1kM24OaDL_fOpsR83l7DFgxFsJ4ka9vUp72cG-FSaCxwf2IXcshlVLWOo)
+RSVP for info sessions (CHBE room 101 and online): [https://ubc.ca1.qualtrics.com/jfe/form/SV_bvXmBYNQJvVY1Se] (https://ubc.ca1.qualtrics.com/jfe/form/SV_bvXmBYNQJvVY1Se)
 
 September 8th: 6:30 - 8:00 pm (CHBE Room 101)
 Zoom: Click [here!] (https://ubc.zoom.us/j/64855783838?pwd=cWd6NGN6VG9VYlE4OEsxRCtKOVd4Zz09&fbclid=IwAR2I5o0F-I-iFlhdLKw1UZf1uQF0KV1Iyin_Mg7QFR6hLU4NM7giD4W-yHw#success)
