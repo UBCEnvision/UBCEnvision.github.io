@@ -14,11 +14,12 @@ box: >
 # 2022/2023 Recruitment
 
 
-Chem-E-Car is excited to recruit applicants from different engineering backgrounds for all sub-teams for the upcoming school year! As a member of the team, you will gain valuable technical and interpersonal skills by working on fun projects that challenge you in new ways beyond the classroom. We highly encourage students with any level of experience to apply. Being on the team means you have plenty of opportunities for peer mentorship and working with team members with various skills!
+Closed for the year! Feel free to contact us via email [chemecar@ubcenvision.com](mailto:chemecar@ubcenvision.com) for any inquiries, and follow us on [Instagram](https://www.instagram.com/ubcchemecar/). 
+<!--Chem-E-Car is excited to recruit applicants from different engineering backgrounds for all sub-teams for the upcoming school year! As a member of the team, you will gain valuable technical and interpersonal skills by working on fun projects that challenge you in new ways beyond the classroom. We highly encourage students with any level of experience to apply. Being on the team means you have plenty of opportunities for peer mentorship and working with team members with various skills!
 - Applications will open on August 22nd - The application link will be on the [Chem-E-Car website](https://www.ubcchemecar.com/).
 - To learn more and to connect with us at info sessions, follow us on [Instagram](https://www.instagram.com/ubcchemecar/). 
 - Feel free to contact us via email [chemecar@ubcenvision.com](mailto:chemecar@ubcenvision.com) for any inquiries about the team!
-
+-->
 <!--
 Chem-E-Car is excited to recruit applicants to all sub-teams for the 2021-2022 school year! As a member of the team, you will gain valuable technical and interpersonal skills by working on fun projects that challenge you in new ways beyond the classroom. We highly encourage students with any level of experience to apply. Being on the team means you have plenty of opportunities for peer mentorship and working with team members with various skill sets!
 
