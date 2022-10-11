@@ -2,7 +2,7 @@
 layout: member
 name: Ken Huang
 title: Vice President
-img: /assets/images/members/ken_huang.png
+img: /assets/images/members/Ken Huang.jpg
 email: vicepresident@ubcenvision.com
 status: lead
 weight: 2

@@ -3,7 +3,7 @@ layout: member
 name: Keagan Read
 project: BioT
 title: Vice President
-img: /assets/images/members/Keagan.png
+img: /assets/images/members/Keagan Read.jpg
 status: lead
 weight: 3
 email: biot@ubcenvision.com
