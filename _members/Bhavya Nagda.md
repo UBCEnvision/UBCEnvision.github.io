@@ -5,8 +5,9 @@ project: chemecar
 title: Webmaster
 status: lead
 img: /assets/images/members/BhavyaN.jpg
-email: bhavyanagda47@gmail.com
+email: bnagda47@student.ubc.ca
 weight: 5
-biography: Hello everyone! I am the new webmaster!
-linkedin: https://www.linkedin.com/in/bhavya-nagda-4314451b2/
+biography: >
+    Bhavya Nagda is a third year chemical and biological engineering student. He is the current Webmaster of Envision. Bhavya also has 3 years of experience with Chem-E-Car. He is very interested in sustainability projects and innovating for a better future. Feel free to reach out to talk about UBC, CHBE, Co-op or just life in general! 
+linkedin: https://www.linkedin.com/in/bhavya-nagda/
 ---
