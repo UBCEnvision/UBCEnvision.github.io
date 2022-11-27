@@ -2,7 +2,7 @@
 layout: member
 name: Ryan Parissay
 project: BioT
-title: Marketing
+title: Marketing Coordinator
 img: /assets/images/members/Ryan Parissay.jpg
 email:
 weight: 
