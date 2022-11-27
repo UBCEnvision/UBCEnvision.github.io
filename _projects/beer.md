@@ -1,7 +1,7 @@
 ---
 layout: project
 project: BioT
-title: BioT
+title: Brewing Internet of Things (BIoT)
 image: /assets/images/BeerChemistry.jpg
 permalink: /beer/
 
