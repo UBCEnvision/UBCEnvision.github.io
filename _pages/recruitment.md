@@ -4,7 +4,7 @@ title: Recruitment
 permalink: /recruitment/
 ---
 
-Welcome to our recruitment page for 2022/2023! You can find a timeline of our important deadlines and application forms here.  
+Welcome to our recruitment page for 2023/2024! You can find a timeline of our important deadlines and application forms here.  
 
 Envision welcomes everyone to apply to our teams: ChemECar, BioT, and Green Joule. We are excited to have you on our team whether you have previous experience or are looking to gain new hands-on skills. For more detailed information about the teams and available positions, see below and explore the projects section!
 
@@ -29,7 +29,7 @@ Meeting ID: 644 2559 4639<br>
 Passcode: 166026<br>
 </p>
 -->
-The applications for the 2022/2023 year are currently closed! Check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! Feel free to explore Envision and its projects, or email us at [contact@ubcenvision.com](mailto:contact@ubcenvision.com) for any enquiries.
+The applications for the 2023/2024 year are currently open! Check our Facebook page and leave a like for updates on projects, member activities and future registrations dates! Feel free to explore Envision and its projects, or email us at [contact@ubcenvision.com](mailto:contact@ubcenvision.com) for any enquiries.
 
 
 <!--
@@ -129,6 +129,12 @@ Click [here](https://www.aiche.org/community/membership/benefits) to learn more 
 	<li><a href="https://www.aiche.org/community/membership" class="button medium wide">JOIN AIChE</a></li>
 </ul>
 
+Join Envision's Admin team! We are hiring for a Marketing Manager, who will be responsible for managing our website and social media handles! We encourage students from any program and experience level to apply!
+
+<ul class="actions">
+	<li><a href="https://docs.google.com/forms/d/e/1FAIpQLScKv5OydiXRO3zdIxerQphBCjFc6J3MujU3ilfmxhSFiOZCgQ/viewform" class="button medium wide">APPLY HERE</a></li>
+</ul>
+
 <br>
 
 ## Check out an Envision Project
@@ -142,14 +148,12 @@ Click [here](https://www.aiche.org/community/membership/benefits) to learn more 
 
 Click [here](/chemecar/) to learn more about _Chem-E-Car_!
 
-<!--
-  We are currently accepting applications for all sub-teams from August 22nd to September 14th 2020. 
+  We are currently accepting applications until September 10th 2023. 
   Contact [chemecar@ubcenvision.com](mailto:chemecar@ubcenvision.com) if you have any questions!
 
 <ul class="actions">
-	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_cvvfQmfCvT5aJdX" class="button medium wide">APPLY TO CHEM-E-CAR</a></li>
+	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_8w95fndKUw4TI0e" class="button medium wide">APPLY TO CHEM-E-CAR</a></li>
 </ul>
--->
 
 <!--AgroBot-->
 <!--
@@ -173,14 +177,13 @@ Click [here](http://www.ubcenvision.com/agrobot/) to learn more about _AgroBot_!
 
 Click [here](/beer/) to learn more about _BIoT_!
 
-<!--
-  We are now accepting applications for all sub-teams from August 25th to September 14th 2020.
+  We are now accepting applications until September 10th 2023.
   If you have any questions about recruiting, or want to talk about beer, feel free to contact [biot@ubcenvision.com](mailto:biot@ubcenvision.com).
 
 <ul class="actions">
-	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_e4e3qHw9IaUYraZ" class="button medium wide">APPLY TO BIOT</a></li>
+	<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSew5TFiHQdRllBka5tkNEAMx9inPfLaRCivG6-xb3UU82pKaA/viewform" class="button medium wide">APPLY TO BIOT</a></li>
 </ul>
--->
+
 
 <a name="GreenJoule"></a>
 <div align="center"><img src= "/assets/images/recruitment/greenjoule.png" alt="greenjoulelogo" width= "20%" left = "50%" height= "auto"></div>
@@ -189,18 +192,9 @@ Click [here](/beer/) to learn more about _BIoT_!
 
 Click [here](/greenjoule/) to learn more about _Green Joule_!
 
-<!--
-  We are now accepting applications from September 1st to September 14th 2020.
+  We are now accepting applications until September 17th 2023.
   If you have any questions about recruiting, feel free to contact [greenjoule@ubcenvision.com](mailto:greenjoule@ubcenvision.com).
 
 <ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_2hj52S3Wbl9ztc1" class="button medium wide">APPLY TO GREEN JOULE</a></li>
 </ul>
--->
-
-<!--<a name="CRIT"></a>
-<div align="center"><img src="/assets/images/CosmeticProjectLogo1.png" alt="critlogo" width="20%" height="auto"></div>
- 
-  UBC CRIT (Cosmetic Research and Innovation Team) will be researching Vitamin C and its stability and hopefully presenting at the UBC Multidisciplinary Undergraduate Research Conference. Join 2 skincare-obsessed co-captains and pick up some tips on how to take care of your largest organ
-
-Click [here](/CRIT/) to learn more about _CRIT_!-->
