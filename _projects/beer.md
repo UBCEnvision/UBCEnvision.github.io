@@ -8,7 +8,7 @@ permalink: /beer/
 headline: We have moved!
 description: Please check out our new website at https://ubcbiot.com/  
 box: >
-    [ubcbiot.com](https://ubcbiot.com/)
+    https://ubcbiot.com/
 ---
 <!--
 # 2022/2023 Recruitment
