@@ -1,13 +1,13 @@
 ---
 layout: project
 project: BioT
-title: Brewing Internet of Things (BIoT)
+title: Biological Internet of Things (BIoT)
 image: /assets/images/BeerChemistry.jpg
 permalink: /beer/
 
-headline: Automated Brewing
-description: Do you enjoy beer? What about process control, thermodynamics and kinetic modelling? Controlling this biological process to achieve the desired beer characteristics is challenging to this day. Large breweries have access to sophisticated devices for process control, but what about homebrewers and craft breweries who can’t spend hundreds of thousands of dollars on high-end equipment? The Brewing Internet of Things (BIoT) aims to design and implement low-cost data monitoring and develop innovative techniques to brew novel, high-quality beers through various projects.  
-box: >
+headline: We have moved!
+description: Please check out our new website at [ubcbiot.com](https://ubcbiot.com/)!  
+<!-- box: >
     BIoT is a chemical and biological engineering design team encompassed by the student organization UBC Envision. The projects are based on the idea of ‘The Internet of Things’, and aims to develop craft brewing technologies to create an automated brewing system with the ability to monitor and control process variables such as temperature, acidity, gravity and possibly more in real-time. The team also pays attention to engineering multidisciplinary student development through practical applications while creating a meaningful and relevant product. The team will conduct the brewing process, collect data in the fermentation phase, provide quality control on the finished product, as well as analyze and model the data using an online web server. The students are able to apply what they learned in their classes, work on their teamwork skills while preparing their technical skills for industry.
     
     BioT’s short term goals are to develop our members' knowledge on the brewing world and establish an appreciation of how directly the brewing process relates to concepts learned in class. Our long term goals are to implement a small scale brewing laboratory that can operate autonomously and allow for simple, low cost data collection on an 'internet of things' basis. This data collection is going to be used to develop models and data clusters, to establish consistency within brew quality and eventually create and incorporate new brewing technologies into our bench scale setup. 
@@ -15,7 +15,9 @@ box: >
     Through various projects, BioT’s long-goal is to optimize brewing processes for brewing technologies, to design and implement low-cost data monitoring, and in time, to have our research and technology introduced and applied to actual breweries to brew the perfect beer. The sub-team's learning goals will differ throughout the teams,although all sub-teams are working towards the same short and long term goals.  
 
 ---
+-->
 
+<!--
 # 2022/2023 Recruitment
 
 
@@ -27,7 +29,8 @@ Please feel free to follow us on [Instagram](https://www.instagram.com/ubcbiot/)
 <ul class="actions">
 	<li><a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_e4e3qHw9IaUYraZ" class="button medium wide">APPLY HERE</a></li>
 </ul>
--->
+
+
 # Subteams
 
 ## Brewing Team
@@ -71,3 +74,4 @@ Please feel free to contact us if you have any questions or have chat about beer
 Email: biot@ubcenvision.com
 Instagram: [UBC BioT (@ubcbiot)](https://www.instagram.com/ubcbiot/)
 Facebook: [UBC BioT | Facebook](https://www.facebook.com/biotubcc/)
+-->
