@@ -6,8 +6,8 @@ image: /assets/images/BeerChemistry.jpg
 permalink: /beer/
 
 headline: We have moved!
-description: Please check out our new website at [ubcbiot.com](https://ubcbiot.com/)  
-box: >
+description: Please check out our new website at https://ubcbiot.com/  
+box: > [ubcbiot.com](https://ubcbiot.com/)
 
 
 ---
@@ -62,10 +62,13 @@ The lab teams aims to capitalize the by-project of the Kombucha brewing process 
 ### Genetic Modification of Bacteria: Glow-in-the-dark Kombucha.
 ### Scoby Utilization as a sustainable material in food packaging.
 ### Variable Measurement: IBU and SRM.
+-->
 
+<!--
 # Contact Us 
 Please feel free to contact us if you have any questions or have chat about beer
 
 Email: biot@ubcenvision.com
 Instagram: [UBC BioT (@ubcbiot)](https://www.instagram.com/ubcbiot/)
 Facebook: [UBC BioT | Facebook](https://www.facebook.com/biotubcc/)
+-->
