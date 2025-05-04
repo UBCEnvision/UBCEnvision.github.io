@@ -51,7 +51,6 @@ Zoom: [https://us02web.zoom.us/j/82537346772?pwd=dWhRWmkyTlVjTlEvaFQ1YnAvRVFNUT0
 Meeting ID: 825 3734 6772  
 Passcode: 101179  
 Room Location: CHBE 102
--->
 
 <!--
 ## Recruitment Timeline
